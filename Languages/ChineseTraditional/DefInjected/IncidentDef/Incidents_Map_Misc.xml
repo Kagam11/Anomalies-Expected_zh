@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: ordinary bed -->
+	<AE_IncidentDef_AnomalyBedSpawn.label>普通的床</AE_IncidentDef_AnomalyBedSpawn.label>
+    <!-- EN: Found ordinary bed -->
+	<AE_IncidentDef_AnomalyBedSpawn.letterLabel>發現普通的床</AE_IncidentDef_AnomalyBedSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ordinary bed, but with frame made of organic metal. It looks very comfortable to sleep on. -->
+	<AE_IncidentDef_AnomalyBedSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一張普通的床，但床架是用有機金屬製成的。看起來睡在上面非常舒服。</AE_IncidentDef_AnomalyBedSpawn.letterText>
+
+    <!-- EN: ordinary hospital bed -->
+	<AE_IncidentDef_AnomalyHospitalBedSpawn.label>普通的醫療床</AE_IncidentDef_AnomalyHospitalBedSpawn.label>
+    <!-- EN: Found ordinary hospital bed -->
+	<AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>發現普通的醫療床</AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ordinary bed specially designed for use in hospitals, but with frame made of organic metal. Medical clipboard lying on the bed with some text written on it. -->
+	<AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一張醫療專用的床，但床架是用有機金屬製成的。病床上放著醫療夾板，上面寫著一些文字。</AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>
+
+    <!-- EN: giant apple -->
+	<AE_IncidentDef_ForbiddenFruitSpawn.label>巨大蘋果</AE_IncidentDef_ForbiddenFruitSpawn.label>
+    <!-- EN: Found giant apple -->
+	<AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>發現巨大蘋果</AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a quite giant apple. -->
+	<AE_IncidentDef_ForbiddenFruitSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個非常巨大的蘋果。</AE_IncidentDef_ForbiddenFruitSpawn.letterText>
+
+    <!-- EN: industrial metal box -->
+    <AE_IncidentDef_MeatGrinderSpawn.label>工業金屬箱</AE_IncidentDef_MeatGrinderSpawn.label>
+    <!-- EN: Found industrial metal box -->
+	<AE_IncidentDef_MeatGrinderSpawn.letterLabel>發現工業金屬箱</AE_IncidentDef_MeatGrinderSpawn.letterLabel>
+	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
+    <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個形同一張桌子般高度的金屬箱體，外觀類似工業製品。光滑的表面兩側有幾扇小門，頂部有一個大洞，裡面藏著刀片。孔旁邊有一個按鈕，暗示著一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
+    
+    <!-- EN: transmitter -->
+    <AE_IncidentDef_BeamTargetSpawn.label>發信器</AE_IncidentDef_BeamTargetSpawn.label>
+    <!-- EN: Found transmitter -->
+	<AE_IncidentDef_BeamTargetSpawn.letterLabel>發現發信器</AE_IncidentDef_BeamTargetSpawn.letterLabel>
+	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a small device with pneumatic retractable stops. On its body there are indicators with lights, an antenna and a small button. It looks like military grade. -->
+    <AE_IncidentDef_BeamTargetSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個帶有氣動縮回固定裝置的小型裝置，機身上有指示器、天線、燈和一個小型按鈕，看上去是軍用級的。</AE_IncidentDef_BeamTargetSpawn.letterText>
+
+    <!--#endregion-->
+
+
+    <!--#region Anomalies Expected Addon-->
+    
+    <!-- EN: Razor shard -->
+    <AE_IncidentDef_RazorShardSpawn.label>刀鋒碎片</AE_IncidentDef_RazorShardSpawn.label>
+    <!-- EN: Found razor shard -->
+	<AE_IncidentDef_RazorShardSpawn.letterLabel>發現刀鋒碎片</AE_IncidentDef_RazorShardSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a shard of archotechnology, although clearly distinct from others. -->
+	<AE_IncidentDef_RazorShardSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一塊超凡智慧的碎片，但明顯和其他碎片不同。</AE_IncidentDef_RazorShardSpawn.letterText>
+    
+    <!-- EN: Anomalous watch -->
+	<AE_IncidentDef_ClockSpawn.label>異常懷錶</AE_IncidentDef_ClockSpawn.label>
+    <!-- EN: Found anomalous watch -->
+	<AE_IncidentDef_ClockSpawn.letterLabel>發現異常懷錶</AE_IncidentDef_ClockSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an old pocket watch -->
+	<AE_IncidentDef_ClockSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一箇舊懷錶。</AE_IncidentDef_ClockSpawn.letterText>
+	
+    <!-- EN: The Key -->
+	<AE_IncidentDef_KeySpawn.label>洞啟之鑰</AE_IncidentDef_KeySpawn.label>
+    <!-- EN: Found the key -->
+	<AE_IncidentDef_KeySpawn.letterLabel>發現洞啟之鑰</AE_IncidentDef_KeySpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to resemble a key -->
+	<AE_IncidentDef_KeySpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個鑰匙。</AE_IncidentDef_KeySpawn.letterText>
+	
+    <!-- EN: The puzzle -->
+	<AE_IncidentDef_PuzzleSpawn.label>神秘裝置</AE_IncidentDef_PuzzleSpawn.label>
+    <!-- EN: Found the puzzle -->
+	<AE_IncidentDef_PuzzleSpawn.letterLabel>發現神秘裝置</AE_IncidentDef_PuzzleSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be a strange contraption -->
+	<AE_IncidentDef_PuzzleSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個古怪裝置。</AE_IncidentDef_PuzzleSpawn.letterText>
+
+    <!-- EN: Strange device -->
+	<AE_IncidentDef_SubcoreSpawn.label>奇怪裝置</AE_IncidentDef_SubcoreSpawn.label>
+    <!-- EN: Strange device -->
+	<AE_IncidentDef_SubcoreSpawn.letterLabel>發現奇怪裝置</AE_IncidentDef_SubcoreSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of a device -->
+	<AE_IncidentDef_SubcoreSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是某種裝置。</AE_IncidentDef_SubcoreSpawn.letterText>
+
+    <!-- EN: Clay figure -->
+    <AE_IncidentDef_ReplicatorSpawn.label>粘土人偶</AE_IncidentDef_ReplicatorSpawn.label>
+    <!-- EN: Found clay figure -->
+	<AE_IncidentDef_ReplicatorSpawn.letterLabel>发现粘土人偶</AE_IncidentDef_ReplicatorSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of clay figure -->
+	<AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
+
+    <!-- EN: big pie -->
+	<AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
+    <!-- EN: Found big pie -->
+	<AE_IncidentDef_BakingPiesSpawn.letterLabel>發現巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
+	<AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是某種裝在盤子上的巨大圓形派。看起來令人開胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
+
+    <!-- EN: Strange pebble -->
+    <AE_IncidentDef_PebbleSpawn.label>奇異卵石</AE_IncidentDef_PebbleSpawn.label>
+    <!-- EN: Found strange pebble -->
+	<AE_IncidentDef_PebbleSpawn.letterLabel>發現奇異卵石</AE_IncidentDef_PebbleSpawn.letterLabel>
+	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some strange pebble -->
+    <AE_IncidentDef_PebbleSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一種奇怪的卵石。</AE_IncidentDef_PebbleSpawn.letterText>
+
+    <!--#endregion-->
+</LanguageData>

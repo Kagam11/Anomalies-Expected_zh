@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Void shock coma -->
+	<Hediff_AE_Pebble.label>虛空衝擊昏迷</Hediff_AE_Pebble.label>
+    <!-- EN: The anomaly has lodged itself into the brain of this pawn, which has put him into a coma but ultimately left the brain untouched -->
+	<Hediff_AE_Pebble.description>異常物體已經嵌入這個個體的腦中，導致其陷入昏迷狀態，但最終大腦未受到任何損害。</Hediff_AE_Pebble.description>
+    <!-- EN: Void shock coma -->
+	<Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterLabel>虛空衝擊昏迷</Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <!--
+        EN: While investigating the pebble anomaly, it seems to have activated in the process and launched itself at the speed of a bullet right into the subject's head, after which it healed the wound and lodged itself into the brain. \nThe subject seems to be still alive, although in a coma, so the only thing we have left is waiting for them to recover
+    -->
+	<Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>在調查異常卵石期間似乎意外將其啟用，並以子彈的速度直接射入實驗對象的頭部，之後它治癒了傷口並嵌入了大腦中。\n儘管處於昏迷狀態，對象似乎仍然存活，所以我們現在能做的只有等待他們恢復。</Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>
+	
+    <!-- EN: Void shock sideeffects -->
+	<Hediff_AE_PebbleSecond.label>虛空衝擊副作用</Hediff_AE_PebbleSecond.label>
+    <!-- EN: The anomaly in the subject's brain seems to have disabled all of the person's feelings, although they seem to be recovering from this state -->
+	<Hediff_AE_PebbleSecond.description>嵌入大腦中的異常似乎已經使此人失去了一切知覺，儘管他們似乎正在從這種狀態中恢復。</Hediff_AE_PebbleSecond.description>
+    <!-- EN: #1/? Void shock sideeffects study report -->
+	<Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterLabel>#1/? 虛空衝擊副作用研究報告</Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <!--
+        EN: Study of the void shock #1\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations of the Subject {PAWN_nameDef} while under the influence of the pebble anomaly. After some time the subject recovered the ability to talk and seems to be conscious, although still lacking their ability to see and hear. After two days of complete lack of stimulation, the subject seems to have developed problems with their reasoning. Even though they can't hear themselves, they still seem to be talking about something. The words are still unintelligible, but subject's condition seems to be getting better, and soon we would be able to extract some valuable information about the pawn's experience.\n\nObservations:\n{PAWN_nameDef} Has lost all of their senses due to shock, but is recovering.\nThe subject has recovered their ability to talk, although only slightly.\n\nFindings:\nThe subject seems to be recovering, so new information could be extracted later.\n\nDiscussion:\nAlthough the pawn seems to be in an altered state of mind, they are not posing any danger to us.\n\nRecommendations:\nWait for the subject's recovery
+    -->
+	<Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>關於虛空衝擊的研究 #1\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告詳細記錄了對象{PAWN_nameDef}在卵石異常影響下的觀察結果。一段時間後，儘管仍然無法看見和聽見，對象恢復了說話的能力，並且似乎恢復了意識。在兩天完全缺乏刺激的情況下，對象似乎出現了推理問題。儘管他們無法聽到自己的聲音，但他們仍然在談論某些事情。他們的話語仍然難以理解，但實驗對象的狀況似乎正在好轉，我們很快就能提取出一些關於對象經歷的寶貴資訊。\n\n現象：\n{PAWN_nameDef}由於衝擊失去了所有知覺，但正在恢復。\n對象已經恢復了一些說話的能力，儘管程度非常輕微。\n\n結果：\n對象似乎正在恢復，因此可以期待未來能提取到新的資訊。\n\n討論：\n儘管對象的精神狀態似乎已被改變，但他們對我們不構成任何危險。\n\n建議：\n等待對象恢復</Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>
+	
+    <!-- EN: Void-powered feelings -->
+	<Hediff_AE_PebbleThird.label>虛空覺知</Hediff_AE_PebbleThird.label>
+    <!-- EN: The anomaly in the subject's brain seems to have disabled all of the person's physical feelings and replaced them with psychic awareness -->
+	<Hediff_AE_PebbleThird.description>嵌入大腦中的異常似乎已經禁用了此人的所有物理感官，並用精神感知取代了它們。</Hediff_AE_PebbleThird.description>
+    <!-- EN: #2/? Void shock sideeffects study report -->
+	<Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterLabel>#2/? 虛空衝擊副作用研究報告</Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterLabel>
+	<!--
+        EN: Study of the void shock #2\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations of the Subject {PAWN_nameDef} while under the influence of the pebble anomaly. The pawn has fully recovered their senses, however they became altered. It seems that they no longer use their organs to feel, but rather get information directly into the brain via psychic phenomena, to which they have developed a stronger connection, probably due to pebble's influence. What is more interesting, however, is the experience the pawn has gone through. While we saw the subject's condition as a coma, what they felt was more like an astral projection. They tell us of a world completely different to us - an endless, void-like ocean and black metallic spires going from every direction to every direction. The pawn still has some form of connection to that world, which might allow us to research it as well and maybe even influence it somehow.\n\nObservations:\n{PAWN_nameDef} Has recovered all of their senses via psychic phenomena.\nWhile in a coma, the subject experienced what they describe as "Another dimension". \nThe pawn is still connected to that dimension.\n\nFindings:\nThe pebble seems to have connected the pawn to a void dimension.\n\nDiscussion:\nThe connection gives numerous possibilites, but we don't know if it poses a danger or not, however for now the anomaly associated with the pebble and the void shock can be classified as Class-0 (Safe).\n\nRecommendations:\nResearch further
+    -->
+    <Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>關於虛空衝擊的研究 #2\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告詳細記錄了實驗對象{PAWN_nameDef}在異常卵石影響下的觀察結果。對象已經完全恢復了感官，但它們似乎發生了改變。似乎對象不再使用器官來感受環境，而是透過心靈能力直接將資訊輸入大腦，這可能是因為卵石的影響而與他們的聯絡變得更加強烈。更有趣的是對象的經歷。雖然我們看到對象的狀態類似於昏迷，但對象所感覺到的更像是一種精神投射。他告訴我們一個與我們完全不同的世界——一個無盡的、虛空般的海洋和各個方向無邊無際的黑色金屬尖塔。對象仍然與那個世界保持著某種聯絡，這可能允許我們研究它，甚至以某種方式影響它。\n\n現象：\n{PAWN_nameDef} 透過靈能恢復了所有感官。\n在昏迷期間，對象經歷了他們描述為“另一個維度”的經歷。\n對象仍與那個維度相連線。\n\n結果：\n卵石似乎將對象與另一個虛空維度建立了連線。\n\n討論：\n這種連線提供了許多可能性，但我們不知道它是否構成危險。然而就目前而言，與卵石和虛空衝擊相關的異常可以被分類為 0 級（安全）異常。\n\n建議：\n進一步研究。</Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>
+	
+    <!-- EN: Void-powered feelings -->
+	<Hediff_AE_PebbleFourth.label>虛空覺知</Hediff_AE_PebbleFourth.label>
+    <!-- EN: The anomaly in the subject's brain seems to have disabled all of the person's physical feelings and replaced them with psychic awareness -->
+	<Hediff_AE_PebbleFourth.description>嵌入大腦中的異常似乎已經禁用了此人的所有物理感官，並用精神感知取代了它們。</Hediff_AE_PebbleFourth.description>
+    <!-- EN: #3/? Void shock sideeffects study report -->
+	<Hediff_AE_PebbleFourth.comps.HediffComp_Discoverable.discoverLetterLabel>#3/? 虛空衝擊副作用研究報告</Hediff_AE_PebbleFourth.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <!--
+        EN: Study of the void dimension\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details further observations of the Subject {PAWN_nameDef} while under the influence of the pebble anomaly. The pawn's sensitivity to psychic phenomena has greatly increased following the previous observation, which has also sharpened their senses to greater levels. The void dimension was also investigated further, as the pawn has retained it's abilities to traverse the void in their mind. The size of the place is staggering, it is as if the subject was in outer space, however they were still able to see some notable structures. The subject has also been able to materialise some small portions of the void dimension into our world, although the samples were of no use. Considering that this ability allows us to bring entire void structures into our realm if developed further, we might be able to gather invaluable knowledge about the origin of the void entities and their archotech master.\n\nObservations:\n{PAWN_nameDef} was able to traverse the void and found notable structures.\nThe subject was able to materialise a portion of the void. \n\nFindings:\nIf sufficiently developed, subject's abilities would allow us to materialise an entire void structure.\n\nDiscussion:\nEven though the materialised structure should hold priceless knowledge, we can't guarantee safety of our colonists in such an event.\n\nRecommendations:\nExploit this ability with caution
+    -->
+	<Hediff_AE_PebbleFourth.comps.HediffComp_Discoverable.discoverLetterText>關於虛空維度的研究\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告詳細記錄了對象{PAWN_nameDef}在異常卵石影響下的進一步觀察。對象對心靈現象的敏感性與之前的觀察相比大大增加，這也提高了他們的感官水平。由於對象保留了在精神上上穿越虛空的能力，虛空維度也得到了進一步的調查。這個地方的大小令人震驚，它就像是在外太空，然而對象仍然能夠看到一些顯著的結構。對象還能夠在我們的世界中物質化虛空維度的一些小部分，儘管這些樣本沒有用處。考慮到這種能力，如果進一步發展，我們可能能夠將整個虛空結構帶入我們的領域，並且可能可以獲得關於虛空實體及其超凡科技主人的無價知識。\n\n現象：\n{PAWN_nameDef}能夠穿越至虛空維度並且看見巨大的結構。\n對象獲得了將部分虛空結構在本維度物質化的能力。\n\n結果：\n如果得到充分開發，對象的能力將允許我們物質化整個虛空結構。\n\n討論：\n儘管物質化的虛空結構可能包含無價的知識，但我們不能保證在這種事件中保證我們殖民者的安全。\n\n建議：\n謹慎使用這種能力。</Hediff_AE_PebbleFourth.comps.HediffComp_Discoverable.discoverLetterText>
+	
+    <!-- EN: Void-powered feelings -->
+	<Hediff_AE_PebbleFifth.label>虛空覺知</Hediff_AE_PebbleFifth.label>
+    <!-- EN: The anomaly in the subject's brain seems to have disabled all of the person's physical feelings and replaced them with psychic awareness -->
+	<Hediff_AE_PebbleFifth.description>嵌入大腦中的異常似乎已經禁用了此人的所有物理感官，並用精神感知取代了它們。</Hediff_AE_PebbleFifth.description>
+    <!-- EN: Void structure found -->
+	<Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterLabel>發現虛空結構</Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <!--
+        EN: While traversing through the void, {PAWN_nameDef} has observed an active void structure. \n\nTheir abilities allow us to materialise it into our world, however this action may be dangerous, as the structure clearly has ways to defend itself. \n\nIf we want to research it, we would first need to neutralize it
+    -->
+	<Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>在穿越虛空的過程中，{PAWN_nameDef}觀察到了一個活躍的虛空結構。\n\n對象的能力允許我們將它物質化到我們的世界，然而這種行為可能存在危險，因為這個結構顯然具有有自我保護的特性。\n\n如果我們想要研究它，就首先需要使其無害化。</Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>
+	
+    <!-- EN: Void-powered feelings -->
+	<Hediff_AE_PebbleSixth.label>虛空覺知</Hediff_AE_PebbleSixth.label>
+    <!-- EN: The anomaly in the subject's brain seems to have disabled all of the person's physical feelings and replaced them with psychic awareness -->
+	<Hediff_AE_PebbleSixth.description>嵌入大腦中的異常似乎已經禁用了此人的所有物理感官，並用精神感知取代了它們。</Hediff_AE_PebbleSixth.description>
+
+    <!--#endregion-->
+</LanguageData>

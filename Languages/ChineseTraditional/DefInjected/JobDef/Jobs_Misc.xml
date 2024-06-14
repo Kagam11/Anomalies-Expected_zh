@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: pressing button. -->
+	<AE_CalledMeatGrinder.reportString>按按鈕</AE_CalledMeatGrinder.reportString>
+
+    <!--#endregion-->
+</LanguageData>

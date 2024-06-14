@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!--EN:Cautious of overstepping boundaries-->
+	<Thought_AEForbiddenFruit.stages.3.label>謹防越界</Thought_AEForbiddenFruit.stages.3.label>
+    <!--EN:Yearning for enlightenment, yet cautious not to overstep their bounds.-->
+	<Thought_AEForbiddenFruit.stages.3.description>渴望啓悟，但又小心翼翼，不敢跨越邊界。</Thought_AEForbiddenFruit.stages.3.description>
+    <!--EN:Fearing the wrath-->
+	<Thought_AEForbiddenFruit.stages.4.label>畏懼憤怒</Thought_AEForbiddenFruit.stages.4.label>
+    <!--EN:Fearing the wrath of the divine for seeking knowledge not meant for mortals.-->
+	<Thought_AEForbiddenFruit.stages.4.description>害怕因尋求不屬於凡人的知識而遭天譴。</Thought_AEForbiddenFruit.stages.4.description>
+    <!--EN:The Hour of Judgment-->
+	<Thought_AEForbiddenFruit.stages.5.label>審判時刻</Thought_AEForbiddenFruit.stages.5.label>
+    <!--EN:Pleading for forgiveness for tasting the Forbidden Fruit.-->
+	<Thought_AEForbiddenFruit.stages.5.description>爲品嚐禁果懇求寬恕</Thought_AEForbiddenFruit.stages.5.description>
+
+    <!--#endregion-->
+</LanguageData>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: sleep enhancer serum -->
+	<AESleepEnhancerSerum.label>睡眠增强血清</AESleepEnhancerSerum.label>
+    <!-- EN: Synthesize a serum that stabilizes a person's rest efficiency. -->
+	<AESleepEnhancerSerum.description>合成一种增强休息效率的血清。</AESleepEnhancerSerum.description>
+    <!-- EN: subject->sleep enhancer serum -->
+	<AESleepEnhancerSerum.generalRules.rulesStrings.0>subject->睡眠增强血清</AESleepEnhancerSerum.generalRules.rulesStrings.0>
+    <!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+	<AESleepEnhancerSerum.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AESleepEnhancerSerum.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AESleepEnhancerSerum.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AESleepEnhancerSerum.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AESleepEnhancerSerum.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AESleepEnhancerSerum.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AESleepEnhancerSerum.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AESleepEnhancerSerum.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AESleepEnhancerSerum.generalRules.rulesStrings.5>subject_gerund->合成睡眠增强血清</AESleepEnhancerSerum.generalRules.rulesStrings.5>
+
+    <!-- EN: regen serum -->
+    <AERegenSerum.label>再生血清</AERegenSerum.label>
+    <!-- EN: Synthesize a serum that increase the body's healing factor. -->
+	<AERegenSerum.description>合成一种增强愈合系数的血清。</AERegenSerum.description>
+    <!-- EN: subject->regen serum -->
+	<AERegenSerum.generalRules.rulesStrings.0>subject->再生血清</AERegenSerum.generalRules.rulesStrings.0>
+    <!-- EN: subject_story->everything is healing like a dog's -->
+	<AERegenSerum.generalRules.rulesStrings.1>subject_story->浑身都在愈合，稳如老狗</AERegenSerum.generalRules.rulesStrings.1>
+    <!-- EN: subject_story->never stays long in the hospital -->
+	<AERegenSerum.generalRules.rulesStrings.2>subject_story->从来不在医院久留</AERegenSerum.generalRules.rulesStrings.2>
+    <!-- EN: subject_story->used to be the designated punching bag for mech training -->
+	<AERegenSerum.generalRules.rulesStrings.3>subject_story->曾是机械族训练的指定沙包</AERegenSerum.generalRules.rulesStrings.3>
+    <!-- EN: subject_story->was able to regenerate muscles, nerves, and skin, from just the remaining bone of an arm -->
+	<AERegenSerum.generalRules.rulesStrings.4>subject_story->手臂就算只剩骨头也能长回来</AERegenSerum.generalRules.rulesStrings.4>
+    <!-- EN: subject_gerund->synthesizing regen serums -->
+	<AERegenSerum.generalRules.rulesStrings.5>subject_gerund->合成再生血清</AERegenSerum.generalRules.rulesStrings.5>
+
+    <!-- EN: giant apple inhibitor serum -->
+    <AEFruitInhibitorSerum.label>禁果抑制血清</AEFruitInhibitorSerum.label>
+    <!-- EN: Synthesize a serum that removes the effect given by the Giant Apple. -->
+	<AEFruitInhibitorSerum.description>合成一种消除禁果影响的血清</AEFruitInhibitorSerum.description>
+    <!-- EN: subject->giant apple inhibitor serum -->
+	<AEFruitInhibitorSerum.generalRules.rulesStrings.0>subject->禁果抑制血清</AEFruitInhibitorSerum.generalRules.rulesStrings.0>
+    <!-- EN: subject_story->no longer afraid of giant apple -->
+	<AEFruitInhibitorSerum.generalRules.rulesStrings.1>subject_story->不再害怕禁果</AEFruitInhibitorSerum.generalRules.rulesStrings.1>
+    <!-- EN: subject_gerund->synthesizing giant apple inhibitor serums -->
+	<AEFruitInhibitorSerum.generalRules.rulesStrings.2>subject_gerund->正合成禁果抑制血清</AEFruitInhibitorSerum.generalRules.rulesStrings.2>
+
+    <!-- EN: grinder stomach -->
+	<AEGrinderStomach.label>绞磨胃</AEGrinderStomach.label>
+    <!-- EN: Produce grinder stomach, which replicate Meat Grinder structure. -->
+	<AEGrinderStomach.description>制作绞磨胃，复刻绞肉机的结构。</AEGrinderStomach.description>
+    <!-- EN: grinder stomach -->
+	<AEGrinderStomach.generalRules.rulesStrings.0>subject->绞磨胃</AEGrinderStomach.generalRules.rulesStrings.0>
+    <!-- EN: could finally win every eating challenge -->
+	<AEGrinderStomach.generalRules.rulesStrings.1>subject_story->终于能赢下所有大胃王比赛</AEGrinderStomach.generalRules.rulesStrings.1>
+    <!-- EN: won every "Worst Dinner Guest" award -->
+	<AEGrinderStomach.generalRules.rulesStrings.2>subject_story->赢得所有老八模仿大赛冠军</AEGrinderStomach.generalRules.rulesStrings.2>
+    <!-- EN: creating grinder stomach -->
+	<AEGrinderStomach.generalRules.rulesStrings.3>subject_gerund->正在制作绞磨胃</AEGrinderStomach.generalRules.rulesStrings.3>
+
+    <!-- EN: grinder jaw -->
+	<AEGrinderJaw.label>绞磨下颌</AEGrinderJaw.label>
+    <!-- EN: Produce grinder jaw, which replicate Meat Grinder structure. -->
+	<AEGrinderJaw.description>制作绞磨下颌，复刻绞肉机的结构。</AEGrinderJaw.description>
+    <!-- EN: grinder jaw -->
+	<AEGrinderJaw.generalRules.rulesStrings.0>subject->绞磨下颌</AEGrinderJaw.generalRules.rulesStrings.0>
+    <!-- EN: could literally eat anything -->
+	<AEGrinderJaw.generalRules.rulesStrings.1>subject_story->是字面上的铁齿铜牙</AEGrinderJaw.generalRules.rulesStrings.1>
+    <!-- EN: was a lifesaver on long missions... until he accidentally ate a spaceship crew -->
+	<AEGrinderJaw.generalRules.rulesStrings.2>subject_story->曾经是个星际任务的英雄... 直到他不小心吃掉了一个船员</AEGrinderJaw.generalRules.rulesStrings.2>
+    <!-- EN: could mince a steak in seconds -->
+	<AEGrinderJaw.generalRules.rulesStrings.3>subject_story->是饺子馅制作大师</AEGrinderJaw.generalRules.rulesStrings.3>
+    <!-- EN: creating grinder jaw -->
+	<AEGrinderJaw.generalRules.rulesStrings.4>subject_gerund->正在制作绞磨下颌</AEGrinderJaw.generalRules.rulesStrings.4>
+
+    <!-- EN: binging food serum -->
+	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
+    <!-- EN: Synthesize a serum that makes person pigging out on food. -->
+	<AEBingingFoodSerum.description>合成一种能够让人吃得更多的血清。</AEBingingFoodSerum.description>
+	<!-- EN: subject->binging food serum -->
+    <AEBingingFoodSerum.generalRules.rulesStrings.0>subject->暴食血清</AEBingingFoodSerum.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->ate all food in the facility -->
+    <AEBingingFoodSerum.generalRules.rulesStrings.1>subject_story->吃掉了设施内所有的食物</AEBingingFoodSerum.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->stomach rumbling could be heard for several kilometers -->
+    <AEBingingFoodSerum.generalRules.rulesStrings.2>subject_story->肚子的叫声在数公里外都能听见</AEBingingFoodSerum.generalRules.rulesStrings.2>
+	<!-- EN: subject_gerund->synthesizing binging food serums -->
+    <AEBingingFoodSerum.generalRules.rulesStrings.3>subject_gerund->正在合成暴食血清</AEBingingFoodSerum.generalRules.rulesStrings.3>
+	
+    <!-- EN: precise orbital beam targeter -->
+    <AEOrbitalBeamTargeter.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.label>
+    <!-- EN: Produce a targeting unit for a network of power-collection satellites based on understanding of transmitter anomaly. -->
+	<AEOrbitalBeamTargeter.description>根据对发信器异常的理解，制造一个针对能源收集卫星网络的瞄准单元。</AEOrbitalBeamTargeter.description>
+    <!-- EN: precise orbital beam targeter -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.0>subject->轨道光束精确靶向器</AEOrbitalBeamTargeter.generalRules.rulesStrings.0>
+    <!-- EN: the night was bright as day -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.1>subject_story->夜晚亮如白昼</AEOrbitalBeamTargeter.generalRules.rulesStrings.1>
+    <!-- EN: melted every statue in other village -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.2>subject_story->融化了附近村庄中的所有结构</AEOrbitalBeamTargeter.generalRules.rulesStrings.2>
+    <!-- EN: was able to prevent enemies from going through narrow canyon -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.3>subject_story->一夫当关，万夫莫开</AEOrbitalBeamTargeter.generalRules.rulesStrings.3>
+    <!-- EN: stole all ancient solar power -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.4>subject_story->偷走了所有的古代太阳能</AEOrbitalBeamTargeter.generalRules.rulesStrings.4>
+    <!-- EN: crafting precise orbital beam targeter -->
+	<AEOrbitalBeamTargeter.generalRules.rulesStrings.5>subject_gerund->正在制造轨道光束精确靶向器</AEOrbitalBeamTargeter.generalRules.rulesStrings.5>
+
+    <!--#endregion-->
+
+
+    <!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Resource pills -->
+    <AEResourcePillResearch.label>组织药丸</AEResourcePillResearch.label>
+    <!-- EN: Synthesize pills which negate the effects of the razor edge -->
+	<AEResourcePillResearch.description>合成一种抵挡刀锋碎片所带来影响的药丸</AEResourcePillResearch.description>
+	<!-- EN: subject->sleep enhancer serum -->
+    <AEResourcePillResearch.generalRules.rulesStrings.0>subject->组织药丸</AEResourcePillResearch.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+    <AEResourcePillResearch.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AEResourcePillResearch.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AEResourcePillResearch.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AEResourcePillResearch.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AEResourcePillResearch.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AEResourcePillResearch.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AEResourcePillResearch.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AEResourcePillResearch.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AEResourcePillResearch.generalRules.rulesStrings.5>subject_gerund->合成组织药丸</AEResourcePillResearch.generalRules.rulesStrings.5>
+	
+    <!-- EN: Bioresonators -->
+	<AEBioresonatorResearch.label>生体谐振器</AEBioresonatorResearch.label>
+    <!-- EN: Use archotechnological shards to make bioresonators -->
+	<AEBioresonatorResearch.description>使用暗黑超凡碎片合成生体谐振器</AEBioresonatorResearch.description>
+	<!-- EN: subject->sleep enhancer serum -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.0>subject->生体谐振器</AEBioresonatorResearch.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AEBioresonatorResearch.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AEBioresonatorResearch.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AEBioresonatorResearch.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AEBioresonatorResearch.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AEBioresonatorResearch.generalRules.rulesStrings.5>subject_gerund->合成生体谐振器</AEBioresonatorResearch.generalRules.rulesStrings.5>
+
+    <!-- EN: Subcore connection -->
+    <AECoreConnectionResearch.label>连接子核</AECoreConnectionResearch.label>
+    <!-- EN: Find a way to connect the subcore to a computer -->
+	<AECoreConnectionResearch.description>找到将人格子核连接到电脑的方法</AECoreConnectionResearch.description>
+	<!-- EN: subject->sleep enhancer serum -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.0>subject->生体谐振器</AECoreConnectionResearch.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AECoreConnectionResearch.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AECoreConnectionResearch.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AECoreConnectionResearch.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AECoreConnectionResearch.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AECoreConnectionResearch.generalRules.rulesStrings.5>subject_gerund->合成生体谐振器</AECoreConnectionResearch.generalRules.rulesStrings.5>
+	
+    <!-- EN: Subcore connection -->
+	<AEIonConnectionResearch.label>连接子核</AEIonConnectionResearch.label>
+    <!-- EN: Use data extracted from Ion to allow us to link ourselves with a higher being -->
+	<AEIonConnectionResearch.description>利用从 Ion 提取的数据，让我们与更高的存在建立联系</AEIonConnectionResearch.description>
+    <!-- EN: Research results -->
+	<AEIonConnectionResearch.discoveredLetterTitle>研究结果</AEIonConnectionResearch.discoveredLetterTitle>
+    <!-- EN: As we ended the research of the data given us by Ion, we came to the conclusion that whatever info it was, it's false. \nWe don't yet know why Ion purposefully misguided us, and can't know because Ion has seemingly went silent. We have also discovered that some of Ion's hidden logs mention mechanites being used by it recently, which makes us think that it's not that incapable of manipulating the world around it as it tells us -->
+	<AEIonConnectionResearch.discoveredLetterText>在我们结束对Ion提供给我们的数据的研究之后，我们得出的结论是，无论这些信息是什么，都是虚假的。\n我们还不知道Ion为何有意误导我们，并且鉴于Ion目前似乎已经沉默，我们也许永远无法知道。我们还发现了Ion的一些隐藏日志，提到它最近使用了纳米机械，这使得我们怀疑它并不像它告诉我们的那样无法操纵周围的世界。</AEIonConnectionResearch.discoveredLetterText>
+	<!-- EN: subject->sleep enhancer serum -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.0>subject->生体谐振器</AEIonConnectionResearch.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AEIonConnectionResearch.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AEIonConnectionResearch.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AEIonConnectionResearch.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AEIonConnectionResearch.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AEIonConnectionResearch.generalRules.rulesStrings.5>subject_gerund->合成生体谐振器</AEIonConnectionResearch.generalRules.rulesStrings.5>
+
+    <!-- EN: Archotech connection -->
+	<AEArchotechConnectionResearch.label>连接超凡科技</AEArchotechConnectionResearch.label>
+    <!-- EN: Study ways to use the newfound subroutine core and it's powers -->
+	<AEArchotechConnectionResearch.description>探索利用新发现的核心及其能力的方法</AEArchotechConnectionResearch.description>
+    <!-- EN: Research results -->
+	<AEArchotechConnectionResearch.discoveredLetterTitle>研究结果</AEArchotechConnectionResearch.discoveredLetterTitle>
+    <!-- EN: It seems like the data we have gathered from Ion got finally useful to us, as even though it didn't have any useful information on how to connect to an archotech directly, it gave us a lot of insight into how the being manipulates our world. \nBecause it uses autonomous creations like the subroutine or Ion to do tasks, we might try to abuse this system by using the core we salvaged earlier to manipulate it into giving us the powers just like the ones it gives to other subroutines -->
+	<AEArchotechConnectionResearch.discoveredLetterText>看起来我们从Ion那里收集的数据终于能够派上用场，尽管它没有提供任何有关如何直接连接到超凡智能的有用信息，但仍然为我们提供了许多关于这个实体如何操纵我们世界的洞察。\n因为它使用自主造物（如子程序或Ion）来执行任务，我们可以尝试利用这个系统，通过使用我们之前提取出的核心来操纵它，让它像给其他子程序一样给我们力量。</AEArchotechConnectionResearch.discoveredLetterText>
+	<!-- EN: subject->sleep enhancer serum -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.0>subject->生体谐振器</AEArchotechConnectionResearch.generalRules.rulesStrings.0>
+	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.1>subject_story->太长时间没有睡觉，因工作效率太高而被解雇</AEArchotechConnectionResearch.generalRules.rulesStrings.1>
+	<!-- EN: subject_story->was accused of inventing insomnia -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.2>subject_story->被指控发明了失眠症</AEArchotechConnectionResearch.generalRules.rulesStrings.2>
+	<!-- EN: subject_story->could no longer make excuses due to oversleeping -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.3>subject_story->不能再为睡过头找借口了</AEArchotechConnectionResearch.generalRules.rulesStrings.3>
+	<!-- EN: subject_story->started to live 10% more -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.4>subject_story->拥有了额外的10%生命</AEArchotechConnectionResearch.generalRules.rulesStrings.4>
+	<!-- EN: subject_gerund->synthesizing sleep enhancer serums -->
+    <AEArchotechConnectionResearch.generalRules.rulesStrings.5>subject_gerund->合成生体谐振器</AEArchotechConnectionResearch.generalRules.rulesStrings.5>
+
+    <!--#endregion-->
+</LanguageData>

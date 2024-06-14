@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: grinder stomach -->
+	<AEGrinderStomach.label>绞磨胃</AEGrinderStomach.label>
+    <!-- EN: An installed anomalous artificial stomach, which replicate Meat Grinder structure. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
+	<AEGrinderStomach.description>一个已安装好的异常人造胃，复刻了绞肉机的结构。内部的刀片能将任何外来有机物磨碎，形成营养源。拥有它的人几乎不会食物中毒，对某些胃病也有免疫力。为了维持自身的生存，它会从宿主身上吸取更多的营养。这种有机金属具有自愈能力，能自行修复损伤。它在多个方面大大超越了生物体。</AEGrinderStomach.description>
+    <!-- EN: a grinder stomach -->
+	<AEGrinderStomach.labelNoun>一个绞磨胃</AEGrinderStomach.labelNoun>
+	
+    <!-- EN: grinder jaw -->
+	<AEGrinderJaw.label>绞磨下颌</AEGrinderJaw.label>
+    <!-- EN: An installed anomalous artificial jaw, which replicate Meat Grinder structure. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
+	<AEGrinderJaw.description>一个已安装好的异常人工下颚，复刻了绞肉机的结构。内部具有锋利的旋转刀片，可将任何食物粉碎成易消化的浆液，从而大大加快进食速度。它的巨大威力甚至能咬断活人的四肢。强烈的震动会使宿主感到疼痛。矛盾的是，下颚还能增强使用者的声音，使其更加舒缓。这种有机金属具有自愈功能，能自行修复损伤。它在多个方面大大超越了生物体。</AEGrinderJaw.description>
+    <!-- EN: a grinder jaw -->
+	<AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>绞磨下颌</AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>
+    <!-- EN: a grinder jaw -->
+	<AEGrinderJaw.labelNoun>一个绞磨下颌</AEGrinderJaw.labelNoun>
+
+    <!--#endregion-->
+</LanguageData>

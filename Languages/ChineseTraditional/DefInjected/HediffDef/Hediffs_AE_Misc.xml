@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: fatigue -->
+	<Hediff_AEFatigue.label>疲勞</Hediff_AEFatigue.label>
+    <!-- EN: The body feels heavy and requires additional rest. -->
+	<Hediff_AEFatigue.description>身體昏沉，需要額外的休息</Hediff_AEFatigue.description>
+
+    <!-- EN: fruit's effects -->
+    <Hediff_AEForbiddenFruit.label>蘋果效應</Hediff_AEForbiddenFruit.label>
+    <!-- EN: The effects the fruit had on the body.\nIt appears to have made the host's thoughts sharper, making it more wise. -->
+	<Hediff_AEForbiddenFruit.description>果實對身體產生影響。\n它似乎讓宿主的思想更加敏銳，令其更加睿智。</Hediff_AEForbiddenFruit.description>
+    <!-- EN: Seeking -->
+	<Hediff_AEForbiddenFruit.stages.0.label>尋索</Hediff_AEForbiddenFruit.stages.0.label>
+    <!-- EN: Awareness -->
+	<Hediff_AEForbiddenFruit.stages.1.label>覺知</Hediff_AEForbiddenFruit.stages.1.label>
+    <!-- EN: Enlightenment -->
+	<Hediff_AEForbiddenFruit.stages.2.label>啟悟</Hediff_AEForbiddenFruit.stages.2.label>
+    <!-- EN: Transcendence -->
+	<Hediff_AEForbiddenFruit.stages.3.label>超脫</Hediff_AEForbiddenFruit.stages.3.label>
+    <!-- EN: Retribution -->
+	<Hediff_AEForbiddenFruit.stages.4.label>懲罰</Hediff_AEForbiddenFruit.stages.4.label>
+    <!-- EN: Wrath -->
+	<Hediff_AEForbiddenFruit.stages.5.label>憤怒</Hediff_AEForbiddenFruit.stages.5.label>
+
+    <!-- EN: fruit's effects inhibitor -->
+	<Hediff_AEForbiddenFruitWithdrawal.label>禁果影響抑制</Hediff_AEForbiddenFruitWithdrawal.label>
+    <!-- EN: Withdrawal of the effects the fruit had on the body.\nIt appears to decrease the host's experience of outwordly pressure. -->
+	<Hediff_AEForbiddenFruitWithdrawal.description>減輕禁果對身體的影響。\n這似乎會減弱宿主對超凡壓力的感受。</Hediff_AEForbiddenFruitWithdrawal.description>
+    <!-- EN: Forgiveness -->
+	<Hediff_AEForbiddenFruitWithdrawal.stages.0.label>寬恕</Hediff_AEForbiddenFruitWithdrawal.stages.0.label>
+    <!-- EN: Repentance -->
+	<Hediff_AEForbiddenFruitWithdrawal.stages.1.label>懺悔</Hediff_AEForbiddenFruitWithdrawal.stages.1.label>
+
+    <!-- EN: digesting pie -->
+	<Hediff_AEDigestingPie.label>正在消化派</Hediff_AEDigestingPie.label>
+    <!-- EN: Feeling heavy in the stomach. -->
+	<Hediff_AEDigestingPie.description>感覺胃部沉重。</Hediff_AEDigestingPie.description>
+
+    <!--#endregion-->
+</LanguageData>

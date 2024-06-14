@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: sleep enhancer serum -->
+	<AESleepEnhancerSerum.label>睡眠增強血清</AESleepEnhancerSerum.label>
+    <!-- EN: A syringe of clear, viscous fluid. Injected near the brainstem, it affect stressed part of the brain and distribute the load among neurons, making rest via sleep more time efficient.\n\nThe effect is temporary and does not stack. -->
+	<AESleepEnhancerSerum.description>裝有透明粘稠液體的注射針劑。在腦幹附近注射後，它能影響大腦受壓的部分，分散神經元的負擔，使睡眠休息更有效率。\n\n這種影響是暫時的且不能疊加。</AESleepEnhancerSerum.description>
+	<!-- EN: Use {0_label} -->
+    <AESleepEnhancerSerum.comps.CompUsable.useLabel>使用 {0_label}</AESleepEnhancerSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AESleepEnhancerSerum.ingestible.ingestCommandString>注射 {0}</AESleepEnhancerSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AESleepEnhancerSerum.ingestible.ingestReportString>正在注射 {0}。</AESleepEnhancerSerum.ingestible.ingestReportString>
+	
+	<AERegenSerum.label>再生血清</AERegenSerum.label>
+	<AERegenSerum.description>裝有深紅色的粘稠液體的注射針劑。注入血液後，它會影響受損組織並增加癒合係數。\n\n這種影響是暫時的且不能疊加。</AERegenSerum.description>
+    <!-- EN: Use {0_label} -->
+	<AERegenSerum.comps.CompUsable.useLabel>使用 {0_label}</AERegenSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AERegenSerum.ingestible.ingestCommandString>注射 {0}</AERegenSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AERegenSerum.ingestible.ingestReportString>正在注射 {0}。</AERegenSerum.ingestible.ingestReportString>
+    
+    <!-- EN: giant apple inhibitor serum -->
+    <AEFruitInhibitorSerum.label>禁果抑制血清</AEFruitInhibitorSerum.label>
+    <!-- EN: A syringe filled with purple fluid. Injected in bloodstream, it removes the effect given by the Giant Apple.\n\nThe effect is not instant. -->
+	<AEFruitInhibitorSerum.description>裝有紫色液體的注射針劑。注入血液後，它能消除巨大蘋果帶來的影響。\n\n不會立即起效。</AEFruitInhibitorSerum.description>
+    <!-- EN: Use {0_label} -->
+	<AEFruitInhibitorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEFruitInhibitorSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEFruitInhibitorSerum.ingestible.ingestCommandString>注射 {0}</AEFruitInhibitorSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEFruitInhibitorSerum.ingestible.ingestReportString>正在注射 {0}。</AEFruitInhibitorSerum.ingestible.ingestReportString>
+
+    <!-- EN: binging food serum -->
+	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
+    <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal.\n\nThe effect is temporary and does not stack. -->
+	<AEBingingFoodSerum.description>裝有綠色粘稠液體的注射針劑。注入食道後，它能刺激消化系統，讓人真正感到飢餓，想吃一頓好的。\n\n這種影響是暫時的且不能疊加。</AEBingingFoodSerum.description>
+    <!-- EN: Use {0_label} -->
+    <AEBingingFoodSerum.comps.CompUsable.useLabel>使用 {0_label}</AEBingingFoodSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEBingingFoodSerum.ingestible.ingestCommandString>注射 {0}</AEBingingFoodSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEBingingFoodSerum.ingestible.ingestReportString>正在注射 {0}。</AEBingingFoodSerum.ingestible.ingestReportString>
+
+    <!--#region Anomalies Expected Addon-->
+    
+    <!-- EN: Resource pills -->
+    <AEResourcePills.label>組織膠囊</AEResourcePills.label>
+    <!-- EN: Pills which provide a surplus of various bodily resources, allowing to surpass the effects caused by the razor shard -->
+	<AEResourcePills.description>過量提供各種身體組織盈餘的膠囊，可以抵擋刀鋒碎片所帶來的影響</AEResourcePills.description>
+    <!-- EN: Use {0_label} -->
+	<AEResourcePills.comps.CompUsable.useLabel>使用 {0_label}</AEResourcePills.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEResourcePills.ingestible.ingestCommandString>注射 {0}</AEResourcePills.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEResourcePills.ingestible.ingestReportString>正在注射 {0}。</AEResourcePills.ingestible.ingestReportString>
+
+    <!--#endregion-->
+</LanguageData>

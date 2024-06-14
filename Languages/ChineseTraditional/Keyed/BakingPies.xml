@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: Amount of pie pieces: {0} -->
+	<AnomaliesExpected.BakingPies.Amount>複製派的數量：{0}</AnomaliesExpected.BakingPies.Amount>
+    <!-- EN: Time till creating new pieces: {0} -->
+	<AnomaliesExpected.BakingPies.Time>下次複製的剩餘時間：{0}</AnomaliesExpected.BakingPies.Time>
+
+    <!--#endregion-->
+</LanguageData>

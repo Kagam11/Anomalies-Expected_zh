@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: install grinder stomach -->
+	<InstallAEGrinderStomach.label>安装绞磨胃</InstallAEGrinderStomach.label>
+    <!-- EN: Install a grinder stomach. -->
+	<InstallAEGrinderStomach.description>安装绞磨胃。</InstallAEGrinderStomach.description>
+    <!-- EN: Installing grinder stomach. -->
+	<InstallAEGrinderStomach.jobString>正在安装绞磨胃。</InstallAEGrinderStomach.jobString>
+	
+    <!-- EN: Install grinder jaw -->
+	<InstallAEGrinderJaw.label>安装绞磨下颌</InstallAEGrinderJaw.label>
+    <!-- EN: Install grinder jaw. -->
+	<InstallAEGrinderJaw.description>安装绞磨下颌。</InstallAEGrinderJaw.description>
+    <!-- EN: Installing grinder jaw. -->
+	<InstallAEGrinderJaw.jobString>正在安装绞磨下颌。</InstallAEGrinderJaw.jobString>
+
+    <!--#endregion-->
+
+</LanguageData>

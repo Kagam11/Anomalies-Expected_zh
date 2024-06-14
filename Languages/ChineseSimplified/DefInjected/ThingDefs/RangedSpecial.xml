@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: precise beam -->
+	<AEPowerBeam.label>精准光束</AEPowerBeam.label>
+    <!-- EN: precise orbital beam targeter -->
+	<AEOrbitalBeamTargeter.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.label>
+	<!--
+        EN: A targeting unit for a network of power-collection satellites based on understanding of transmitter anomaly. Once aimed at a target, it directs ancient satellites to begin beaming power down in a thin column of electromagnetic energy. You'll be aiming it at enemies, at which point the power column will turn the small area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut connection to themselves down, and permanently deactivate the targeter after using it for 3 times.
+    -->
+    <AEOrbitalBeamTargeter.description>根据对异常发信器的理解，制造了一个针对能源收集卫星网络的瞄准单元。一旦瞄准目标，它就会指挥远古卫星开始向下发射一束细长的电磁能量柱。您将瞄准敌人，此时能量柱将使小面积变成一个千度的高温炼狱。这将持续到卫星检测到不安全的目标定位，关闭与自身的连接，并在使用3次后永久停用瞄准器。</AEOrbitalBeamTargeter.description>
+    <!-- EN: charge -->
+	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>充能</AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>
+    <!-- EN: [not found] -->
+	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>重载</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
+    <!-- EN: [not found] -->
+	<AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
+    
+    <!--#endregion-->
+</LanguageData>

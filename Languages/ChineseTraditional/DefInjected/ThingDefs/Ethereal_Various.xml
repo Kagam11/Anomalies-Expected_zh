@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!--EN:anomaly (incoming)-->
+	<AE_AnomalyIncoming.label>異常出現</AE_AnomalyIncoming.label>
+    
+    <!--EN:anomaly drop pod-->
+    <AE_ActiveDropPodAnomaly.label>異常運輸倉墜落</AE_ActiveDropPodAnomaly.label>
+	
+    <!-- EN: [not found] -->
+    <MinifiedThingAE.label>物體</MinifiedThingAE.label>
+
+    <!--#endregion-->
+</LanguageData>

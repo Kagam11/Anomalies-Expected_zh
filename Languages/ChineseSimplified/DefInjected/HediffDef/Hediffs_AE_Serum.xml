@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!--EN:sleep enhancer serum-->
+	<Hediff_AESleepEnhancerSerum.label>睡眠增强血清</Hediff_AESleepEnhancerSerum.label>
+    <!--EN:This person has ingested a drug which enhanced their rest efficiency.-->
+	<Hediff_AESleepEnhancerSerum.description>此人服用了一种增强休息效率的药物。</Hediff_AESleepEnhancerSerum.description>
+
+    <!--EN:regen serum-->
+	<Hediff_AERegenSerum.label>再生血清</Hediff_AERegenSerum.label>
+    <!--EN:This person has ingested a drug which enhanced their healing factor.-->
+	<Hediff_AERegenSerum.description>此人服用了一种增强愈合系数的药物</Hediff_AERegenSerum.description>
+
+    <!--#endregion-->
+</LanguageData>

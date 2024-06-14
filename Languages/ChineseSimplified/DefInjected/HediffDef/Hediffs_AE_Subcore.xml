@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Unknown symptoms -->
+	<Hediff_AE_Subcore.label>未知症状</Hediff_AE_Subcore.label>
+    <!-- EN: The entity is experiencing unknown symptoms, which mostly affects their consciousness -->
+	<Hediff_AE_Subcore.description>出现不明症状，主要影响其意识</Hediff_AE_Subcore.description>
+    <!-- EN: Hidden -->
+	<Hediff_AE_Subcore.stages.0.label>隐藏</Hediff_AE_Subcore.stages.0.label>
+	
+    <!-- EN: Connection -->
+	<Hediff_AE_SubcoreSecond.label>连接</Hediff_AE_SubcoreSecond.label>
+    <!-- EN: The being inside of the subcore has connected the entity to a dark archopersona, making it highly agressive and unkillable by conventional means -->
+	<Hediff_AE_SubcoreSecond.description>子核中的实体将该生物与黑暗宿主联系起来，使其具有很强的攻击性，无法用常规方法杀死它</Hediff_AE_SubcoreSecond.description>
+    <!-- EN: #3/3 Subcore study report -->
+	<Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterLabel>#3/3 人格子核研究报告</Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterLabel>
+    <!--
+        EN: Connection of subject and machine persona\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details the event which happened to Subject {PAWN_nameDef}. The subject is no longer human, as it's mind was overtaken by the subcore. This is seemingly a result of a mechanite infusion, which has seemingly infected the entire body, including the brain. Even if the person still looks like {PAWN_nameDef}, it's speaking the words of the subcore's persona. This infusion has also supposedly made the pawn highly agressive, as well as unkillable with conventional means. As a result of this observation, the anomaly associated with the subcore has been classified as Class-4 (Critical).\n\nHypothesis:\nBecause the connection could not have been established without the aid of mechanites, we suggest that the subject has came in contact with them at some point. Considering that this is the same person that has cleaned the subcore when we first discovered it, this is probably the moment when it all started. As the subpersona itself should not be capable of making the pawn so powerful, we assume that this device is nothing more than a tool of a higher mind, made for the sole purpose of tricking us for long enough for it to actually connect.\n\nRecommendations:\nDestroy: The obvious course of action, but considering it can't be damaged by any normal means, we would suggest using the unconventional ones, including the other anomalies.\nEscape: If the attempts to destroy the anomaly prove futile, escape seems to be the only thing we could do
+    -->
+	<Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterText>对象与机械人格的连接\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了发生在对象{PAWN_nameDef}身上的事件。该个体已不再是人类，因为其意识已被子核心占据。这看似是纳米机械注入的结果，这种注入似乎已经感染了整个身体，包括大脑。即使这个人看起来仍然像{PAWN_nameDef}，其所叙说的却是人格子核的话语。这种注入也使得该个体变得极具攻击性，并且无法用常规手段杀死。由于这一观察结果，与人格子核相关的异常已被分类为 4 级（危急）异常。\n\n假说：\n由于连接的建立依赖于纳米机械体，我们推测对象在某个时刻接触了它们。考虑到对象是在我们最初发现子核时对其进行清洁的人，也许在事情发生的最初连接就已建立。由于人格子核本身不应能使对象变得如此强大，我们假设这个装置不过是更高存在的工具，其唯一目的就是为了欺骗我们足够长的时间以实际建立连接。\n\n建议：\n摧毁：这是明显的行动方案，但考虑到它不能被任何正常手段摧毁，我们建议使用非常规手段，包括使用其他异常。\n逃离：如果尝试销毁异常的努力证明是徒劳的，逃离似乎是我们唯一能做的事情。</Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterText>
+
+    <!--#endregion-->
+</LanguageData>

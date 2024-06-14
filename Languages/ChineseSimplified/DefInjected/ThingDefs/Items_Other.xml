@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected Addon-->
+    
+    <!-- EN: Opened beer -->
+	<AE_BeerOpened.label>开启的啤酒</AE_BeerOpened.label>
+    <!-- EN: Well... You can now open beer...\nThe cost of it is being unable to wield it as a weapon because... You know... All the liquid would just pour out -->
+	<AE_BeerOpened.description>嗯...你现在可以开啤酒了...\n然而代价是无法再将其作为武器使用，因为...你知道的...这样酒就都撒了</AE_BeerOpened.description>
+    
+    <!--#endregion-->
+</LanguageData>

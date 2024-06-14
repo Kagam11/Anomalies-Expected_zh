@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: anomaly -->
+	<BodyPartsAnomalyAE.label>異常</BodyPartsAnomalyAE.label>
+
+    <!--#endregion-->
+</LanguageData>

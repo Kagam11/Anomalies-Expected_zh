@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: sleep enhancer serum -->
+	<AESleepEnhancerSerum.label>睡眠增强血清</AESleepEnhancerSerum.label>
+    <!-- EN: A syringe of clear, viscous fluid. Injected near the brainstem, it affect stressed part of the brain and distribute the load among neurons, making rest via sleep more time efficient.\n\nThe effect is temporary and does not stack. -->
+	<AESleepEnhancerSerum.description>装有透明粘稠液体的注射针剂。在脑干附近注射后，它能影响大脑受压的部分，分散神经元的负担，使睡眠休息更有效率。\n\n这种影响是暂时的且不能叠加。</AESleepEnhancerSerum.description>
+	<!-- EN: Use {0_label} -->
+    <AESleepEnhancerSerum.comps.CompUsable.useLabel>使用 {0_label}</AESleepEnhancerSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AESleepEnhancerSerum.ingestible.ingestCommandString>注射 {0}</AESleepEnhancerSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AESleepEnhancerSerum.ingestible.ingestReportString>正在注射 {0}。</AESleepEnhancerSerum.ingestible.ingestReportString>
+	
+	<AERegenSerum.label>再生血清</AERegenSerum.label>
+	<AERegenSerum.description>装有深红色的粘稠液体的注射针剂。注入血液后，它会影响受损组织并增加愈合系数。\n\n这种影响是暂时的且不能叠加。</AERegenSerum.description>
+    <!-- EN: Use {0_label} -->
+	<AERegenSerum.comps.CompUsable.useLabel>使用 {0_label}</AERegenSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AERegenSerum.ingestible.ingestCommandString>注射 {0}</AERegenSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AERegenSerum.ingestible.ingestReportString>正在注射 {0}。</AERegenSerum.ingestible.ingestReportString>
+    
+    <!-- EN: giant apple inhibitor serum -->
+    <AEFruitInhibitorSerum.label>禁果抑制血清</AEFruitInhibitorSerum.label>
+    <!-- EN: A syringe filled with purple fluid. Injected in bloodstream, it removes the effect given by the Giant Apple.\n\nThe effect is not instant. -->
+	<AEFruitInhibitorSerum.description>装有紫色液体的注射针剂。注入血液后，它能消除巨大苹果带来的影响。\n\n这种影响不会立即起效。</AEFruitInhibitorSerum.description>
+    <!-- EN: Use {0_label} -->
+	<AEFruitInhibitorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEFruitInhibitorSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEFruitInhibitorSerum.ingestible.ingestCommandString>注射 {0}</AEFruitInhibitorSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEFruitInhibitorSerum.ingestible.ingestReportString>正在注射 {0}。</AEFruitInhibitorSerum.ingestible.ingestReportString>
+
+    <!-- EN: binging food serum -->
+	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
+    <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal.\n\nThe effect is temporary and does not stack. -->
+	<AEBingingFoodSerum.description>装有绿色粘稠液体的注射针剂。注入食道后，它能刺激消化系统，让人真正感到饥饿，想吃一顿好的。\n\n这种影响是暂时的且不能叠加。</AEBingingFoodSerum.description>
+    <!-- EN: Use {0_label} -->
+    <AEBingingFoodSerum.comps.CompUsable.useLabel>使用 {0_label}</AEBingingFoodSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEBingingFoodSerum.ingestible.ingestCommandString>注射 {0}</AEBingingFoodSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEBingingFoodSerum.ingestible.ingestReportString>正在注射 {0}。</AEBingingFoodSerum.ingestible.ingestReportString>
+
+    <!--#endregion-->
+
+
+    <!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Resource pills -->
+    <AEResourcePills.label>组织胶囊</AEResourcePills.label>
+    <!-- EN: Pills which provide a surplus of various bodily resources, allowing to surpass the effects caused by the razor shard -->
+	<AEResourcePills.description>过量提供各种身体组织盈余的胶囊，可以抵挡刀锋碎片所带来的影响</AEResourcePills.description>
+    <!-- EN: Use {0_label} -->
+	<AEResourcePills.comps.CompUsable.useLabel>使用 {0_label}</AEResourcePills.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEResourcePills.ingestible.ingestCommandString>注射 {0}</AEResourcePills.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEResourcePills.ingestible.ingestReportString>正在注射 {0}。</AEResourcePills.ingestible.ingestReportString>
+    
+    <!--#endregion-->
+</LanguageData>

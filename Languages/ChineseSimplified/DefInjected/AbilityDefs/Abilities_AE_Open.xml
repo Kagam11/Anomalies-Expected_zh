@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Open passage -->
+	<AE_Ability_OpenA.label>打开通道</AE_Ability_OpenA.label>
+    <!-- EN: Opens a passage from one place to other, allowing instant teleportation. \nWorks on any pawn, friend or enemy -->
+	<AE_Ability_OpenA.description>打开从一处到另一处的通道，从而做到顺时传送。\n可以对任意小人、友军和敌人使用。</AE_Ability_OpenA.description>
+	
+    <!-- EN: Open body -->
+	<AE_Ability_OpenB.label>打开躯体</AE_Ability_OpenB.label>
+    <!-- EN: "Opens" a target -->
+	<AE_Ability_OpenB.description>“打开”一个目标</AE_Ability_OpenB.description>
+	
+    <!-- EN: Open self -->
+	<AE_Ability_OpenC.label>打开自己</AE_Ability_OpenC.label>
+    <!-- EN: ... -->
+	<AE_Ability_OpenC.description>...</AE_Ability_OpenC.description>
+	
+    <!-- EN: Open beer -->
+	<AE_Ability_OpenD.label>打开啤酒</AE_Ability_OpenD.label>
+    <!-- EN: You can open beer now -->
+	<AE_Ability_OpenD.description>你现在能打开啤酒啦</AE_Ability_OpenD.description>
+
+    <!--#endregion-->
+</LanguageData>

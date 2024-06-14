@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected -->
+	<!-- EN: Put a signature -->
+	<AnomaliesExpected.AnomalyHospitalBed.Sign.Label>签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Label>
+	<!-- EN: Put a signature on a medical clipboard where it indicates patient information -->
+	<AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>在医疗夹板上注明病人信息的地方签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>
+	<!-- EN: No patient on a bed -->
+	<AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上没有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
+	<!-- EN: Can sign in {0} -->
+	<AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>可以签名至{0}</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
+    <!--#endregion-->
+</LanguageData>

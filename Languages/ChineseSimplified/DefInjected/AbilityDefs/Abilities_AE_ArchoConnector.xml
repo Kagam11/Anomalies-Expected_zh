@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Spawn metalhorror -->
+	<AE_Ability_ArchoConnectorA.label>召唤金属怪形</AE_Ability_ArchoConnectorA.label>
+    <!-- EN: Spawn an allied metalhorror -->
+	<AE_Ability_ArchoConnectorA.description>召唤一个友好的金属怪形</AE_Ability_ArchoConnectorA.description>
+
+    <!-- EN: Create shield -->
+	<AE_Ability_ArchoConnectorB.label>召唤护盾</AE_Ability_ArchoConnectorB.label>
+    <!-- EN: Creates a shield similar to ones a subroutine uses -->
+	<AE_Ability_ArchoConnectorB.description>召唤一个类似子程序所使用的护盾</AE_Ability_ArchoConnectorB.description>
+
+    <!--#endregion-->
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected -->
+	<!-- EN: {0}/{1} lights on the indicator are lit -->
+	<AnomaliesExpected.BeamTarget.Indicator>指示器上有{0}/{1}个灯点亮</AnomaliesExpected.BeamTarget.Indicator>
+	<!-- EN: Current state: {0} -->
+	<AnomaliesExpected.BeamTarget.State>当前状态：{0}</AnomaliesExpected.BeamTarget.State>
+	<!-- EN: Searching -->
+	<AnomaliesExpected.BeamTarget.StateSearching>搜索中</AnomaliesExpected.BeamTarget.StateSearching>
+	<!-- EN: Activating -->
+	<AnomaliesExpected.BeamTarget.StateActivating>激活中</AnomaliesExpected.BeamTarget.StateActivating>
+	<!-- EN: Time before high energy burst: {0} -->
+	<AnomaliesExpected.BeamTarget.TimeTillBeam>能量轰炸前倒计时：{0}</AnomaliesExpected.BeamTarget.TimeTillBeam>
+	<!-- EN: Holding button -->
+	<AnomaliesExpected.BeamTarget.ButtonHold>正在按住按钮</AnomaliesExpected.BeamTarget.ButtonHold>
+	<!-- EN: {0} left containment -->
+	<AnomaliesExpected.BeamTarget.LeftContainment>{0}剩余收容</AnomaliesExpected.BeamTarget.LeftContainment>
+    <!--#endregion-->
+</LanguageData>

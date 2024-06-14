@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<AnomaliesExpected.label>Anomalies Expected</AnomaliesExpected.label>
+    <!-- EN: Expansion of void-related technologies by studying unnatural entities.\n\nIt uses logic of anomaly research projects.\n\nProgress shown on Anomaly tab. -->
+	<AnomaliesExpected.generalDescription>通过研究异常实体，解锁更多的于虚空有关的技术。\n\n使用异常DLC的研究逻辑。\n\n研究进度显示在异象研究页面。</AnomaliesExpected.generalDescription>
+    <!-- EN: Anomalies Expected research projects -->
+	<AnomaliesExpected.generalTitle>Anomalies Expected研究项目</AnomaliesExpected.generalTitle>
+
+</LanguageData>

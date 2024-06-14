@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!--#region Anomalies Expected-->
+
+    <!-- EN: ordinary bed -->
+	<AE_EntityCodexEntry_AnomalyBed.label>正常的床</AE_EntityCodexEntry_AnomalyBed.label>
+
+    <!-- EN: ordinary hospital bed -->
+	<AE_EntityCodexEntry_AnomalyHospitalBed.label>正常的醫療床</AE_EntityCodexEntry_AnomalyHospitalBed.label>
+
+    <!-- EN: giant apple -->
+    <AE_EntityCodexEntry_ForbiddenFruit.label>巨大蘋果</AE_EntityCodexEntry_ForbiddenFruit.label>
+
+    <!-- EN: industrial metal box -->
+    <AE_EntityCodexEntry_MeatGrinder.label>工業金屬箱</AE_EntityCodexEntry_MeatGrinder.label>
+
+    <!-- EN: big pie -->
+    <AE_EntityCodexEntry_BakingPies.label>巨大的派</AE_EntityCodexEntry_BakingPies.label>
+
+    <!-- EN: transmitter -->
+    <AE_EntityCodexEntry_BeamTarget.label>發信器</AE_EntityCodexEntry_BeamTarget.label>
+
+    <!--#endregion-->
+
+    <!--#region Anomalies Expected Addon-->
+
+    <!-- EN: Razor shard -->
+    <AE_EntityCodexEntry_RazorShard.label>刀鋒碎片</AE_EntityCodexEntry_RazorShard.label>
+
+    <!-- EN: Anomalous watch -->
+	<AE_EntityCodexEntry_Clock.label>異常懷錶</AE_EntityCodexEntry_Clock.label>
+
+    <!-- EN: The Key -->
+	<AE_EntityCodexEntry_Key.label>洞啟之鑰</AE_EntityCodexEntry_Key.label>
+
+    <!-- EN: Puzzle -->
+	<AE_EntityCodexEntry_Puzzle.label>神秘裝置</AE_EntityCodexEntry_Puzzle.label>
+
+    <!-- EN: Subcore -->
+	<AE_EntityCodexEntry_Subcore.label>人格子核</AE_EntityCodexEntry_Subcore.label>
+
+    <!-- EN: Ion -->
+	<AE_EntityCodexEntry_SubcoreConnected.label>Ion</AE_EntityCodexEntry_SubcoreConnected.label>
+
+    <!-- EN: Clay figure -->
+    <AE_EntityCodexEntry_Replicator.label>粘土人偶</AE_EntityCodexEntry_Replicator.label>
+
+    <!-- EN: Subroutine -->
+    <AE_EntityCodexEntry_Subroutine.label>子程式</AE_EntityCodexEntry_Subroutine.label>
+
+    <!--#endregion-->
+</LanguageData>
