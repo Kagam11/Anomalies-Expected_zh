@@ -6,6 +6,8 @@
 	<AnomaliesExpected.BakingPies.Amount>複製派的數量：{0}</AnomaliesExpected.BakingPies.Amount>
     <!-- EN: Time till creating new pieces: {0} -->
 	<AnomaliesExpected.BakingPies.Time>下次複製的剩餘時間：{0}</AnomaliesExpected.BakingPies.Time>
+    <!-- EN: The number of {0} pieces has changed -->
+	<AnomaliesExpected.BakingPies.SpawnPiePiece>派的數量 {0} 發生了變化</AnomaliesExpected.BakingPies.SpawnPiePiece>
 
     <!--#endregion-->
 </LanguageData>
