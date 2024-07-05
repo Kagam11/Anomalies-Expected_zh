@@ -62,7 +62,7 @@
 	<AE_BakingPies.description>装在盘子上的巨大的派。是一种烤制的馅料外包裹酥皮的菜品。\n\n看着令人开胃。</AE_BakingPies.description>
 
     <!-- EN: Make someone pour out concentrated stomach acid and fully consume it. [Will destroy it] -->
-	<AE_BakingPies.comps.Comp_BakingPies.activateDescString>让一人吐出胃酸把它完全消化 [会将其摧毁]</AE_BakingPies.comps.Comp_BakingPies.activateDescString>
+	<AE_BakingPies.comps.Comp_BakingPies.activateDescString>让一人胃口大开把它完全吃掉 [会摧毁该异常]</AE_BakingPies.comps.Comp_BakingPies.activateDescString>
     <!-- EN: Consume -->
 	<AE_BakingPies.comps.Comp_BakingPies.activateLabelString>食用</AE_BakingPies.comps.Comp_BakingPies.activateLabelString>
     <!-- EN: consuming {0}: {1}s -->
