@@ -19,5 +19,10 @@
     <!-- EN: {0} left the containment zone on its own. Its location must be urgently determined to reduce collateral damage. -->
     <AnomaliesExpected.BeamTarget.LeftContainmentText>{0} 自己逃離了收容。它的位置必須馬上查明，以防止隨後的危害。</AnomaliesExpected.BeamTarget.LeftContainmentText>
     
+    <!-- EN: Generating satellite data -->
+    <AnomaliesExpected.BeamTarget.DestroyedAfterStudy>生成衛星數據</AnomaliesExpected.BeamTarget.DestroyedAfterStudy>
+	
+    <!-- EN: {0} wasn't able to connect to Transmitter -->
+	<AnomaliesExpected.PowerBeam.BeamTargetMissing>{0} 無法連接至發信器</AnomaliesExpected.PowerBeam.BeamTargetMissing>
     <!--#endregion-->
 </LanguageData>

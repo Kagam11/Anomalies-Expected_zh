@@ -35,8 +35,8 @@
 
     <!-- EN: binging food serum -->
 	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
-    <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal.\n\nThe effect is temporary and does not stack. -->
-	<AEBingingFoodSerum.description>装有绿色粘稠液体的注射针剂。注入食道后，它能刺激消化系统，让人真正感到饥饿，想吃一顿好的。\n\n这种影响是暂时的且不能叠加。</AEBingingFoodSerum.description>
+    <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal. Additionally reduces Big Pie effect.\n\nThe effect is temporary and does not stack. -->
+	<AEBingingFoodSerum.description>装有绿色粘稠液体的注射针剂。注入食道后，它能刺激消化系统，让人真正感到饥饿，想吃一顿好的。可以抵消食用巨大的派的效果。\n\n这种影响是暂时的且不能叠加。</AEBingingFoodSerum.description>
     <!-- EN: Use {0_label} -->
     <AEBingingFoodSerum.comps.CompUsable.useLabel>使用 {0_label}</AEBingingFoodSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
