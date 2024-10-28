@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!-- EN: Anomalies Expected -->
-	<AnomaliesExpected.Settings.Title>Anomalies Expected</AnomaliesExpected.Settings.Title>
-	
+    <AnomaliesExpected.Settings.Title>Anomalies Expected</AnomaliesExpected.Settings.Title>
+
     <!-- EN: Limit max amount of Pie Pieces per replication to {0} (0 = unlimited) -->
-	<AnomaliesExpected.Settings.BakingPies.ReplicationLimit>将每次复制派的数量限制在 {0} (0为无限制)</AnomaliesExpected.Settings.BakingPies.ReplicationLimit>
+    <AnomaliesExpected.Settings.BakingPies.ReplicationLimit>将每次复制派的数量限制在 {0} (0为无限制)</AnomaliesExpected.Settings.BakingPies.ReplicationLimit>
     <!-- EN: All Pie Pieces will despawn, when Big Pie destroyed -->
-	<AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>当派母体被摧毁时也摧毁所有复制派</AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>
+    <AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>当派母体被摧毁时也摧毁所有复制派</AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>
     <!-- EN: Will get message during Big Pie replication -->
-	<AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>当巨大的派复制时收到消息</AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>
-	
+    <AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>当巨大的派复制时收到消息</AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>
+
     <!-- EN: Precise Orbital Beam Targeter require existence Transmitter to call Beam -->
-	<AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>轨道光束精确靶向器需要发信器本身才能使用</AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>
+    <AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>轨道光束精确靶向器需要发信器本身才能使用</AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>
     <!-- EN: Will get letter instead of message, when Transmitter leaving containment -->
-	<AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>当发信器脱离收容时收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
+    <AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>当发信器脱离收容时收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
+
+    <!-- EN: Try Unlock Anomalies Expected Research Tab -->
+    <AnomaliesExpected.Settings.ResearchTab.Unlock>尝试解锁 Anomalies Expected 的研究项目</AnomaliesExpected.Settings.ResearchTab.Unlock>
 </LanguageData>
