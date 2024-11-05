@@ -8,6 +8,10 @@
 	<AnomaliesExpected.BakingPies.Time>下次复制的剩余时间：{0}</AnomaliesExpected.BakingPies.Time>
     <!-- EN: The number of {0} pieces has changed -->
 	<AnomaliesExpected.BakingPies.SpawnPiePiece>派的数量 {0} 发生了变化</AnomaliesExpected.BakingPies.SpawnPiePiece>
-    
+    <!-- EN: Pie Pieces Critical Mass -->
+    <AnomaliesExpected.BakingPies.EndGame.Label>派超过临界数量</AnomaliesExpected.BakingPies.EndGame.Label>
+	<!-- EN: Pie Pieces overflow facility and start spreading around the planet. Facility filled with {0} Pie Pieces and {1} left the currently controlled zone of a map.\n\nIf study of {2} is done, then you have one last hope of stopping this. If not, then you have no hopes in containing it anymore.\n\nIt will take multiple days or weeks till the planet will be filled and consumed by pie. Which mean that this is the end for the colony and for everyone on this planet. -->
+    <AnomaliesExpected.BakingPies.EndGame.Text>派已经溢出设施并开始在整个星球间蔓延。设施已被 {0} 个派填满，并且 {1} 个派已经脱离我们的控制区。\n\n如果研究 {2} 已经完成，那你还有最后的机会结束这场灾难。如果没有，那你已经失去了收容该异常的最后希望。\n\n不出数日或者数周，这个星球就会被派所淹没。这也意味着殖民地乃至这个星球上所有人的末日都要到了。</AnomaliesExpected.BakingPies.EndGame.Text>
+
     <!--#endregion-->
 </LanguageData>
