@@ -44,6 +44,19 @@
     <!-- EN: Ingesting {0}. -->
 	<AEBingingFoodSerum.ingestible.ingestReportString>正在注射 {0}。</AEBingingFoodSerum.ingestible.ingestReportString>
 
+    <!-- EN: hunger suppressor serum -->
+    <AEHungerSuppressorSerum.label>飢餓抑制血清</AEHungerSuppressorSerum.label>
+    <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it contains nutrients and changes metabolism to increase efficiency of digestive system and stimulate body to use it nutrient reserves for the time being.\n\nThe effect is temporary and does not stack. After effect it will take time to restore metabolism to normal state.\n\nActive effect lasts 1 day. Increase time x2 till malnourished. -->
+	<AEHungerSuppressorSerum.description>裝有綠色粘稠液體的注射針劑，含有營養物質並能改變新陳代謝。注入食道後能夠提高消化系統的效率，並刺激身體暫時使用其營養儲備。</AEHungerSuppressorSerum.description>
+    <!-- EN: Use {0_label} -->
+	<AEHungerSuppressorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEHungerSuppressorSerum.comps.CompUsable.useLabel>
+    <!-- EN: Ingest {0} -->
+	<AEHungerSuppressorSerum.ingestible.ingestCommandString>注射 {0}</AEHungerSuppressorSerum.ingestible.ingestCommandString>
+    <!-- EN: Ingesting {0}. -->
+	<AEHungerSuppressorSerum.ingestible.ingestReportString>正在注射 {0}。</AEHungerSuppressorSerum.ingestible.ingestReportString>
+
+    <!--#endregion-->
+    
     <!--#region Anomalies Expected Addon-->
     
     <!-- EN: Resource pills -->
