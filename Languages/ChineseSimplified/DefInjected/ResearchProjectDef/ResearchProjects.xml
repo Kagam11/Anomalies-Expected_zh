@@ -87,7 +87,20 @@
     <AEBingingFoodSerum.generalRules.rulesStrings.2>subject_story->肚子的叫声在数公里外都能听见</AEBingingFoodSerum.generalRules.rulesStrings.2>
 	<!-- EN: subject_gerund->synthesizing binging food serums -->
     <AEBingingFoodSerum.generalRules.rulesStrings.3>subject_gerund->正在合成暴食血清</AEBingingFoodSerum.generalRules.rulesStrings.3>
-	
+
+    <!-- EN: hunger suppressor serum -->
+	<AEHungerSuppressorSerum.label>饥饿抑制血清</AEHungerSuppressorSerum.label>
+    <!-- EN: Synthesize a serum that temporary changes person's metabolism to increase efficiency of nutrient breakdown. -->
+	<AEHungerSuppressorSerum.description>合成一种暂时改变人体新陈代谢以提高营养分解效率的血清。</AEHungerSuppressorSerum.description>
+    <!-- EN: subject->hunger suppressor serum -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.0>subject->饥饿抑制血清</AEHungerSuppressorSerum.generalRules.rulesStrings.0>
+    <!-- EN: subject_story->survived on one ration for a month -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.1>subject_story->吃一顿饭就活了一个月</AEHungerSuppressorSerum.generalRules.rulesStrings.1>
+    <!-- EN: subject_story->wasn't able to fight illness, due to lack of nutrient for immune system -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.2>subject_story->由于营养不足免疫力下降而得了病</AEHungerSuppressorSerum.generalRules.rulesStrings.2>
+    <!-- EN: subject_gerund->synthesizing hunger suppressor serums -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.3>subject_gerund->正在合成饥饿抑制血清</AEHungerSuppressorSerum.generalRules.rulesStrings.3>
+
     <!-- EN: precise orbital beam targeter -->
     <AEOrbitalBeamTargeter.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.label>
     <!-- EN: Produce a targeting unit for a network of power-collection satellites based on understanding of transmitter anomaly. -->

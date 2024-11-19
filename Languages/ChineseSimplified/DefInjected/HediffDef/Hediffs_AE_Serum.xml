@@ -10,7 +10,22 @@
     <!--EN:regen serum-->
 	<Hediff_AERegenSerum.label>再生血清</Hediff_AERegenSerum.label>
     <!--EN:This person has ingested a drug which enhanced their healing factor.-->
-	<Hediff_AERegenSerum.description>此人服用了一种增强愈合系数的药物</Hediff_AERegenSerum.description>
+	<Hediff_AERegenSerum.description>此人服用了一种增强愈合系数的药物。</Hediff_AERegenSerum.description>
 
+    <!-- EN: binging food serum -->
+    <Hediff_AEBingingFoodSerum.label>暴食血清</Hediff_AEBingingFoodSerum.label>
+    <!-- EN: This person has ingested a drug which stimulates the digestive system. -->
+	<Hediff_AEBingingFoodSerum.description>此人服用了一种刺激消化系统的药物。</Hediff_AEBingingFoodSerum.description>
+
+    <!-- EN: hunger suppressor serum -->
+	<Hediff_AEHungerSuppressorSerum.label>饥饿抑制血清</Hediff_AEHungerSuppressorSerum.label>
+    <!-- EN: This person has ingested a drug which changing it metabolism to increase efficiency of nutrient breakdown including body reserves. -->
+	<Hediff_AEHungerSuppressorSerum.description>此人服用了一种改变其新陈代谢的药物，可以提高分解营养物质（包括体内储备营养）的效率。</Hediff_AEHungerSuppressorSerum.description>
+    <!-- EN: Active effect -->
+	<Hediff_AEHungerSuppressorSerum.stages.0.label>药物生效</Hediff_AEHungerSuppressorSerum.stages.0.label>
+	<!-- EN: Withdrawal from system -->
+    <Hediff_AEHungerSuppressorSerum.stages.1.label>药物退出</Hediff_AEHungerSuppressorSerum.stages.1.label>
+    <!-- EN: Metabolism restoration -->
+	<Hediff_AEHungerSuppressorSerum.stages.2.label>新陈代谢补偿</Hediff_AEHungerSuppressorSerum.stages.2.label>
     <!--#endregion-->
 </LanguageData>

@@ -8,6 +8,10 @@
 	<!-- EN: No patient on a bed -->
 	<AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上沒有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
 	<!-- EN: Can sign in {0} -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>可以簽名至{0}</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>{0}後可以簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
+    <!-- EN: Donor -->
+    <AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>供體</AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>
+    <!-- EN: Check the box next to "is a donor". 50% used to maintain the functionality of the organic metal frame. -->
+    <AnomaliesExpected.AnomalyHospitalBed.isDonor.Desc>將當前病人標記爲“供體”用於提取細胞修復液，提取的50%將用於維持床架的運轉。</AnomaliesExpected.AnomalyHospitalBed.isDonor.Desc>
     <!--#endregion-->
 </LanguageData>

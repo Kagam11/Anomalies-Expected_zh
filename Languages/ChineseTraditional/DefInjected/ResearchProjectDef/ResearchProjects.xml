@@ -88,6 +88,19 @@
 	<!-- EN: subject_gerund->synthesizing binging food serums -->
     <AEBingingFoodSerum.generalRules.rulesStrings.3>subject_gerund->正在合成暴食血清</AEBingingFoodSerum.generalRules.rulesStrings.3>
 
+    <!-- EN: hunger suppressor serum -->
+	<AEHungerSuppressorSerum.label>飢餓抑制血清</AEHungerSuppressorSerum.label>
+    <!-- EN: Synthesize a serum that temporary changes person's metabolism to increase efficiency of nutrient breakdown. -->
+	<AEHungerSuppressorSerum.description>合成一種暫時改變人體新陳代謝以提高營養分解效率的血清。</AEHungerSuppressorSerum.description>
+    <!-- EN: subject->hunger suppressor serum -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.0>subject->飢餓抑制血清</AEHungerSuppressorSerum.generalRules.rulesStrings.0>
+    <!-- EN: subject_story->survived on one ration for a month -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.1>subject_story->喫一頓飯就活了一個月</AEHungerSuppressorSerum.generalRules.rulesStrings.1>
+    <!-- EN: subject_story->wasn't able to fight illness, due to lack of nutrient for immune system -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.2>subject_story->由於營養不足免疫力下降而得了病</AEHungerSuppressorSerum.generalRules.rulesStrings.2>
+    <!-- EN: subject_gerund->synthesizing hunger suppressor serums -->
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.3>subject_gerund->正在合成飢餓抑制血清</AEHungerSuppressorSerum.generalRules.rulesStrings.3>
+    
     <!-- EN: precise orbital beam targeter -->
     <AEOrbitalBeamTargeter.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.label>
     <!-- EN: Produce a targeting unit for a network of power-collection satellites based on understanding of transmitter anomaly. -->

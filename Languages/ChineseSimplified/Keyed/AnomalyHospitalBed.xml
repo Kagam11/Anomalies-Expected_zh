@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!--#region Anomalies Expected -->
-	<!-- EN: Put a signature -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Label>签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Label>
-	<!-- EN: Put a signature on a medical clipboard where it indicates patient information -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>在医疗夹板上注明病人信息的地方签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>
-	<!-- EN: No patient on a bed -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上没有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
-	<!-- EN: Can sign in {0} -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>可以签名至{0}</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
+    <!-- EN: Put a signature -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Label>签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Label>
+    <!-- EN: Put a signature on a medical clipboard where it indicates patient information -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>在医疗夹板上注明病人信息的地方签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>
+    <!-- EN: No patient on a bed -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上没有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
+    <!-- EN: Can sign in {0} -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>{0}后可以签名</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
+    <!-- EN: Donor -->
+    <AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>供体</AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>
+    <!-- EN: Check the box next to "is a donor". 50% used to maintain the functionality of the organic metal frame. -->
+    <AnomaliesExpected.AnomalyHospitalBed.isDonor.Desc>将当前病人标记为“供体”用于提取细胞修复液，提取的50%将用于维持床架的运转。</AnomaliesExpected.AnomalyHospitalBed.isDonor.Desc>
     <!--#endregion-->
 </LanguageData>
