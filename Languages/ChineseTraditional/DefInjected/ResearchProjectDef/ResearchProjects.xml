@@ -95,7 +95,7 @@
     <!-- EN: subject->hunger suppressor serum -->
 	<AEHungerSuppressorSerum.generalRules.rulesStrings.0>subject->飢餓抑制血清</AEHungerSuppressorSerum.generalRules.rulesStrings.0>
     <!-- EN: subject_story->survived on one ration for a month -->
-	<AEHungerSuppressorSerum.generalRules.rulesStrings.1>subject_story->喫一頓飯就活了一個月</AEHungerSuppressorSerum.generalRules.rulesStrings.1>
+	<AEHungerSuppressorSerum.generalRules.rulesStrings.1>subject_story->吃一頓飯就活了一個月</AEHungerSuppressorSerum.generalRules.rulesStrings.1>
     <!-- EN: subject_story->wasn't able to fight illness, due to lack of nutrient for immune system -->
 	<AEHungerSuppressorSerum.generalRules.rulesStrings.2>subject_story->由於營養不足免疫力下降而得了病</AEHungerSuppressorSerum.generalRules.rulesStrings.2>
     <!-- EN: subject_gerund->synthesizing hunger suppressor serums -->
@@ -181,7 +181,7 @@
     <!-- EN: Research results -->
 	<AEIonConnectionResearch.discoveredLetterTitle>研究結果</AEIonConnectionResearch.discoveredLetterTitle>
     <!-- EN: As we ended the research of the data given us by Ion, we came to the conclusion that whatever info it was, it's false. \nWe don't yet know why Ion purposefully misguided us, and can't know because Ion has seemingly went silent. We have also discovered that some of Ion's hidden logs mention mechanites being used by it recently, which makes us think that it's not that incapable of manipulating the world around it as it tells us -->
-	<AEIonConnectionResearch.discoveredLetterText>在我們結束對Ion提供給我們的資料的研究之後，我們得出的結論是，無論這些資訊是什麼，都是虛假的。\n我們還不知道Ion為何有意誤導我們，而且無法知道，因為Ion似乎已經沉默了。我們還發現了Ion的一些隱藏日誌，提到它最近使用了納米機械，這使得我們懷疑它並不像它告訴我們的那樣無法操縱周圍的世界。</AEIonConnectionResearch.discoveredLetterText>
+	<AEIonConnectionResearch.discoveredLetterText>在我們結束對Ion提供數據的研究之後，我們得出的結論是，無論這些信息是什麼，都是虛假的。\n我們還不知道Ion爲何有意誤導我們，並且鑑於Ion目前似乎已經沉默，我們也許永遠無法知道。我們還發現了Ion的一些隱藏日誌，提到它最近使用了納米機械，這使得我們懷疑它並不像它告訴我們的那樣無法操縱周圍的世界。</AEIonConnectionResearch.discoveredLetterText>
 	<!-- EN: subject->sleep enhancer serum -->
     <AEIonConnectionResearch.generalRules.rulesStrings.0>subject->生體諧振器</AEIonConnectionResearch.generalRules.rulesStrings.0>
 	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->

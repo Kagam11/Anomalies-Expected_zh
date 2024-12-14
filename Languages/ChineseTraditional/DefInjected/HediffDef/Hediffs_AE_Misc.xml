@@ -8,7 +8,7 @@
 	<Hediff_AEFatigue.description>身體昏沉，需要額外的休息</Hediff_AEFatigue.description>
 
     <!-- EN: fruit's effects -->
-    <Hediff_AEForbiddenFruit.label>蘋果效應</Hediff_AEForbiddenFruit.label>
+    <Hediff_AEForbiddenFruit.label>禁果效應</Hediff_AEForbiddenFruit.label>
     <!-- EN: The effects the fruit had on the body.\nIt appears to have made the host's thoughts sharper, making it more wise. -->
 	<Hediff_AEForbiddenFruit.description>果實對身體產生影響。\n它似乎讓宿主的思想更加敏銳，令其更加睿智。</Hediff_AEForbiddenFruit.description>
     <!-- EN: Seeking -->

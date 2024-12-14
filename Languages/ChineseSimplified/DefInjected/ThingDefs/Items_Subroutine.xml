@@ -5,7 +5,7 @@
     <!-- EN: Subroutine -->
 	<AE_Subroutine.label>子程序</AE_Subroutine.label>
     <!-- EN: A levitating structure of archotech origin, displaced from it's former spot in the void dimension. \nIt seems to be powered by the pearl-like object inside of it. We might make the structure go down if we severely damage it -->
-	<AE_Subroutine.description>一个从虚空维度移除的n具有超凡科技起源的悬浮结构。\n它似乎是由内部一个类似珍珠的物体提供动力的。如果我们严重损坏它，可能会使其降下。</AE_Subroutine.description>
+	<AE_Subroutine.description>一个从虚空维度撕下的具有超凡科技起源的悬浮结构。\n它似乎是由内部一个类似珍珠的物体提供动力的。如果我们严重损坏它，可能会使其降下。</AE_Subroutine.description>
 	
     <!-- EN: Subroutine shield -->
 	<AE_SubroutineStructureSpawner.label>子程序护盾</AE_SubroutineStructureSpawner.label>

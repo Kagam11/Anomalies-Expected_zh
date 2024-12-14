@@ -11,7 +11,7 @@
     <!-- EN: Body parts in danger: {0} -->
 	<AnomaliesExpected.MeatGrinder.BodyParts>受威胁的身体部位：{0}</AnomaliesExpected.MeatGrinder.BodyParts>
     <!-- EN: Body in danger of consumption -->
-	<AnomaliesExpected.MeatGrinder.Danger>身体受到威胁</AnomaliesExpected.MeatGrinder.Danger>
+	<AnomaliesExpected.MeatGrinder.Danger>身体受到消化威胁</AnomaliesExpected.MeatGrinder.Danger>
 
     <!--#endregion-->
 </LanguageData>

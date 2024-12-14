@@ -181,7 +181,7 @@
     <!-- EN: Research results -->
 	<AEIonConnectionResearch.discoveredLetterTitle>研究结果</AEIonConnectionResearch.discoveredLetterTitle>
     <!-- EN: As we ended the research of the data given us by Ion, we came to the conclusion that whatever info it was, it's false. \nWe don't yet know why Ion purposefully misguided us, and can't know because Ion has seemingly went silent. We have also discovered that some of Ion's hidden logs mention mechanites being used by it recently, which makes us think that it's not that incapable of manipulating the world around it as it tells us -->
-	<AEIonConnectionResearch.discoveredLetterText>在我们结束对Ion提供给我们的数据的研究之后，我们得出的结论是，无论这些信息是什么，都是虚假的。\n我们还不知道Ion为何有意误导我们，并且鉴于Ion目前似乎已经沉默，我们也许永远无法知道。我们还发现了Ion的一些隐藏日志，提到它最近使用了纳米机械，这使得我们怀疑它并不像它告诉我们的那样无法操纵周围的世界。</AEIonConnectionResearch.discoveredLetterText>
+	<AEIonConnectionResearch.discoveredLetterText>在我们结束对Ion提供数据的研究之后，我们得出的结论是，无论这些信息是什么，都是虚假的。\n我们还不知道Ion为何有意误导我们，并且鉴于Ion目前似乎已经沉默，我们也许永远无法知道。我们还发现了Ion的一些隐藏日志，提到它最近使用了纳米机械，这使得我们怀疑它并不像它告诉我们的那样无法操纵周围的世界。</AEIonConnectionResearch.discoveredLetterText>
 	<!-- EN: subject->sleep enhancer serum -->
     <AEIonConnectionResearch.generalRules.rulesStrings.0>subject->生体谐振器</AEIonConnectionResearch.generalRules.rulesStrings.0>
 	<!-- EN: subject_story->stayed awake for long time and was fired due to be too efficient at work -->

@@ -5,13 +5,13 @@
     <!-- EN: Void shock coma -->
 	<Hediff_AE_Pebble.label>虚空冲击昏迷</Hediff_AE_Pebble.label>
     <!-- EN: The anomaly has lodged itself into the brain of this pawn, which has put him into a coma but ultimately left the brain untouched -->
-	<Hediff_AE_Pebble.description>异常物体已经嵌入这个个体的脑中，导致其陷入昏迷状态，但最终大脑未受到任何损害。</Hediff_AE_Pebble.description>
+	<Hediff_AE_Pebble.description>异常已经嵌入这个个体的脑中，导致其陷入昏迷状态，但最终大脑未受到任何损害。</Hediff_AE_Pebble.description>
     <!-- EN: Void shock coma -->
 	<Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterLabel>虚空冲击昏迷</Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterLabel>
     <!--
         EN: While investigating the pebble anomaly, it seems to have activated in the process and launched itself at the speed of a bullet right into the subject's head, after which it healed the wound and lodged itself into the brain. \nThe subject seems to be still alive, although in a coma, so the only thing we have left is waiting for them to recover
     -->
-	<Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>在调查异常卵石期间似乎意外将其激活，并以子弹的速度直接射入实验对象的头部，之后它治愈了伤口并嵌入了大脑中。\n尽管处于昏迷状态，对象似乎仍然存活，所以我们现在能做的只有等待他们恢复。</Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>
+	<Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>对象在调查异常卵石期间似乎意外将其激活，并以子弹的速度直接射入对象的头部，之后它治愈了伤口并嵌入了大脑中。\n尽管处于昏迷状态，对象似乎仍然存活，所以我们现在能做的只有等待他们恢复。</Hediff_AE_Pebble.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Void shock sideeffects -->
 	<Hediff_AE_PebbleSecond.label>虚空冲击副作用</Hediff_AE_PebbleSecond.label>
@@ -33,7 +33,7 @@
 	<!--
         EN: Study of the void shock #2\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations of the Subject {PAWN_nameDef} while under the influence of the pebble anomaly. The pawn has fully recovered their senses, however they became altered. It seems that they no longer use their organs to feel, but rather get information directly into the brain via psychic phenomena, to which they have developed a stronger connection, probably due to pebble's influence. What is more interesting, however, is the experience the pawn has gone through. While we saw the subject's condition as a coma, what they felt was more like an astral projection. They tell us of a world completely different to us - an endless, void-like ocean and black metallic spires going from every direction to every direction. The pawn still has some form of connection to that world, which might allow us to research it as well and maybe even influence it somehow.\n\nObservations:\n{PAWN_nameDef} Has recovered all of their senses via psychic phenomena.\nWhile in a coma, the subject experienced what they describe as "Another dimension". \nThe pawn is still connected to that dimension.\n\nFindings:\nThe pebble seems to have connected the pawn to a void dimension.\n\nDiscussion:\nThe connection gives numerous possibilites, but we don't know if it poses a danger or not, however for now the anomaly associated with the pebble and the void shock can be classified as Class-0 (Safe).\n\nRecommendations:\nResearch further
     -->
-    <Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>关于虚空冲击的研究 #2\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了实验对象{PAWN_nameDef}在异常卵石影响下的观察结果。对象已经完全恢复了感官，但它们似乎发生了改变。似乎对象不再使用器官来感受环境，而是通过心灵能力直接将信息输入大脑，这可能是因为卵石的影响而与他们的联系变得更加强烈。更有趣的是对象的经历。虽然我们看到对象的状态类似于昏迷，但对象所感觉到的更像是一种精神投射。他告诉我们一个与我们完全不同的世界——一个无尽的、虚空般的海洋和各个方向无边无际的黑色金属尖塔。对象仍然与那个世界保持着某种联系，这可能允许我们研究它，甚至以某种方式影响它。\n\n现象：\n{PAWN_nameDef} 通过灵能恢复了所有感官。\n在昏迷期间，对象经历了他们描述为“另一个维度”的经历。\n对象仍与那个维度相连接。\n\n结果：\n卵石似乎将对象与另一个虚空维度建立了连接。\n\n讨论：\n这种连接提供了许多可能性，但我们不知道它是否构成危险。然而就目前而言，与卵石和虚空冲击相关的异常可以被分类为 0 级（安全）异常。\n\n建议：\n进一步研究。</Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>
+    <Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>关于虚空冲击的研究 #2\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了实验对象{PAWN_nameDef}在异常卵石影响下的观察结果。对象已经完全恢复了感官，但似乎发生了改变。似乎对象不再使用器官来感受环境，而是通过心灵能力直接将信息输入大脑，这可能是因为对象由于卵石的影响获得了更强的心灵能力。更有趣的是对象的经历。虽然我们看到对象似乎一直处于昏迷状态，但对象所感觉到的更像是一种精神投射。他告诉我们一个与我们完全不同的世界——一个无尽的、虚空般的海洋和各个方向无边无际的黑色金属尖塔。对象仍然与那个世界保持着某种联系，这可能允许我们研究它，甚至以某种方式影响它。\n\n现象：\n{PAWN_nameDef} 通过灵能恢复了所有感官。\n在昏迷期间，对象经历了他们描述为“另一个维度”的经历。\n对象仍与那个维度相连接。\n\n结果：\n卵石似乎将对象与另一个虚空维度建立了连接。\n\n讨论：\n这种连接提供了许多可能性，但我们不知道它是否构成危险。然而就目前而言，与卵石和虚空冲击相关的异常可以被分类为 0 级（安全）异常。\n\n建议：\n进一步研究。</Hediff_AE_PebbleThird.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Void-powered feelings -->
 	<Hediff_AE_PebbleFourth.label>虚空觉知</Hediff_AE_PebbleFourth.label>
