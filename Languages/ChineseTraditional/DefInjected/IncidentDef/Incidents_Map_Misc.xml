@@ -28,7 +28,7 @@
     <!-- EN: Found industrial metal box -->
 	<AE_IncidentDef_MeatGrinderSpawn.letterLabel>發現工業金屬箱</AE_IncidentDef_MeatGrinderSpawn.letterLabel>
 	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
-    <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個形同一張桌子般高度的金屬箱體，外觀類似工業制品。光滑的表面兩側有幾扇小門，頂部有一個大洞，裏面藏着刀片。孔旁邊有一個按鈕，暗示着一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
+    <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個形同一張桌子般高度的金屬箱體，外觀類似工業製品。光滑的表面兩側有幾扇小門，頂部有一個大洞，裏面藏着刀片。孔旁邊有一個按鈕，暗示着一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
 	
     <!-- EN: transmitter -->
     <AE_IncidentDef_BeamTargetSpawn.label>發信器</AE_IncidentDef_BeamTargetSpawn.label>

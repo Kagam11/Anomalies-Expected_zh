@@ -20,21 +20,21 @@
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass stomach. This is a painful process that will take one day for cyst to assimilate within host's body. -->
 	<IncubateAEFleshmassStomach.description>血肉囊肿将被植入对象体内用以培养血肉胃。这是一个痛苦的过程，需要一天时间等待囊肿在宿主体内同化。</IncubateAEFleshmassStomach.description>
     <!-- EN: Incubating fleshmass stomach. -->
-	<IncubateAEFleshmassStomach.jobString>正在培养биомассы.</IncubateAEFleshmassStomach.jobString>
+	<IncubateAEFleshmassStomach.jobString>正在培养血肉胃。</IncubateAEFleshmassStomach.jobString>
 
     <!-- EN: incubate fleshmass lung -->
 	<IncubateAEFleshmassLung.label>培养血肉肺</IncubateAEFleshmassLung.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass lung. This is a painful process that will take one day for cyst to assimilate within host's body. -->
 	<IncubateAEFleshmassLung.description>血肉囊肿将被植入对象体内用以培养血肉肺。这是一个痛苦的过程，需要一天时间等待囊肿在宿主体内同化。</IncubateAEFleshmassLung.description>
     <!-- EN: Incubating fleshmass lung. -->
-	<IncubateAEFleshmassLung.jobString>正在培养биомассы.</IncubateAEFleshmassLung.jobString>
+	<IncubateAEFleshmassLung.jobString>正在培养血肉肺。</IncubateAEFleshmassLung.jobString>
 
     <!-- EN: incubate fleshmass liver -->
 	<IncubateAEFleshmassLiver.label>培养血肉肝</IncubateAEFleshmassLiver.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass liver. This is a painful process that will take one day for cyst to assimilate within host's body. -->
 	<IncubateAEFleshmassLiver.description>血肉囊肿将被植入对象体内用以培养血肉肝。这是一个痛苦的过程，需要一天时间等待囊肿在宿主体内同化。</IncubateAEFleshmassLiver.description>
     <!-- EN: Incubating fleshmass liver. -->
-	<IncubateAEFleshmassLiver.jobString>正在培养биомассы.</IncubateAEFleshmassLiver.jobString>
+	<IncubateAEFleshmassLiver.jobString>正在培养血肉肝。</IncubateAEFleshmassLiver.jobString>
 
     <!-- EN: incubate fleshmass acid cavity -->
 	<IncubateAEFleshmassAcidCavity.label>培养血肉酸腔</IncubateAEFleshmassAcidCavity.label>
@@ -108,7 +108,7 @@
     <!-- EN: incubate fleshmass body mutation -->
 	<IncubateAEFleshmassBodyMutation.label>培养血肉躯体突变</IncubateAEFleshmassBodyMutation.label>
     <!-- EN: A fleshmass tumor will be implanted into the subject's body to mutate the host's entire body and replacing some tissue with fleshmass. This is a painful process that will take two days for tumor to assimilate within host's body.\n\nIt effect depends on amount of fleshmass mutations in the host's body up to 15. -->
-	<IncubateAEFleshmassBodyMutation.description>血肉肿瘤将被植入对象体内，使宿主全身发生变异并将部分组织用血肉块取代。这是一个痛苦的过程，需要两天时间等待肿瘤在宿主体内同化。\n\nЭффект зависит от количества мутаций в теле носителя до 15.</IncubateAEFleshmassBodyMutation.description>
+	<IncubateAEFleshmassBodyMutation.description>血肉肿瘤将被植入对象体内，使宿主全身发生变异并将部分组织用血肉块取代。这是一个痛苦的过程，需要两天时间等待肿瘤在宿主体内同化。\n\n效果取决于躯体突变次数，最多可以突变5次。</IncubateAEFleshmassBodyMutation.description>
     <!-- EN: Incubating fleshmass body mutation. -->
 	<IncubateAEFleshmassBodyMutation.jobString>正在培养血肉躯体突变</IncubateAEFleshmassBodyMutation.jobString>
 

@@ -71,13 +71,13 @@
 	<AE_BloodLiquidInjector.ingestible.ingestReportString>正在注射{0}。</AE_BloodLiquidInjector.ingestible.ingestReportString>
 
     <!-- EN: fleshmass cyst -->
-	<AE_FleshmassCyst.label>киста из биомассы</AE_FleshmassCyst.label>
-    <!-- EN: A parasitic, pulsating small mass of flesh, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
-	<AE_FleshmassCyst.description>Паразитический, пульсирующий небольшой кусок плоти, способный к быстрому росту и трансформации. Способен внедряться в тело хозяина и питаться его энергией.</AE_FleshmassCyst.description>
+	<AE_FleshmassCyst.label>血肉囊肿</AE_FleshmassCyst.label>
+    <!-- EN: A parasitic, pulsating small mass of flesh, capable of rapid growth and transformation. Capable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassCyst.description>一团寄生、跳动着的肉团。能够快速生长和变化。能够嵌入宿主体内，并从宿主体内汲取养分。</AE_FleshmassCyst.description>
 
     <!-- EN: fleshmass tumor -->
-	<AE_FleshmassTumor.label>血肉囊肿</AE_FleshmassTumor.label>
-    <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassTumor.label>血肉肿瘤</AE_FleshmassTumor.label>
+    <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Capable of embedding itself within a host and drawing sustenance from their body. -->
 	<AE_FleshmassTumor.description>一团有生命的、跳动的肉团，有自己的意志，能够快速生长和变化。能够嵌入宿主体内，并从宿主体内汲取养分。</AE_FleshmassTumor.description>
 
     <!--#endregion-->

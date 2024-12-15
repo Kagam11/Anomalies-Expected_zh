@@ -34,11 +34,11 @@
     <!-- EN: command: call -->
 	<AEFleshbeastCommandGather.label>指令：召唤</AEFleshbeastCommandGather.label>
     <!-- EN: Send a psychic command to fleshbeasts in specific area to move to the caster. -->
-	<AEFleshbeastCommandGather.description>使用灵能对附近的血肉兽发送移动指令，命令他们前往施法者。</AEFleshbeastCommandGather.description>
+	<AEFleshbeastCommandGather.description>使用灵能对一个区域内的血肉兽发送移动指令，命令他们前往施法者。</AEFleshbeastCommandGather.description>
 
     <!-- EN: metabolic recycling -->
 	<AEFleshmassStomach.label>代谢循环</AEFleshmassStomach.label>
     <!-- EN: Break down and reabsorb nutrients from its own tissue. -->
-	<AEFleshmassStomach.description>分解并重新吸收自身组织中的营养物质。</AEFleshmassStomach.description>
+	<AEFleshmassStomach.description>分解血肉胃的部分组织用于供给营养物质。</AEFleshmassStomach.description>
 
 </LanguageData>

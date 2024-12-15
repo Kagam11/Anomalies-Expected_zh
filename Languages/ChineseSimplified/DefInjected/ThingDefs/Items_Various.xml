@@ -142,7 +142,7 @@
     <!-- EN: Touch -->
 	<AE_DogTag.comps.Comp_DogTag.activateLabelString>触摸</AE_DogTag.comps.Comp_DogTag.activateLabelString>
 	<!-- EN: touching {0}: {1}s -->
-    <AE_DogTag.comps.Comp_DogTag.activatingString>正在触摸：{0}: {1}s</AE_DogTag.comps.Comp_DogTag.activatingString>
+    <AE_DogTag.comps.Comp_DogTag.activatingString>正在触摸{0}：{1}s</AE_DogTag.comps.Comp_DogTag.activatingString>
     <!-- EN: touching {0} -->
 	<AE_DogTag.comps.Comp_DogTag.activatingStringPending>正在触摸{0}</AE_DogTag.comps.Comp_DogTag.activatingStringPending>
     <!-- EN: Choose who should touch this. -->

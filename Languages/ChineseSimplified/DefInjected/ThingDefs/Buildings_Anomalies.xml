@@ -130,9 +130,9 @@
     <!-- EN: Press button to activate machine. -->
     <AE_MeatGrinder.comps.Comp_MeatGrinder.activateDescString>按下按钮以激活机器</AE_MeatGrinder.comps.Comp_MeatGrinder.activateDescString>
     <!-- EN: pressing button {0}: {1}s -->
-    <AE_MeatGrinder.comps.Comp_MeatGrinder.activatingString>正在按按钮：{0}: {1}s。</AE_MeatGrinder.comps.Comp_MeatGrinder.activatingString>
+    <AE_MeatGrinder.comps.Comp_MeatGrinder.activatingString>正在按按钮{0}: {1}s。</AE_MeatGrinder.comps.Comp_MeatGrinder.activatingString>
     <!-- EN: pressing button {0} -->
-    <AE_MeatGrinder.comps.Comp_MeatGrinder.activatingStringPending>正在按按钮：{0}</AE_MeatGrinder.comps.Comp_MeatGrinder.activatingStringPending>
+    <AE_MeatGrinder.comps.Comp_MeatGrinder.activatingStringPending>正在按按钮{0}</AE_MeatGrinder.comps.Comp_MeatGrinder.activatingStringPending>
     <!-- EN: Choose who should activate this. -->
     <AE_MeatGrinder.comps.Comp_MeatGrinder.guiLabelString>选择按按钮的人</AE_MeatGrinder.comps.Comp_MeatGrinder.guiLabelString>
     <!-- EN: press button -->
@@ -197,13 +197,20 @@
     <!-- EN: Theory Regarding Meat Grinder\n\nSubject: [REDACTED]\n\nAbstract:\nDrilling into the anomalous Symphony of Eternal Slaughter revealed human organs and a brain sustained by an organic-metallic life support system. Scans matched the internal sounds with humming reported during a prior unauthorized access lethal incident. A hypothesis proposes a dissected person inside psychically attracts and consumes others for self-preservation, with stress levels impacting processing efficiency. Distraction may disrupt control. Destruction is recommended due to safety concerns, though controlled use offers potential benefits if risks are mitigated.\n\nObservations:\n[REDACTED] utilized drilling equipment to create an opening in one of the meat grinder's access doors. Following the initial drilling, blood was observed leaking from the interior of the machine. [REDACTED] reported hearing a heartbeat and witnessing muscle contractions within the meat grinder.\nScans were conducted through the newly created opening, revealing the presence of human organs and a brain inside.\n\nOutcome:\nThe scans revealed human organs, including a brain, located within the organic metal core of the meat grinder. These organs appear to be maintained by a life support system constructed from a network of twisted flesh.\nAdditional sound analysis revealed similarities between the detected sounds and the humming reported by [REDACTED] during the unauthorized access incident.\n\nHypothesis:\nBased on the report by [REDACTED], the following theory regarding the Symphony of Eternal Slaughter is proposed by one of observers. A dissected human is contained within the organic metal core of the machine, with their organs and brain kept functional through a life support system. This potentially reflects an unorthodox method, employed by archotech scientists, to automate the butchering process without rellying on artificial intelligence. To maintain itself, this person might utilize a form of singing on psychic level to attract living humans. Consumed alive humans or their body parts may be used to sustain the person by providing bodily fluids and cells, allowing for self-sustenance. Increased stress levels within the person could potentially correlate with higher processing efficiency, possibly as a means of attracting attention and ensure flow of corpses and bodies.\n\nDiscussion:\nIt is theorized that effective distraction of a subject affected by the singing could potentially disrupt control of the meat grinder and prevent a lethal incident.\n\nRecommendations:\nRemoval: Given the potential for accidental death, it destruction maybe the best coarse of action. This approach could also potentially provide access to samples of meat grinder person's body parts from it.\nControlled Use: Alternatively, if hypothesis is right, then continued use of meat grinder, under controlled and monitored conditions, could offer substantial benefits in terms of corpse butchering. This approach, however, necessitates thorough risk assessment and the development of safety protocols to safeguard colonists' well-being. -->
     <AE_MeatGrinder.comps.CompAEStudyUnlocks.studyNotes.4.text>关于绞肉机的理论\n\n对象：[删除]\n\n摘要：\n对异常“永恒屠戮交响曲”的研究显示装置内部存在一套由有机-金属生命支持系统维持的人体器官和大脑。扫描显示装置发出声音与先前未授权进入导致致命事件中报告的哼唱声相匹配。一种假设提出，装置内部的人通过精神力量吸引并屠宰他人以自保，且压力水平影响处理效率。对被异常吸引的人进行干扰可能会破坏其控制。由于安全考虑，建议销毁该异常，但如果能够减轻风险，控制使用也可能带来潜在的益处。\n\n现象：\n[删除]使用钻孔设备在绞肉机的一个入口门上开了一个孔。钻孔后观察到有血液从机器内部渗出。[删除]报告称听到了心跳声，并目睹了绞肉机内的肌肉收缩。\n通过新开辟的开口进行扫描，发现里面有人体器官和大脑。\n\n结果：\n扫描结果显示，绞肉机的有机金属内核中装有包括大脑在内的全套人体器官。这些器官似乎由一个由扭曲血肉网络构成的生命支持系统来维持。\n\n假说：\n根据[删除]的报告，一位研究员提出了以下有关永恒屠戮交响曲的理论。机器的有机金属内核中装有一个被解剖的人类，他们的器官和大脑通过生命维持系统保持功能。这可能反映了超凡智能科学家采用的一种非常规方法，以实现在不依赖人工智能的情况下实现屠宰过程自动化。装置中的人为了维持自身的生命，可能会利用一种精神层面的歌唱形式来吸引活人。被吃掉的活人或其身体部分可以通过提供体液和细胞来维持此人的生命。它体内压力的增加可能与更高的处理效率有关，这可能是吸引注意力并确保尸体持续供应的一种手段。\n\n讨论：\n据推测，有效分散受歌声影响的对象的注意力可能会绞肉机对其控制，防止发生致命事件。\n\n建议：\n拆除：考虑到意外死亡的可能性，将其拆除也许是最好的手段。这种方法还有可能从中获取绞肉机人的身体部位样本。\n受控使用：另一方面，如果假设是正确的，那么在受控和监测的条件下继续使用绞肉机，可以在屠宰尸体方面带来巨大的好处。不过，这种方法需要进行全面的风险评估，并制定安全协议，以保障殖民者的安全。</AE_MeatGrinder.comps.CompAEStudyUnlocks.studyNotes.4.text>
 
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateDescString>Полностью разобрать. [Уничтожит аномалию]</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateDescString>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateLabelString>Разобрать</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateLabelString>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingString>разбирает {0}: {1}s</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingString>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>разбирает {0}</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.guiLabelString>Выберите кто разберёт это</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.jobString>разобрать</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.jobString>
-	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>Разбирается</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>
+    <!-- EN: Deconstruct and fully disassemble. [Will destroy it] -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateDescString>完全拆解该机器 [会摧毁该异常]</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateDescString>
+    <!-- EN: Deconstruct -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateLabelString>拆解</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activateLabelString>
+    <!-- EN: deconstructing {0}: {1}s -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingString>正在拆解{0}：{1}s</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingString>
+    <!-- EN: deconstructing {0} -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>正在拆解{0}</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>
+    <!-- EN: Choose who should deconstruct this. -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.guiLabelString>选择谁应该来拆解这个</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
+    <!-- EN: deconstruct -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.jobString>拆解</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.jobString>
+    <!-- EN: Deconstructing -->
+	<AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>正在拆解</AE_MeatGrinder.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>
 
     <!-- EN: transmitter -->
     <AE_BeamTarget.label>发信器</AE_BeamTarget.label>
@@ -300,8 +307,10 @@
 	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.guiLabelString>选择移除该异常的人。</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
     <!-- EN: modify data -->
 	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>修改数据</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>
-	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>модифицировать данные</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>
-	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>Создание данных спутника</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>
+    <!-- EN: modify data -->
+	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>修改数据</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.jobString>
+    <!-- EN: Generating satellite data -->
+	<AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>正在生成卫星数据</AE_BeamTarget.comps.Comp_CanDestroyedAfterStudy.interactionProgressString>
 	
     <!-- EN: strange puddle -->
 	<AE_BloodPuddle.label>怪潭</AE_BloodPuddle.label>
@@ -419,7 +428,7 @@
     <!-- EN: A dark, viscous giant crimson pool, oozing and spreading, a stark contrast to the surrounding environment. The substance within is a blood-like liquid, composed primarily of blood with a bioferrite admixture. Occasiounally small fleshbeasts will emerge from it. Decrease in liquid density imply the iminent emergence of big group of fleshbeasts.\n\nNo longer can be entered for an expedition to the unknown territory.\n\nClassified as Class-4 (Critical) anomaly. -->
 	<AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyDesc>一个黑暗、粘稠的深红色湖泊，其中的液体不断渗出、蔓延，与周围的环境形成了鲜明的对比。其中的物质是一种类似血液的液体，主要成分是血液和活铁。偶尔会有小型血肉兽从中钻出。液体密度的降低意味着大批血肉兽即将出现。进入未知领域探险已变得不再可能。\n\n分类为 4 级（危急）异常。</AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyDesc>
     <!-- EN: where we are no longer -->
-	<AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyLabel>此处我们已不再</AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyLabel>
+	<AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyLabel>无归之地</AE_BloodLake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.1.AnomalyLabel>
     <!--
         EN: The Sacrifice\n\nAbstract:\nCommunication with personnel on the other side of the blood lake has been lost, and the lake's high-density region has returned to its previous state. While the immediate threat of large-scale fleshbeast incursions has diminished, the lake's inherent instability warrants its continued classification as a Class-4 (Critical) anomaly. To mitigate future risks, the complete neutralization of the lake through the use of a dissolvent chemical is recommended. However, controlled extraction of the blood-like liquid for research and technological applications remains a viable option.\n\nOutcome:\nAll communication with personnel on the other side of the blood lake has been lost.\nAdditionally, the high-density region of the lake has returned to a depth of 50 meters.\n\nDiscussion:\nThe apparent closure of the connection to the other side of the blood lake suggests that the threat of large-scale fleshbeast incursions has diminished.\nThe current classification of Blood Lake remains Class-4 (Critical), even though it no longer pose an immediate threat to personnel within the facility.\n\nRecommendations:\nDestruction: The use of the dissolvent chemical, previously employed on the blood puddle, is recommended to permanently eliminate the threat posed by the blood lake.\nControlled Use: Continued extraction of blood-like liquid from the lake remains viable, particularly for applications related to the recently acquired knowledge and technologies.
     -->
@@ -428,11 +437,11 @@
     <!-- EN: Add chemicals to dissolve and fill it with soil. [Will destroy it] -->
 	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateDescString>加入溶血剂并用泥土填埋。[会摧毁该异常]</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateDescString>
     <!-- EN: Fill with soil -->
-	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateLabelString>填埋泥土</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateLabelString>
+	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateLabelString>填埋</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activateLabelString>
     <!-- EN: dissolving and filling for {0}: {1}s -->
-	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingString>正在溶血并填埋：{0}: {1}s</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingString>
+	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingString>正在溶血并填埋{0}：{1}s</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingString>
     <!-- EN: dissolving and filling for {0} -->
-	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>正在溶血并填埋：{0}</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>
+	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>正在溶血并填埋{0}</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>
     <!-- EN: Choose who should destroy this. -->
 	<AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.guiLabelString>选择谁应该摧毁该异常。</AE_BloodLake.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
     <!-- EN: dissolve and fill in -->
@@ -452,7 +461,7 @@
     <!--
         EN: Fleshmass response\n\nAbstract:\nAn exploration team encountered a hostile, flesh-infested environment on the other side of the blood lake. The team faced coordinated attacks from fleshbeasts and experienced a sense of déjà vu. Evidence of human infrastructure and a mysterious signal suggest a complex history and potential threat. Further exploration and research are necessary to understand the nature of this world.\n\nObservations:\nThe exploration team encountered a hostile environment dominated by flesh mass.\nThe soil beneath their feet was covered in the fleshmass, and they were subjected to continuous attacks from various directions.\nThe emergence of new fleshbeasts from underground nests suggests a coordinated assault.\nAdditionally, the team experienced long ranged acid spit attacks, further complicating the situation.\nSome team members reported a sense of familiarity with the location, and others discovered dog tags with names resembling their own.\n\nDiscussion:\nThe underground nests, likely of human origin, suggest a pre-existing infrastructure in this location.\nThe coordinated attacks by the fleshbeasts, including the acid spitters, imply a level of intelligence and organization that may be controlled by a hive mind.\nThe detected signal, matching our facility's frequency, but it require more time to find the exact location of transmitter.\n\nRecommendations:\nStudy: We should continue study blood lake exit to learn more about this location and pinpoint the source of detected signal.\nSecurity: The exploration team must maintain a strong defensive perimeter and be prepared for further attacks from fleshbeasts.
     -->
-	<AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.0.text>血肉块反应\n\n摘要：\n勘探队在血湖的另一边遇到了一个充满敌意、充满血肉块的世界。队员们面在对血肉兽的协同攻击时体验到了一种既视感。人造设施的存在和神秘信号表明，这里有着复杂的历史和潜在的威胁。要了解这个世界的本质，还需要进一步的探索和研究。\n\n现象：\nИ勘探队遇到了以血肉块为主的恶劣环境。\n他们脚下的土壤被血肉块覆盖，同时不断遭受来自不同方向的攻击。\n新的血肉兽从地下巢穴中出现，表明这是一次协同攻击。\n此外，队员们还遭遇了远距离的酸液喷吐攻击，使情况变得更加复杂。\n一些队员表示对该地点有一种熟悉感，还有一些队员发现了与自己名字相似的狗牌。\n\n讨论：\n这些地下巢穴很可能是人类的基地，这表明该地点以前就存在这些基础设施。\n血肉兽和酸液喷吐者的协调攻击意味着它们可能受到蜂巢思维的控制。\n探测到的信号与我们设施的频率一致，但需要更多时间才能找到信号的确切位置。\n\n建议：\n研究：我们应继续对血湖出口进行研究，以进一步了解该位置，并准确定位探测到的信号源。\n安全：勘探队必须保持坚固的防御阵地，并做好进一步遭受血肉兽袭击的准备。</AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.0.text>
+	<AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.0.text>血肉块反应\n\n摘要：\n勘探队在血湖的另一边遇到了一个充满敌意、充满血肉块的世界。队员们面在对血肉兽的协同攻击时体验到了一种既视感。人造设施的存在和神秘信号表明，这里有着复杂的历史和潜在的威胁。要了解这个世界的本质，还需要进一步的探索和研究。\n\n现象：\n勘探队遇到了以血肉块为主的恶劣环境。\n他们脚下的土壤被血肉块覆盖，同时不断遭受来自不同方向的攻击。\n新的血肉兽从地下巢穴中出现，表明这是一次协同攻击。\n此外，队员们还遭遇了远距离的酸液喷吐攻击，使情况变得更加复杂。\n一些队员表示对该地点有一种熟悉感，还有一些队员发现了与自己名字相似的狗牌。\n\n讨论：\n这些地下巢穴很可能是人类的基地，这表明该地点以前就存在这些基础设施。\n血肉兽和酸液喷吐者的协调攻击意味着它们可能受到蜂巢思维的控制。\n探测到的信号与我们设施的频率一致，但需要更多时间才能找到信号的确切位置。\n\n建议：\n研究：我们应继续对血湖出口进行研究，以进一步了解该位置，并准确定位探测到的信号源。\n安全：勘探队必须保持坚固的防御阵地，并做好进一步遭受血肉兽袭击的准备。</AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.0.text>
 
     <!-- EN: #7/8 Blood Lake study report -->
 	<AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.1.label>#7/8 血湖研究报告</AE_BloodLakeExit.comps.CompAEStudyUnlocks.studyNotes.1.label>

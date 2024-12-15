@@ -4,7 +4,7 @@
     <!-- EN: incubating fleshmass tumor -->
 	<Hediff_AEFleshmassTumorIncubation.label>孵化血肉肿瘤</Hediff_AEFleshmassTumorIncubation.label>
     <!-- EN: All bodily functions are redirected to sustain the growth of the fleshmass tumor, a fatal process, as the cyst has become inextricably intertwined with the organ structure. However, the cyst is dependent on the host's survival. -->
-	<Hediff_AEFleshmassTumorIncubation.description>为维持血肉囊肿的生长，所有身体机能都会被调整，这是一个致命的过程，因为囊肿已经与器官结构密不可分。然而，囊肿本身的生存依赖于宿主。</Hediff_AEFleshmassTumorIncubation.description>
+	<Hediff_AEFleshmassTumorIncubation.description>此人的所有身体机能都已调整以维持血肉囊肿的生长，囊肿已经与器官结构密不可分，因此这最终是一个致命的过程。不过，在囊肿成熟前，其本身的生存仍依赖于宿主。</Hediff_AEFleshmassTumorIncubation.description>
     <!-- EN: Fleshmass tumor incubated from {0} -->
 	<Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>血肉肿瘤由{0}孵化</Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>
 

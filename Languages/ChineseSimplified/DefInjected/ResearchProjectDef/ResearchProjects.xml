@@ -47,8 +47,10 @@
     <!-- EN: subject_gerund->synthesizing giant apple inhibitor serums -->
 	<AEFruitInhibitorSerum.generalRules.rulesStrings.2>subject_gerund->正合成禁果抑制血清</AEFruitInhibitorSerum.generalRules.rulesStrings.2>
 
-	<AEForbiddenFruitImplant.label>имплант запретного знания</AEForbiddenFruitImplant.label>
-	<AEForbiddenFruitImplant.description>Изучить способо извлечения семян из огромного яблока для создания нового импланта.</AEForbiddenFruitImplant.description>
+    <!-- EN: implant of forbidden knowledge -->
+	<AEForbiddenFruitImplant.label>禁忌知识植入体</AEForbiddenFruitImplant.label>
+    <!-- EN: Learn how to extract seeds from the Giant Apple to create a new implant. -->
+	<AEForbiddenFruitImplant.description>掌握如何从知识禁果中提取种子并制作植入体</AEForbiddenFruitImplant.description>
 
     <!-- EN: grinder stomach -->
 	<AEGrinderStomach.label>绞磨胃</AEGrinderStomach.label>
@@ -139,7 +141,7 @@
     <!-- EN: study notes #BL02 -->
 	<AEBloodLakeTerminalB.label>研究记录 #BL02</AEBloodLakeTerminalB.label>
     <!-- EN: Acquire knowledge of fleshmass tumor incubation operation and new operations for mutating fleshmass organs from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass tumor;\n- Operation to incubate fleshmass acid cavity;\n- Operation to incubate fleshmass ear;\n- Operation to incubate fleshmass eye;\n- Operation to incubate fleshmass kidney;\n- Operation to incubate fleshmass heart;\n- Operation to incubate fleshmass brain tumor. -->
-	<AEBloodLakeTerminalB.description>掌握血肉肿瘤的孵化以及从肿瘤变异出血肉器官的操作。\n\n解锁：\n血肉肿瘤的培养；\n血肉酸腔的培养\n血肉耳的培养；\n血肉眼的培养；\n血肉肾的培养；\血肉心的培养；\n血肉脑瘤的培养。</AEBloodLakeTerminalB.description>
+	<AEBloodLakeTerminalB.description>掌握血肉肿瘤的孵化以及从肿瘤变异出血肉器官的操作。\n\n解锁：\n血肉肿瘤的培养；\n血肉酸腔的培养\n血肉耳的培养；\n血肉眼的培养；\n血肉肾的培养；\n血肉心的培养；\n血肉脑瘤的培养。</AEBloodLakeTerminalB.description>
 
     <!-- EN: study notes #BL03 -->
 	<AEBloodLakeTerminalC.label>研究记录 #BL03</AEBloodLakeTerminalC.label>
