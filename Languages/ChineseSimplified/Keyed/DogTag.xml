@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: {0} got absorbed by {1} on touch -->
+	<AnomaliesExpected.DogTag.Interacted>{0}被{1}通过触摸吸收</AnomaliesExpected.DogTag.Interacted>
+    <!-- EN: They doesn't feel anything from interacting with it -->
+	<AnomaliesExpected.DogTag.WrongPawn>他们与它互动时没有任何感觉</AnomaliesExpected.DogTag.WrongPawn>
+    <!-- EN: Name: {0} -->
+	<AnomaliesExpected.DogTag.PawnLabel>名字：{0}</AnomaliesExpected.DogTag.PawnLabel>
+</LanguageData>

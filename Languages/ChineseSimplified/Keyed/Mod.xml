@@ -7,13 +7,18 @@
     <AnomaliesExpected.Settings.BakingPies.ReplicationLimit>将每次复制派的数量限制在 {0} (0为无限制)</AnomaliesExpected.Settings.BakingPies.ReplicationLimit>
     <!-- EN: All Pie Pieces will despawn, when Big Pie destroyed -->
     <AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>当派母体被摧毁时也摧毁所有复制派</AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>
-    <!-- EN: Will get message during Big Pie replication -->
+    <!-- EN: Will get message du
+    ring Big Pie replication -->
     <AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>当巨大的派复制时收到消息</AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>
 
     <!-- EN: Precise Orbital Beam Targeter require existence Transmitter to call Beam -->
     <AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>轨道光束精确靶向器需要发信器本身才能使用</AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>
+
     <!-- EN: Will get letter instead of message, when Transmitter leaving containment -->
     <AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>当发信器脱离收容时收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
+
+    <!-- EN: Set multiplier for amount of threat points for fleshbeast generation from nests to {0} -->
+	<AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>将巢穴生成血肉兽的威胁点数系数设置为{0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
 
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>尝试解锁 Anomalies Expected 的研究项目</AnomaliesExpected.Settings.ResearchTab.Unlock>

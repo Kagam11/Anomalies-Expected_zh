@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected Addon-->
 
@@ -10,9 +10,9 @@
 	<Hediff_AE_Subcore.stages.0.label>隱藏</Hediff_AE_Subcore.stages.0.label>
 	
     <!-- EN: Connection -->
-	<Hediff_AE_SubcoreSecond.label>連線</Hediff_AE_SubcoreSecond.label>
+	<Hediff_AE_SubcoreSecond.label>連接</Hediff_AE_SubcoreSecond.label>
     <!-- EN: The being inside of the subcore has connected the entity to a dark archopersona, making it highly agressive and unkillable by conventional means -->
-	<Hediff_AE_SubcoreSecond.description>子核中的實體將該生物與黑暗宿主聯絡起來，使其具有很強的攻擊性，無法用常規方法殺死它</Hediff_AE_SubcoreSecond.description>
+	<Hediff_AE_SubcoreSecond.description>子核中的實體將該生物與黑暗宿主聯繫起來，使其具有很強的攻擊性，無法用常規方法殺死它</Hediff_AE_SubcoreSecond.description>
     <!-- EN: #3/3 Subcore study report -->
 	<Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterLabel>#3/3 人格子核研究報告</Hediff_AE_SubcoreSecond.comps.HediffComp_Discoverable.discoverLetterLabel>
     <!--

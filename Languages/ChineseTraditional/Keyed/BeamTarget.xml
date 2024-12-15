@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!--#region Anomalies Expected -->
-    
+
 	<!-- EN: {0}/{1} lights on the indicator are lit -->
 	<AnomaliesExpected.BeamTarget.Indicator>指示器上有{0}/{1}個燈點亮</AnomaliesExpected.BeamTarget.Indicator>
 	<!-- EN: Current state: {0} -->
 	<AnomaliesExpected.BeamTarget.State>當前狀態：{0}</AnomaliesExpected.BeamTarget.State>
 	<!-- EN: Searching -->
-	<AnomaliesExpected.BeamTarget.StateSearching>搜尋中</AnomaliesExpected.BeamTarget.StateSearching>
+	<AnomaliesExpected.BeamTarget.StateSearching>搜索中</AnomaliesExpected.BeamTarget.StateSearching>
 	<!-- EN: Activating -->
-	<AnomaliesExpected.BeamTarget.StateActivating>啟用中</AnomaliesExpected.BeamTarget.StateActivating>
+	<AnomaliesExpected.BeamTarget.StateActivating>激活中</AnomaliesExpected.BeamTarget.StateActivating>
 	<!-- EN: Time before high energy burst: {0} -->
 	<AnomaliesExpected.BeamTarget.TimeTillBeam>能量轟炸前倒計時：{0}</AnomaliesExpected.BeamTarget.TimeTillBeam>
 	<!-- EN: Holding button -->
@@ -18,9 +18,6 @@
 	<AnomaliesExpected.BeamTarget.LeftContainment>{0}脫離收容</AnomaliesExpected.BeamTarget.LeftContainment>
     <!-- EN: {0} left the containment zone on its own. Its location must be urgently determined to reduce collateral damage. -->
     <AnomaliesExpected.BeamTarget.LeftContainmentText>{0} 自己逃離了收容。它的位置必須馬上查明，以防止隨後的危害。</AnomaliesExpected.BeamTarget.LeftContainmentText>
-    
-    <!-- EN: Generating satellite data -->
-    <AnomaliesExpected.BeamTarget.DestroyedAfterStudy>生成衛星數據</AnomaliesExpected.BeamTarget.DestroyedAfterStudy>
 	
     <!-- EN: {0} wasn't able to connect to Transmitter -->
 	<AnomaliesExpected.PowerBeam.BeamTargetMissing>{0} 無法連接至發信器</AnomaliesExpected.PowerBeam.BeamTargetMissing>

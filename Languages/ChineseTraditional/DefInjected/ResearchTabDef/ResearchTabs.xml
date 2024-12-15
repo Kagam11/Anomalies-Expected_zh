@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!--#region Anomalies Expected-->
 
 	<AnomaliesExpected.label>Anomalies Expected</AnomaliesExpected.label>
-    <!--EN:Expansion of void-related technologies by studying unnatural entities.\n\nIt uses logic of anomaly research projects.\n\nProgress shown on Anomaly tab.-->
-	<AnomaliesExpected.generalDescription>透過研究異常實體，解鎖更多的於虛空有關的技術。\n\n使用異常DLC的研究邏輯。\n\n研究進度顯示在異象研究頁面。</AnomaliesExpected.generalDescription>
-    <!--EN:Anomalies Expected research projects-->
-	<AnomaliesExpected.generalTitle>Anomalies Expected研究專案</AnomaliesExpected.generalTitle>
+    <!-- EN: Expansion of void-related technologies by studying unnatural entities.\n\nIt uses logic of anomaly research projects.\n\nProgress shown on Anomaly tab. -->
+	<AnomaliesExpected.generalDescription>通過研究異常實體，解鎖更多的於虛空有關的技術。\n\n使用異常DLC的研究邏輯。\n\n研究進度顯示在異象研究頁面。</AnomaliesExpected.generalDescription>
+    <!-- EN: Anomalies Expected research projects -->
+	<AnomaliesExpected.generalTitle>Anomalies Expected研究項目</AnomaliesExpected.generalTitle>
 
-    <!--#endregion-->
 </LanguageData>

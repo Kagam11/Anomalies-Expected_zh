@@ -47,6 +47,9 @@
     <!-- EN: subject_gerund->synthesizing giant apple inhibitor serums -->
 	<AEFruitInhibitorSerum.generalRules.rulesStrings.2>subject_gerund->正合成禁果抑制血清</AEFruitInhibitorSerum.generalRules.rulesStrings.2>
 
+	<AEForbiddenFruitImplant.label>имплант запретного знания</AEForbiddenFruitImplant.label>
+	<AEForbiddenFruitImplant.description>Изучить способо извлечения семян из огромного яблока для создания нового импланта.</AEForbiddenFruitImplant.description>
+
     <!-- EN: grinder stomach -->
 	<AEGrinderStomach.label>绞磨胃</AEGrinderStomach.label>
     <!-- EN: Produce grinder stomach, which replicate Meat Grinder structure. -->
@@ -117,6 +120,31 @@
 	<AEOrbitalBeamTargeter.generalRules.rulesStrings.4>subject_story->偷走了所有的古代太阳能</AEOrbitalBeamTargeter.generalRules.rulesStrings.4>
     <!-- EN: crafting precise orbital beam targeter -->
 	<AEOrbitalBeamTargeter.generalRules.rulesStrings.5>subject_gerund->正在制造轨道光束精确靶向器</AEOrbitalBeamTargeter.generalRules.rulesStrings.5>
+    
+    <!-- EN: blood-like liquid pump -->
+	<AEBloodPump.label>血样液体泵</AEBloodPump.label>
+    <!-- EN: Acquire fundamental knowledge of the blood-like liquid, including its collection through pumps and the separation of bioferrite from blood. This enables the destruction of new Blood Puddles without full study. -->
+	<AEBloodPump.description>掌握血样液体的基础知识，包括通过泵收集血样液体以及从血液中分离出活铁。这样就可以在没有充分研究的情况下销毁新的血潭。</AEBloodPump.description>
+
+    <!-- EN: blood-like liquid injector -->
+	<AEBloodInjector.label>血样液体注射器</AEBloodInjector.label>
+    <!-- EN: Learn how create blood-like liquid injectors for on field treatment and how to summon new Blood Lake. -->
+	<AEBloodInjector.description>学习如何制作用于现场治疗的血样液体注射器，以及如何召唤新的血湖。</AEBloodInjector.description>
+
+    <!-- EN: study notes #BL01 -->
+	<AEBloodLakeTerminalA.label>研究记录 #BL01</AEBloodLakeTerminalA.label>
+    <!-- EN: Acquire knowledge of fleshmass cyst creation and new operations for mutating fleshmass organs from cyst.\n\nUnlocks:\n- Recipe to incubate fleshmass cyst;\n- Operation to incubate fleshmass stomach;\n- Operation to incubate fleshmass lung;\n- Operation to incubate fleshmass liver;\n- Operation to incubate fleshmass acid gland;\n- Operation to incubate fleshmass nose. -->
+	<AEBloodLakeTerminalA.description>掌握血肉囊肿的生成知识，以及从囊肿中变异出血肉器官的操作。\n\n解锁：\n血肉囊肿的培养；\n血肉胃的培养；\n血肉肺的培养；\n血肉肝的培养；\n血肉酸腺的培养；\n血肉鼻的培养。</AEBloodLakeTerminalA.description>
+
+    <!-- EN: study notes #BL02 -->
+	<AEBloodLakeTerminalB.label>研究记录 #BL02</AEBloodLakeTerminalB.label>
+    <!-- EN: Acquire knowledge of fleshmass tumor incubation operation and new operations for mutating fleshmass organs from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass tumor;\n- Operation to incubate fleshmass acid cavity;\n- Operation to incubate fleshmass ear;\n- Operation to incubate fleshmass eye;\n- Operation to incubate fleshmass kidney;\n- Operation to incubate fleshmass heart;\n- Operation to incubate fleshmass brain tumor. -->
+	<AEBloodLakeTerminalB.description>掌握血肉肿瘤的孵化以及从肿瘤变异出血肉器官的操作。\n\n解锁：\n血肉肿瘤的培养；\n血肉酸腔的培养\n血肉耳的培养；\n血肉眼的培养；\n血肉肾的培养；\血肉心的培养；\n血肉脑瘤的培养。</AEBloodLakeTerminalB.description>
+
+    <!-- EN: study notes #BL03 -->
+	<AEBloodLakeTerminalC.label>研究记录 #BL03</AEBloodLakeTerminalC.label>
+    <!-- EN: Acquire knowledge of new operation for fleshmass mutation of host's body from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass body mutation;\n- Operation to incubate fleshmass organogenesis core. -->
+	<AEBloodLakeTerminalC.description>掌握从肿瘤中获取宿主身体血肉块并变异的知识。\n\n解锁：\n血肉躯体突变；\n血肉器官再生核心。</AEBloodLakeTerminalC.description>
 
     <!--#endregion-->
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: filter out bioferrite -->
+	<MakeAEBloodLiquidBioferrite.label>過濾活鐵</MakeAEBloodLiquidBioferrite.label>
+    <!-- EN: Separate bioferrite from blood-like liquid by filtering it. -->
+	<MakeAEBloodLiquidBioferrite.description>通過過濾從血樣液體中過濾活鐵。</MakeAEBloodLiquidBioferrite.description>
+    <!-- EN: Filtering out bioferite. -->
+	<MakeAEBloodLiquidBioferrite.jobString>正在過濾活鐵。</MakeAEBloodLiquidBioferrite.jobString>
+    <!-- EN: Filtering out bioferite x4. -->
+	<MakeAEBloodLiquidBioferriteBulk.label>過濾活鐵 x4</MakeAEBloodLiquidBioferriteBulk.label>
+    <!-- EN: Separate bioferrite from blood-like liquid by filtering it. -->
+	<MakeAEBloodLiquidBioferriteBulk.description>通過過濾從血樣液體中過濾活鐵。</MakeAEBloodLiquidBioferriteBulk.description>
+    <!-- EN: Filtering out bioferite x4. -->
+	<MakeAEBloodLiquidBioferriteBulk.jobString>過濾活鐵 x4.</MakeAEBloodLiquidBioferriteBulk.jobString>
+	<!-- EN: Filtering out bioferite x16. -->
+    <MakeAEBloodLiquidBioferriteMass.label>отделить биоферрит x16</MakeAEBloodLiquidBioferriteMass.label>
+    <!-- EN: Separate bioferrite from blood-like liquid by filtering it. -->
+	<MakeAEBloodLiquidBioferriteMass.description>通過過濾從血樣液體中過濾活鐵。</MakeAEBloodLiquidBioferriteMass.description>
+    <!-- EN: Filtering out bioferite x16. -->
+	<MakeAEBloodLiquidBioferriteMass.jobString>過濾活鐵 x16.</MakeAEBloodLiquidBioferriteMass.jobString>
+
+    <!-- EN: Purify blood-like liquid -->
+	<MakeAEBloodLiquidHemogenPack.label>提純血樣液體</MakeAEBloodLiquidHemogenPack.label>
+    <!-- EN: Purify blood-like liquid for transfusion. -->
+	<MakeAEBloodLiquidHemogenPack.description>提純血樣液體用於輸血。</MakeAEBloodLiquidHemogenPack.description>
+    <!-- EN: Purifying blood-like liquid. -->
+	<MakeAEBloodLiquidHemogenPack.jobString>提純血樣液體.</MakeAEBloodLiquidHemogenPack.jobString>
+    <!-- EN: purify blood-like liquid x4 -->
+	<MakeAEBloodLiquidHemogenPackBulk.label>提純血樣液體 x4</MakeAEBloodLiquidHemogenPackBulk.label>
+    <!-- EN: Purify blood-like liquid for transfusion. -->
+	<MakeAEBloodLiquidHemogenPackBulk.description>提純血樣液體用於輸血。</MakeAEBloodLiquidHemogenPackBulk.description>
+    <!-- EN: Purifying blood-like liquid x4. -->
+	<MakeAEBloodLiquidHemogenPackBulk.jobString>提純血樣液體 x4.</MakeAEBloodLiquidHemogenPackBulk.jobString>
+    <!-- EN: purify blood-like liquid x16 -->
+	<MakeAEBloodLiquidHemogenPackMass.label>提純血樣液體 x16</MakeAEBloodLiquidHemogenPackMass.label>
+    <!-- EN: Purify blood-like liquid for transfusion. -->
+	<MakeAEBloodLiquidHemogenPackMass.description>提純血樣液體用於輸血。</MakeAEBloodLiquidHemogenPackMass.description>
+    <!-- EN: Purifying blood-like liquid x16. -->
+	<MakeAEBloodLiquidHemogenPackMass.jobString>提純血樣液體 x16.</MakeAEBloodLiquidHemogenPackMass.jobString>
+
+</LanguageData>

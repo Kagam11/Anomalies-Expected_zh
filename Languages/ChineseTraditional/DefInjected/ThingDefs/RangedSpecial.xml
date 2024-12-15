@@ -13,7 +13,7 @@
     <!-- EN: charge -->
 	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>充能</AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>
     <!-- EN: [not found] -->
-	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>過載</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
+	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>重載</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
     <!-- EN: [not found] -->
 	<AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
     

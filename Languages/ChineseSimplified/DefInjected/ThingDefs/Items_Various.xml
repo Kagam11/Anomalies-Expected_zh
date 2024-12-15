@@ -133,5 +133,22 @@
     -->
 	<AE_BakingPiesPiece.description>一小块的派。\n\n一个甜美的圆形面团。面团中心深陷，填满美味鲜嫩的茅屋奶酪作为馅料。整体烘焙至金黄色，是早餐或休闲小吃的完美选择。\n\n尽管这道菜看起来非常柔软诱人，但却具有一种意想不到的韧性。它无法被切割、咬嚼或以其他方式破坏。</AE_BakingPiesPiece.description>
 
+    <!-- EN: Ripped off dog tag -->
+	<AE_DogTag.label>扯下的狗牌</AE_DogTag.label>
+    <!-- EN: A tiny plasteel tag, bearing basic details about an individual, typically used to identify casualties.\n\nIt's been torn off, and the name on it seems familiar to you. Maybe someone can interact with it. -->
+	<AE_DogTag.description>一个微小塑钢标签，上面有个人的基本信息，通常用于识别伤亡人员。\n\n从某处被撕下，上面的名字你好像很熟悉。也许有人能和它互动</AE_DogTag.description>
+    <!-- EN: Make someone touch the dog tag. -->
+	<AE_DogTag.comps.Comp_DogTag.activateDescString>让一个人触摸狗牌</AE_DogTag.comps.Comp_DogTag.activateDescString>
+    <!-- EN: Touch -->
+	<AE_DogTag.comps.Comp_DogTag.activateLabelString>触摸</AE_DogTag.comps.Comp_DogTag.activateLabelString>
+	<!-- EN: touching {0}: {1}s -->
+    <AE_DogTag.comps.Comp_DogTag.activatingString>正在触摸：{0}: {1}s</AE_DogTag.comps.Comp_DogTag.activatingString>
+    <!-- EN: touching {0} -->
+	<AE_DogTag.comps.Comp_DogTag.activatingStringPending>正在触摸{0}</AE_DogTag.comps.Comp_DogTag.activatingStringPending>
+    <!-- EN: Choose who should touch this. -->
+	<AE_DogTag.comps.Comp_DogTag.guiLabelString>选择谁应该触摸这个。</AE_DogTag.comps.Comp_DogTag.guiLabelString>
+    <!-- EN: touch -->
+	<AE_DogTag.comps.Comp_DogTag.jobString>触摸</AE_DogTag.comps.Comp_DogTag.jobString>
+
     <!--#endregion-->
 </LanguageData>

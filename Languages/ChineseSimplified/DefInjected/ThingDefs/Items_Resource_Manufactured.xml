@@ -54,6 +54,32 @@
 	<AEHungerSuppressorSerum.ingestible.ingestCommandString>注射 {0}</AEHungerSuppressorSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
 	<AEHungerSuppressorSerum.ingestible.ingestReportString>正在注射 {0}。</AEHungerSuppressorSerum.ingestible.ingestReportString>
+
+    <!-- EN: Mote -->
+	<Mote_AEBloodLiquidInjector.label>萌芽</Mote_AEBloodLiquidInjector.label>
+    <!-- EN: blood-like liquid injector -->
+	<AE_BloodLiquidInjector.label>血样液体注射器</AE_BloodLiquidInjector.label>
+    <!-- EN: A one-use dose of blood-like liquid. This liquid, when administered, transmute to replace some of lost blood and increases its density around major wounds to prevent further blood loss. It prioritizes the 5 most severe injuries, focusing on those with the highest bleeding rates. Precise dosing is crucial to avoid excessive blood-liquid levels in the bloodstream. -->
+	<AE_BloodLiquidInjector.description>一次性使用的血样液体。注入后该液体能转化为血液，补充部分失血，并增加主要伤口周围的血液密度，防止进一步失血。它根据出血率优先处理5处最严重的伤口。精确的剂量对于避免血液中血液浓度过高至关重要。</AE_BloodLiquidInjector.description>
+    <!-- EN: Inject self -->
+	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>自我注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>
+    <!-- EN: Inject someone else -->
+	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>帮别人注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>
+    <!-- EN: Inject self with {0} -->
+	<AE_BloodLiquidInjector.ingestible.ingestCommandString>正在自我注射{0}</AE_BloodLiquidInjector.ingestible.ingestCommandString>
+    <!-- EN: Injecting {0}. -->
+	<AE_BloodLiquidInjector.ingestible.ingestReportString>正在注射{0}。</AE_BloodLiquidInjector.ingestible.ingestReportString>
+
+    <!-- EN: fleshmass cyst -->
+	<AE_FleshmassCyst.label>киста из биомассы</AE_FleshmassCyst.label>
+    <!-- EN: A parasitic, pulsating small mass of flesh, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassCyst.description>Паразитический, пульсирующий небольшой кусок плоти, способный к быстрому росту и трансформации. Способен внедряться в тело хозяина и питаться его энергией.</AE_FleshmassCyst.description>
+
+    <!-- EN: fleshmass tumor -->
+	<AE_FleshmassTumor.label>血肉囊肿</AE_FleshmassTumor.label>
+    <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassTumor.description>一团有生命的、跳动的肉团，有自己的意志，能够快速生长和变化。能够嵌入宿主体内，并从宿主体内汲取养分。</AE_FleshmassTumor.description>
+
     <!--#endregion-->
 
 

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!--#region Anomalies Expected Addon-->
 
@@ -22,7 +22,7 @@
     <!--
         EN: Study of the void shock #1\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations of the Subject {PAWN_nameDef} while under the influence of the pebble anomaly. After some time the subject recovered the ability to talk and seems to be conscious, although still lacking their ability to see and hear. After two days of complete lack of stimulation, the subject seems to have developed problems with their reasoning. Even though they can't hear themselves, they still seem to be talking about something. The words are still unintelligible, but subject's condition seems to be getting better, and soon we would be able to extract some valuable information about the pawn's experience.\n\nObservations:\n{PAWN_nameDef} Has lost all of their senses due to shock, but is recovering.\nThe subject has recovered their ability to talk, although only slightly.\n\nFindings:\nThe subject seems to be recovering, so new information could be extracted later.\n\nDiscussion:\nAlthough the pawn seems to be in an altered state of mind, they are not posing any danger to us.\n\nRecommendations:\nWait for the subject's recovery
     -->
-	<Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>關於虛空衝擊的研究 #1\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告詳細記錄了對象{PAWN_nameDef}在卵石異常影響下的觀察結果。一段時間後，儘管仍然無法看見和聽見，對象恢復了說話的能力，並且似乎恢復了意識。在兩天完全缺乏刺激的情況下，對象似乎出現了推理問題。儘管他們無法聽到自己的聲音，但他們仍然在談論某些事情。他們的話語仍然難以理解，但實驗對象的狀況似乎正在好轉，我們很快就能提取出一些關於對象經歷的寶貴資訊。\n\n現象：\n{PAWN_nameDef}由於衝擊失去了所有知覺，但正在恢復。\n對象已經恢復了一些說話的能力，儘管程度非常輕微。\n\n結果：\n對象似乎正在恢復，因此可以期待未來能提取到新的資訊。\n\n討論：\n儘管對象的精神狀態似乎已被改變，但他們對我們不構成任何危險。\n\n建議：\n等待對象恢復</Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>
+	<Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>關於虛空衝擊的研究 #1\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告詳細記錄了對象{PAWN_nameDef}在卵石異常影響下的觀察結果。一段時間後，儘管仍然無法看見和聽見，對象恢復了說話的能力，並且似乎恢復了意識。在兩天完全缺乏刺激的情況下，對象似乎出現了推理問題。儘管他們無法聽到自己的聲音，但他們仍然在談論某些事情。他們的話語仍然難以理解，但實驗對象的狀況似乎正在好轉，我們很快就能提取出一些關於對象經歷的寶貴信息。\n\n現象：\n{PAWN_nameDef}由於衝擊失去了所有知覺，但正在恢復。\n對象已經恢復了一些說話的能力，儘管程度非常輕微。\n\n結果：\n對象似乎正在恢復，因此可以期待未來能提取到新的信息。\n\n討論：\n儘管對象的精神狀態似乎已被改變，但他們對我們不構成任何危險。\n\n建議：\n等待對象恢復</Hediff_AE_PebbleSecond.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Void-powered feelings -->
 	<Hediff_AE_PebbleThird.label>虛空覺知</Hediff_AE_PebbleThird.label>
@@ -55,7 +55,7 @@
     <!--
         EN: While traversing through the void, {PAWN_nameDef} has observed an active void structure. \n\nTheir abilities allow us to materialise it into our world, however this action may be dangerous, as the structure clearly has ways to defend itself. \n\nIf we want to research it, we would first need to neutralize it
     -->
-	<Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>在穿越虛空的過程中，{PAWN_nameDef}觀察到了一個活躍的虛空結構。\n\n對象的能力允許我們將它物質化到我們的世界，然而這種行為可能存在危險，因為這個結構顯然具有有自我保護的特性。\n\n如果我們想要研究它，就首先需要使其無害化。</Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>
+	<Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>在穿越虛空的過程中，{PAWN_nameDef}觀察到了一個活躍的虛空結構。\n\n對象的能力允許我們將它物質化到我們的世界，然而這種行爲可能存在危險，因爲這個結構顯然具有有自我保護的特性。\n\n如果我們想要研究它，就首先需要使其無害化。</Hediff_AE_PebbleFifth.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Void-powered feelings -->
 	<Hediff_AE_PebbleSixth.label>虛空覺知</Hediff_AE_PebbleSixth.label>

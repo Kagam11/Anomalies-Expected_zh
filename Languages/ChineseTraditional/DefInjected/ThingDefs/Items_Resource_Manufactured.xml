@@ -25,7 +25,7 @@
     <!-- EN: giant apple inhibitor serum -->
     <AEFruitInhibitorSerum.label>禁果抑制血清</AEFruitInhibitorSerum.label>
     <!-- EN: A syringe filled with purple fluid. Injected in bloodstream, it removes the effect given by the Giant Apple.\n\nThe effect is not instant. -->
-	<AEFruitInhibitorSerum.description>裝有紫色液體的注射針劑。注入血液後，它能消除巨大蘋果帶來的影響。\n\n不會立即起效。</AEFruitInhibitorSerum.description>
+	<AEFruitInhibitorSerum.description>裝有紫色液體的注射針劑。注入血液後，它能消除巨大蘋果帶來的影響。\n\n這種影響不會立即起效。</AEFruitInhibitorSerum.description>
     <!-- EN: Use {0_label} -->
 	<AEFruitInhibitorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEFruitInhibitorSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
@@ -36,7 +36,7 @@
     <!-- EN: binging food serum -->
 	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
     <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal. Additionally reduces Big Pie effect.\n\nThe effect is temporary and does not stack. -->
-	<AEBingingFoodSerum.description>裝有綠色粘稠液體的注射針劑。注入食道後，它能刺激消化系統，讓人真正感到飢餓，想吃一頓好的。可以抵消食用巨大的派的效果。\n\n這種影響是暫時的且不能疊加。</AEBingingFoodSerum.description>
+	<AEBingingFoodSerum.description>裝有綠色粘稠液體的注射針劑。注入食道後能刺激消化系統，讓人真正感到飢餓，想吃一頓好的。可以抵消食用巨大的派的效果。\n\n這種影響是暫時的且不能疊加。</AEBingingFoodSerum.description>
     <!-- EN: Use {0_label} -->
     <AEBingingFoodSerum.comps.CompUsable.useLabel>使用 {0_label}</AEBingingFoodSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
@@ -55,10 +55,36 @@
     <!-- EN: Ingesting {0}. -->
 	<AEHungerSuppressorSerum.ingestible.ingestReportString>正在注射 {0}。</AEHungerSuppressorSerum.ingestible.ingestReportString>
 
+    <!-- EN: Mote -->
+	<Mote_AEBloodLiquidInjector.label>萌芽</Mote_AEBloodLiquidInjector.label>
+    <!-- EN: blood-like liquid injector -->
+	<AE_BloodLiquidInjector.label>血樣液體注射器</AE_BloodLiquidInjector.label>
+    <!-- EN: A one-use dose of blood-like liquid. This liquid, when administered, transmute to replace some of lost blood and increases its density around major wounds to prevent further blood loss. It prioritizes the 5 most severe injuries, focusing on those with the highest bleeding rates. Precise dosing is crucial to avoid excessive blood-liquid levels in the bloodstream. -->
+	<AE_BloodLiquidInjector.description>一次性使用的血樣液體。注入後該液體能轉化爲血液，補充部分失血，並增加主要傷口周圍的血液密度，防止進一步失血。它根據出血率優先處理5處最嚴重的傷口。精確的劑量對於避免血液中血液濃度過高至關重要。</AE_BloodLiquidInjector.description>
+    <!-- EN: Inject self -->
+	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>自我注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>
+    <!-- EN: Inject someone else -->
+	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>幫別人注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>
+    <!-- EN: Inject self with {0} -->
+	<AE_BloodLiquidInjector.ingestible.ingestCommandString>正在自我注射{0}</AE_BloodLiquidInjector.ingestible.ingestCommandString>
+    <!-- EN: Injecting {0}. -->
+	<AE_BloodLiquidInjector.ingestible.ingestReportString>正在注射{0}。</AE_BloodLiquidInjector.ingestible.ingestReportString>
+
+    <!-- EN: fleshmass cyst -->
+	<AE_FleshmassCyst.label>киста из биомассы</AE_FleshmassCyst.label>
+    <!-- EN: A parasitic, pulsating small mass of flesh, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassCyst.description>Паразитический, пульсирующий небольшой кусок плоти, способный к быстрому росту и трансформации. Способен внедряться в тело хозяина и питаться его энергией.</AE_FleshmassCyst.description>
+
+    <!-- EN: fleshmass tumor -->
+	<AE_FleshmassTumor.label>血肉囊腫</AE_FleshmassTumor.label>
+    <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Сapable of embedding itself within a host and drawing sustenance from their body. -->
+	<AE_FleshmassTumor.description>一團有生命的、跳動的肉團，有自己的意志，能夠快速生長和變化。能夠嵌入宿主體內，並從宿主體內汲取養分。</AE_FleshmassTumor.description>
+
     <!--#endregion-->
-    
+
+
     <!--#region Anomalies Expected Addon-->
-    
+
     <!-- EN: Resource pills -->
     <AEResourcePills.label>組織膠囊</AEResourcePills.label>
     <!-- EN: Pills which provide a surplus of various bodily resources, allowing to surpass the effects caused by the razor shard -->
@@ -69,6 +95,6 @@
 	<AEResourcePills.ingestible.ingestCommandString>注射 {0}</AEResourcePills.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
 	<AEResourcePills.ingestible.ingestReportString>正在注射 {0}。</AEResourcePills.ingestible.ingestReportString>
-
+    
     <!--#endregion-->
 </LanguageData>

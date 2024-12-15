@@ -1,18 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
+
+    <!-- EN: implant of forbidden knowledge -->
+    <AEForbiddenFruitImplant.label>禁忌知識植入體</AEForbiddenFruitImplant.label>
+    <!-- EN: An installed an anomalous brain implant, which maintains connection between the host's consciousness and the entity, facilitating the exchange of knowledge and thoughts, without disturbing the entity. -->
+	<AEForbiddenFruitImplant.description>一個已經好安裝的異常大腦植入裝置，它可以保持宿主意識與實體之間的聯繫，促進知識和思想的交流，同時不會干擾實體。</AEForbiddenFruitImplant.description>
+    <!-- EN: an implant of forbidden knowledge -->
+	<AEForbiddenFruitImplant.labelNoun>一個禁忌知識植入體</AEForbiddenFruitImplant.labelNoun>
 
     <!-- EN: grinder stomach -->
 	<AEGrinderStomach.label>絞磨胃</AEGrinderStomach.label>
     <!-- EN: An installed anomalous artificial stomach, which replicate Meat Grinder structure. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-	<AEGrinderStomach.description>一個已安裝好的異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎並吸收營養。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷，並在多個方面大大超越了自然器官。</AEGrinderStomach.description>
+	<AEGrinderStomach.description>一個已安裝好的異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎，形成營養源。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderStomach.description>
     <!-- EN: a grinder stomach -->
 	<AEGrinderStomach.labelNoun>一個絞磨胃</AEGrinderStomach.labelNoun>
 	
     <!-- EN: grinder jaw -->
 	<AEGrinderJaw.label>絞磨下頜</AEGrinderJaw.label>
     <!-- EN: An installed anomalous artificial jaw, which replicate Meat Grinder structure. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-	<AEGrinderJaw.description>一個已安裝好的異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，與此同時下顎還能使用者的聲音更加柔和。這種有機金屬具有自愈能力，能自行修復損傷，並在多個方面大大超越了自然器官。</AEGrinderJaw.description>
+	<AEGrinderJaw.description>一個已安裝好的異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，下顎還能增強使用者的聲音，使其更加舒緩。這種有機金屬具有自愈功能，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderJaw.description>
     <!-- EN: a grinder jaw -->
 	<AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>絞磨下頜</AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>
     <!-- EN: a grinder jaw -->

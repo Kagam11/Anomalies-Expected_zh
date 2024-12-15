@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: blood lake -->
+	<AE_BloodLakeWeatherClear.label>血湖</AE_BloodLakeWeatherClear.label>
+    <!-- EN: Flashmass infected area on the other side of Blood Lake. -->
+	<AE_BloodLakeWeatherClear.description>血湖另一側被血肉感染的地區</AE_BloodLakeWeatherClear.description>
+
+    <!-- EN: blood-like liquid high concentration -->
+	<AE_BloodLakeWeatherBloodFog.label>高濃度血樣液體</AE_BloodLakeWeatherBloodFog.label>
+    <!-- EN: A crimson fog, thick and ominous, blankets the surroundings. This mist is a direct consequence of the elevated concentration of blood-like liquid in the air. Despite its apparent harmlessness, a subtle sense of dread creeps in. This phenomenon will undoubtedly affect all beings outside of enclosed spaces. -->
+	<AE_BloodLakeWeatherBloodFog.description>周圍籠罩着一層猩紅濃霧，厚重而不祥。這種霧是空氣中血樣液體濃度升高的直接後果。儘管它表面上無害，但一種微妙的恐懼感卻悄然而至。這種現象無疑會影響封閉空間外的所有生物。</AE_BloodLakeWeatherBloodFog.description>
+
+</LanguageData>

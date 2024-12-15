@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
 
     <!-- EN: anomaly -->
 	<BodyPartsAnomalyAE.label>異常</BodyPartsAnomalyAE.label>
+    <!-- EN: anomaly -->
+	<ItemsAnomalies.label>異常</ItemsAnomalies.label>
+    <!-- EN: research notes -->
+	<AnomalyStudyNotes.label>研究記錄</AnomalyStudyNotes.label>
 
     <!--#endregion-->
 </LanguageData>

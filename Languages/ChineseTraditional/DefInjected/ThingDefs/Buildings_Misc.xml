@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: underground emergence -->
+	<AE_BloodPuddleSpawner.label>地下湧現</AE_BloodPuddleSpawner.label>
+    <!-- EN: Something is emerging from the ground here. -->
+	<AE_BloodPuddleSpawner.description>有什麼東西正在從地下冒出來。</AE_BloodPuddleSpawner.description>
+
+    <!-- EN: underground emergence -->
+	<AE_BloodLakeSpawner.label>地下湧現</AE_BloodLakeSpawner.label>
+    <!-- EN: Something is emerging from the ground here. -->
+	<AE_BloodLakeSpawner.description>有什麼東西正在從地下冒出來。</AE_BloodLakeSpawner.description>
+
+</LanguageData>

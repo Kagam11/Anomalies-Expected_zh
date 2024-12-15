@@ -2,6 +2,13 @@
 <LanguageData>
     <!--#region Anomalies Expected-->
 
+    <!-- EN: install implant of forbidden knowledge -->
+	<InstallAEForbiddenFruitImplant.label>安装禁忌知识植入体</InstallAEForbiddenFruitImplant.label>
+    <!-- EN: Install an implant of forbidden knowledge. -->
+	<InstallAEForbiddenFruitImplant.description>安装一个禁忌知识植入体</InstallAEForbiddenFruitImplant.description>
+    <!-- EN: Installing implant of forbidden knowledge. -->
+	<InstallAEForbiddenFruitImplant.jobString>正在安装禁忌知识植入体</InstallAEForbiddenFruitImplant.jobString>
+
     <!-- EN: install grinder stomach -->
 	<InstallAEGrinderStomach.label>安装绞磨胃</InstallAEGrinderStomach.label>
     <!-- EN: Install a grinder stomach. -->

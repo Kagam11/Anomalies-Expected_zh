@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
 
@@ -16,7 +16,7 @@
     <!-- EN: Awareness -->
 	<Hediff_AEForbiddenFruit.stages.1.label>覺知</Hediff_AEForbiddenFruit.stages.1.label>
     <!-- EN: Enlightenment -->
-	<Hediff_AEForbiddenFruit.stages.2.label>啟悟</Hediff_AEForbiddenFruit.stages.2.label>
+	<Hediff_AEForbiddenFruit.stages.2.label>啓悟</Hediff_AEForbiddenFruit.stages.2.label>
     <!-- EN: Transcendence -->
 	<Hediff_AEForbiddenFruit.stages.3.label>超脫</Hediff_AEForbiddenFruit.stages.3.label>
     <!-- EN: Retribution -->
@@ -37,6 +37,31 @@
 	<Hediff_AEDigestingPie.label>正在消化派</Hediff_AEDigestingPie.label>
     <!-- EN: Feeling heavy in the stomach. -->
 	<Hediff_AEDigestingPie.description>感覺胃部沉重。</Hediff_AEDigestingPie.description>
+
+    <!-- EN: dog tag -->
+	<Hediff_AEDogTag.label>狗牌</Hediff_AEDogTag.label>
+    <!-- EN: I can psychically feel the imprint of the person who once owned it. -->
+	<Hediff_AEDogTag.description>我能從心理上感受到它曾經主人的痕跡。</Hediff_AEDogTag.description>
+
+    <!-- EN: blood-like liquid concentration -->
+	<Hediff_AEBloodLiquidConcentration.label>血樣液體濃度</Hediff_AEBloodLiquidConcentration.label>
+    <!-- EN: A blood-like liquid is introduced into the body. At high concentration it might mutate flesh into something hostile. The body will eventually filter out the substance. -->
+	<Hediff_AEBloodLiquidConcentration.description>血樣液體進入此人體內。高濃度時，可能會使肉體變異，變成某種有敵意的東西。人體最終會過濾掉這種物質。</Hediff_AEBloodLiquidConcentration.description>
+    <!-- EN: minor -->
+	<Hediff_AEBloodLiquidConcentration.stages.minor-0.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-0.label>
+    <!-- EN: minor -->
+	<Hediff_AEBloodLiquidConcentration.stages.minor-1.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-1.label>
+    <!-- EN: moderate -->
+	<Hediff_AEBloodLiquidConcentration.stages.moderate.label>中等</Hediff_AEBloodLiquidConcentration.stages.moderate.label>
+    <!-- EN: severe -->
+	<Hediff_AEBloodLiquidConcentration.stages.severe.label>嚴重</Hediff_AEBloodLiquidConcentration.stages.severe.label>
+    <!-- EN: extreme -->
+	<Hediff_AEBloodLiquidConcentration.stages.extreme.label>極重</Hediff_AEBloodLiquidConcentration.stages.extreme.label>
+
+    <!-- EN: destabilization mutation -->
+	<Hediff_AEDestabilization.label>不穩定突變</Hediff_AEDestabilization.label>
+    <!-- EN: Destabilization of biological structure to amplify creature physical performance. The creature's life expectancy will be drastically reduced due to the mutation. -->
+	<Hediff_AEDestabilization.description>破壞生物結構的穩定性從而增強生物的體能。生物的預期壽命會因突變而大幅縮短。</Hediff_AEDestabilization.description>
 
     <!--#endregion-->
 </LanguageData>

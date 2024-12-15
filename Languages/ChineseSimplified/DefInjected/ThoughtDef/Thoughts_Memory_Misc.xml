@@ -14,6 +14,11 @@
 	<Thought_AEForbiddenFruit.stages.5.label>审判时刻</Thought_AEForbiddenFruit.stages.5.label>
     <!--EN:Pleading for forgiveness for tasting the Forbidden Fruit.-->
 	<Thought_AEForbiddenFruit.stages.5.description>为品尝禁果恳求宽恕</Thought_AEForbiddenFruit.stages.5.description>
+	
+    <!-- EN: Fleshmass lung stimulation -->
+    <Thought_AEFleshmassLung.stages.0.label>血肉肺刺激</Thought_AEFleshmassLung.stages.0.label>
+    <!-- EN: Feeling light headed. What a nice feeling. -->
+	<Thought_AEFleshmassLung.stages.0.description>感到晕头转向，太棒了。</Thought_AEFleshmassLung.stages.0.description>
 
     <!--#endregion-->
 </LanguageData>

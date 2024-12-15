@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!-- EN: Anomalies Expected -->
-	<AnomaliesExpected.Settings.Title>Anomalies Expected</AnomaliesExpected.Settings.Title>
-	
+    <AnomaliesExpected.Settings.Title>Anomalies Expected</AnomaliesExpected.Settings.Title>
+
     <!-- EN: Limit max amount of Pie Pieces per replication to {0} (0 = unlimited) -->
-	<AnomaliesExpected.Settings.BakingPies.ReplicationLimit>將每次複製派的數量限制在 {0} (0爲無限制)</AnomaliesExpected.Settings.BakingPies.ReplicationLimit>
+    <AnomaliesExpected.Settings.BakingPies.ReplicationLimit>將每次複製派的數量限制在 {0} (0爲無限制)</AnomaliesExpected.Settings.BakingPies.ReplicationLimit>
     <!-- EN: All Pie Pieces will despawn, when Big Pie destroyed -->
-	<AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>當派母體被摧毀時也摧毀所有複製派</AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>
-    <!-- EN: Will get message during Big Pie replication -->
-	<AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>當巨大的派複製時收到消息</AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>
-	
+    <AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>當派母體被摧毀時也摧毀所有複製派</AnomaliesExpected.Settings.BakingPies.DespawnPiecesOnDestroy>
+    <!-- EN: Will get message du
+    ring Big Pie replication -->
+    <AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>當巨大的派複製時收到消息</AnomaliesExpected.Settings.BakingPies.SpawnPiePieceNotification>
+
     <!-- EN: Precise Orbital Beam Targeter require existence Transmitter to call Beam -->
-	<AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>軌道光束精確靶向器需要發信器本身才能使用</AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>
+    <AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>軌道光束精確靶向器需要發信器本身才能使用</AnomaliesExpected.Settings.BeamTarget.PoweBeamRequireBeamTarget>
+
     <!-- EN: Will get letter instead of message, when Transmitter leaving containment -->
-	<AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>當發信器脫離收容時收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
-    
+    <AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>當發信器脫離收容時收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
+
+    <!-- EN: Set multiplier for amount of threat points for fleshbeast generation from nests to {0} -->
+	<AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>將巢穴生成血肉獸的威脅點數係數設置爲{0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
+
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>嘗試解鎖 Anomalies Expected 的研究項目</AnomaliesExpected.Settings.ResearchTab.Unlock>
 </LanguageData>

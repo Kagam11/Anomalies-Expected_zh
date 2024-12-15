@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     <!--#region Anomalies Expected Addon-->
-	
+
     <!-- EN: Left -->
 	<AE_Ability_PuzzleA.label>左</AE_Ability_PuzzleA.label>
     <!-- EN: Follow some direction -->

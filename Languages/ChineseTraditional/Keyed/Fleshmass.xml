@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: The fleshmass has detached from {0} and transformed into a fleshbeast! -->
+	<AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>血肉塊已脫離{0}，變成了一隻血肉獸！</AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>
+    <!-- EN: {0} mutated into {1} -->
+	<AnomaliesExpected.Fleshmass.FleshmassMutation.Message>{0}變異爲{1}</AnomaliesExpected.Fleshmass.FleshmassMutation.Message>
+	
+    <!-- EN: Reaction to enemies -->
+	<AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>對敵反應</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>
+    <!-- EN: Enable/Disable reaction on surrounding enemies during command execution. -->
+	<AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>在執行命令時啓用/禁用對周圍敵人的反應。</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>
+    <!-- EN: Spawned {0}/{1} -->
+	<AnomaliesExpected.Fleshmass.MaxSummons>已生成{0}/{1}</AnomaliesExpected.Fleshmass.MaxSummons>
+	<!-- EN: Nothing to command -->
+    <AnomaliesExpected.Fleshmass.NothingToCommand>沒有東西可以指揮</AnomaliesExpected.Fleshmass.NothingToCommand>
+	<!-- EN: A {0} is attacking! -->
+	<AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>{0}正在攻擊！</AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>
+</LanguageData>

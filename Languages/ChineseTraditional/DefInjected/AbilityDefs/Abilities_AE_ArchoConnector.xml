@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	<!--#region Anomalies Expected Addon-->
 
@@ -10,7 +10,7 @@
     <!-- EN: Create shield -->
 	<AE_Ability_ArchoConnectorB.label>召喚護盾</AE_Ability_ArchoConnectorB.label>
     <!-- EN: Creates a shield similar to ones a subroutine uses -->
-	<AE_Ability_ArchoConnectorB.description>召喚一個類似子程式所使用的護盾</AE_Ability_ArchoConnectorB.description>
+	<AE_Ability_ArchoConnectorB.description>召喚一個類似子程序所使用的護盾</AE_Ability_ArchoConnectorB.description>
 
     <!--#endregion-->
 </LanguageData>

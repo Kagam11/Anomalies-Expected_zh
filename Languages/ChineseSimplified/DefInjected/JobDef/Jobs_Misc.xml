@@ -6,6 +6,10 @@
 	<AE_CalledMeatGrinder.reportString>按按钮</AE_CalledMeatGrinder.reportString>
 
     <!-- EN: removing TargetA. -->
-    <AE_RemoveAnomaly.reportString>移除发信器</AE_RemoveAnomaly.reportString>
+    <AE_RemoveAnomaly.reportString>移除TargetA</AE_RemoveAnomaly.reportString>
+    
+    <!-- EN: applying TargetA to TargetB. -->
+	<AE_ApplyUsableTo.reportString>将TargetA用在TargetB上。</AE_ApplyUsableTo.reportString>
+
     <!--#endregion-->
 </LanguageData>

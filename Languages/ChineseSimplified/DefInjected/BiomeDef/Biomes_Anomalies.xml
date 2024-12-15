@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: blood lake -->
+	<AE_BloodLakeBiome.label>血湖</AE_BloodLakeBiome.label>
+    <!-- EN: Flashmass infected area on the other side of Blood Lake. -->
+	<AE_BloodLakeBiome.description>血湖另一侧的血肉感染区</AE_BloodLakeBiome.description>
+
+</LanguageData>

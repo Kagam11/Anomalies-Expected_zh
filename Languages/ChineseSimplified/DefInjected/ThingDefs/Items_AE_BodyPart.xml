@@ -6,17 +6,22 @@
 	<UnfinishedHealthItemAnomalyAE.label>未完成的异常部件</UnfinishedHealthItemAnomalyAE.label>
     <!-- EN: An unfinished anomaly part. -->
 	<UnfinishedHealthItemAnomalyAE.description>一个未完成的异常部件。</UnfinishedHealthItemAnomalyAE.description>
-<!-- 
-    EN: grinder stomach
+
+    <!-- EN: implant of forbidden knowledge -->
+    <AEForbiddenFruitImplant.label>禁忌知识植入体</AEForbiddenFruitImplant.label>
+    <!-- EN: An anomalous brain implant, which maintains connection between the host's consciousness and the entity, facilitating the exchange of knowledge and thoughts, without disturbing the entity.\n\nCreated using seeds from the forbidden fruit of knowledge, utilizing advanced technology derived from the entity's vast wisdom. After seeds extraction, the fruit exhibited a loss of regenerative property. -->
+	<AEForbiddenFruitImplant.description>一个已经好安装的异常大脑植入装置，它可以保持宿主意识与实体之间的联系，促进知识和思想的交流，同时不会干扰实体。\n\n利用从知识禁果中提取的种子，利用从实体的巨大智慧中提取的先进技术制造而成。提取种子后，果实失去了再生能力。</AEForbiddenFruitImplant.description>
+
+    <!-- EN: grinder stomach -->
 	<AEGrinderStomach.label>绞磨胃</AEGrinderStomach.label>
-    EN: An anomalous artificial stomach, which replicate Meat Grinder structure. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects.
+    <!-- EN: An anomalous artificial stomach, which replicate Meat Grinder structure. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
 	<AEGrinderStomach.description>一个异常人造胃，复刻了绞肉机的结构。内部的刀片能将任何外来有机物磨碎，形成营养源。拥有它的人几乎不会食物中毒，对某些胃病也有免疫力。为了维持自身的生存，它会从宿主身上吸取更多的营养。这种有机金属具有自愈能力，能自行修复损伤。它在多个方面大大超越了生物体。</AEGrinderStomach.description>
 
-    EN: grinder jaw
+    <!-- EN: grinder jaw -->
 	<AEGrinderJaw.label>绞磨下颚</AEGrinderJaw.label>
-    EN: An anomalous artificial jaw, which replicate Meat Grinder structure. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects.
+    <!-- EN: An anomalous artificial jaw, which replicate Meat Grinder structure. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
 	<AEGrinderJaw.description>一个异常人工下颚，复刻了绞肉机的结构。内部具有锋利的旋转刀片，可将任何食物粉碎成易消化的浆液，从而大大加快进食速度。它的巨大威力甚至能咬断活人的四肢。强烈的震动会使宿主感到疼痛。矛盾的是，下颚还能增强使用者的声音，使其更加舒缓。这种有机金属具有自愈功能，能自行修复损伤。它在多个方面大大超越了生物体。</AEGrinderJaw.description>
--->
+
 
     <!--#endregion-->
 </LanguageData>

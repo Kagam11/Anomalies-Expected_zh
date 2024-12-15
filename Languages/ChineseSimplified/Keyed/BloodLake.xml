@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: A group of fleshbeasts is emerging from Underground Fleshmass Nest nearby -->
+	<AnomaliesExpected.BloodLake.UndergroundNestSpawn>一群血肉兽正从附近的地下血肉巢穴中出现</AnomaliesExpected.BloodLake.UndergroundNestSpawn>
+    <!-- EN: The facility's reactor exploded, severing the connection with other Blood Lake -->
+	<AnomaliesExpected.BloodLake.ReactorMeltdownExplosion>该设施的反应堆爆炸，切断了与其他血湖的联系</AnomaliesExpected.BloodLake.ReactorMeltdownExplosion>
+    <!-- EN: Dive into blood lake -->
+	<AnomaliesExpected.BloodLake.Enter>潜入血湖</AnomaliesExpected.BloodLake.Enter>
+    <!-- EN: View the other side -->
+	<AnomaliesExpected.BloodLake.ViewSubMap.Label>查看另一侧</AnomaliesExpected.BloodLake.ViewSubMap.Label>
+    <!-- EN: View the connected map on the other side -->
+	<AnomaliesExpected.BloodLake.ViewSubMap.Desc>查看另一侧连接的地图</AnomaliesExpected.BloodLake.ViewSubMap.Desc>
+    <!-- EN: Liquid density: {0} kg/m3 -->
+	<AnomaliesExpected.BloodLake.Density>液体浓度：{0}kg/m³</AnomaliesExpected.BloodLake.Density>
+		
+    <!-- EN: Strange Lake already exist -->
+	<AnomaliesExpected.BloodLake.AlreadyExists>怪湖已存在</AnomaliesExpected.BloodLake.AlreadyExists>
+	
+    <!-- EN: High liquid density prevents exploration -->
+	<AnomaliesExpected.BloodLake.Reason.CantEnterA>液体密度过高，无法勘探</AnomaliesExpected.BloodLake.Reason.CantEnterA>
+    <!-- EN: Underwater drone currently surveying lakebed -->
+	<AnomaliesExpected.BloodLake.Reason.CantEnterB>水下无人机正在勘测湖床</AnomaliesExpected.BloodLake.Reason.CantEnterB>
+    <!-- EN: Connection with other side lost -->
+	<AnomaliesExpected.BloodLake.Reason.CantEnterC>与另一侧的链接丢失</AnomaliesExpected.BloodLake.Reason.CantEnterC>
+	
+    <!-- EN: Fleshbeasts hoard -->
+	<AnomaliesExpected.BloodLake.LetterRaid.Label>血肉兽聚集</AnomaliesExpected.BloodLake.LetterRaid.Label>
+    <!-- EN: Blood Lake liquid density fall too low. A hoard of fleshbeasts is emerging from it. -->
+	<AnomaliesExpected.BloodLake.LetterRaid.Text>血湖液体密度过低。一群血肉兽正从里面涌出。</AnomaliesExpected.BloodLake.LetterRaid.Text>
+	
+    <!-- EN: Fleshmass territory -->
+	<AnomaliesExpected.BloodLake.LetterEnter.Label>血肉领域</AnomaliesExpected.BloodLake.LetterEnter.Label>
+    <!-- EN: The open space lies before us, yet it's swarming with different kinds of fleshbeasts. We must brace ourselves for a ferocious attacks from the surrounding fleshmass network.\n\nIf we're not ready to confront this threat, we should fall back to our colony and arm ourselves. -->
+	<AnomaliesExpected.BloodLake.LetterEnter.Text>我们面前是一片开阔的空间，但却充斥着各种不同的血肉兽。我们必须做好准备，迎接周围血肉块网络的猛烈攻击。\n\n如果我们还没有准备好应对这一威胁，就应该退回殖民地武装自己。</AnomaliesExpected.BloodLake.LetterEnter.Text>
+</LanguageData>

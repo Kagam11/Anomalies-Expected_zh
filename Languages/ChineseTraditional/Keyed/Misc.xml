@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: [REDACTED] -->
+	<AnomaliesExpected.Misc.Redacted>[刪除]</AnomaliesExpected.Misc.Redacted>
+	
+    <!-- EN: {0} available for study -->
+	<AnomaliesExpected.Misc.ResearchNote.Letter.Label>可以學習{0}</AnomaliesExpected.Misc.ResearchNote.Letter.Label>
+    <!-- EN: After examining the {0}, the {1} is now accessible. Your researchers can now use research benches to begin researching how to utilize the technology. -->
+	<AnomaliesExpected.Misc.ResearchNote.Letter.Desc>檢查完{0}後，可以研究{1}了。研究人員現在可以使用研究臺，開始研究如何利用這項技術。</AnomaliesExpected.Misc.ResearchNote.Letter.Desc>
+</LanguageData>

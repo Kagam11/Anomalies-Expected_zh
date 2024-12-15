@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected Addon-->
 
@@ -36,6 +36,6 @@
 	<Hediff_AE_PuzzleSix.label>玻璃軀體</Hediff_AE_PuzzleSix.label>
     <!-- EN: The anomaly made the pawn more fragile, but also way more powerful -->
 	<Hediff_AE_PuzzleSix.description>異常導致小人更加脆弱，但也更加強大</Hediff_AE_PuzzleSix.description>
-  
+
     <!--#endregion-->
 </LanguageData>

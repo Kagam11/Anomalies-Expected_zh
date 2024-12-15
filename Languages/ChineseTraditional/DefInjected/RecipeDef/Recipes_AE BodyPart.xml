@@ -1,6 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
+
+    <!-- EN: install implant of forbidden knowledge -->
+	<InstallAEForbiddenFruitImplant.label>安裝禁忌知識植入體</InstallAEForbiddenFruitImplant.label>
+    <!-- EN: Install an implant of forbidden knowledge. -->
+	<InstallAEForbiddenFruitImplant.description>安裝一個禁忌知識植入體</InstallAEForbiddenFruitImplant.description>
+    <!-- EN: Installing implant of forbidden knowledge. -->
+	<InstallAEForbiddenFruitImplant.jobString>正在安裝禁忌知識植入體</InstallAEForbiddenFruitImplant.jobString>
 
     <!-- EN: install grinder stomach -->
 	<InstallAEGrinderStomach.label>安裝絞磨胃</InstallAEGrinderStomach.label>
@@ -17,4 +24,5 @@
 	<InstallAEGrinderJaw.jobString>正在安裝絞磨下頜。</InstallAEGrinderJaw.jobString>
 
     <!--#endregion-->
+
 </LanguageData>

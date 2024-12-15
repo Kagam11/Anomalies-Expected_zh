@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: acid spew -->
+	<AEAcidSpew.label>酸液噴吐</AEAcidSpew.label>
+    <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
+	<AEAcidSpew.description>從頸部酸腺分泌一種粘性酸性物質，通過口腔向目標區域噴射。酸性物質會粘住目標並將其燒燬</AEAcidSpew.description>
+
+    <!-- EN: acid spit -->
+	<AEAcidSpit.label>酸液濃痰</AEAcidSpit.label>
+    <!-- EN: Spit a sticky acid substance from acid cavity in the sternum up through the mouth to strike a distant target. The acid will stick to targets and burn them. -->
+	<AEAcidSpit.description>從胸骨的酸腔中分泌粘性酸液並通過口腔吐出，攻擊遠處的目標。酸液會粘住目標並將其燒燬。</AEAcidSpit.description>
+
+    <!-- EN: psychic flash -->
+	<AEPsychicFlash.label>靈能電眼</AEPsychicFlash.label>
+    <!-- EN: A concentrated burst of psychic energy, fired from the eyes and striking targets in front of them. -->
+	<AEPsychicFlash.description>從眼睛中發射集中爆發的精神能量，攻擊前方的目標。</AEPsychicFlash.description>
+
+    <!-- EN: spawn Fingerspike -->
+	<AESpawnKidneyFleshbeast.label>召喚單爪獸</AESpawnKidneyFleshbeast.label>
+    <!-- EN: Grow fleshmass from kidney and mutate it into a Fingerspike. This fleshbeast is afflicted with by destabilization mutation, granting it enhanced physical capabilities but a shortened lifespan. -->
+	<AESpawnKidneyFleshbeast.description>從腎臟中長出血肉塊並將其變異成單爪獸。這種血肉獸受到不穩定變異的影響，身體機能增強，但壽命縮短。</AESpawnKidneyFleshbeast.description>
+
+    <!-- EN: spawn Toughspike -->
+	<AESpawnBodyMutationFleshbeast.label>召喚雙爪獸</AESpawnBodyMutationFleshbeast.label>
+    <!-- EN: Grow fleshmass from whole body and mutate it into a Toughspike. This fleshbeast is afflicted with by destabilization mutation, granting it enhanced physical capabilities but a shortened lifespan. -->
+	<AESpawnBodyMutationFleshbeast.description>從全身長出血肉塊並將其變異成雙爪獸。這種血肉獸受到不穩定變異的影響，身體機能增強，但壽命縮短。</AESpawnBodyMutationFleshbeast.description>
+
+    <!-- EN: command: move to -->
+	<AEFleshbeastCommandMove.label>指令：移動</AEFleshbeastCommandMove.label>
+    <!-- EN: Send a psychic command to surrounding fleshbeasts to move in a specific direction. -->
+	<AEFleshbeastCommandMove.description>使用靈能對附近的血肉獸發送移動指令，命令他們前往某個位置。</AEFleshbeastCommandMove.description>
+
+    <!-- EN: command: call -->
+	<AEFleshbeastCommandGather.label>指令：召喚</AEFleshbeastCommandGather.label>
+    <!-- EN: Send a psychic command to fleshbeasts in specific area to move to the caster. -->
+	<AEFleshbeastCommandGather.description>使用靈能對附近的血肉獸發送移動指令，命令他們前往施法者。</AEFleshbeastCommandGather.description>
+
+    <!-- EN: metabolic recycling -->
+	<AEFleshmassStomach.label>代謝循環</AEFleshmassStomach.label>
+    <!-- EN: Break down and reabsorb nutrients from its own tissue. -->
+	<AEFleshmassStomach.description>分解並重新吸收自身組織中的營養物質。</AEFleshmassStomach.description>
+
+</LanguageData>

@@ -20,6 +20,12 @@
     <!-- EN: transmitter -->
     <AE_EntityCodexEntry_BeamTarget.label>发信器</AE_EntityCodexEntry_BeamTarget.label>
 
+    <!-- EN: strange puddle -->
+	<AE_EntityCodexEntry_BloodPuddle.label>怪潭</AE_EntityCodexEntry_BloodPuddle.label>
+	
+    <!-- EN: strange lake -->
+	<AE_EntityCodexEntry_BloodLake.label>怪湖</AE_EntityCodexEntry_BloodLake.label>
+    
     <!--#endregion-->
 
     <!--#region Anomalies Expected Addon-->

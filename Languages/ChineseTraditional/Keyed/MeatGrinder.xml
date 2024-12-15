@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
-
+    
     <!-- EN: {1} of {0} was consumed by {2} -->
 	<AnomaliesExpected.MeatGrinder.Consumed>{0}中的{1}被{2}消化</AnomaliesExpected.MeatGrinder.Consumed>
     <!-- EN: {0} was fully consumed by {1} -->
@@ -12,6 +12,6 @@
 	<AnomaliesExpected.MeatGrinder.BodyParts>受威脅的身體部位：{0}</AnomaliesExpected.MeatGrinder.BodyParts>
     <!-- EN: Body in danger of consumption -->
 	<AnomaliesExpected.MeatGrinder.Danger>身體受到消化威脅</AnomaliesExpected.MeatGrinder.Danger>
-    
+
     <!--#endregion-->
 </LanguageData>

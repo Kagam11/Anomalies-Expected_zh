@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: Connected blood-like liquid pumps: {0}/{1} -->
+	<AnomaliesExpected.BloodPump.Available>連接的血樣液體泵：{0}/{1}</AnomaliesExpected.BloodPump.Available>
+    <!-- EN: Each pump can extract {0} blood-like liquid -->
+	<AnomaliesExpected.BloodPump.CanExtractAmount>每個泵可提取{0}血樣液體</AnomaliesExpected.BloodPump.CanExtractAmount>
+    <!-- EN: Connected to blood-like liquid source: {0} -->
+	<AnomaliesExpected.BloodPump.Connected>連接的血樣液體源：{0}</AnomaliesExpected.BloodPump.Connected>
+    <!-- EN: Not connected to any blood-like liquid source -->
+	<AnomaliesExpected.BloodPump.NotConnected>未連接任何血樣液體源</AnomaliesExpected.BloodPump.NotConnected>
+    <!-- EN: Time till next extraction: {0} -->
+	<AnomaliesExpected.BloodPump.TimeTillSpawn>下次提取還有：{0}</AnomaliesExpected.BloodPump.TimeTillSpawn>
+    <!-- EN: Pump was disconnected from blood-like liquid source -->
+	<AnomaliesExpected.BloodPump.Disconnected>泵與血樣液體源斷開連接</AnomaliesExpected.BloodPump.Disconnected>
+</LanguageData>

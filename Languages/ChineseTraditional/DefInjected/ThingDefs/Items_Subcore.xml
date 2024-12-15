@@ -3,18 +3,18 @@
     <!--#region Anomalies Expected Addon-->
 	
     <!-- EN: Dirty device -->
-    <AE_SubcoreSecond.label>髒汙裝置</AE_SubcoreSecond.label>
+    <AE_SubcoreSecond.label>髒污設備</AE_SubcoreSecond.label>
     <!-- EN: Some kind of a device which is completely covered in dirt. Cleaning it is needed mandatory if we are to study it -->
 	<AE_SubcoreSecond.description>一個完全被泥土覆蓋的裝置。在研究它之前，必須先將其清理乾淨。</AE_SubcoreSecond.description>
     <!-- EN: Clean {0_label} -->
 	<AE_SubcoreSecond.comps.CompUsable.useLabel>清潔 {0_label}</AE_SubcoreSecond.comps.CompUsable.useLabel>	
 	
     <!-- EN: Dirty device -->
-	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>髒汙裝置</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>髒污設備</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
     <!-- EN: Some kind of a device which is completely covered in dirt. Cleaning it is needed mandatory if we are to study it -->
 	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一個完全被泥土覆蓋的裝置。在研究它之前，必須先將其清理乾淨。</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: Device inspected -->
-	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.label>已檢查裝置</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.label>
+	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.label>已檢查設備</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!-- EN: The device we inspected seems to be covered in dirt, so if we want to actually research it, we would need to clean it first -->
 	<AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.text>我們檢查的裝置似乎被泥土覆蓋，因此，在研究它之前，必須先將其清理乾淨。</AE_SubcoreSecond.comps.CompAEStudyUnlocks.studyNotes.0.text>
 
@@ -38,12 +38,12 @@
     <!-- EN: Subcore terminal -->
 	<AE_SubcoreConnected.label>子核終端</AE_SubcoreConnected.label>
     <!-- EN: The terminal which is connected to the strange subcore, allowing us to gather data and even communicate with it -->
-	<AE_SubcoreConnected.description>與人格子核相連的終端，使我們能夠收集資料，甚至與之通訊</AE_SubcoreConnected.description>
+	<AE_SubcoreConnected.description>與人格子核相連的終端，使我們能夠收集數據，甚至與之通信</AE_SubcoreConnected.description>
 
     <!-- EN: Subcore terminal -->
 	<AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>子核終端</AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
     <!-- EN: The terminal which is connected to the strange subcore, allowing us to gather data and even communicate with it -->
-	<AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>與人格子核相連的終端，使我們能夠收集資料，甚至與之通訊</AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+	<AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>與人格子核相連的終端，使我們能夠收集數據，甚至與之通信</AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
 	<!-- EN: #2/? Subcore study report -->
     <AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.label>#2/? 人格子核研究報告</AE_SubcoreConnected.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!-- EN: Data extracted from the subcore\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details the data recovered from the subcore by the Subject {PAWN_nameDef}. First attempts to extract any data have proved futile, as the machinery behind the Subcore seems to be way more advanced than we have imagined. However, after some time we have finally succeded to connect, or to be more precise, the being inside has succeded, as that seemed to have happened by itself rather than through our actions. The being inside did not have a name before our intrusion, but for the purpose of communication it decided to call itself Ion. Despite it being way more powerful than we are, it still communicated with us and even gave us an offering. Because it, as it tells us, does not have a body and is incapable of manipulating the world around it, it has decided that cooperation is the best course of action for now. It wants us to leave it unharmed, for the price of the data it has, which supposedly contains a way for us to connect to a higher being that created Ion. After those words it proceeded to unlock the files for us, which we now can study.\n\nObservations:\nThe being has allowed us to communicate with it.\nIt decided to cooperate with us, after which it gave us information.\nThe data seemingly contains a way to connect with a higher being.\n\nFindings:\nValuable information, including a way to connect to an archopersona.\n\nDiscussion:\nBecause the being is trapped in the subcore and is incapable of doing any harm, and also gave us valuable data, we don't yet have a reason to consider the research risky.\n\nRecommendations:\nExtract data from the device. -->

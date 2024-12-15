@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: provoke strange lake -->
+	<SummonBloodLake.label>激起怪湖</SummonBloodLake.label>
+    <!-- EN: Use a psychic pulse to distort the fabric of reality, resulting in the formation of a crimson lake in the ground somewhere in the local area. -->
+	<SummonBloodLake.description>使用精神脉冲扭曲现实结构，从而在某个地方的地面上形成一个深红色的湖泊。</SummonBloodLake.description>
+    <!-- EN: Use a psychic pulse to distort the fabric of reality, resulting in the formation of a crimson lake in the ground somewhere in the local area. -->
+	<SummonBloodLake.outcomeDescription>使用精神脉冲扭曲现实结构，从而在某个地方的地面上形成一个深红色的湖泊。</SummonBloodLake.outcomeDescription>
+
+</LanguageData>

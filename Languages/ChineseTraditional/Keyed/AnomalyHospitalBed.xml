@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!--#region Anomalies Expected -->
-	<!-- EN: Put a signature -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Label>簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Label>
-	<!-- EN: Put a signature on a medical clipboard where it indicates patient information -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>在醫療夾板上註明病人資訊的地方簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>
-	<!-- EN: No patient on a bed -->
-	<AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上沒有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
-	<!-- EN: Can sign in {0} -->
+    <!-- EN: Put a signature -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Label>簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Label>
+    <!-- EN: Put a signature on a medical clipboard where it indicates patient information -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>在醫療夾板上註明病人信息的地方簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Desc>
+    <!-- EN: No patient on a bed -->
+    <AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>床上沒有病人</AnomaliesExpected.AnomalyHospitalBed.Sign.Empty>
+    <!-- EN: Can sign in {0} -->
     <AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>{0}後可以簽名</AnomaliesExpected.AnomalyHospitalBed.Sign.Reloading>
     <!-- EN: Donor -->
     <AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>供體</AnomaliesExpected.AnomalyHospitalBed.isDonor.Label>

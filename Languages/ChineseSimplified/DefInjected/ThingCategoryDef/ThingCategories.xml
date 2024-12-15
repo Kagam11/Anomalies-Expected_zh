@@ -4,6 +4,10 @@
 
     <!-- EN: anomaly -->
 	<BodyPartsAnomalyAE.label>异常</BodyPartsAnomalyAE.label>
+    <!-- EN: anomaly -->
+	<ItemsAnomalies.label>异常</ItemsAnomalies.label>
+    <!-- EN: research notes -->
+	<AnomalyStudyNotes.label>研究记录</AnomalyStudyNotes.label>
 
     <!--#endregion-->
 </LanguageData>

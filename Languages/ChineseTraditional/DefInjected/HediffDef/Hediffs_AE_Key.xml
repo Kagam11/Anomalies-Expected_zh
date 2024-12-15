@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected Addon-->
-	
+
     <!-- EN: Key bound -->
-	<Hediff_AE_Key.label>鑰匙繫結</Hediff_AE_Key.label>
+	<Hediff_AE_Key.label>鑰匙綁定</Hediff_AE_Key.label>
     <!-- EN: The key has opened a conduit to archotechnological powers, allowing this person to use them -->
-	<Hediff_AE_Key.description>洞啟之鑰打開了通往超凡智慧的通路，讓小人可以使用他們的力量</Hediff_AE_Key.description>
+	<Hediff_AE_Key.description>洞啓之鑰打開了通往超凡智能的通路，讓小人可以使用他們的力量</Hediff_AE_Key.description>
     <!-- EN: #2/2 Key study report -->
-	<Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterLabel>#2/2 洞啟之鑰研究報告</Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterLabel>
+	<Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterLabel>#2/2 洞啓之鑰研究報告</Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterLabel>
     <!-- 
         EN: WARNING: Due to anomaly's volatility and it's subsequent bind to one of our pawns, we do not have the right conditions nor the ability to research the item in safe environment, so any further research can only be done in the field. Therefore, any this report has been requalified as a field research\n\n -.- Field research of the Key -.- \n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report presents any newfound knowledge about the Key provided by Subject {PAWN_nameDef}. After the Key was bound to {PAWN_nameDef}, the pawn immediately gained all of the skills needed to use the Key. The pawn was also provided with certain abilities, suggesting that the Key is able to open a conduit to the dark archotech. Those abilities allow the pawn to "open" things, passages and humans alike, but they also put the person under dark influence, destabilising them. As a result of this observation, the anomaly associated with the Key has been classified as Class-2 (Warning).\n\nHypothesis:\nConsidering the item has dark archotechnological origin, we think that this item was created by the archotech for the purpose of research. Because they don't have a stable link to our plane of existence, the Key serves as a way for them to affect our world locally. Since the abilities allow deconstruction and reconstruction of objects on molecular level, it can allow the archotech to gain tremendous amounts of information about the pawn it's linked to, other beings and even the world around them. What we don't know, however, if it's still used by the archotech, because even though it might have been used in it's earlier days, a more late-stage archotech could invent other ways to influence the world. Because of that, we don't know whether we are watched by it or not\n\nProposed Mechanism:\nBecause the item and it's abilities are of archotech's making, we do not have a clear theory on how they work exactly, so the only thing we could say is that it either uses psychic powers or some sort of molecular manipulation technique.\n\nOutcome:\nBased on information gained during this observation, {PAWN_nameDef} has successfully classified the anomaly associated with the Key as Class-2 (Warning).\n\nConsiderations:\nItem's use clearly entails risks, but it's powers are useful. If one were to use it's powers, they should do so with extreme caution.\n\nRecommendations:\nContain: Given the extreme risks the item exhibits in it's active state, we should consider containing it once it's dormant, although that would require us to extract it from the pawn.\nExploitation: Alternatively, considering that the item's powers are powerful, we might use them in such a way where it does not do much harm to the bound pawn, or bind it to more expendable humans if we are to get hold of some
     -->
 	<Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterText>警告：由於該異常的不穩定性以及其已經與我們的一個小人綁定，我們沒有條件、也沒有能力在安全的環境中研究這個項目，因此任何進一步的研究只能在實地進行。因此，本報告已被重新認證爲實地研究報告\n\n--有關洞啓之鑰的實地研究--\n\n對象：{PAWN_nameDef}\n\n摘要：\n本報告介紹對象{PAWN_nameDef}提供的關於洞啓之鑰的任何新發現知識。在{PAWN_nameDef}與鑰匙綁定後，對象立即獲得了使用該鑰匙所需的所有技能。對象還獲得了某些能力，這表明其能夠打開通往暗黑超凡智能的通道。這些能力可以讓小人“打開”東西，包括通道和人類，但也會讓人受到暗黑影響，破壞其自身的穩定。根據這一觀察結果，該鑰匙類異常被列爲 2 級（警告）異常。\n\n假說：\n考慮到該異常具有暗黑超凡智能的背景，我們認爲其是超凡智能爲研究目的而製造的。由於他們與我們的世界沒有穩定的聯繫，這把鑰匙就成了他們遠程影響我們世界的一種方式。由於這種能力可以在分子水平上對物體進行解構和重構，它可以讓超凡智能獲得有關與之相連的小人、其他生物甚至周圍世界的大量信息。然而，我們不知道超凡智能是否還在使用它，因爲即使他們曾經使用過洞啓之鑰，之後也可能會發明其他方法來影響世界。正因爲如此，我們不知道我們是否被它監視着。\n\n擬議機制：\n由於該物品和它的能力是超凡智能製造的，我們對其具體的工作原理還沒有一個明確的理論，因此當前確定的結論是，它要麼使用了靈能，要麼使用了某種分子操縱技術。\n\n結論：\n根據此次觀察獲得的信息，{PAWN_nameDef}已成功將該鑰匙類一場的異常分類爲 2 級（警告）異常。\n\n審議：\n該異常的使用顯然是有風險的，但其帶來的力量無疑十分有用。使用其能力必須非常謹慎。\n\n建議：\n收容：鑑於該異常在激活狀態下具有極大的危險性，我們應該考慮在其休眠後對其進行控制，不過這需要我們將其從小人中提取出來。\n利用：另一方面，考慮到該異常的力量強大，我們可以在不對被綁定的小人造成太大傷害的前提下使用，或者將其綁定到消耗性更強的人身上，如果我們有的話。</Hediff_AE_Key.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Key bound -->
-	<Hediff_AE_KeySecond.label>鑰匙繫結</Hediff_AE_KeySecond.label>
+	<Hediff_AE_KeySecond.label>鑰匙綁定</Hediff_AE_KeySecond.label>
     <!-- EN: The key has opened a conduit to archotechnological powers, allowing this person to use them -->
-	<Hediff_AE_KeySecond.description>洞啟之鑰打開了通往超凡智慧的通路，讓小人可以使用他們的力量</Hediff_AE_KeySecond.description>
+	<Hediff_AE_KeySecond.description>洞啓之鑰打開了通往超凡智能的通路，讓小人可以使用他們的力量</Hediff_AE_KeySecond.description>
     <!-- EN: Key bound -->
-	<Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterLabel>鑰匙繫結</Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterLabel>
+	<Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterLabel>鑰匙綁定</Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterLabel>
     <!-- EN: The key was bound once again, allowing the person to use it's powers at the cost of their certain demise -->
-	<Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterText>洞啟之鑰再次被繫結，讓人可以使用它的力量，但代價是必死無疑</Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterText>
+	<Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterText>洞啓之鑰再次被綁定，讓人可以使用它的力量，但代價是必死無疑</Hediff_AE_KeySecond.comps.HediffComp_Discoverable.discoverLetterText>
 	
     <!-- EN: Destabilisation -->
 	<Hediff_AE_KeyDestabilisation.label>非穩定</Hediff_AE_KeyDestabilisation.label>
     <!-- EN: The key has opened a conduit to archotechnological powers, allowing this person to use them -->
-	<Hediff_AE_KeyDestabilisation.description>洞啟之鑰打開了通往超凡智慧的通路，讓小人可以使用他們的力量</Hediff_AE_KeyDestabilisation.description>
+	<Hediff_AE_KeyDestabilisation.description>洞啓之鑰打開了通往超凡智能的通路，讓小人可以使用他們的力量</Hediff_AE_KeyDestabilisation.description>
     <!-- EN: Stable -->
 	<Hediff_AE_KeyDestabilisation.stages.0.label>穩定</Hediff_AE_KeyDestabilisation.stages.0.label>
     <!-- EN: Slight -->
@@ -46,11 +46,11 @@
     <!-- EN: Key mastery -->
 	<Hediff_AE_KeyThird.label>開洞大師</Hediff_AE_KeyThird.label>
     <!-- EN: Overuse of the key has led to permanent changes in the pawn's brain structure, which now allows them to open beer bottles... What? -->
-	<Hediff_AE_KeyThird.description>過度使用鑰匙導致小人的大腦結構發生永久性變化，這使得現在他們可以開啟啤酒......啥？</Hediff_AE_KeyThird.description>
+	<Hediff_AE_KeyThird.description>過度使用鑰匙導致小人的大腦結構發生永久性變化，這使得現在他們可以打開啤酒......啥？</Hediff_AE_KeyThird.description>
     <!-- EN: Key mastery -->
 	<Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterLabel>開洞大師</Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterLabel>
     <!-- EN: Overuse of the key has led to permanent changes in the pawn's structure, which now allows them to open beer bottles... What? -->
-	<Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterText>過度使用鑰匙導致小人的大腦結構發生永久性變化，這使得現在他們可以開啟啤酒......啥？</Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterText>
+	<Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterText>過度使用鑰匙導致小人的大腦結構發生永久性變化，這使得現在他們可以打開啤酒......啥？</Hediff_AE_KeyThird.comps.HediffComp_Discoverable.discoverLetterText>
 
     <!--#endregion-->
 </LanguageData>
