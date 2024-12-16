@@ -137,6 +137,8 @@
     <AE_MeatGrinder.comps.Comp_MeatGrinder.guiLabelString>选择按按钮的人</AE_MeatGrinder.comps.Comp_MeatGrinder.guiLabelString>
     <!-- EN: press button -->
     <AE_MeatGrinder.comps.Comp_MeatGrinder.jobString>按下按钮</AE_MeatGrinder.comps.Comp_MeatGrinder.jobString>
+    <!-- EN: reactivating -->
+	<AE_MeatGrinder.comps.Comp_MeatGrinder.onCooldownString>重启中</AE_MeatGrinder.comps.Comp_MeatGrinder.onCooldownString>
 
     <!-- EN: meat grinder -->
     <AE_MeatGrinder.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>绞肉机</AE_MeatGrinder.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
@@ -229,6 +231,8 @@
 	<AE_BeamTarget.comps.Comp_BeamTarget.guiLabelString>选择按按钮的人</AE_BeamTarget.comps.Comp_BeamTarget.guiLabelString>
     <!-- EN: press button -->
 	<AE_BeamTarget.comps.Comp_BeamTarget.jobString>按按钮</AE_BeamTarget.comps.Comp_BeamTarget.jobString>
+    <!-- EN: recharging -->
+	<AE_BeamTarget.comps.Comp_BeamTarget.onCooldownString>充能中</AE_BeamTarget.comps.Comp_BeamTarget.onCooldownString>
 
     <!-- EN: transmitter -->
 	<AE_BeamTarget.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>发信器</AE_BeamTarget.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>

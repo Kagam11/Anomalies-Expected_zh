@@ -42,14 +42,21 @@
     <!-- EN: Found strange puddle -->
 	<AE_IncidentDef_BloodPuddleSpawn.letterLabel>发现怪潭</AE_IncidentDef_BloodPuddleSpawn.letterLabel>
 	<!-- EN: Your colonist noticed some small ground vibration. It seems like a pool of liquid seeping up from beneath the ground. -->
-    <AE_IncidentDef_BloodPuddleSpawn.letterText>你的殖民者注意到轻微的地震。似乎从地下渗出了某些液体形成了一汪水潭。</AE_IncidentDef_BloodPuddleSpawn.letterText>
+    <AE_IncidentDef_BloodPuddleSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一汪水潭。</AE_IncidentDef_BloodPuddleSpawn.letterText>
 
     <!-- EN: strange lake -->
 	<AE_IncidentDef_BloodLakeSpawn.label>怪湖</AE_IncidentDef_BloodLakeSpawn.label>
     <!-- EN: Found strange lake -->
 	<AE_IncidentDef_BloodLakeSpawn.letterLabel>发现怪湖</AE_IncidentDef_BloodLakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some strong ground vibration. It seems like a giant pool of liquid seeping up from beneath the ground. -->
-	<AE_IncidentDef_BloodLakeSpawn.letterText>你的殖民者注意到轻微的地震。似乎从地下渗出了某些液体形成了一片小湖。</AE_IncidentDef_BloodLakeSpawn.letterText>
+	<AE_IncidentDef_BloodLakeSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一片小湖。</AE_IncidentDef_BloodLakeSpawn.letterText>
+
+    <!-- EN: yellow notepad -->
+	<AE_IncidentDef_StudyNotepadSpawn.label>黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.label>
+    <!-- EN: Found yellow notepad -->
+	<AE_IncidentDef_StudyNotepadSpawn.letterLabel>发现黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a notepad, its yellow pages filled with handwritten notes. -->
+	<AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个黄色的笔记本，上面写满了手写笔记。</AE_IncidentDef_StudyNotepadSpawn.letterText>
 
     <!--#endregion-->
 

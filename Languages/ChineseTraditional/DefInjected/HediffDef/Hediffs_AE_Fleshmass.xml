@@ -4,7 +4,7 @@
     <!-- EN: incubating fleshmass tumor -->
 	<Hediff_AEFleshmassTumorIncubation.label>孵化血肉腫瘤</Hediff_AEFleshmassTumorIncubation.label>
     <!-- EN: All bodily functions are redirected to sustain the growth of the fleshmass tumor, a fatal process, as the cyst has become inextricably intertwined with the organ structure. However, the cyst is dependent on the host's survival. -->
-	<Hediff_AEFleshmassTumorIncubation.description>爲維持血肉囊腫的生長，所有身體機能都會被調整，這是一個致命的過程，因爲囊腫已經與器官結構密不可分。然而，囊腫本身的生存依賴於宿主。</Hediff_AEFleshmassTumorIncubation.description>
+	<Hediff_AEFleshmassTumorIncubation.description>此人的所有身體機能都已調整以維持血肉囊腫的生長，囊腫已經與器官結構密不可分，因此這最終是一個致命的過程。不過，在囊腫成熟前，其本身的生存仍依賴於宿主。</Hediff_AEFleshmassTumorIncubation.description>
     <!-- EN: Fleshmass tumor incubated from {0} -->
 	<Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>血肉腫瘤由{0}孵化</Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>
 
@@ -117,7 +117,7 @@
     <!-- EN: fleshmass kidney -->
 	<AE_FleshmassKidney.label>血肉腎</AE_FleshmassKidney.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Will grow fleshmass that can be mutated into Fingerspike afflicted with by destabilization mutation.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassKidney.description>一團癌變的半智慧肉體。可以長出可以不穩定突變成單爪獸的肉塊。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。</AE_FleshmassKidney.description>
+	<AE_FleshmassKidney.description>一團癌變的半智慧肉體。可以長出肉塊並使用不穩定突變將其變成單爪獸。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。</AE_FleshmassKidney.description>
     <!-- EN: Fleshmass operation -->
 	<AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手術</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass kidney has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
@@ -128,7 +128,7 @@
     <!-- EN: fleshmass heart -->
 	<AE_FleshmassHeart.label>血肉心</AE_FleshmassHeart.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Drastically increase regeneration and blood clotting.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassHeart.description>一團癌變的半智慧肉體。大幅提高再生和凝血能力。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。</AE_FleshmassHeart.description>
+	<AE_FleshmassHeart.description>一團癌變的半智慧肉體。能夠大幅提高再生和凝血能力。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。</AE_FleshmassHeart.description>
     <!-- EN: Fleshmass operation -->
 	<AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手術</AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass heart has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
@@ -139,7 +139,7 @@
     <!-- EN: fleshmass brain tumor -->
 	<AE_FleshmassBrainTumor.label>血肉腦瘤</AE_FleshmassBrainTumor.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. The tumor possesses its own neural network capable of controlling allied fleshbeasts.\n\nThe organ has its own neural structures and may become dangerous if removed.\n\nIt effect on the brain's pain centers and radius of effect depends on amount of fleshmass tumors assimilated in the host's brain up to 5. -->
-	<AE_FleshmassBrainTumor.description>一團癌變的半智慧肉體。腫瘤擁有自己的神經網絡，能夠控制右方的血肉獸。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。\n\n它對大腦疼痛中心的影響和作用半徑取決於宿主大腦中同化的血肉腦瘤數量，最多可達5個。</AE_FleshmassBrainTumor.description>
+	<AE_FleshmassBrainTumor.description>一團癌變的半智慧肉體。腫瘤擁有自己的神經網絡，能夠控制友方的血肉獸。\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。\n\n它對大腦疼痛中心的影響和作用半徑取決於宿主大腦中同化的血肉腦瘤數量，最多可達5個。</AE_FleshmassBrainTumor.description>
     <!-- EN: Fleshmass operation -->
 	<AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手術</AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass brain tumor has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
@@ -169,5 +169,7 @@
 	<AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手術</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass organogenesis core has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
 	<AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>試圖移除{PAWN_nameDef}的血肉器官再生核心導致扭曲的血肉塊發動攻擊。血肉塊已脫離{PAWN_nameDef}並轉化爲血肉獸！</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>
-  
+    <!-- EN: a fleshmass organogenesis core -->
+    <AE_FleshmassOrganogenesisCore.labelNoun>一個血肉器官再生核心</AE_FleshmassOrganogenesisCore.labelNoun>
+
 </LanguageData>

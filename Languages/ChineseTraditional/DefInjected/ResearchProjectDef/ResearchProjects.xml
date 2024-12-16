@@ -47,8 +47,10 @@
     <!-- EN: subject_gerund->synthesizing giant apple inhibitor serums -->
 	<AEFruitInhibitorSerum.generalRules.rulesStrings.2>subject_gerund->正合成禁果抑制血清</AEFruitInhibitorSerum.generalRules.rulesStrings.2>
 
-	<AEForbiddenFruitImplant.label>имплант запретного знания</AEForbiddenFruitImplant.label>
-	<AEForbiddenFruitImplant.description>Изучить способо извлечения семян из огромного яблока для создания нового импланта.</AEForbiddenFruitImplant.description>
+    <!-- EN: implant of forbidden knowledge -->
+	<AEForbiddenFruitImplant.label>禁忌知識植入體</AEForbiddenFruitImplant.label>
+    <!-- EN: Learn how to extract seeds from the Giant Apple to create a new implant. -->
+	<AEForbiddenFruitImplant.description>掌握如何從知識禁果中提取種子並製作植入體</AEForbiddenFruitImplant.description>
 
     <!-- EN: grinder stomach -->
 	<AEGrinderStomach.label>絞磨胃</AEGrinderStomach.label>
@@ -139,12 +141,17 @@
     <!-- EN: study notes #BL02 -->
 	<AEBloodLakeTerminalB.label>研究記錄 #BL02</AEBloodLakeTerminalB.label>
     <!-- EN: Acquire knowledge of fleshmass tumor incubation operation and new operations for mutating fleshmass organs from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass tumor;\n- Operation to incubate fleshmass acid cavity;\n- Operation to incubate fleshmass ear;\n- Operation to incubate fleshmass eye;\n- Operation to incubate fleshmass kidney;\n- Operation to incubate fleshmass heart;\n- Operation to incubate fleshmass brain tumor. -->
-	<AEBloodLakeTerminalB.description>掌握血肉腫瘤的孵化以及從腫瘤變異出血肉器官的操作。\n\n解鎖：\n血肉腫瘤的培養；\n血肉酸腔的培養\n血肉耳的培養；\n血肉眼的培養；\n血肉腎的培養；\血肉心的培養；\n血肉腦瘤的培養。</AEBloodLakeTerminalB.description>
+	<AEBloodLakeTerminalB.description>掌握血肉腫瘤的孵化以及從腫瘤變異出血肉器官的操作。\n\n解鎖：\n血肉腫瘤的培養；\n血肉酸腔的培養\n血肉耳的培養；\n血肉眼的培養；\n血肉腎的培養；\n血肉心的培養；\n血肉腦瘤的培養。</AEBloodLakeTerminalB.description>
 
     <!-- EN: study notes #BL03 -->
 	<AEBloodLakeTerminalC.label>研究記錄 #BL03</AEBloodLakeTerminalC.label>
     <!-- EN: Acquire knowledge of new operation for fleshmass mutation of host's body from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass body mutation;\n- Operation to incubate fleshmass organogenesis core. -->
 	<AEBloodLakeTerminalC.description>掌握從腫瘤中獲取宿主身體血肉塊並變異的知識。\n\n解鎖：\n血肉軀體突變；\n血肉器官再生核心。</AEBloodLakeTerminalC.description>
+
+    <!-- EN: examine notepad -->
+	<AEStudyNotepad.label>檢查</AEStudyNotepad.label>
+    <!-- EN: Examining research notes in a yellow notepad. -->
+	<AEStudyNotepad.description>檢查黃色筆記本中的研究筆記。</AEStudyNotepad.description>
 
     <!--#endregion-->
 

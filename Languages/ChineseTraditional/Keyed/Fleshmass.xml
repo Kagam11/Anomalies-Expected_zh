@@ -4,7 +4,7 @@
     <!-- EN: The fleshmass has detached from {0} and transformed into a fleshbeast! -->
 	<AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>血肉塊已脫離{0}，變成了一隻血肉獸！</AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>
     <!-- EN: {0} mutated into {1} -->
-	<AnomaliesExpected.Fleshmass.FleshmassMutation.Message>{0}變異爲{1}</AnomaliesExpected.Fleshmass.FleshmassMutation.Message>
+	<AnomaliesExpected.Fleshmass.FleshmassMutation.Message>{0}變異出{1}</AnomaliesExpected.Fleshmass.FleshmassMutation.Message>
 	
     <!-- EN: Reaction to enemies -->
 	<AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>對敵反應</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>

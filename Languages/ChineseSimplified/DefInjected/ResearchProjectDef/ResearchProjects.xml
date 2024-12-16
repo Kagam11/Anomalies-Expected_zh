@@ -148,6 +148,11 @@
     <!-- EN: Acquire knowledge of new operation for fleshmass mutation of host's body from tumor.\n\nUnlocks:\n- Operation to incubate fleshmass body mutation;\n- Operation to incubate fleshmass organogenesis core. -->
 	<AEBloodLakeTerminalC.description>掌握从肿瘤中获取宿主身体血肉块并变异的知识。\n\n解锁：\n血肉躯体突变；\n血肉器官再生核心。</AEBloodLakeTerminalC.description>
 
+    <!-- EN: examine notepad -->
+	<AEStudyNotepad.label>笔记检查</AEStudyNotepad.label>
+    <!-- EN: Examining research notes in a yellow notepad. -->
+	<AEStudyNotepad.description>检查黄色笔记本中的研究笔记。</AEStudyNotepad.description>
+
     <!--#endregion-->
 
 

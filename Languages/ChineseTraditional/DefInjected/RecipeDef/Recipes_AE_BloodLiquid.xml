@@ -14,7 +14,7 @@
     <!-- EN: Filtering out bioferite x4. -->
 	<MakeAEBloodLiquidBioferriteBulk.jobString>過濾活鐵 x4.</MakeAEBloodLiquidBioferriteBulk.jobString>
 	<!-- EN: Filtering out bioferite x16. -->
-    <MakeAEBloodLiquidBioferriteMass.label>отделить биоферрит x16</MakeAEBloodLiquidBioferriteMass.label>
+    <MakeAEBloodLiquidBioferriteMass.label>過濾活鐵 x16</MakeAEBloodLiquidBioferriteMass.label>
     <!-- EN: Separate bioferrite from blood-like liquid by filtering it. -->
 	<MakeAEBloodLiquidBioferriteMass.description>通過過濾從血樣液體中過濾活鐵。</MakeAEBloodLiquidBioferriteMass.description>
     <!-- EN: Filtering out bioferite x16. -->

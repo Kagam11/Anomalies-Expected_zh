@@ -26,6 +26,9 @@
     <!-- EN: strange lake -->
 	<AE_EntityCodexEntry_BloodLake.label>怪湖</AE_EntityCodexEntry_BloodLake.label>
     
+    <!-- EN: yellow notepad -->
+	<AE_EntityCodexEntry_StudyNotepad.label>黄色笔记本</AE_EntityCodexEntry_StudyNotepad.label>
+
     <!--#endregion-->
 
     <!--#region Anomalies Expected Addon-->
