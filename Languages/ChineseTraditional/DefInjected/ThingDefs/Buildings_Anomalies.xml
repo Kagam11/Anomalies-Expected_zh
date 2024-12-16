@@ -495,7 +495,7 @@
     <!-- EN: #3/3 Terminal study report -->
 	<AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 終端研究報告</AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.label>
     <!-- EN: A damaged computer terminal of this facility. It can be studied to download information from it database.\n\nCan be interacted to initiate immediate reactor meltdown of this facility. All unnecesary personnel should leave through Blood Lake Exit in advance of activation. -->
-    <!-- !!! may duplicate with above -->
+    <!-- !!! may duplicate with above??? -->
 	<AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>該設施中一個已損壞的電腦終端。可以研究它，從數據庫中下載信息。\n\n可啓動使該設施的反應堆立即熔燬。所有非必要人員應在啓動前從血湖出口離開。</AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
     <!-- EN: facility terminal -->
 	<AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>設施終端</AE_BloodLakeTerminal.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
