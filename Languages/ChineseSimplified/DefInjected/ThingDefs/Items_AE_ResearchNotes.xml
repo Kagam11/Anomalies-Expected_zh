@@ -16,9 +16,9 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>
 	
 
     <!-- EN: research note #MG01 -->
@@ -36,9 +36,9 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>
 	
 
     <!-- EN: research note #BP01 -->
@@ -56,9 +56,9 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>
 	
     
     <!-- EN: research note #BL01 -->
@@ -76,9 +76,9 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #BL02 -->
 	<AE_ResearchNotesBLB.label>研究记录 #BL02</AE_ResearchNotesBLB.label>
@@ -95,9 +95,9 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #BL03 -->
 	<AE_ResearchNotesBLC.label>研究记录 #BL03</AE_ResearchNotesBLC.label>
@@ -114,8 +114,8 @@
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>可以分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>可以被殖民者分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>
+	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>
 
 </LanguageData>
