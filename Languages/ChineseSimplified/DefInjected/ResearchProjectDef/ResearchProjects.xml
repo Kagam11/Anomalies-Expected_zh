@@ -153,6 +153,16 @@
     <!-- EN: Examining research notes in a yellow notepad. -->
 	<AEStudyNotepad.description>检查黄色笔记本中的研究笔记。</AEStudyNotepad.description>
 
+    <!-- EN: provider box -->
+    <AEProviderScripture.label>供者之箱</AEProviderScripture.label>
+    <!-- EN: Examining blueprint for provider box and learn asking Provider ritual. -->
+    <AEProviderScripture.description>检查供者之箱的蓝图并学习祈求供者仪式。</AEProviderScripture.description>
+
+    <!-- EN: asking provider -->
+    <AEAskingProvider.label>祈求供者</AEAskingProvider.label>
+    <!-- EN: Collected research progress will be used as additional sacrifice in Asking Provider ritual. -->
+    <AEAskingProvider.description>该研究的研究进度将作为祈求供者仪式中的额外祭品。</AEAskingProvider.description>
+
     <!--#endregion-->
 
 

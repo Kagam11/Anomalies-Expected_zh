@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
 
@@ -57,6 +57,13 @@
 	<AE_IncidentDef_StudyNotepadSpawn.letterLabel>發現黃色筆記本</AE_IncidentDef_StudyNotepadSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a notepad, its yellow pages filled with handwritten notes. -->
 	<AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個黃色的筆記本，上面寫滿了手寫筆記。</AE_IncidentDef_StudyNotepadSpawn.letterText>
+
+    <!-- EN: ancient scripture -->
+	<AE_IncidentDef_ProviderScriptureSpawn.label>遠古經書</AE_IncidentDef_ProviderScriptureSpawn.label>
+    <!-- EN: Found ancient scripture -->
+	<AE_IncidentDef_ProviderScriptureSpawn.letterLabel>發現遠古經書</AE_IncidentDef_ProviderScriptureSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark-covered book bearing the marks of time, featuring a prominent symbol. -->
+	<AE_IncidentDef_ProviderScriptureSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一本古老的暗色書記，其上有一個醒目的標誌。</AE_IncidentDef_ProviderScriptureSpawn.letterText>
 
     <!--#endregion-->
 

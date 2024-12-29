@@ -29,6 +29,9 @@
     <!-- EN: yellow notepad -->
 	<AE_EntityCodexEntry_StudyNotepad.label>黄色笔记本</AE_EntityCodexEntry_StudyNotepad.label>
 
+    <!-- EN: ancient scripture -->
+    <AE_EntityCodexEntry_ProviderScripture.label>远古经书</AE_EntityCodexEntry_ProviderScripture.label>
+
     <!--#endregion-->
 
     <!--#region Anomalies Expected Addon-->

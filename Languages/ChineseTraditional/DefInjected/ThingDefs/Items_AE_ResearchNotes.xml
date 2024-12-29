@@ -3,7 +3,7 @@
 
     <!-- EN: research note #FF01 -->
 	<AE_ResearchNotesFFA.label>研究記錄 #FF01</AE_ResearchNotesFFA.label>
-    <!-- EN: Learn how to extract seeds from the Giant Apple to create a new implant. -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesFFA.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesFFA.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -12,7 +12,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: The Forbidden Fruit of Knowledge research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析知識禁果研究筆記：已解鎖{RESEARCH}</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析知識禁果研究筆記：解鎖{RESEARCH}</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
@@ -23,7 +23,7 @@
 
     <!-- EN: research note #MG01 -->
 	<AE_ResearchNotesMGA.label>研究記錄 #MG01</AE_ResearchNotesMGA.label>
-    <!-- EN: Produce grinder jaw, which replicate Meat Grinder structure. -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesMGA.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesMGA.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -32,7 +32,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Symphony of Eternal Slaughter research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析永恆屠戮交響曲研究記錄：已解鎖{RESEARCH}</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析永恆屠戮交響曲研究記錄：解鎖{RESEARCH}</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
@@ -43,7 +43,7 @@
 
     <!-- EN: research note #BP01 -->
 	<AE_ResearchNotesBPA.label>研究記錄 #BP01</AE_ResearchNotesBPA.label>
-    <!-- EN: Synthesize a serum that temporary changes person's metabolism to increase efficiency of nutrient breakdown. -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesBPA.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesBPA.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -52,7 +52,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Self-Baking Pies research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析巨大的派研究記錄：已解鎖{RESEARCH}</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析巨大的派研究記錄：解鎖{RESEARCH}</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
@@ -63,7 +63,7 @@
     
     <!-- EN: research note #BL01 -->
 	<AE_ResearchNotesBLA.label>研究記錄 #BL01</AE_ResearchNotesBLA.label>
-    <!-- EN: 與異常相關的研究筆記。研究它們有助於開啓新的異常研究。 -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesBLA.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesBLA.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -72,7 +72,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：已解鎖{RESEARCH}</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：解鎖{RESEARCH}</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
@@ -82,7 +82,7 @@
 
     <!-- EN: research note #BL02 -->
 	<AE_ResearchNotesBLB.label>研究記錄 #BL02</AE_ResearchNotesBLB.label>
-    <!-- EN: 與異常相關的研究筆記。研究它們有助於開啓新的異常研究。 -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesBLB.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesBLB.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -91,7 +91,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：已解鎖{RESEARCH}</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：解鎖{RESEARCH}</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
@@ -101,7 +101,7 @@
 
     <!-- EN: research note #BL03 -->
 	<AE_ResearchNotesBLC.label>研究記錄 #BL03</AE_ResearchNotesBLC.label>
-    <!-- EN: 與異常相關的研究筆記。研究它們有助於開啓新的異常研究。 -->
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
 	<AE_ResearchNotesBLC.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesBLC.description>
     <!-- EN: Analyze the research note. -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.activateDescString>
@@ -110,12 +110,31 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
-	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：已解鎖{RESEARCH}</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究設施中的研究記錄：解鎖{RESEARCH}</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
 	<AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>進行分析</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>
+
+    <!-- EN: research note #PS01 -->
+	<AE_ResearchNotesPSA.label>研究記錄 #PS01</AE_ResearchNotesPSA.label>
+    <!-- EN: A research notes related to anomaly. It can be studied to help unlock new anomaly research. -->
+	<AE_ResearchNotesPSA.description>與異常相關的研究筆記。研究它們有助於開啓新的異常研究。</AE_ResearchNotesPSA.description>
+    <!-- EN: Analyze the research note. -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究記錄</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.activateDescString>
+    <!-- EN: Analyze... -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.activateLabelString>
+    <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetter>通過分析研究記錄，{PAWN_labelShort}獲得了研究項目{RESEARCH}所需的知識。\n\n您的研究人員現在可以使用研究臺開始研究如何實際使用該技術。</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetter>
+    <!-- EN: The One Who Provides research note studied: {RESEARCH} unlocked -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析供養我等之人的研究記錄：解鎖{RESEARCH}</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+    <!-- EN: Choose who should analyze this -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>選擇誰應該分析這個</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <!-- EN: Can be analyzed by a colonist. -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <!-- EN: Analyze research note -->
+	<AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>進行分析</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>
 
 </LanguageData>

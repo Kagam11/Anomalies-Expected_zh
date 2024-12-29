@@ -3,7 +3,7 @@
 	<name>Anomalies Expected_zh</name>
 	<author>Kagami</author>
 	<packageId>Kagami.AnomaliesExpected.zh</packageId>
-    <modVersion>1.5.1.0</modVersion>
+    <modVersion>1.6.0.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>

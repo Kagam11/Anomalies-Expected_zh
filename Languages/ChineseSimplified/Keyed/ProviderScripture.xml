@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: Missing Provider Box for ritual -->
+	<AnomaliesExpected.ProviderScripture.Ritual.MissingTheBox>缺少供者之箱</AnomaliesExpected.ProviderScripture.Ritual.MissingTheBox>
+    <!-- EN: Provider Box is empty -->
+	<AnomaliesExpected.ProviderScripture.Ritual.BoxEmpty>供者之箱是空的</AnomaliesExpected.ProviderScripture.Ritual.BoxEmpty>
+    <!-- EN: \nWill consume {0}\n\n   Qulity multiplier {1}\n   Research multiplier {2}\n   Total multiplier {3}\n\nWill acquire {4} -->
+	<AnomaliesExpected.ProviderScripture.Ritual.OutputDesc>\n将消耗：{0}\n\n   品质乘数：{1}\n   研究乘数：{2}\n   总乘数：{3}\n\n将给与：{4}</AnomaliesExpected.ProviderScripture.Ritual.OutputDesc>
+</LanguageData>

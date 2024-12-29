@@ -58,6 +58,13 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a notepad, its yellow pages filled with handwritten notes. -->
 	<AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个黄色的笔记本，上面写满了手写笔记。</AE_IncidentDef_StudyNotepadSpawn.letterText>
 
+    <!-- EN: ancient scripture -->
+	<AE_IncidentDef_ProviderScriptureSpawn.label>远古经书</AE_IncidentDef_ProviderScriptureSpawn.label>
+    <!-- EN: Found ancient scripture -->
+	<AE_IncidentDef_ProviderScriptureSpawn.letterLabel>发现远古经书</AE_IncidentDef_ProviderScriptureSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark-covered book bearing the marks of time, featuring a prominent symbol. -->
+	<AE_IncidentDef_ProviderScriptureSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一本古老的暗色书记，其上有一个醒目的标志。</AE_IncidentDef_ProviderScriptureSpawn.letterText>
+
     <!--#endregion-->
 
 
