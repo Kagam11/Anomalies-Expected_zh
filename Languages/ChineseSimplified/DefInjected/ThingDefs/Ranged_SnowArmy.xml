@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: snowball -->
+	<Gun_AESnowBall.label>雪球</Gun_AESnowBall.label>
+    <!-- EN: The Snowball is a simple yet effective projectile weapon. Formed from compacted snow, it can be thrown with surprising force, delivering a chilling impact upon impact. While seemingly harmless, a well-aimed snowball can cause significant frozen through injuries. -->
+	<Gun_AESnowBall.description>雪球是一种简单而有效的投射武器。由雪压制而成，可以以惊人的力量投掷出去，在撞击时会产生令人不寒而栗的冲击力。虽然看似无害，但瞄准得当的雪球却能造成严重的冰冻伤害。</Gun_AESnowBall.description>
+    <!-- EN: snowball -->
+	<Gun_AESnowBall.verbs.Verb_Shoot.label>雪球</Gun_AESnowBall.verbs.Verb_Shoot.label>
+    <!-- EN: snowball -->
+	<Gun_AESnowBall_Thrown.label>雪球</Gun_AESnowBall_Thrown.label>
+
+</LanguageData>

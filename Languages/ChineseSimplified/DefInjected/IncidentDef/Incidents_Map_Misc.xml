@@ -65,6 +65,13 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark-covered book bearing the marks of time, featuring a prominent symbol. -->
 	<AE_IncidentDef_ProviderScriptureSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一本古老的暗色书记，其上有一个醒目的标志。</AE_IncidentDef_ProviderScriptureSpawn.letterText>
 
+    <!-- EN: red stockings -->
+	<AE_IncidentDef_ChristmasStockingsSpawn.label>红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.label>
+    <!-- EN: Found red stockings -->
+	<AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>发现红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a red stockings, featuring white details and a snowflake symbol. It appear to be filled with something. -->
+	<AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个红色的长袜，表面有白色的纹路和雪花装饰。似乎里面填满了东西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
+    
     <!--#endregion-->
 
 
@@ -110,14 +117,14 @@
     <!-- EN: Found clay figure -->
 	<AE_IncidentDef_ReplicatorSpawn.letterLabel>发现粘土人偶</AE_IncidentDef_ReplicatorSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of clay figure -->
-	<AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
+	<AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
 
     <!-- EN: big pie -->
 	<AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
     <!-- EN: Found big pie -->
 	<AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
-	<AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是某种装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
+	<AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
 
     <!-- EN: Strange pebble -->
     <AE_IncidentDef_PebbleSpawn.label>奇异卵石</AE_IncidentDef_PebbleSpawn.label>

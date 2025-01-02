@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: freezing -->
+	<AEFreezing.label>凍結</AEFreezing.label>
+    <!-- EN: Frozen tissue and flesh caused by exposure to extreme cold. Due to freezing to the nerves, the feeling of pain is dulled. After completely freezing through body parts are often lost. -->
+	<AEFreezing.description>暴露在極端低溫中導致組織凍結。由於神經凍傷而不會有太多痛感。在完全凍結後，受害者往往會失去凍結的部分。</AEFreezing.description>
+    <!-- EN: frozen through -->
+	<AEFreezing.comps.HediffComp_GetsPermanent.permanentLabel>完全凍結</AEFreezing.comps.HediffComp_GetsPermanent.permanentLabel>
+    <!-- EN: Lost to freezing through -->
+	<AEFreezing.injuryProps.destroyedLabel>因完全凍結而失去</AEFreezing.injuryProps.destroyedLabel>
+    <!-- EN: [not found] -->
+	<AEFreezing.labelNounPretty>{0}/{1}</AEFreezing.labelNounPretty>
+
+</LanguageData>

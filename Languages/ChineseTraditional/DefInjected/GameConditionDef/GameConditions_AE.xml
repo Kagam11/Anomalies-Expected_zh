@@ -10,4 +10,11 @@
     <!-- EN: Blood-like liquid concentration in the air returning to normal. -->
 	<AE_BloodFog.startMessage>空氣中血樣液體濃度回到正常。</AE_BloodFog.startMessage>''
 
+    <!-- EN: temperature shifting -->
+	<AE_TemperatureDrop.label>溫度驟變</AE_TemperatureDrop.label>
+    <!-- EN: Temperature is rapidly shifting. -->
+	<AE_TemperatureDrop.description>溫度正急劇變化。</AE_TemperatureDrop.description>
+    <!-- EN: Temperature is rapidly shifting. -->
+	<AE_TemperatureDrop.letterText>溫度正急劇變化。</AE_TemperatureDrop.letterText>
+
 </LanguageData>

@@ -6,4 +6,9 @@
     <!-- EN: Flashmass infected area on the other side of Blood Lake. -->
 	<AE_BloodLakeBiome.description>血湖另一侧的血肉感染区</AE_BloodLakeBiome.description>
 
+    <!-- EN: christmas tree -->
+	<AE_ChristmasTreeBiome.label>圣诞树</AE_ChristmasTreeBiome.label>
+    <!-- EN: Ice fields area on the other side of Christmas Tree. -->
+	<AE_ChristmasTreeBiome.description>圣诞树另一侧的冰原</AE_ChristmasTreeBiome.description>
+
 </LanguageData>

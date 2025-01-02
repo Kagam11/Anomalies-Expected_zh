@@ -32,6 +32,9 @@
     <!-- EN: ancient scripture -->
     <AE_EntityCodexEntry_ProviderScripture.label>远古经书</AE_EntityCodexEntry_ProviderScripture.label>
 
+    <!-- EN: red stockings -->
+	<AE_EntityCodexEntry_ChristmasStockings.label>红色长袜</AE_EntityCodexEntry_ChristmasStockings.label>
+
     <!--#endregion-->
 
     <!--#region Anomalies Expected Addon-->

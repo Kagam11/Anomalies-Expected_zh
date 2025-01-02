@@ -5,10 +5,5 @@
 	<AE_BloodPump.label>血样液体泵</AE_BloodPump.label>
     <!-- EN: Collect blood-like liquid from nearby anomalous source. -->
 	<AE_BloodPump.description>从附近的异常源收集血样液体。</AE_BloodPump.description>
-
-    <!-- EN: provider box -->
-	<AE_ProviderBox.label>供者之箱</AE_ProviderBox.label>
-    <!-- EN: The ritual box, designed to hold sacrificial offerings for asking Provider ritual. Its surface corroded, aged prematurely, and became marred with scratches upon creation. -->
-	<AE_ProviderBox.description>用于向供者献上物品的箱子。箱体表面经过做旧处理，包括表面腐蚀及制作时留下划痕，显示出老旧的样子。</AE_ProviderBox.description>
-
+    
 </LanguageData>

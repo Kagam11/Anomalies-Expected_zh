@@ -20,5 +20,14 @@
     <!-- EN: Feeling light headed. What a nice feeling. -->
 	<Thought_AEFleshmassLung.stages.0.description>感到晕头转向，太棒了。</Thought_AEFleshmassLung.stages.0.description>
 
+    <!-- EN: got candy cane -->
+	<Thought_AEChristmasCandyCane.stages.got_candy_cane.label>得到拐杖糖</Thought_AEChristmasCandyCane.stages.got_candy_cane.label>
+    <!-- EN: A surge of sweet anticipation washed over them, a smile spreading across their face as they unwrapped the bright red and white candy cane. -->
+	<Thought_AEChristmasCandyCane.stages.got_candy_cane.description>得到红白相间的拐杖糖，一股甜蜜的期待涌上心头，笑容洋溢在脸上。</Thought_AEChristmasCandyCane.stages.got_candy_cane.description>
+    <!-- EN: got lump of coal -->
+	<Thought_AEChristmasCoal.stages.got_lump_of_coal.label>得到煤块</Thought_AEChristmasCoal.stages.got_lump_of_coal.label>
+    <!-- EN: Disappointment washed over them as they pulled out the lump of coal, a sense of shame momentarily clouding their mood. -->
+	<Thought_AEChristmasCoal.stages.got_lump_of_coal.description>得到煤块，失望之情油然而生，瞬间被一种羞愧感笼罩。</Thought_AEChristmasCoal.stages.got_lump_of_coal.description>
+
     <!--#endregion-->
 </LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: snowman -->
+	<AE_SnowMan.label>雪人</AE_SnowMan.label>
+    <!-- EN: The Snowman appears harmless and made out of few big snowballs. However, its icy snow body proves surprisingly resilient, quickly dispelling any illusions of innocence. They can attack by throwing snowballs at enemies or scratching them with their stick arms. They can survive even with substantial part of their body being missing. -->
+	<AE_SnowMan.description>看似無害的雪人，由幾個大雪球組成。然而它冰冷的雪體卻有着驚人的韌性，很快就能打消人們對它人畜無害的幻想。它們可以通過向敵人投擲雪球或用樹枝手臂抓撓敵人來進行攻擊。即使身體的大部分缺失也能存活下來。</AE_SnowMan.description>
+
+    <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+	<AE_SnowMan.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}生成。</AE_SnowMan.comps.CompInspectStringEmergence.inspectString>
+    <!-- EN: head -->
+	<AE_SnowMan.tools.head.label>頭</AE_SnowMan.tools.head.label>
+    <!-- EN: left stick arm -->
+	<AE_SnowMan.tools.left_stick_arm.label>左樹肢</AE_SnowMan.tools.left_stick_arm.label>
+    <!-- EN: stick arm -->
+	<AE_SnowMan.tools.left_stick_arm.labelNoLocation>樹肢</AE_SnowMan.tools.left_stick_arm.labelNoLocation>
+    <!-- EN: right stick arm -->
+	<AE_SnowMan.tools.right_stick_arm.label>右樹肢</AE_SnowMan.tools.right_stick_arm.label>
+    <!-- EN: stick arm -->
+	<AE_SnowMan.tools.right_stick_arm.labelNoLocation>樹肢</AE_SnowMan.tools.right_stick_arm.labelNoLocation>
+    <!-- EN: carrot nose -->
+	<AE_SnowMan.tools.carrot_nose.label>胡蘿蔔鼻</AE_SnowMan.tools.carrot_nose.label>
+
+</LanguageData>
