@@ -11,4 +11,14 @@
     <!-- EN: Something is emerging from the ground here. -->
 	<AE_BloodLakeSpawner.description>有什么东西正在从地下冒出来。</AE_BloodLakeSpawner.description>
 
+    <!-- EN: provider box -->
+	<AE_ProviderBox.label>供者之箱</AE_ProviderBox.label>
+    <!-- EN: The ritual box, designed to hold sacrificial offerings for asking Provider ritual. Its surface corroded, aged prematurely, and became marred with scratches upon creation. -->
+	<AE_ProviderBox.description>用于向供者献上物品的箱子。箱体表面经过做旧处理，包括表面腐蚀及制作时留下划痕，显示出老旧的样子。</AE_ProviderBox.description>
+
+    <!-- EN: christmas gift box -->
+	<AE_ChristmasGiftBox.label>圣诞礼物盒</AE_ChristmasGiftBox.label>
+    <!-- EN: This elegant Christmas gift box is adorned with festive ribbons. It's the perfect container that holds a special surprise. -->
+	<AE_ChristmasGiftBox.description>一个优雅的圣诞礼盒，上面装饰着节日彩带。是盛放特别惊喜的完美容器。</AE_ChristmasGiftBox.description>
+
 </LanguageData>

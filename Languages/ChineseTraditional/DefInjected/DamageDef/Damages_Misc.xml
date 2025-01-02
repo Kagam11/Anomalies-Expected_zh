@@ -10,4 +10,9 @@
     <!-- EN: [not found] -->
 	<AEPsychicFlash.deathMessage>{0}死於燒傷。</AEPsychicFlash.deathMessage>
 
+    <!-- EN: freezing -->
+	<AEFreezing.label>凍結</AEFreezing.label>
+    <!-- EN: {0} has succumbed to freezing. -->
+	<AEFreezing.deathMessage>{0}死於凍結。</AEFreezing.deathMessage>
+
 </LanguageData>

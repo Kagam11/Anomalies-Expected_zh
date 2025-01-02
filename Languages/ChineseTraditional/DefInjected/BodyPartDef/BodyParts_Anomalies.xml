@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: snowball -->
+	<AE_SnowBall.label>雪球</AE_SnowBall.label>
+    <!-- EN: top snowball -->
+	<AE_SnowBallTop.label>上部雪球</AE_SnowBallTop.label>
+    <!-- EN: bottom snowball -->
+	<AE_SnowBallBottom.label>下部雪球</AE_SnowBallBottom.label>
+    <!-- EN: snow core -->
+	<AE_SnowCoreHeart.label>冰雪核心</AE_SnowCoreHeart.label>
+    <!-- EN: eye stone -->
+	<AE_SnowEye.label>眼石</AE_SnowEye.label>
+    <!-- EN: carrot nose -->
+	<AE_SnowNose.label>胡蘿蔔鼻</AE_SnowNose.label>
+    <!-- EN: stick arm -->
+	<AE_SnowArm.label>樹肢</AE_SnowArm.label>
+    <!-- EN: snowball leg -->
+	<AE_SnowLeg.label>雪球腿</AE_SnowLeg.label>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: snowman -->
+	<AE_SnowMan.label>雪人</AE_SnowMan.label>
+    <!-- EN: middle snowball -->
+	<AE_SnowMan.corePart.customLabel>中部雪球</AE_SnowMan.corePart.customLabel>
+    <!-- EN: top snowball -->
+	<AE_SnowMan.corePart.parts.top_snowball.customLabel>上部雪球</AE_SnowMan.corePart.parts.top_snowball.customLabel>
+    <!-- EN: left eye stone -->
+	<AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>左眼石</AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>
+    <!-- EN: right eye stone -->
+	<AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>右眼石</AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>
+    <!-- EN: bottom snowball -->
+	<AE_SnowMan.corePart.parts.bottom_snowball.customLabel>下部雪球</AE_SnowMan.corePart.parts.bottom_snowball.customLabel>
+    <!-- EN: left snowball leg -->
+	<AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>左雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>
+    <!-- EN: right snowball leg -->
+	<AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>右雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>
+    <!-- EN: left stick arm -->
+	<AE_SnowMan.corePart.parts.left_stick_arm.customLabel>左树肢</AE_SnowMan.corePart.parts.left_stick_arm.customLabel>
+    <!-- EN: right stick arm -->
+	<AE_SnowMan.corePart.parts.right_stick_arm.customLabel>右树肢</AE_SnowMan.corePart.parts.right_stick_arm.customLabel>
+
+</LanguageData>
