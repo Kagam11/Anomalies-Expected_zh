@@ -46,7 +46,7 @@
     <!-- EN: blood-like liquid concentration -->
 	<Hediff_AEBloodLiquidConcentration.label>血样液体浓度</Hediff_AEBloodLiquidConcentration.label>
     <!-- EN: A blood-like liquid is introduced into the body. At high concentration it might mutate flesh into something hostile. The body will eventually filter out the substance. -->
-	<Hediff_AEBloodLiquidConcentration.description>血样液体进入此人体内。高浓度时，可能会使肉体变异，变成某种有敌意的东西。人体最终会过滤掉这种物质。</Hediff_AEBloodLiquidConcentration.description>
+	<Hediff_AEBloodLiquidConcentration.description>血样液体进入此人体内。高浓度时可能会使肉体变异，变成某种有敌意的东西。不过人体最终会过滤掉这种物质。</Hediff_AEBloodLiquidConcentration.description>
     <!-- EN: minor -->
 	<Hediff_AEBloodLiquidConcentration.stages.minor-0.label>轻微</Hediff_AEBloodLiquidConcentration.stages.minor-0.label>
     <!-- EN: minor -->
@@ -61,7 +61,19 @@
     <!-- EN: destabilization mutation -->
 	<Hediff_AEDestabilization.label>不稳定突变</Hediff_AEDestabilization.label>
     <!-- EN: Destabilization of biological structure to amplify creature physical performance. The creature's life expectancy will be drastically reduced due to the mutation. -->
-	<Hediff_AEDestabilization.description>破坏生物结构的稳定性从而增强生物的体能。生物的预期寿命会因突变而大幅缩短。</Hediff_AEDestabilization.description>
+	<Hediff_AEDestabilization.description>使生理机能失衡从而增强生物的体能。生物的预期寿命会因突变而大幅缩短。</Hediff_AEDestabilization.description>
+
+    <!-- EN: freezing core -->
+	<Hediff_AESnowArmy.label>冻结核心</Hediff_AESnowArmy.label>
+    <!-- EN: Regeneration speed increases proportionally to the decrease in ambient temperature. When exposed to fire, its surface becomes significantly more susceptible to damage.\n\nReceivied damage x2, when on fire. -->
+	<Hediff_AESnowArmy.description>再生速度与环境温度的降低成正比。当暴露在火中时，其表面更容易受损。\n\n着火时受到双倍伤害。</Hediff_AESnowArmy.description>
+
+    <!-- EN: deflective ice -->
+	<AE_IceThinBody.label>偏转冰片</AE_IceThinBody.label>
+    <!-- EN: This thin ice shard structure enhances incoming attack deflection. It reduces received frontal and rear damage, but increases damage from the sides. -->
+	<AE_IceThinBody.description>这种薄冰结构可增强攻击偏转。它能减少正面和背面受到的伤害，但会增加来自侧面的伤害。</AE_IceThinBody.description>
+    <!-- EN: a deflective ice -->
+	<AE_IceThinBody.labelNoun>偏转冰片</AE_IceThinBody.labelNoun>
 
     <!--#endregion-->
 </LanguageData>

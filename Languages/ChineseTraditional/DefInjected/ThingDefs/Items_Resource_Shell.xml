@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: nitrogen shell -->
+	<Shell_AENitrogen.label>液氮彈</Shell_AENitrogen.label>
+    <!-- EN: A shell filled with destabilized ice crystal, for spilling nitrogen around that freezing and slowing down surrounding targets when detonated. It casues cryogenic bonding of mechanical components, effectively disrupting the functionality of different machinery and temporarily disable electrical devices. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+	<Shell_AENitrogen.description>裝填了大量失穩冰晶的炮彈。爆炸後向周圍噴灑液氮，使周圍目標凍結並減速。它能使機械部件低溫粘合，有效破壞不同機械的功能，並使電氣設備暫時失效。可以用迫擊炮發射或者安裝成一個陷阱。受損後爆炸。</Shell_AENitrogen.description>
+    <!-- EN: nitrogen shell -->
+	<Bullet_Shell_AENitrogen.label>液氮彈</Bullet_Shell_AENitrogen.label>
+
+</LanguageData>

@@ -21,4 +21,20 @@
     <!-- EN: This elegant Christmas gift box is adorned with festive ribbons. It's the perfect container that holds a special surprise. -->
 	<AE_ChristmasGiftBox.description>一個優雅的聖誕禮盒，上面裝飾着節日綵帶。是盛放特別驚喜的完美容器。</AE_ChristmasGiftBox.description>
 
+    <!-- EN: [not found] -->
+	<AE_AtmosphericHeaterGlowingVentsInv.label>冰晶碎片</AE_AtmosphericHeaterGlowingVentsInv.label>
+    <!-- EN: atmospheric cooler -->
+	<AE_AtmosphericCooler.label>大氣降溫器</AE_AtmosphericCooler.label>
+    <!-- EN: A thermal absorption device powered by scavenged shards of dark archotechnology. The device spread dust of ice crystal to calm gas molecules in the atmosphere, decreasing the local outdoor temperature. The building itself also produces huge amounts of cold air. -->
+	<AE_AtmosphericCooler.description>由暗黑超凡碎片驅動的熱能吸收設備。它能通過散發冰晶碎片來穩定大氣中的氣體分子，降低當地室外溫度。它本身也會產生大量冷氣。</AE_AtmosphericCooler.description>
+    <!-- EN: Target outdoor temperature -->
+	<AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>目標室外溫度</AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>
+
+    <!-- EN: atmospheric controller -->
+	<AE_AtmosphericController.label>氣溫控制器</AE_AtmosphericController.label>
+    <!-- EN: In heater mode device burns destabilized ice crystal to agitate gas molecules in the atmosphere, raising the local outdoor temperature.\nIn cooler mode device spread dust of destabilized ice crystal to calm gas molecules in the atmosphere, decreasing the local outdoor temperature.\nDestabilized ice crystal have higher efficiency, than bioferrite or ice crystal alone. Depending on a current mode building itself also produces enormous amounts of waste heat or cold air. -->
+	<AE_AtmosphericController.description>在加熱模式下，通過燃燒失穩冰晶來攪動大氣中的氣體分子，提高當地室外溫度。\n在降溫模式下，通過散發冰晶碎片來穩定大氣中的氣體分子，降低當地室外溫度。\n與活鐵或冰晶相比，失穩冰晶的效率更高。根據使用的模式，建築本身也會產生大量的廢熱或冷氣。</AE_AtmosphericController.description>
+    <!-- EN: Target outdoor temperature -->
+	<AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>目標室外溫度</AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>
+
 </LanguageData>

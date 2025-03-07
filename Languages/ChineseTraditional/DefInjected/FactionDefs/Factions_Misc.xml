@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: snow army entities -->
+	<AE_SnowArmy.label>冰雪軍團實體</AE_SnowArmy.label>
+    <!-- EN: Snow army -->
+	<AE_SnowArmy.fixedName>冰雪軍團</AE_SnowArmy.fixedName>
+    <!-- EN: [not found] -->
+	<AE_SnowArmy.leaderTitle>領袖</AE_SnowArmy.leaderTitle>
+    <!-- EN: snow soldier -->
+	<AE_SnowArmy.pawnSingular>冰雪士兵</AE_SnowArmy.pawnSingular>
+    <!-- EN: snow army -->
+	<AE_SnowArmy.pawnsPlural>冰雪軍團</AE_SnowArmy.pawnsPlural>
+
+</LanguageData>

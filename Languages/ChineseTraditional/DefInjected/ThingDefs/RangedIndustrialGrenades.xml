@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: nitrogen grenades -->
+	<Weapon_AEGrenadeNitrogen.label>液氮手雷</Weapon_AEGrenadeNitrogen.label>
+    <!-- EN: Grenades filled with destabilized ice crystal. They can be thrown a short distance, where they'll explode, spilling nitrogen around that freezing and slowing down anything and anyone nearby. -->
+	<Weapon_AEGrenadeNitrogen.description>裝滿失穩冰晶的手榴彈。它們可以在短距離內投擲，爆炸後液氮會四處飛濺，凍結並減緩附近的任何事物和任何人的速度。</Weapon_AEGrenadeNitrogen.description>
+    <!-- EN: throw nitrogen grenade -->
+	<Weapon_AEGrenadeNitrogen.verbs.throw_nitrogen_grenade.label>投擲液氮手雷</Weapon_AEGrenadeNitrogen.verbs.throw_nitrogen_grenade.label>
+    <!-- EN: nitrogen grenade -->
+	<Proj_AEGrenadeNitrogen.label>液氮手雷</Proj_AEGrenadeNitrogen.label>
+
+</LanguageData>

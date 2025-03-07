@@ -123,6 +123,11 @@
     <!-- EN: crafting precise orbital beam targeter -->
 	<AEOrbitalBeamTargeter.generalRules.rulesStrings.5>subject_gerund->正在制造轨道光束精确靶向器</AEOrbitalBeamTargeter.generalRules.rulesStrings.5>
     
+    <!-- EN: thermal-reflective skin gland -->
+	<AEThermalReflectiveSkinImplant.label>热反射皮腺</AEThermalReflectiveSkinImplant.label>
+    <!-- EN: Produce a thermal-reflective skin gland based on understanding of transmitter anomaly. -->
+	<AEThermalReflectiveSkinImplant.description>根据对发信器异常的了解，制作热反射皮腺。</AEThermalReflectiveSkinImplant.description>
+
     <!-- EN: blood-like liquid pump -->
 	<AEBloodPump.label>血样液体泵</AEBloodPump.label>
     <!-- EN: Acquire fundamental knowledge of the blood-like liquid, including its collection through pumps and the separation of bioferrite from blood. This enables the destruction of new Blood Puddles without full study. -->

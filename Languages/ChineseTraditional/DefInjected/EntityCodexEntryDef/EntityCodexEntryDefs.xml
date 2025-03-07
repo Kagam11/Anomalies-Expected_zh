@@ -25,7 +25,10 @@
 	
     <!-- EN: strange lake -->
 	<AE_EntityCodexEntry_BloodLake.label>怪湖</AE_EntityCodexEntry_BloodLake.label>
-    
+
+    <!-- EN: Blood-like liquid -->
+	<AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>血樣液體</AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>
+
     <!-- EN: yellow notepad -->
 	<AE_EntityCodexEntry_StudyNotepad.label>黃色筆記本</AE_EntityCodexEntry_StudyNotepad.label>
 
@@ -34,6 +37,17 @@
 
     <!-- EN: red stockings -->
 	<AE_EntityCodexEntry_ChristmasStockings.label>紅色長襪</AE_EntityCodexEntry_ChristmasStockings.label>
+
+    <!-- EN: Christmas -->
+	<AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>聖誕節</AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>
+	
+    <!-- EN: snow army -->
+	<AE_EntityCodexEntry_SnowArmy.label>冰雪軍團</AE_EntityCodexEntry_SnowArmy.label>
+    <!-- EN: Whispers on the icy winds tell of a force frozen to the core, a chilling legion that emerges from the heart of the blizzards. The only grim evidence of their passage is the trail of frozen corpses.\n\nClassified as Class-4 (Critical) anomaly. -->
+	<AE_EntityCodexEntry_SnowArmy.description>一支從暴風雪中心湧出的令人不寒而慄的軍團，他們冰風中的低語訴說着一股凍結的力量。唯一能證明他們存在的殘酷證據就是一具具冰凍的屍體。\n\n分類爲 4 級（緊急）異常。</AE_EntityCodexEntry_SnowArmy.description>
+    <!-- EN: Snow army -->
+	<AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>冰雪軍團</AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>
+
 
     <!--#endregion-->
 

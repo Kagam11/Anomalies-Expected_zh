@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+    <!-- EN: Entity Database -->
+	<AnomaliesExpected.EntityDataBase.Label>实体数据库</AnomaliesExpected.EntityDataBase.Label>
+    <!-- EN: This page lists all known entities which are related to the dark void. You can review all unlocked study notes. Discover new entities using the “void provocation” psychic ritual. -->
+	<AnomaliesExpected.EntityDataBase.Desc>本页列出了所有与黑暗虚空有关的已知实体。你可以查看所有解锁的学习笔记。使用“虚空扰动”心灵仪式发现新实体。</AnomaliesExpected.EntityDataBase.Desc>
+    <!-- EN: View all discovered entities and their study notes. -->
+	<AnomaliesExpected.EntityDataBase.Tip>查看所有已发现的实体及其研究笔记。</AnomaliesExpected.EntityDataBase.Tip>
+    <!-- EN: Amount studied: {0} -->
+    <AnomaliesExpected.EntityDataBase.AmountStudied>已研究数量{0}</AnomaliesExpected.EntityDataBase.AmountStudied>
+    <!-- EN: Unlocked research notes: -->
+	<AnomaliesExpected.EntityDataBase.AnalyzableThings>已解锁研究笔记：</AnomaliesExpected.EntityDataBase.AnalyzableThings>
+    <!-- EN: {0} was lost.\n[Click to create a copy of it.]-->
+	<AnomaliesExpected.EntityDataBase.ResearchNote.Missing.Tip>{0}已经丢失。\n[点击创建一个它的复制]</AnomaliesExpected.EntityDataBase.ResearchNote.Missing.Tip>
+    <!-- EN: {0} already exist on a map.\n[Cleck to select it.]-->
+	<AnomaliesExpected.EntityDataBase.ResearchNote.Exist.Tip>{0}已经存在于地图。\n[点击以选中]</AnomaliesExpected.EntityDataBase.ResearchNote.Exist.Tip>
+    <!-- EN: {0} is fully studied. -->
+	<AnomaliesExpected.EntityDataBase.ResearchNote.Studied.Tip>{0}已经研究完毕。</AnomaliesExpected.EntityDataBase.ResearchNote.Studied.Tip>
+    <!-- EN: View entity database -->
+	<AnomaliesExpected.EntityDataBase.View>查看实体数据库</AnomaliesExpected.EntityDataBase.View>
+	
+    <!-- EN: {0}: Class {1} -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass>{0}:{1} 级</AnomaliesExpected.EntityDataBase.ThreatClass>
+    <!-- EN: Unknown -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.-1>未知</AnomaliesExpected.EntityDataBase.ThreatClass.-1>
+    <!-- EN: Safe -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.0>安全</AnomaliesExpected.EntityDataBase.ThreatClass.0>
+    <!-- EN: Caution -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.1>注意</AnomaliesExpected.EntityDataBase.ThreatClass.1>
+    <!-- EN: Warning -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.2>警告</AnomaliesExpected.EntityDataBase.ThreatClass.2>
+    <!-- EN: Danger -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.3>危险</AnomaliesExpected.EntityDataBase.ThreatClass.3>
+    <!-- EN: Critical -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.4>紧急</AnomaliesExpected.EntityDataBase.ThreatClass.4>
+    <!-- EN: Apocalypse -->
+	<AnomaliesExpected.EntityDataBase.ThreatClass.5>浩劫</AnomaliesExpected.EntityDataBase.ThreatClass.5>
+    <!-- EN: Threat level of "{0}" anomaly increased. -->
+	<AnomaliesExpected.EntityDataBase.ThreatClassIncreased>异常"{0}"的威胁等级上升。</AnomaliesExpected.EntityDataBase.ThreatClassIncreased>
+	
+    <!-- EN: Group by: {0} -->
+	<AnomaliesExpected.EntityDataBase.GroupType>以{0}分组</AnomaliesExpected.EntityDataBase.GroupType>
+    <!-- EN: Knowledge Category -->
+	<AnomaliesExpected.EntityDataBase.GroupType.0>知识类型</AnomaliesExpected.EntityDataBase.GroupType.0>
+    <!-- EN: Threat Class -->
+	<AnomaliesExpected.EntityDataBase.GroupType.1>威胁等级</AnomaliesExpected.EntityDataBase.GroupType.1>
+    <!-- EN: Connected Group -->
+	<AnomaliesExpected.EntityDataBase.GroupType.2>关联组</AnomaliesExpected.EntityDataBase.GroupType.2>
+    <!-- EN: Mod -->
+	<AnomaliesExpected.EntityDataBase.GroupType.3>Mod</AnomaliesExpected.EntityDataBase.GroupType.3>
+	
+</LanguageData>

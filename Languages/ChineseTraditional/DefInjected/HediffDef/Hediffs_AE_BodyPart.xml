@@ -25,5 +25,19 @@
     <!-- EN: a grinder jaw -->
 	<AEGrinderJaw.labelNoun>一個絞磨下頜</AEGrinderJaw.labelNoun>
 
+    <!-- EN: thermal-reflective skin gland -->
+	<AEThermalReflectiveSkinImplant.label>熱反射皮腺</AEThermalReflectiveSkinImplant.label>
+    <!-- EN: An installed anomalous thermal-reflective skin gland, which replicate the reflective surface structure of a Transmitter. The skin's cellular structure is altered to reflect both light and thermal radiation, offering exceptional protection against burns and heat-based attacks. The altered surface beautifully diffracts light, creating a captivating interplay of colors and a radiant glow that enhances the user's attractiveness in a unique and striking manner. However, this transformation also makes the skin more fragile and susceptible to physical damage. -->
+	<AEThermalReflectiveSkinImplant.description>一個已安裝好的異常熱反射皮膚腺體，模仿了發信器的表面反射結構。皮膚的細胞結構發生了改變，可以同時反射光和熱輻射，爲灼傷和熱能攻擊提供特殊保護。改變後的皮膚表面會產生美麗的光衍射，創造出迷人的色彩交織和光芒四射的效果，以獨特而引人注目的方式增強使用者的吸引力。然而，這種變化也使皮膚變得更加脆弱，容易受到物理損傷。</AEThermalReflectiveSkinImplant.description>
+    <!-- EN: a thermal-reflective skin gland -->
+	<AEThermalReflectiveSkinImplant.labelNoun>一個熱反射皮腺</AEThermalReflectiveSkinImplant.labelNoun>
+	
+    <!-- EN: snow core implant -->
+	<AESnowCoreImplant.label>冰雪核心植入物</AESnowCoreImplant.label>
+    <!-- EN: An installed anomalous implant, replicating the Snow Army's snow core, enabling the host to survive in lower temperatures. Nano-scale frostites induce cellular crystallization upon injury, accelerating regeneration in lower temperatures. However, this crystallization makes the cells vulnerable to high temperatures, destabilizing their structure. The host body also lowers the temperature of the surrounding air.\n\nRecieved damage x2, when on fire.\nMax effect at -100 degrees, including regeneration of missing parts. -->
+	<AESnowCoreImplant.description>一個已安裝好的異常植入物，複製了冰雪軍團的冰雪核心，使宿主能夠在較低溫度下生存。納米級的霜粒在受傷後會誘導細胞結晶，從而加速低溫下的再生。不過，這種結晶會使細胞在高溫下變得脆弱，破壞細胞結構的穩定性。宿主本身還會降低周圍空氣的溫度。\n\n着火時受到雙倍傷害。\n-100℃時達到最大效率，還能修復缺失的肢體。</AESnowCoreImplant.description>
+    <!-- EN: a snow core implant -->
+	<AESnowCoreImplant.labelNoun>一個冰雪核心植入物</AESnowCoreImplant.labelNoun>
+
     <!--#endregion-->
 </LanguageData>

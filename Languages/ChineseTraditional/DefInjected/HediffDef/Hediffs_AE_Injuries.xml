@@ -12,4 +12,18 @@
     <!-- EN: [not found] -->
 	<AEFreezing.labelNounPretty>{0}/{1}</AEFreezing.labelNounPretty>
 
+    <!-- EN: nitrogen freezing -->
+	<AENitrogenFreezing.label>液氮凍結</AENitrogenFreezing.label>
+    <!-- EN: Frozen tissue and flesh caused by exposure to extreme cold. Due to freezing to the nerves, the feeling of pain is dulled. After completely freezing through body parts are often lost. -->
+	<AENitrogenFreezing.description>暴露在極端低溫中導致組織凍結。由於神經凍傷而不會有太多痛感。在完全凍結後，受害者往往會失去凍結的部分。</AENitrogenFreezing.description>
+
+    <!-- EN: freezing fragile -->
+	<AEFreezingFragile.label>凍結脆弱</AEFreezingFragile.label>
+    <!-- EN: Exposure to extreme cold made this more vulnerable to damage. -->
+	<AEFreezingFragile.description>暴露在極端低溫下，更容易受到傷害。</AEFreezingFragile.description>
+    <!-- EN: Freezing fragile -->
+	<AEFreezingFragile.labelNoun>凍結脆弱</AEFreezingFragile.labelNoun>
+    <!-- EN: [not found] -->
+	<AEFreezingFragile.labelNounPretty>{0}/{1}</AEFreezingFragile.labelNounPretty>
+
 </LanguageData>

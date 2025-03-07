@@ -11,4 +11,9 @@
     <!-- EN: A crimson fog, thick and ominous, blankets the surroundings. This mist is a direct consequence of the elevated concentration of blood-like liquid in the air. Despite its apparent harmlessness, a subtle sense of dread creeps in. This phenomenon will undoubtedly affect all beings outside of enclosed spaces. -->
 	<AE_BloodLakeWeatherBloodFog.description>周圍籠罩着一層猩紅濃霧，厚重而不祥。這種霧是空氣中血樣液體濃度升高的直接後果。儘管它表面上無害，但一種微妙的恐懼感卻悄然而至。這種現象無疑會影響封閉空間外的所有生物。</AE_BloodLakeWeatherBloodFog.description>
 
+    <!-- EN: heavy snow -->
+	<AE_SnowArmy.label>大雪</AE_SnowArmy.label>
+    <!-- EN: Heavy snow created by Snow Army presence. -->
+	<AE_SnowArmy.description>冰雪軍團的出現引來的大雪。</AE_SnowArmy.description>
+
 </LanguageData>

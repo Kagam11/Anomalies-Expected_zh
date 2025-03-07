@@ -4,10 +4,56 @@
     <!-- EN: snowball -->
 	<Gun_AESnowBall.label>雪球</Gun_AESnowBall.label>
     <!-- EN: The Snowball is a simple yet effective projectile weapon. Formed from compacted snow, it can be thrown with surprising force, delivering a chilling impact upon impact. While seemingly harmless, a well-aimed snowball can cause significant frozen through injuries. -->
-	<Gun_AESnowBall.description>雪球是一種簡單而有效的投射武器。由雪壓制而成，可以以驚人的力量投擲出去，在撞擊時會產生令人不寒而慄的衝擊力。雖然看似無害，但瞄準得當的雪球卻能造成嚴重的冰凍傷害。</Gun_AESnowBall.description>
+	<Gun_AESnowBall.description>一種簡單而有效的投射武器。由雪壓制而成，可以以驚人的力量投擲出去，在撞擊時會產生令人不寒而慄的衝擊力。雖然看似無害，但瞄準得當的雪球卻能造成嚴重的冰凍傷害。</Gun_AESnowBall.description>
     <!-- EN: snowball -->
 	<Gun_AESnowBall.verbs.Verb_Shoot.label>雪球</Gun_AESnowBall.verbs.Verb_Shoot.label>
     <!-- EN: snowball -->
 	<Gun_AESnowBall_Thrown.label>雪球</Gun_AESnowBall_Thrown.label>
+
+    <!-- EN: snow block -->
+	<Gun_AESnowBlock.label>雪塊</Gun_AESnowBlock.label>
+    <!-- EN: The Snowblock is a simple yet effective projectile weapon. Formed from highly compressed snow infused with nitrogen, it can be thrown with some force, delivering a chilling impact upon everyone in impact area. When thrown, it delivers a powerful, freezing impact, causing substantial damage, slowing down targets and cryogenicly bonding mechanical components. -->
+	<Gun_AESnowBlock.description>雪塊——簡單而有效的投射武器。它由注入液氮的高度壓縮雪製成，可以用一定的力量投擲出去，給打擊區域內的每個人帶來寒冷衝擊。投擲後，它能產生強大的冰凍衝擊，造成巨大傷害，使目標減速，並低溫粘合機械部件。</Gun_AESnowBlock.description>
+    <!-- EN: snow block -->
+	<Gun_AESnowBlock.verbs.Verb_Shoot.label>雪塊</Gun_AESnowBlock.verbs.Verb_Shoot.label>
+    <!-- EN: snow block -->
+	<Gun_AESnowBlock_Thrown.label>雪塊</Gun_AESnowBlock_Thrown.label>
+    <!-- EN: giant snow block -->
+	<AE_Bullet_Shell_SnowBlockAbility.label>巨型雪塊</AE_Bullet_Shell_SnowBlockAbility.label>
+
+    <!-- EN: icicle -->
+	<Gun_AEIcicle.label>冰柱</Gun_AEIcicle.label>
+    <!-- EN: The Icicle is a simple yet effective projectile weapon. Formed from sharp ice shard, it can be thrown with surprising force. Its high-impact strikes deliver precise damage, and should it shatter, the fragments inflict further injury. Its ability to effectively disrupt force fields remains a mystery. -->
+	<Gun_AEIcicle.description>冰柱——簡單而有效的投射武器。它由鋒利的冰碎塊製成，可以以驚人的力量投擲出去。它的高衝擊力可以造成精確的傷害，如果碎裂，碎片還會造成進一步的傷害。它有效破壞力場的能力仍然是個謎。</Gun_AEIcicle.description>
+    <!-- EN: point -->
+	<Gun_AEIcicle.tools.point.label>冰尖</Gun_AEIcicle.tools.point.label>
+    <!-- EN: icicle -->
+	<Gun_AEIcicle.verbs.Verb_Shoot.label>冰柱</Gun_AEIcicle.verbs.Verb_Shoot.label>
+    <!-- EN: icicle -->
+	<Bullet_AEIcicle.label>冰柱</Bullet_AEIcicle.label>
+
+    <!-- EN: snowball gun -->
+	<Gun_AESnowBallGun.label>雪球槍</Gun_AESnowBallGun.label>
+    <!-- EN: This weapon utilizes atmospheric moisture or direct snow loading to generate snowballs, which are then fired with impressive velocity. A well-aimed shot can cause severe freezing injuries, though its effective range is limited. Replicating snowballs of SA-01. -->
+	<Gun_AESnowBallGun.description>該武器利用大氣中的水分或直接裝載的雪產生雪球，然後以驚人的速度發射出去。儘管其有效射程有限，但瞄準得當的射擊可造成嚴重凍傷。復刻了SA-01的雪球。</Gun_AESnowBallGun.description>
+    <!-- EN: stock -->
+	<Gun_AESnowBallGun.tools.stock.label>槍托</Gun_AESnowBallGun.tools.stock.label>
+    <!-- EN: barrel -->
+	<Gun_AESnowBallGun.tools.barrel.label>槍管</Gun_AESnowBallGun.tools.barrel.label>
+    <!-- EN: snowball gun -->
+	<Gun_AESnowBallGun.verbs.Verb_Shoot.label>雪球槍</Gun_AESnowBallGun.verbs.Verb_Shoot.label>
+    <!-- EN: snowball-->
+	<Bullet_AESnowBall.label>雪球</Bullet_AESnowBall.label>
+
+    <!-- EN: icicle rifle -->
+	<Gun_AEIcicleRifle.label>冰柱步槍</Gun_AEIcicleRifle.label>
+    <!-- EN: This weapon utilizes atmospheric moisture or direct snow loading to generate icicles, which are then fired with exceptional speed and range. Projectiles have a chance to exhibit fragmentation upon impact, resulting in secondary projectile damage. Impact with electronic systems or force field emitters induces electrical short-circuiting. Replicating icicles of SA-05. -->
+	<Gun_AEIcicleRifle.description>該武器利用大氣中的水分或直接加雪產生冰柱，然後以超常的速度和射程發射。彈丸在撞擊時有幾率產生碎片，造成二次傷害。擊中電子系統或力場發射器會導致電氣短路。復刻了SA-05的冰柱。</Gun_AEIcicleRifle.description>
+    <!-- EN: stock -->
+	<Gun_AEIcicleRifle.tools.stock.label>槍托</Gun_AEIcicleRifle.tools.stock.label>
+    <!-- EN: barrel -->
+	<Gun_AEIcicleRifle.tools.barrel.label>槍管</Gun_AEIcicleRifle.tools.barrel.label>
+    <!-- EN: icicle rifle -->
+	<Gun_AEIcicleRifle.verbs.Verb_Shoot.label>冰柱步槍</Gun_AEIcicleRifle.verbs.Verb_Shoot.label>
 
 </LanguageData>

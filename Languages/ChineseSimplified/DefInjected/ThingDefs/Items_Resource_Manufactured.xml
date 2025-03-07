@@ -60,7 +60,7 @@
     <!-- EN: blood-like liquid injector -->
 	<AE_BloodLiquidInjector.label>血样液体注射器</AE_BloodLiquidInjector.label>
     <!-- EN: A one-use dose of blood-like liquid. This liquid, when administered, transmute to replace some of lost blood and increases its density around major wounds to prevent further blood loss. It prioritizes the 5 most severe injuries, focusing on those with the highest bleeding rates. Precise dosing is crucial to avoid excessive blood-liquid levels in the bloodstream. -->
-	<AE_BloodLiquidInjector.description>一次性使用的血样液体。注入后该液体能转化为血液，补充部分失血，并增加主要伤口周围的血液密度，防止进一步失血。它根据出血率优先处理5处最严重的伤口。精确的剂量对于避免血液中血液浓度过高至关重要。</AE_BloodLiquidInjector.description>
+	<AE_BloodLiquidInjector.description>一次性使用的血样液体。注入后该液体能转化为血液，补充部分失血，并增加主要伤口周围的血液密度，防止进一步失血。它根据出血率优先处理5处最严重的伤口。精确的剂量对于避免血液中血样液体浓度过高至关重要。</AE_BloodLiquidInjector.description>
     <!-- EN: Inject self -->
 	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>自我注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>
     <!-- EN: Inject someone else -->
@@ -79,6 +79,16 @@
 	<AE_FleshmassTumor.label>血肉肿瘤</AE_FleshmassTumor.label>
     <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Capable of embedding itself within a host and drawing sustenance from their body. -->
 	<AE_FleshmassTumor.description>一团有生命的、跳动的肉团，有自己的意志，能够快速生长和变化。能够嵌入宿主体内，并从宿主体内汲取养分。</AE_FleshmassTumor.description>
+
+    <!-- EN: ice crystal -->
+	<AE_IceCrystal.label>冰晶</AE_IceCrystal.label>
+    <!-- EN: An exotic crystal, visually indistinguishable from ice, remains cold and solid regardless of external temperature. Can be extracted from related anomalies. Its dust can drastically lower temperature of surrounding air. -->
+	<AE_IceCrystal.description>一种奇特的晶体，在视觉上与冰无异，无论外界温度如何，都能保持冰冷和坚固。可以从相关的异常中提取。它的碎屑能大幅降低周围空气的温度。</AE_IceCrystal.description>
+
+    <!-- EN: destabilized ice crystal -->
+	<AE_IceCrystalDestabilized.label>失稳冰晶</AE_IceCrystalDestabilized.label>
+    <!-- EN: A fusion of exotic ice crystal with bioferrite destabilizes the crystal's molecular structure, resulting in contradictory properties. Burning of this mixture releases a significant amount of energy. Its dust can drastically lower temperature of surrounding air. -->
+	<AE_IceCrystalDestabilized.description>冰晶与活铁的融合会破坏晶体分子结构的稳定性，从而产生相互矛盾的特性。燃烧这种混合物会释放大量能量。它的碎屑能大幅降低周围空气的温度。</AE_IceCrystalDestabilized.description>
 
     <!--#endregion-->
 

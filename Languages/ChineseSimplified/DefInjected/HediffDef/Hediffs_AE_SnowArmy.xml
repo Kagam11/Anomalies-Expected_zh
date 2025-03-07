@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: destabilized ice crystal -->
+	<AE_IceCrystalDestabilized.label>失稳冰晶</AE_IceCrystalDestabilized.label>
+    <!-- EN: A highly unstable ice crystal that explodes, releasing nitrogen, if enough targets are nearby. -->
+	<AE_IceCrystalDestabilized.description>一种极不稳定的冰晶，如果附近有足够多的目标，它就会爆炸，释放出氮气。</AE_IceCrystalDestabilized.description>
+	<!-- EN: a destabilized ice crystal -->
+    <AE_IceCrystalDestabilized.labelNoun>以恶搞失稳冰晶</AE_IceCrystalDestabilized.labelNoun>
+
+    <!-- EN: snow block compressor -->
+	<AE_SnowBlockCompressor.label>雪块压缩机</AE_SnowBlockCompressor.label>
+    <!-- EN: Allows to create giant snow block and throw it at a long distance target. Snow block will explode with nitrogen after landing. -->
+	<AE_SnowBlockCompressor.description>能够创建巨型雪块并将其投向远距离目标。雪块落地后产生伴随液氮的爆炸。</AE_SnowBlockCompressor.description>
+	<!-- EN: a snow block compressor -->
+    <AE_SnowBlockCompressor.labelNoun>一个雪块压缩机</AE_SnowBlockCompressor.labelNoun>
+
+</LanguageData>

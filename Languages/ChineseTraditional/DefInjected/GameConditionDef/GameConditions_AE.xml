@@ -17,4 +17,14 @@
     <!-- EN: Temperature is rapidly shifting. -->
 	<AE_TemperatureDrop.letterText>溫度正急劇變化。</AE_TemperatureDrop.letterText>
 
+    <!-- EN: unnatural cold -->
+	<AE_UnnaturalCold.label>反常之寒</AE_UnnaturalCold.label>
+    <!-- EN: A thermal absorption device is calming gas molecules in the atmosphere, decreasing outdoor temperatures. -->
+	<AE_UnnaturalCold.description>熱量吸收裝置可使大氣中的氣體分子平靜下來，從而降低室外溫度。</AE_UnnaturalCold.description>
+
+    <!-- EN: unnatural temperature -->
+	<AE_UnnaturalTemperature.label>反常溫度</AE_UnnaturalTemperature.label>
+    <!-- EN: A hybrid thermal control device is affecting gas molecules in the atmosphere, changing outdoor temperatures. -->
+	<AE_UnnaturalTemperature.description>混合熱控裝置正在影響大氣中的氣體分子，改變室外溫度。</AE_UnnaturalTemperature.description>
+
 </LanguageData>

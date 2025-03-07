@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: IED nitrogen trap -->
+	<TrapIED_AENitrogen.label>液氮爆炸陷阱</TrapIED_AENitrogen.label>
+    <!-- EN: A pair of nitrogen shells connected to a trigger which detonates on touch or bullet impact. The explosion can destabilize ice crystal, which will spill nitrogen around that freezing and slowing down surrounding targets. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<TrapIED_AENitrogen.description>由一個液氮彈和自制的觸發機關組成的陷阱。當機關被生物觸發或子彈擊中後，陷阱會引發爆炸並使冰晶失穩，使液氮向四周溢出，凍結周圍的目標並使其減速。由於它隱藏在周圍的地形中，因此不能與其他陷阱相鄰。動物可以在非狂暴狀態下感知陷阱。</TrapIED_AENitrogen.description>
+
+</LanguageData>

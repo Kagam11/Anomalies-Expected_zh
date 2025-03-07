@@ -15,4 +15,21 @@
     <!-- EN: {0} has succumbed to freezing. -->
 	<AEFreezing.deathMessage>{0}死于冻结。</AEFreezing.deathMessage>
 
+    <!-- EN: nitrogen -->
+	<AENitrogen.label>液氮</AENitrogen.label>
+    <!-- EN: {0} has succumbed to nitrogen freezing. -->
+	<AENitrogen.deathMessage>{0}死于液氮冻伤。</AENitrogen.deathMessage>
+    <!-- EN: nitrogen -->
+	<AENitrogenPlayer.label>液氮</AENitrogenPlayer.label>
+    <!-- EN: {0} has succumbed to nitrogen freezing. -->
+	<AENitrogenPlayer.deathMessage>{0}死于液氮冻伤。</AENitrogenPlayer.deathMessage>
+    <!-- EN: freezing fragile -->
+	<AEFreezingFragileCut.label>冻结脆弱</AEFreezingFragileCut.label>
+    <!-- EN: {0} become too fragile from freezing. -->
+	<AEFreezingFragileCut.deathMessage>{0}冻得太脆了。</AEFreezingFragileCut.deathMessage>
+    <!-- EN: freezing fragile -->
+	<AEFreezingFragileStab.label>冻结脆弱</AEFreezingFragileStab.label>
+    <!-- EN: {0} become too fragile from freezing. -->
+	<AEFreezingFragileStab.deathMessage>{0}冻得太脆了。</AEFreezingFragileStab.deathMessage>
+
 </LanguageData>

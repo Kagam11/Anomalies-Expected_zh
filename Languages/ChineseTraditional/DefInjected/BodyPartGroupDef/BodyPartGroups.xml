@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: left front hand -->
+	<AE_LeftFHand.label>左前手</AE_LeftFHand.label>
+    <!-- EN: hand -->
+	<AE_LeftFHand.labelShort>手</AE_LeftFHand.labelShort>
+    <!-- EN: left rear hand -->
+	<AE_LeftBHand.label>左後手</AE_LeftBHand.label>
+    <!-- EN: hand -->
+	<AE_LeftBHand.labelShort>手</AE_LeftBHand.labelShort>
+    <!-- EN: right front hand -->
+	<AE_RightFHand.label>右前手</AE_RightFHand.label>
+    <!-- EN: hand -->
+	<AE_RightFHand.labelShort>手</AE_RightFHand.labelShort>
+    <!-- EN: right rear hand -->
+	<AE_RightBHand.label>右後手</AE_RightBHand.label>
+    <!-- EN: hand -->
+	<AE_RightBHand.labelShort>手</AE_RightBHand.labelShort>
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: ice sword -->
+	<MeleeWeapon_AEIceSword.label>冰劍</MeleeWeapon_AEIceSword.label>
+    <!-- EN: The weapon made out of thin ice shard, the ice sword can be used for slashing or stabbing. During attack it will spill nitrogen into the wound to make it more fragile for further attacks. Replicating blades of SA-04. -->
+	<MeleeWeapon_AEIceSword.description>一種由冰刃製成的武器，可用於劈砍或刺殺。在攻擊過程中，冰劍會向傷口釋放液氮，使傷口更加脆弱，以便進一步攻擊。復刻了SA-04的刀片。</MeleeWeapon_AEIceSword.description>
+    <!-- EN: point -->
+	<MeleeWeapon_AEIceSword.tools.point.label>劍尖</MeleeWeapon_AEIceSword.tools.point.label>
+    <!-- EN: edge -->
+	<MeleeWeapon_AEIceSword.tools.edge.label>劍刃</MeleeWeapon_AEIceSword.tools.edge.label>
+
+    <!-- EN: ice spear -->
+	<MeleeWeapon_AEIceSpear.label>冰矛</MeleeWeapon_AEIceSpear.label>
+    <!-- EN: A polearm tipped with a sharp thin ice shard point for fast stabbing opponents. During attack it will spill nitrogen into the wound to make it more fragile for further attacks. Replicating blades of SA-04. -->
+	<MeleeWeapon_AEIceSpear.description>一種桿狀武器，尖端帶有鋒利的冰刃，可快速刺傷對手。在攻擊過程中，冰劍會向傷口釋放液氮，使傷口更加脆弱，以便進一步攻擊。復刻了SA-04的刀片。</MeleeWeapon_AEIceSpear.description>
+    <!-- EN: shaft -->
+	<MeleeWeapon_AEIceSpear.tools.shaft.label>槍桿</MeleeWeapon_AEIceSpear.tools.shaft.label>
+    <!-- EN: point -->
+	<MeleeWeapon_AEIceSpear.tools.point.label>槍頭</MeleeWeapon_AEIceSpear.tools.point.label>
+
+</LanguageData>

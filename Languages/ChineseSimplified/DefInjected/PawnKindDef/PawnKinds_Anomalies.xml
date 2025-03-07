@@ -3,5 +3,13 @@
 
     <!-- EN: snowman -->
 	<AE_SnowMan.label>雪人</AE_SnowMan.label>
+    <!-- EN: snow golem -->
+	<AE_SnowGolem.label>冰雪魔像</AE_SnowGolem.label>
+    <!-- EN: snow spider -->
+	<AE_SnowSpider.label>冰雪蜘蛛</AE_SnowSpider.label>
+    <!-- EN: ice mantis -->
+	<AE_IceMantis.label>冰刃螳螂</AE_IceMantis.label>
+    <!-- EN: ice man -->
+	<AE_IceMan.label>冰人</AE_IceMan.label>
 
 </LanguageData>
