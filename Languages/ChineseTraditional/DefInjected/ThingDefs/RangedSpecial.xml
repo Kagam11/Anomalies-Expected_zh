@@ -3,19 +3,19 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: precise beam -->
-	<AEPowerBeam.label>精準光束</AEPowerBeam.label>
+    <AEPowerBeam.label>精準光束</AEPowerBeam.label>
     <!-- EN: precise orbital beam targeter -->
-	<AEOrbitalBeamTargeter.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.label>
-	<!--
+    <AEOrbitalBeamTargeter.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.label>
+    <!--
         EN: A targeting unit for a network of power-collection satellites based on understanding of transmitter anomaly. Once aimed at a target, it directs ancient satellites to begin beaming power down in a thin column of electromagnetic energy. You'll be aiming it at enemies, at which point the power column will turn the small area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut connection to themselves down, and permanently deactivate the targeter after using it for 3 times.
     -->
     <AEOrbitalBeamTargeter.description>一個針對能源收集衛星網絡的瞄準單元，根據對異常發信器的理解而製造。一旦瞄準目標，它就會指揮古代衛星開始向下發射一束細長的電磁能量柱。只需瞄準敵人，隨後能量柱將使小範圍內變成一個上千度的高溫煉獄。這將持續到衛星檢測到非法的目標定位，關閉與自身的連接，並在使用3次後永久停用靶向器。</AEOrbitalBeamTargeter.description>
     <!-- EN: charge -->
-	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>充能</AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>
+    <AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>充能</AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>
     <!-- EN: [not found] -->
-	<AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>重載</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
+    <AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>重載</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
     <!-- EN: [not found] -->
-	<AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
-    
+    <AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>軌道光束精確靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
+
     <!--#endregion-->
 </LanguageData>

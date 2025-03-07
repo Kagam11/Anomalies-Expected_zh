@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <!--#region Anomalies Expected-->
-    
+
     <!-- EN: {1} of {0} was consumed by {2} -->
-	<AnomaliesExpected.MeatGrinder.Consumed>{0}中的{1}被{2}消化</AnomaliesExpected.MeatGrinder.Consumed>
+    <AnomaliesExpected.MeatGrinder.Consumed>{0}中的{1}被{2}消化</AnomaliesExpected.MeatGrinder.Consumed>
     <!-- EN: {1} of {0} evaded consumption by {2} -->
-	<AnomaliesExpected.MeatGrinder.EvadedConsumed>{1}中的{0}逃脫了被{2}消化</AnomaliesExpected.MeatGrinder.EvadedConsumed>
+    <AnomaliesExpected.MeatGrinder.EvadedConsumed>{1}中的{0}逃脫了被{2}消化</AnomaliesExpected.MeatGrinder.EvadedConsumed>
     <!-- EN: {0} was fully consumed by {1} -->
-	<AnomaliesExpected.MeatGrinder.ConsumedFully>{0}完全被{1}消化</AnomaliesExpected.MeatGrinder.ConsumedFully>
+    <AnomaliesExpected.MeatGrinder.ConsumedFully>{0}完全被{1}消化</AnomaliesExpected.MeatGrinder.ConsumedFully>
     <!-- EN: Noise: {0} dB -->
-	<AnomaliesExpected.MeatGrinder.Noise>音量：{0} dB</AnomaliesExpected.MeatGrinder.Noise>
+    <AnomaliesExpected.MeatGrinder.Noise>音量：{0} dB</AnomaliesExpected.MeatGrinder.Noise>
     <!-- EN: \nThis noise is coming from {0}. -->
-	<AnomaliesExpected.MeatGrinder.NoiseSource>\n聲音從{0}傳來。</AnomaliesExpected.MeatGrinder.NoiseSource>
+    <AnomaliesExpected.MeatGrinder.NoiseSource>\n聲音從{0}傳來。</AnomaliesExpected.MeatGrinder.NoiseSource>
     <!-- EN: Body parts in danger: {0} -->
-	<AnomaliesExpected.MeatGrinder.BodyParts>受威脅的身體部位：{0}</AnomaliesExpected.MeatGrinder.BodyParts>
+    <AnomaliesExpected.MeatGrinder.BodyParts>受威脅的身體部位：{0}</AnomaliesExpected.MeatGrinder.BodyParts>
     <!-- EN: Body in danger of consumption -->
-	<AnomaliesExpected.MeatGrinder.Danger>身體受到消化威脅</AnomaliesExpected.MeatGrinder.Danger>
+    <AnomaliesExpected.MeatGrinder.Danger>身體受到消化威脅</AnomaliesExpected.MeatGrinder.Danger>
 
     <!--#endregion-->
 </LanguageData>

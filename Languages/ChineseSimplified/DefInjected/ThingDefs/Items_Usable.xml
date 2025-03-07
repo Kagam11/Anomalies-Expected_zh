@@ -3,157 +3,157 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Anomalous watch -->
-	<AE_Clock.label>异常怀表</AE_Clock.label>
+    <AE_Clock.label>异常怀表</AE_Clock.label>
     <!--
         EN: A mechanism which functions akin to a normal pocket watch, but seems to be running slower than it's normal counterpart. \nIt also seems to be affecting any biological beings in it's vicinity
     -->
-	<AE_Clock.description>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n它似乎也会影响周围的所有生物。</AE_Clock.description>
+    <AE_Clock.description>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n它似乎也会影响周围的所有生物。</AE_Clock.description>
     <!-- EN: Use {0_label} -->
-	<AE_Clock.comps.CompUsable.useLabel>使用 {0_label}</AE_Clock.comps.CompUsable.useLabel>	
+    <AE_Clock.comps.CompUsable.useLabel>使用 {0_label}</AE_Clock.comps.CompUsable.useLabel>
 
     <!-- EN: Anomalous watch -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>异常怀表</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>异常怀表</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
     <!--
         EN: A mechanism which functions akin to a normal pocket watch, but seems to be running slower than it's normal counterpart. \nIt also seems to be affecting any biological beings in it's vicinity
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n它似乎也会影响周围的所有生物。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n它似乎也会影响周围的所有生物。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: #1/3 Anomalous watch study report -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: General properties of the anomalous watch\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the visible properties of the anomalous watch. As the name suggests, the object is identical in both morphology and function to a standart pocket watch, although it also has some notable differences. The material it's made from is unknown, although there are also traces of bioferrite in some of it's parts. Another difference is that the temp at which the watch is running seems to be slower than normal, standing at approximately one fourth of normal speed. It also seems to be producing some effect on live beings, which needs further observation.\n\nObservations:\n{PAWN_nameDef} Reported the object to be identical in morphology to a normal pocket watch.\nMaterial is unknown.\nThe speed at which the watch is running is four times slower than usual.\n\nFindings:\nSome anomalous activity was spotted, investigation in progress.\n\nDiscussion:\nSince actual anomalous properties are yet unknown, we suggest that any further research should be proceeded with caution.\n\nRecommendations:\nAlthough additional tests with {PAWN_nameDef} and potentially other subjects are recommended, further experimentation should be proceeded with caution.
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.text>异常怀表的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了{PAWN_nameDef}对异常怀表可见特性的观察结果。顾名思义，该物体在形态和功能上都与普通怀表相同，但也有一些明显的不同之处。它的材质尚不清楚，不过在它的某些部件中还有灵铁的痕迹。另一个不同之处是手表的运行速度似乎比正常速度慢，大约只有正常速度的四分之一。它似乎还对生物产生了一些影响，需要进一步观察。\n\n现象：\n{PAWN_nameDef}报告该物体在形态上与普通怀表相同。\n该怀表的材料未知。\n该怀表的运行速度为正常的四分之一。\n\n发现：\n发现一些异常特性，调查正在进行中。\n\n讨论：\n鉴于实际的异常特性尚不清楚，我们建议任何进一步的研究都应谨慎进行。\n\n建议：\n虽然建议对{PAWN_nameDef}和可能的其他对象进行更多测试，但应谨慎进行进一步实验。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.text>
-	
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.text>异常怀表的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了{PAWN_nameDef}对异常怀表可见特性的观察结果。顾名思义，该物体在形态和功能上都与普通怀表相同，但也有一些明显的不同之处。它的材质尚不清楚，不过在它的某些部件中还有灵铁的痕迹。另一个不同之处是手表的运行速度似乎比正常速度慢，大约只有正常速度的四分之一。它似乎还对生物产生了一些影响，需要进一步观察。\n\n现象：\n{PAWN_nameDef}报告该物体在形态上与普通怀表相同。\n该怀表的材料未知。\n该怀表的运行速度为正常的四分之一。\n\n发现：\n发现一些异常特性，调查正在进行中。\n\n讨论：\n鉴于实际的异常特性尚不清楚，我们建议任何进一步的研究都应谨慎进行。\n\n建议：\n虽然建议对{PAWN_nameDef}和可能的其他对象进行更多测试，但应谨慎进行进一步实验。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.0.text>
+
     <!-- EN: Anomalous watch -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>异常怀表</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>异常怀表</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
     <!--
         EN: A mechanism which functions akin to a normal pocket watch, but seems to be running slower than it's normal counterpart. \nIt's also able to "bind" to certain beings, producing some effect on them
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n可以与一些生物“绑定”，对被绑定的生物产生影响。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n可以与一些生物“绑定”，对被绑定的生物产生影响。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
     <!-- EN: #2/3 Anomalous watch study report -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.label>#2/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.label>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.label>#2/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.label>
     <!--
         EN: Effects produced by anomalous watch\n\nAbstract:\nThis report details observations concerning the newly discovered biological effects produced by the anomalous watch. It was discovered that the watch can "bind" to certain entities, which greatly increases it's effect on them. This seems to work especially well on more complex creatures, such as our pawns, which start to exhibit changes in their daily schedule as well as their overall performance. The effects themselves can be both positive and negative, but only one type at a time. The changes themselves don't seem to be random, but are rather a part of a repeating cycle, which should be observed further.\n\nObservations:\nItem's ability to "bind" to certain beings was discovered.\nThe effects it produces on such interaction are cyclial and can be both positive and negative.\n\nDiscussion:\nUsability of the effects produced by anomalous watch is quite situational, but they are nevertheless usable. Research into the item's inner workings is advised.\n\nRecommendations:\nFurther research of the mechanism behind anomalous watch is advised
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.text>异常怀表造成的影响\n\n摘要：\n本报告详细介绍了有关新发现的异常怀表所产生的生物效应的观察结果。我们发现，手表可以与某些生物“绑定”，从而大大增强对它们的影响。这似乎对更复杂的生物特别有效，比如我们的小人，绑定后小人的日常作息时间和整体表现都开始发生变化。影响本身既可能是积极的，也可能是消极的，但一次只能有一种。这些变化本身似乎并不是随机的，而是重复循环的一部分，我们应该对其进行进一步观察。\n\n现象：\n观测到异常能够“绑定”生物的现象。\n因互动而产生的影响是循环性的，既可能是积极的，也可能是消极的。\n\n讨论：\n异常怀表所产生的效果的可利用性需要依据情况而定，但它们仍然是可用的。建议对该物品的内部构造进行研究。\n\n建议：\n建议进一步研究异常怀表背后的机制。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.text>
-	
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.text>异常怀表造成的影响\n\n摘要：\n本报告详细介绍了有关新发现的异常怀表所产生的生物效应的观察结果。我们发现，手表可以与某些生物“绑定”，从而大大增强对它们的影响。这似乎对更复杂的生物特别有效，比如我们的小人，绑定后小人的日常作息时间和整体表现都开始发生变化。影响本身既可能是积极的，也可能是消极的，但一次只能有一种。这些变化本身似乎并不是随机的，而是重复循环的一部分，我们应该对其进行进一步观察。\n\n现象：\n观测到异常能够“绑定”生物的现象。\n因互动而产生的影响是循环性的，既可能是积极的，也可能是消极的。\n\n讨论：\n异常怀表所产生的效果的可利用性需要依据情况而定，但它们仍然是可用的。建议对该物品的内部构造进行研究。\n\n建议：\n建议进一步研究异常怀表背后的机制。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.1.text>
+
     <!-- EN: Bioresonator -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>生体谐振器</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>生体谐振器</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
     <!--
         EN: A mechanism which functions akin to a normal pocket watch, but seems to be running slower than it's normal counterpart. \nIt's also able to "bind" to certain beings, producing cyclical effect on them
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n可以与一些生物“绑定”，对被绑定的生物产生影响。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个功能与普通怀表类似的怀表，但运行速度似乎比普通怀表慢。\n可以与一些生物“绑定”，对被绑定的生物产生影响。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
     <!-- EN: #3/3 Anomalous watch study report -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.label>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 异常怀表研究报告</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.label>
     <!--
         EN: Theory Regarding the Anomalous watch/Bioresonator\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report presents a novel theory proposed by Subject {PAWN_nameDef} regarding the probable mechanism behind anomalous watch. Subject suggests that this item's mechanism indeed seems to be bound to time, but not in a way we thought earlier. After observing pawn's altered behaviour, we came to the conclusion that these effects match to different parts of the day, from dawn to midnight, and that these effects match the ones observed in normal people at those times of day, however they seem to be stacking on top of normal daily behaviour. It seems like the materials the item was made from have managed to partially capture the meaning of this item, but also corrupted it and changed it in favour of a more biological mechanism. As a result of this observation, the anomaly associated with the watch has been classified as Safe.\n\nHypothesis:\nFollowing the newer observations of item's effects, {PAWN_nameDef} has proposed a theory concerning the anomalous watch. Subject suggest the watch, or it's "Bioresonator" part to be exact, seems to be able to link with biological beings and produce some effect on them. The effect it produces seems to be bound to the item it's inside of, suggesting that the bioresonator can capture the meaning of the item and produce a biologically alternative effect based on this meaning.\n\nProposed Mechanism:\n{PAWN_nameDef}'s theory suggests the material the watch is made from can capture the meaning of the item and induce a similar effect to some pawn. Considering that the material has archotechnological origin, we suggest it uses psychic mechanisms to do so.\n\nOutcome:\nBased on information gained during this observation, {PAWN_nameDef} has successfully classified the anomaly associated with anomalous watch as Safe.\n\nConsiderations:\nThe potential validity of Subject's theory requires further investigation. Because the watch only exhibits activity only after voluntary actions, no risk is associated with it.\n\nRecommendations:\nDisregard: Given the effects the item produces are quite situational, the item can be ignored.\nExploitation: Alternatively, considering that the item's positive effects seem to outweigh it's negative effects, and considering that it's mechanism can be replicated and integrated into our life, it can be quite useful, especially if we adapt to it's cyclical nature
     -->
-	<AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.text>关于异常怀表/生体谐振器的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告介绍了对象{PAWN_nameDef}就异常怀表背后的可能机制提出的新理论。对象认为，这件物品的机制似乎确实与时间有关，但与我们之前的想法不同。在观察了小人行为的改变之后，我们得出结论：效应的循环与一天中从黎明到午夜的不同时段相吻合，同时，产生的效应与在这些时段观察到的正常人的行为相吻合，只是体现为在正常的日常行为之上叠加。看来，该物品的制作材料成功地捕捉到了该物品的部分含义，但同时也对其进行了破坏和改变，使其更倾向于生物机制。根据这一观察结果，与该表相关的异常现象被分类为 0 级（安全）异常。\n\n假说：\n根据对物品效应的最新观察，{PAWN_nameDef}提出了有关异常怀表的理论。研究对象认为，这块怀表，确切地说是它的“生体谐振器”部分，似乎能够与生物体产生联系，并对它们产生某种影响。它所产生的效果似乎与它所包含的物品有关，这表明生体谐振器可以捕捉到物品的含义，并根据这种含义产生另一种生物效果。\n\n拟议机制：\n{PAWN_nameDef}的理论认为，手表的材质可以捕捉物品的意义，并诱导某些小人产生类似的效果。考虑到这种材料的超凡智能起源，我们猜测它使用灵能来做到这一点。\n\n结论：\n根据本次观测获得的信息，{PAWN_nameDef} 已成功将与异常怀表相关的异常情况分类为 0 级（安全）异常。\n\n审议：\n理论的潜在有效性需要进一步研究。由于怀表只有在自愿操作后才会显示活动，因此不存在任何风险。\n\n建议：\n无视：鉴于该异常产生的效果依具体情形而异，因此可以忽略该异常。\n利用：另一方面，考虑到该异常的积极作用似乎大于其消极作用，并考虑到其机制可以复制并融入我们的生活，它可能相当有用，尤其是如果我们适应了其周期性特点的话。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.text>
+    <AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.text>关于异常怀表/生体谐振器的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告介绍了对象{PAWN_nameDef}就异常怀表背后的可能机制提出的新理论。对象认为，这件物品的机制似乎确实与时间有关，但与我们之前的想法不同。在观察了小人行为的改变之后，我们得出结论：效应的循环与一天中从黎明到午夜的不同时段相吻合，同时，产生的效应与在这些时段观察到的正常人的行为相吻合，只是体现为在正常的日常行为之上叠加。看来，该物品的制作材料成功地捕捉到了该物品的部分含义，但同时也对其进行了破坏和改变，使其更倾向于生物机制。根据这一观察结果，与该表相关的异常现象被分类为 0 级（安全）异常。\n\n假说：\n根据对物品效应的最新观察，{PAWN_nameDef}提出了有关异常怀表的理论。研究对象认为，这块怀表，确切地说是它的“生体谐振器”部分，似乎能够与生物体产生联系，并对它们产生某种影响。它所产生的效果似乎与它所包含的物品有关，这表明生体谐振器可以捕捉到物品的含义，并根据这种含义产生另一种生物效果。\n\n拟议机制：\n{PAWN_nameDef}的理论认为，手表的材质可以捕捉物品的意义，并诱导某些小人产生类似的效果。考虑到这种材料的超凡智能起源，我们猜测它使用灵能来做到这一点。\n\n结论：\n根据本次观测获得的信息，{PAWN_nameDef} 已成功将与异常怀表相关的异常情况分类为 0 级（安全）异常。\n\n审议：\n理论的潜在有效性需要进一步研究。由于怀表只有在自愿操作后才会显示活动，因此不存在任何风险。\n\n建议：\n无视：鉴于该异常产生的效果依具体情形而异，因此可以忽略该异常。\n利用：另一方面，考虑到该异常的积极作用似乎大于其消极作用，并考虑到其机制可以复制并融入我们的生活，它可能相当有用，尤其是如果我们适应了其周期性特点的话。</AE_Clock.comps.CompAEStudyUnlocks.studyNotes.2.text>
 
 
     <!-- EN: Bioresonator -->
-	<AE_BioresonatorA.label>生体谐振器</AE_BioresonatorA.label>
+    <AE_BioresonatorA.label>生体谐振器</AE_BioresonatorA.label>
     <!-- EN: A mechanism in a shape of metronome, which uses dark archotechnology to bind to a pawn, affecting it in some way -->
-	<AE_BioresonatorA.description>一个节拍器外形的仪器，使用暗黑超凡科技与一个小人绑定，并对其造成影响。</AE_BioresonatorA.description>
+    <AE_BioresonatorA.description>一个节拍器外形的仪器，使用暗黑超凡科技与一个小人绑定，并对其造成影响。</AE_BioresonatorA.description>
     <!-- EN: Bind to {0} -->
-	<AE_BioresonatorA.ingestible.ingestCommandString>绑定至 {0}</AE_BioresonatorA.ingestible.ingestCommandString>
+    <AE_BioresonatorA.ingestible.ingestCommandString>绑定至 {0}</AE_BioresonatorA.ingestible.ingestCommandString>
     <!-- EN: Binding bioresonator to {0}. -->
-	<AE_BioresonatorA.ingestible.ingestReportString>正在绑定至 {0}。</AE_BioresonatorA.ingestible.ingestReportString>
-	
-	
-    <!-- EN: The key -->
-	<AE_Key.label>洞启之钥</AE_Key.label>
-    <!-- EN: A strange object resembling a key. You can feel sinister energy coming from within -->
-	<AE_Key.description>一个类似钥匙的奇怪物体。内部散发出一种邪恶能量</AE_Key.description>
-    <!-- EN: Bind to {0} -->
-	<AE_Key.ingestible.ingestCommandString>绑定至 {0}</AE_Key.ingestible.ingestCommandString>
-    <!-- EN: Binding to {0}. -->
-	<AE_Key.ingestible.ingestReportString>正在绑定至 {0}。</AE_Key.ingestible.ingestReportString>
+    <AE_BioresonatorA.ingestible.ingestReportString>正在绑定至 {0}。</AE_BioresonatorA.ingestible.ingestReportString>
+
 
     <!-- EN: The key -->
-	<AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>洞启之钥</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_Key.label>洞启之钥</AE_Key.label>
     <!-- EN: A strange object resembling a key. You can feel sinister energy coming from within -->
-	<AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个类似钥匙的奇怪物体。内部散发出一种邪恶能量。</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_Key.description>一个类似钥匙的奇怪物体。内部散发出一种邪恶能量</AE_Key.description>
+    <!-- EN: Bind to {0} -->
+    <AE_Key.ingestible.ingestCommandString>绑定至 {0}</AE_Key.ingestible.ingestCommandString>
+    <!-- EN: Binding to {0}. -->
+    <AE_Key.ingestible.ingestReportString>正在绑定至 {0}。</AE_Key.ingestible.ingestReportString>
+
+    <!-- EN: The key -->
+    <AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>洞启之钥</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <!-- EN: A strange object resembling a key. You can feel sinister energy coming from within -->
+    <AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个类似钥匙的奇怪物体。内部散发出一种邪恶能量。</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: #1/? Key study report -->
-	<AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/? 洞启之钥研究报告</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/? 洞启之钥研究报告</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: General properties of the Key\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the visible properties of the Key. The object, as the name suggests, resembles a key, although it's clearly distinct from it's normal counterpart. The materials it's made from are unknown, but there's at least two which are notable. The first one is the bioferrite-infused material we might have seen earlier, while the second one is a material that displays both crystalline and metallic properties. Another notable part of the key is it's center, which houses something akin to an archotechnological shard, although polished to a point where it resembles a perfect sphere.\n\nObservations:\n{PAWN_nameDef} Reported the object to be resembling a key.\nMaterials are unknown.\nHouses a unique archotechnological shard at it's core.\n\nFindings:\nNo notable findings spotted, except for the shard.\n\nDiscussion:\nSince actual anomalous properties are yet unknown, we suggest that any further research should be proceeded with caution.\n\nRecommendations:\nFurther experimentation should be proceeded with caution. \n\nSITUATION UPDATE: As we left the key alone a powerful psychic wave has struck our researchers. The key seems to be sending a repeating message, which we seem to understand beside it having no clear words, and it means something like this: "Medium missing #### Binding required"
     -->
-	<AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.text>洞启之钥的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细介绍了对象 {PAWN_nameDef} 对洞启之钥可见属性的观察结果。顾名思义，这个物体就像一把钥匙，但与别的钥匙也有显著不同。其材料尚不清楚，但至少有两种材料值得注意：第一种是我们之前可能见过的灵铁，第二种则是一种同时具有晶体和金属特性的材料。钥匙的另一个值得注意的部分是其中心，那里放置着一种类似于暗黑超凡碎片的东西，只是被打磨得像一个完美的球体。\n\n现象：\n{PAWN_nameDef}报告目标类似一把钥匙。\n该钥匙的材料未知。\n其核心是一个独特的暗黑超凡碎片。\n\n发现：\n除了碎片部分，未有显著发现。\n\n讨论：\n由于实际的异常特性尚不清楚，建议任何进一步的研究都应谨慎进行。\n\n建议：\n进一步的实验应谨慎进行。\n\n**情况更新**：就在我们将洞启之钥放在一边时，一股强大的精神波动袭击了我们的研究人员。这把钥匙似乎在发送一条重复的信息。尽管它没有明确的文字，我们似乎能理解它的意思。它的意思是这样的：媒介丢失，需要绑定####</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.text>
-	
+    <AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.text>洞启之钥的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细介绍了对象 {PAWN_nameDef} 对洞启之钥可见属性的观察结果。顾名思义，这个物体就像一把钥匙，但与别的钥匙也有显著不同。其材料尚不清楚，但至少有两种材料值得注意：第一种是我们之前可能见过的灵铁，第二种则是一种同时具有晶体和金属特性的材料。钥匙的另一个值得注意的部分是其中心，那里放置着一种类似于暗黑超凡碎片的东西，只是被打磨得像一个完美的球体。\n\n现象：\n{PAWN_nameDef}报告目标类似一把钥匙。\n该钥匙的材料未知。\n其核心是一个独特的暗黑超凡碎片。\n\n发现：\n除了碎片部分，未有显著发现。\n\n讨论：\n由于实际的异常特性尚不清楚，建议任何进一步的研究都应谨慎进行。\n\n建议：\n进一步的实验应谨慎进行。\n\n**情况更新**：就在我们将洞启之钥放在一边时，一股强大的精神波动袭击了我们的研究人员。这把钥匙似乎在发送一条重复的信息。尽管它没有明确的文字，我们似乎能理解它的意思。它的意思是这样的：媒介丢失，需要绑定####</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.text>
+
     <!-- EN: The key -->
     <AE_KeySecond.label>洞启之钥</AE_KeySecond.label>
     <!-- EN: A strange object resembling a key. Can bind to entities, allowing them to use certain powers it provides -->
     <AE_KeySecond.description>一个类似钥匙的奇怪物体。内部散发出一种邪恶能量</AE_KeySecond.description>
-	
-    <!-- EN: Puzzle -->
-	<AE_Puzzle.label>神秘装置</AE_Puzzle.label>
-    <!-- EN: An anomalous cubic contraption which allows an entity to project it's mind inside of it -->
-	<AE_Puzzle.description>一个异常的立方体装置，可让生物在其中投射自己的思想。</AE_Puzzle.description>
-	<!-- EN: Use {0_label} -->
-    <AE_Puzzle.comps.CompUsable.useLabel>使用 {0_label}</AE_Puzzle.comps.CompUsable.useLabel>	
 
     <!-- EN: Puzzle -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_Puzzle.label>神秘装置</AE_Puzzle.label>
     <!-- EN: An anomalous cubic contraption which allows an entity to project it's mind inside of it -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个异常的立方体装置，可让生物在其中投射自己的思想。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_Puzzle.description>一个异常的立方体装置，可让生物在其中投射自己的思想。</AE_Puzzle.description>
+    <!-- EN: Use {0_label} -->
+    <AE_Puzzle.comps.CompUsable.useLabel>使用 {0_label}</AE_Puzzle.comps.CompUsable.useLabel>
+
+    <!-- EN: Puzzle -->
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <!-- EN: An anomalous cubic contraption which allows an entity to project it's mind inside of it -->
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个异常的立方体装置，可让生物在其中投射自己的思想。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: #1/3 Puzzle study report -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: General properties of the Puzzle\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the visible properties of the contraption we decided to name "The Puzzle". The object is does not seem to represent any other physical object in it's morphology, making it's form quite unique. The material it's made from, at least on the surface, seems to be bioferrite. The object also has a unique ridge-y surface texture. After touching it, subject's consciousness seemingly transported to some other plane of existence, while leaving the body unharmed and unchanged, although this event ended quite fast.\n\nObservations:\n{PAWN_nameDef} Reported the object to be of strange shape.\nObject seems to be made of bioferrite.\nHas an effect on contact with the person.\n\nFindings:\nAnomalous activity spotted, investigation in progress.\n\nDiscussion:\nAlthough the effect from the anomaly is already known, we can't say what will happen on prolonged contact.\n\nRecommendations:\nAdditional tests recommended
         -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.text>神秘装置的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了{PAWN_nameDef}对象对我们决定命名为“神秘装置”的装置的可见特性的观察结果。这个物体在形态上似乎并不类似任何其他物理物体，因此它的形状非常独特。至少从表面上看，它的材料似乎是灵铁。该物体的表面还具有独特的脊状纹理。接触它之后，对象的意识似乎被传送到了另一个世界，而身体却毫发无损，没有任何变化，不过这一事件很快就结束了。\n\n现象：\n{PAWN_nameDef}报告了物体的奇怪外形。\n物体似乎由灵铁构成。\n物体对与其接触的人类具有影响。\n\n发现：\n发现异常现象，正在调查。\n\n讨论：\n虽然我们已经知道了异常造成的影响，但长时间接触的后果仍不确定。\n\n建议：\n建议进行进一步实验。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.text>
-	
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.text>神秘装置的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了{PAWN_nameDef}对象对我们决定命名为“神秘装置”的装置的可见特性的观察结果。这个物体在形态上似乎并不类似任何其他物理物体，因此它的形状非常独特。至少从表面上看，它的材料似乎是灵铁。该物体的表面还具有独特的脊状纹理。接触它之后，对象的意识似乎被传送到了另一个世界，而身体却毫发无损，没有任何变化，不过这一事件很快就结束了。\n\n现象：\n{PAWN_nameDef}报告了物体的奇怪外形。\n物体似乎由灵铁构成。\n物体对与其接触的人类具有影响。\n\n发现：\n发现异常现象，正在调查。\n\n讨论：\n虽然我们已经知道了异常造成的影响，但长时间接触的后果仍不确定。\n\n建议：\n建议进行进一步实验。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.0.text>
+
     <!-- EN: Puzzle -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
     <!-- EN: An anomalous cubic contraption which allows an entity to project it's mind inside of some labyrinthine structure, giving effects on it's exit -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个异常的立方体装置，能让生物在其迷宫般的结构中投射自己的思想，并根据最终出口对生物产生影响。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个异常的立方体装置，能让生物在其迷宫般的结构中投射自己的思想，并根据最终出口对生物产生影响。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
     <!-- EN: #2/3 Puzzle study report -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.label>#2/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.label>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.label>#2/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.label>
     <!--
         EN: Traversal of the unknown plane of existence\n\nAbstract:\nThis report details observations made during the prolonged experiments with the Puzzle. It was discovered that, on contact, the anomaly partially transports the subject's consciousness into what seems to be some kind of a labyrinthine structure. While in contact with the object, the person itself can still experience the real world, although heavily blurred. Even though there are a lot of pathways, the structure itself is not really that big, allowing us to somewhat map it's interior. It appears that there are at least ten exits from the place, and when the pawn exited one of them, they exhibited an altered state of mind.\n\nObservations:\nThe item transports subject's consciousness into a labyrinthine structure.\nOn exit from the structure, some effect was observed.\n\nDiscussion:\nThe object's interior seems to be easy to traverse, however the effects produced on the exit are unknown, so they should be studied with caution.\n\nRecommendations:\nFurther research of the anomalous effects is advised
     -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.text>未知位面的穿越\n\n摘要：\n本报告详细介绍了在长时神秘装置实验中观察到的情况。实验发现，在接触时，其会将对象的部分意识传送到一个似乎是迷宫般的结构中。在与物体接触的过程中，尽管非常模糊，对象本身仍能体验到真实世界。虽然有很多通道，但这个结构本身其实并不大，因此我们可以大致绘制出它的内部结构。看起来，这里至少有十个出口。当小人从其中一个出口出来时，他们的精神状态将受到影响。\n\n现象：\n该物品将对象的意识带入一个迷宫般的结构中。\n在离开结构时，观察到一些影响。\n\n讨论：\n该物体内部似乎很容易穿越，但出口产生的影响尚不明晰，因此应谨慎研究。\n\n建议：\n建议进一步研究异常效应</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.text>
-	
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.text>未知位面的穿越\n\n摘要：\n本报告详细介绍了在长时神秘装置实验中观察到的情况。实验发现，在接触时，其会将对象的部分意识传送到一个似乎是迷宫般的结构中。在与物体接触的过程中，尽管非常模糊，对象本身仍能体验到真实世界。虽然有很多通道，但这个结构本身其实并不大，因此我们可以大致绘制出它的内部结构。看起来，这里至少有十个出口。当小人从其中一个出口出来时，他们的精神状态将受到影响。\n\n现象：\n该物品将对象的意识带入一个迷宫般的结构中。\n在离开结构时，观察到一些影响。\n\n讨论：\n该物体内部似乎很容易穿越，但出口产生的影响尚不明晰，因此应谨慎研究。\n\n建议：\n建议进一步研究异常效应</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.1.text>
+
     <!-- EN: Puzzle -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>神秘装置</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
     <!-- EN: An anomalous cubic contraption which allows an entity to project it's mind inside of some labyrinthine structure, giving effects on it's exit -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个异常的立方体装置，能让生物在其迷宫般的结构中投射自己的思想，并根据最终出口对生物产生影响。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个异常的立方体装置，能让生物在其迷宫般的结构中投射自己的思想，并根据最终出口对生物产生影响。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
     <!-- EN: #3/3 Puzzle study report -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.label>
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 神秘装置研究报告</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.label>
     <!-- EN: Theory Regarding the Puzzle\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report presents a novel theory proposed by Subject {PAWN_nameDef} regarding the probable mechanism behind the Puzzle. Subject suggests that what we experience on contact is some kind of a "console", allowing us to give commands which the puzzle can then execute, altering mind and body of the subject. What we see as the labyrinth is just a way of interfacing into the object's program. However, altering of the body and mind won't necessarily be advantageous, resulting in changes in mental state or malfunctions in organs. As a result of this observation, the anomaly associated with the puzzle has been classified as Class-1 (Caution).\n\nHypothesis:\nFollowing the newer observations of item's effects, {PAWN_nameDef} has proposed a theory concerning the puzzle. Subject suggest the puzzle allows the subject to use it as a terminal for commands. The interfacing is done via establishing a link with the subject's brain, allowing them to execute commands with their mind, which they experience as traversing the labyrinth.\n\nProposed Mechanism:\n{PAWN_nameDef}'s theory suggests the puzzle uses psychic phenomena to affect the pawn's mind, although way more precisely than in some other cases.\n\nOutcome:\nBased on information gained during this observation, {PAWN_nameDef} has successfully classified the anomaly associated with puzzle as Class-1 (Caution).\n\nConsiderations:\nThe potential validity of Subject's theory requires further investigation. The anomaly only exhibits risks when not used properly, so following strict protocols allows safe use of the object.\n\nRecommendations: Exploitation seems to be the only reasonable course of action for this object -->
-	<AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.text>关于神秘装置的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告介绍了由{PAWN_nameDef}提出的关于神秘装置背后的可能机制的新理论。实验对象认为，我们所接触的是某种“控制器”，其允许我们下达指令，随后神秘装置执行这些指令，改变对象的身心。我们所看到的迷宫只是与物体程序对接的一种方式。然而，身体和精神的改变并不一定是有利的，并可能会导致精神状态改变或器官功能失调。根据这一观察结果，与神秘装置相关的该异常被分类为 1 级（注意）异常。\n\n假说：\n根据对物品效果的最新观察，{PAWN_nameDef}提出了一个关于神秘装置的理论。对象认为，神秘装置可以让受试者将其作为命令的终端。这种连接通过与对象的大脑建立联系，让他们用意念执行命令，就像穿越迷宫一样。\n\n拟议机制：\n{PAWN_nameDef}的理论表明，神秘装置利用灵能来影响小人的心理，并且比其他方式要精确得多。\n\n结论：\n根据此次观察获得的信息，{PAWN_nameDef}已成功将与神秘装置相关的该异常分类为 1 级（注意）异常。\n\n审议：\n对象理论的潜在有效性需要进一步调查。异常只有在使用不当的情况下才会表现出风险，因此严格遵守规程可以安全使用该物体。\n\n建议：对这一目标而言，开发并利用似乎是唯一合理的行动方案。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.text>
-	
+    <AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.text>关于神秘装置的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告介绍了由{PAWN_nameDef}提出的关于神秘装置背后的可能机制的新理论。实验对象认为，我们所接触的是某种“控制器”，其允许我们下达指令，随后神秘装置执行这些指令，改变对象的身心。我们所看到的迷宫只是与物体程序对接的一种方式。然而，身体和精神的改变并不一定是有利的，并可能会导致精神状态改变或器官功能失调。根据这一观察结果，与神秘装置相关的该异常被分类为 1 级（注意）异常。\n\n假说：\n根据对物品效果的最新观察，{PAWN_nameDef}提出了一个关于神秘装置的理论。对象认为，神秘装置可以让受试者将其作为命令的终端。这种连接通过与对象的大脑建立联系，让他们用意念执行命令，就像穿越迷宫一样。\n\n拟议机制：\n{PAWN_nameDef}的理论表明，神秘装置利用灵能来影响小人的心理，并且比其他方式要精确得多。\n\n结论：\n根据此次观察获得的信息，{PAWN_nameDef}已成功将与神秘装置相关的该异常分类为 1 级（注意）异常。\n\n审议：\n对象理论的潜在有效性需要进一步调查。异常只有在使用不当的情况下才会表现出风险，因此严格遵守规程可以安全使用该物体。\n\n建议：对这一目标而言，开发并利用似乎是唯一合理的行动方案。</AE_Puzzle.comps.CompAEStudyUnlocks.studyNotes.2.text>
+
     <!-- EN: Strange pebble -->
     <AE_Pebble.label>奇异卵石</AE_Pebble.label>
     <!-- EN: A strange pebble with metallic properties. It seems to be moving a little bit -->
-	<AE_Pebble.description>一块具有金属特性的奇怪鹅卵石。它似乎在一点点移动。</AE_Pebble.description>
+    <AE_Pebble.description>一块具有金属特性的奇怪鹅卵石。它似乎在一点点移动。</AE_Pebble.description>
     <!-- EN: Examine {0} -->
-	<AE_Pebble.ingestible.ingestCommandString>分析 {0}</AE_Pebble.ingestible.ingestCommandString>
-	<!-- EN: Examining {0}. -->
+    <AE_Pebble.ingestible.ingestCommandString>分析 {0}</AE_Pebble.ingestible.ingestCommandString>
+    <!-- EN: Examining {0}. -->
     <AE_Pebble.ingestible.ingestReportString>正在分析 {0}。</AE_Pebble.ingestible.ingestReportString>
 
     <!-- EN: Strange pebble -->
-	<AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>奇异卵石</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>奇异卵石</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
     <!-- EN: A strange pebble with metallic properties. It seems to be moving a little bit -->
-	<AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一块具有金属特性的奇怪鹅卵石。它似乎在一点点移动。</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一块具有金属特性的奇怪鹅卵石。它似乎在一点点移动。</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: #1/? Pebble study report -->
-	<AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/? 卵石研究报告</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/? 卵石研究报告</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: General properties of the Pebble\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the visible properties of the pebble. The object, as the name suggests, resembles a normal pebble, however it has some unique properties. It has both a stone-like component, as well as some metallic shards protruding from it's surface. However much we tried, we haven't been able to identify any anomalous properties. Perhaps the object is inactive in it's current state.\n\nObservations:\nThe pebble has stone-like and metallic components.\nNo anomalous properties found.\n\nFindings:\nNo anomalous behaviour observed.\n\nDiscussion:\nWe assume the object only reacts to some form of physical action or irritant, so further examination is needed to identify the exact way to activate it.\n\nRecommendations:\nApply physical stimulation
     -->
-	<AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.text>卵石的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于卵石可见属性的观察结果。该物体正如其名，看起来像一颗普通的鹅卵石，然而却具有一些独特的属性。它既有类似石头的部分，也有从其表面突出的金属碎片。尽管我们尝试了多次，但未能识别出任何异常属性。或许该异常在当前正处于非活动状态的。\n\n现象：\n卵石同时具有类似石头和金属的组成部分。\n未发现异常属性。\n\n结果：\n未发现异常行为\n\n讨论：\n我们假设该异常仅对某种形式的物理动作或刺激作出反应，因此需要进一步检查以确定激活它的确切方法。\n\n建议：\n进行物理刺激。</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.text>
+    <AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.text>卵石的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于卵石可见属性的观察结果。该物体正如其名，看起来像一颗普通的鹅卵石，然而却具有一些独特的属性。它既有类似石头的部分，也有从其表面突出的金属碎片。尽管我们尝试了多次，但未能识别出任何异常属性。或许该异常在当前正处于非活动状态的。\n\n现象：\n卵石同时具有类似石头和金属的组成部分。\n未发现异常属性。\n\n结果：\n未发现异常行为\n\n讨论：\n我们假设该异常仅对某种形式的物理动作或刺激作出反应，因此需要进一步检查以确定激活它的确切方法。\n\n建议：\n进行物理刺激。</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.text>
 
     <!-- EN: Connection device -->
-	<AE_ArchoConnector.label>连接装置</AE_ArchoConnector.label>
+    <AE_ArchoConnector.label>连接装置</AE_ArchoConnector.label>
     <!--
         EN: A device which uses the shard of an archotech subroutine to trick the dark machinery net into thinking you are one of it's subjects. \nConnects directly with the pawn's nervous system through a patch near the spine, allowing them to use abilities just with their mind. \nBecause the person cannot endure the full force of the shard, and to ensure that the archotech doesn't spot any abnormal activity within it's subjects, the device constrains the shard's activity to a manageable degree.
     -->
-	<AE_ArchoConnector.description>一个利用子程序碎片以欺骗暗黑超凡智能令其以为你是他造物的一员的装置。\n该装置从脊椎旁直接连结至人体神经系统，使人仅通过意念就能使用能力。\n由于个体无法承受碎片的全部力量，为了确保超凡智能在其造物内不发现任何异常，该设备将碎片的活动限制在一个可管理的程度。</AE_ArchoConnector.description>
+    <AE_ArchoConnector.description>一个利用子程序碎片以欺骗暗黑超凡智能令其以为你是他造物的一员的装置。\n该装置从脊椎旁直接连结至人体神经系统，使人仅通过意念就能使用能力。\n由于个体无法承受碎片的全部力量，为了确保超凡智能在其造物内不发现任何异常，该设备将碎片的活动限制在一个可管理的程度。</AE_ArchoConnector.description>
     <!-- EN: Connect -->
-	<AE_ArchoConnector.ingestible.ingestCommandString>连接</AE_ArchoConnector.ingestible.ingestCommandString>
+    <AE_ArchoConnector.ingestible.ingestCommandString>连接</AE_ArchoConnector.ingestible.ingestCommandString>
     <!-- EN: Using {0}. -->
-	<AE_ArchoConnector.ingestible.ingestReportString>正在使用 {0}。</AE_ArchoConnector.ingestible.ingestReportString>
+    <AE_ArchoConnector.ingestible.ingestReportString>正在使用 {0}。</AE_ArchoConnector.ingestible.ingestReportString>
 
     <!--#endregion-->
 </LanguageData>

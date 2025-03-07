@@ -2,10 +2,10 @@
 <LanguageData>
 
     <!-- EN: provoke strange lake -->
-	<AE_SummonBloodLake.label>激起怪湖</AE_SummonBloodLake.label>
+    <AE_SummonBloodLake.label>激起怪湖</AE_SummonBloodLake.label>
     <!-- EN: Use a psychic pulse to distort the fabric of reality, resulting in the formation of a crimson lake in the ground somewhere in the local area. -->
-	<AE_SummonBloodLake.description>使用精神脈衝扭曲現實結構，從而在某個地方的地面上形成一個深紅色湖泊。</AE_SummonBloodLake.description>
+    <AE_SummonBloodLake.description>使用精神脈衝扭曲現實結構，從而在某個地方的地面上形成一個深紅色湖泊。</AE_SummonBloodLake.description>
     <!-- EN: Use a psychic pulse to distort the fabric of reality, resulting in the formation of a crimson lake in the ground somewhere in the local area. -->
-	<AE_SummonBloodLake.outcomeDescription>使用精神脈衝扭曲現實結構，從而在某個地方的地面上形成一個深紅色湖泊。</AE_SummonBloodLake.outcomeDescription>
+    <AE_SummonBloodLake.outcomeDescription>使用精神脈衝扭曲現實結構，從而在某個地方的地面上形成一個深紅色湖泊。</AE_SummonBloodLake.outcomeDescription>
 
 </LanguageData>

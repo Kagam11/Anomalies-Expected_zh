@@ -3,19 +3,19 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Left -->
-	<AE_Ability_PuzzleA.label>左</AE_Ability_PuzzleA.label>
+    <AE_Ability_PuzzleA.label>左</AE_Ability_PuzzleA.label>
     <!-- EN: Follow some direction -->
-	<AE_Ability_PuzzleA.description>往这个方向</AE_Ability_PuzzleA.description>
-	
+    <AE_Ability_PuzzleA.description>往这个方向</AE_Ability_PuzzleA.description>
+
     <!-- EN: Center -->
-	<AE_Ability_PuzzleB.label>中</AE_Ability_PuzzleB.label>
+    <AE_Ability_PuzzleB.label>中</AE_Ability_PuzzleB.label>
     <!-- EN: Follow some direction -->
-	<AE_Ability_PuzzleB.description>往这个方向</AE_Ability_PuzzleB.description>
-	
+    <AE_Ability_PuzzleB.description>往这个方向</AE_Ability_PuzzleB.description>
+
     <!-- EN: Right -->
-	<AE_Ability_PuzzleC.label>右</AE_Ability_PuzzleC.label>
+    <AE_Ability_PuzzleC.label>右</AE_Ability_PuzzleC.label>
     <!-- EN: Follow some direction -->
-	<AE_Ability_PuzzleC.description>往这个方向</AE_Ability_PuzzleC.description>
-    
+    <AE_Ability_PuzzleC.description>往这个方向</AE_Ability_PuzzleC.description>
+
     <!--#endregion-->
 </LanguageData>

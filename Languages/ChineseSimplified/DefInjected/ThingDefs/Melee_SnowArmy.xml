@@ -2,21 +2,21 @@
 <LanguageData>
 
     <!-- EN: ice sword -->
-	<MeleeWeapon_AEIceSword.label>冰剑</MeleeWeapon_AEIceSword.label>
+    <MeleeWeapon_AEIceSword.label>冰剑</MeleeWeapon_AEIceSword.label>
     <!-- EN: The weapon made out of thin ice shard, the ice sword can be used for slashing or stabbing. During attack it will spill nitrogen into the wound to make it more fragile for further attacks. Replicating blades of SA-04. -->
-	<MeleeWeapon_AEIceSword.description>一种由冰刃制成的武器，可用于劈砍或刺杀。在攻击过程中，冰剑会向伤口释放液氮，使伤口更加脆弱，以便进一步攻击。复刻了SA-04的刀片。</MeleeWeapon_AEIceSword.description>
+    <MeleeWeapon_AEIceSword.description>一种由冰刃制成的武器，可用于劈砍或刺杀。在攻击过程中，冰剑会向伤口释放液氮，使伤口更加脆弱，以便进一步攻击。复刻了SA-04的刀片。</MeleeWeapon_AEIceSword.description>
     <!-- EN: point -->
-	<MeleeWeapon_AEIceSword.tools.point.label>剑尖</MeleeWeapon_AEIceSword.tools.point.label>
+    <MeleeWeapon_AEIceSword.tools.point.label>剑尖</MeleeWeapon_AEIceSword.tools.point.label>
     <!-- EN: edge -->
-	<MeleeWeapon_AEIceSword.tools.edge.label>剑刃</MeleeWeapon_AEIceSword.tools.edge.label>
+    <MeleeWeapon_AEIceSword.tools.edge.label>剑刃</MeleeWeapon_AEIceSword.tools.edge.label>
 
     <!-- EN: ice spear -->
-	<MeleeWeapon_AEIceSpear.label>冰矛</MeleeWeapon_AEIceSpear.label>
+    <MeleeWeapon_AEIceSpear.label>冰矛</MeleeWeapon_AEIceSpear.label>
     <!-- EN: A polearm tipped with a sharp thin ice shard point for fast stabbing opponents. During attack it will spill nitrogen into the wound to make it more fragile for further attacks. Replicating blades of SA-04. -->
-	<MeleeWeapon_AEIceSpear.description>一种杆状武器，尖端带有锋利的冰刃，可快速刺伤对手。在攻击过程中，冰剑会向伤口释放液氮，使伤口更加脆弱，以便进一步攻击。复刻了SA-04的刀片。</MeleeWeapon_AEIceSpear.description>
+    <MeleeWeapon_AEIceSpear.description>一种杆状武器，尖端带有锋利的冰刃，可快速刺伤对手。在攻击过程中，冰剑会向伤口释放液氮，使伤口更加脆弱，以便进一步攻击。复刻了SA-04的刀片。</MeleeWeapon_AEIceSpear.description>
     <!-- EN: shaft -->
-	<MeleeWeapon_AEIceSpear.tools.shaft.label>枪杆</MeleeWeapon_AEIceSpear.tools.shaft.label>
+    <MeleeWeapon_AEIceSpear.tools.shaft.label>枪杆</MeleeWeapon_AEIceSpear.tools.shaft.label>
     <!-- EN: point -->
-	<MeleeWeapon_AEIceSpear.tools.point.label>枪头</MeleeWeapon_AEIceSpear.tools.point.label>
+    <MeleeWeapon_AEIceSpear.tools.point.label>枪头</MeleeWeapon_AEIceSpear.tools.point.label>
 
 </LanguageData>

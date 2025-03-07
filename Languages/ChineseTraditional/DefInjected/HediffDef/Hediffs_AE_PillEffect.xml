@@ -3,9 +3,9 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Resource pill -->
-	<Hediff_AE_PillEffect.label>組織藥丸</Hediff_AE_PillEffect.label>
+    <Hediff_AE_PillEffect.label>組織藥丸</Hediff_AE_PillEffect.label>
     <!-- EN: Blocks the effects caused by the razor shard -->
-	<Hediff_AE_PillEffect.description>抵擋刀鋒碎片所帶來的影響</Hediff_AE_PillEffect.description>
+    <Hediff_AE_PillEffect.description>抵擋刀鋒碎片所帶來的影響</Hediff_AE_PillEffect.description>
 
     <!--#endregion-->
 </LanguageData>

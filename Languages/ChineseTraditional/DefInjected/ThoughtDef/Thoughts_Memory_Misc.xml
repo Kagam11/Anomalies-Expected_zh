@@ -3,52 +3,52 @@
     <!--#region Anomalies Expected-->
 
     <!--EN:Cautious of overstepping boundaries-->
-	<Thought_AEForbiddenFruit.stages.3.label>謹防越界</Thought_AEForbiddenFruit.stages.3.label>
+    <Thought_AEForbiddenFruit.stages.3.label>謹防越界</Thought_AEForbiddenFruit.stages.3.label>
     <!--EN:Yearning for enlightenment, yet cautious not to overstep their bounds.-->
-	<Thought_AEForbiddenFruit.stages.3.description>渴望啓悟，但又小心翼翼，不敢跨越邊界。</Thought_AEForbiddenFruit.stages.3.description>
+    <Thought_AEForbiddenFruit.stages.3.description>渴望啓悟，但又小心翼翼，不敢跨越邊界。</Thought_AEForbiddenFruit.stages.3.description>
     <!--EN:Fearing the wrath-->
-	<Thought_AEForbiddenFruit.stages.4.label>畏懼憤怒</Thought_AEForbiddenFruit.stages.4.label>
+    <Thought_AEForbiddenFruit.stages.4.label>畏懼憤怒</Thought_AEForbiddenFruit.stages.4.label>
     <!--EN:Fearing the wrath of the divine for seeking knowledge not meant for mortals.-->
-	<Thought_AEForbiddenFruit.stages.4.description>害怕因尋求不屬於凡人的知識而遭受天譴。</Thought_AEForbiddenFruit.stages.4.description>
+    <Thought_AEForbiddenFruit.stages.4.description>害怕因尋求不屬於凡人的知識而遭受天譴。</Thought_AEForbiddenFruit.stages.4.description>
     <!--EN:The Hour of Judgment-->
-	<Thought_AEForbiddenFruit.stages.5.label>審判時刻</Thought_AEForbiddenFruit.stages.5.label>
+    <Thought_AEForbiddenFruit.stages.5.label>審判時刻</Thought_AEForbiddenFruit.stages.5.label>
     <!--EN:Pleading for forgiveness for tasting the Forbidden Fruit.-->
-	<Thought_AEForbiddenFruit.stages.5.description>爲品嚐禁果懇求寬恕</Thought_AEForbiddenFruit.stages.5.description>
-	
+    <Thought_AEForbiddenFruit.stages.5.description>爲品嚐禁果懇求寬恕</Thought_AEForbiddenFruit.stages.5.description>
+
     <!-- EN: slight noise -->
-	<Thought_AEMeatGrinderNoise.stages.0.label>輕微旋律</Thought_AEMeatGrinderNoise.stages.0.label>
+    <Thought_AEMeatGrinderNoise.stages.0.label>輕微旋律</Thought_AEMeatGrinderNoise.stages.0.label>
     <!-- EN: I feel like I'm hearing a melody, but I can't be certain. -->
-	<Thought_AEMeatGrinderNoise.stages.0.description>我好像聽到了一點旋律，但是不太確定。</Thought_AEMeatGrinderNoise.stages.0.description>
-	<!-- EN: extreme noise -->
+    <Thought_AEMeatGrinderNoise.stages.0.description>我好像聽到了一點旋律，但是不太確定。</Thought_AEMeatGrinderNoise.stages.0.description>
+    <!-- EN: extreme noise -->
     <Thought_AEMeatGrinderNoise.stages.1.label>極致旋律</Thought_AEMeatGrinderNoise.stages.1.label>
     <!-- EN: My heart pounds and I'm sweating. The singing never stops. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
-	<Thought_AEMeatGrinderNoise.stages.1.description>我的心怦怦直跳，汗流浹背。那歌聲從未停歇。我腦海中充斥着痛苦與折磨，周圍全都是敵人。他們是我的夢魘，我的夢魘，我的夢魘……</Thought_AEMeatGrinderNoise.stages.1.description>
+    <Thought_AEMeatGrinderNoise.stages.1.description>我的心怦怦直跳，汗流浹背。那歌聲從未停歇。我腦海中充斥着痛苦與折磨，周圍全都是敵人。他們是我的夢魘，我的夢魘，我的夢魘……</Thought_AEMeatGrinderNoise.stages.1.description>
     <!-- EN: high noise -->
-	<Thought_AEMeatGrinderNoise.stages.2.label>高聲旋律</Thought_AEMeatGrinderNoise.stages.2.label>
+    <Thought_AEMeatGrinderNoise.stages.2.label>高聲旋律</Thought_AEMeatGrinderNoise.stages.2.label>
     <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps singing! -->
-	<Thought_AEMeatGrinderNoise.stages.2.description>聲音大得難以忍受。難以集中注意力。我發現自己在對它回話，對它大喊。但它只是不停地唱！</Thought_AEMeatGrinderNoise.stages.2.description>
+    <Thought_AEMeatGrinderNoise.stages.2.description>聲音大得難以忍受。難以集中注意力。我發現自己在對它回話，對它大喊。但它只是不停地唱！</Thought_AEMeatGrinderNoise.stages.2.description>
     <!-- EN: moderate noise -->
-	<Thought_AEMeatGrinderNoise.stages.3.label>中等旋律</Thought_AEMeatGrinderNoise.stages.3.label>
+    <Thought_AEMeatGrinderNoise.stages.3.label>中等旋律</Thought_AEMeatGrinderNoise.stages.3.label>
     <!-- EN: I feel like someone is always just out of sight, singing to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
-	<Thought_AEMeatGrinderNoise.stages.3.description>我感覺好像總有人就在視線之外，對我唱歌。聲音在變化，但信息卻始終如一。我應該去傷害別人。讓它消失！</Thought_AEMeatGrinderNoise.stages.3.description>
+    <Thought_AEMeatGrinderNoise.stages.3.description>我感覺好像總有人就在視線之外，對我唱歌。聲音在變化，但信息卻始終如一。我應該去傷害別人。讓它消失！</Thought_AEMeatGrinderNoise.stages.3.description>
     <!-- EN: low noise -->
-	<Thought_AEMeatGrinderNoise.stages.4.label>低度旋律</Thought_AEMeatGrinderNoise.stages.4.label>
+    <Thought_AEMeatGrinderNoise.stages.4.label>低度旋律</Thought_AEMeatGrinderNoise.stages.4.label>
     <!-- EN: It's like a scratching at the back of my mind. A voice, sings quietly. I can only make out a few words, and I don't like them. -->
-	<Thought_AEMeatGrinderNoise.stages.4.description>就像是有人在我的腦海深處抓撓。一個聲音，輕輕地唱着。我只能聽清幾個詞，而且我並不喜歡它們。</Thought_AEMeatGrinderNoise.stages.4.description>
+    <Thought_AEMeatGrinderNoise.stages.4.description>就像是有人在我的腦海深處抓撓。一個聲音，輕輕地唱着。我只能聽清幾個詞，而且我並不喜歡它們。</Thought_AEMeatGrinderNoise.stages.4.description>
 
     <!-- EN: Fleshmass lung stimulation -->
     <Thought_AEFleshmassLung.stages.0.label>血肉肺刺激</Thought_AEFleshmassLung.stages.0.label>
     <!-- EN: Feeling light headed. What a nice feeling. -->
-	<Thought_AEFleshmassLung.stages.0.description>感到暈頭轉向，太棒了。</Thought_AEFleshmassLung.stages.0.description>
+    <Thought_AEFleshmassLung.stages.0.description>感到暈頭轉向，太棒了。</Thought_AEFleshmassLung.stages.0.description>
 
     <!-- EN: got candy cane -->
-	<Thought_AEChristmasCandyCane.stages.got_candy_cane.label>得到柺杖糖</Thought_AEChristmasCandyCane.stages.got_candy_cane.label>
+    <Thought_AEChristmasCandyCane.stages.got_candy_cane.label>得到柺杖糖</Thought_AEChristmasCandyCane.stages.got_candy_cane.label>
     <!-- EN: A surge of sweet anticipation washed over them, a smile spreading across their face as they unwrapped the bright red and white candy cane. -->
-	<Thought_AEChristmasCandyCane.stages.got_candy_cane.description>得到紅白相間的柺杖糖，一股甜蜜的期待湧上心頭，笑容洋溢在臉上。</Thought_AEChristmasCandyCane.stages.got_candy_cane.description>
+    <Thought_AEChristmasCandyCane.stages.got_candy_cane.description>得到紅白相間的柺杖糖，一股甜蜜的期待湧上心頭，笑容洋溢在臉上。</Thought_AEChristmasCandyCane.stages.got_candy_cane.description>
     <!-- EN: got lump of coal -->
-	<Thought_AEChristmasCoal.stages.got_lump_of_coal.label>得到煤塊</Thought_AEChristmasCoal.stages.got_lump_of_coal.label>
+    <Thought_AEChristmasCoal.stages.got_lump_of_coal.label>得到煤塊</Thought_AEChristmasCoal.stages.got_lump_of_coal.label>
     <!-- EN: Disappointment washed over them as they pulled out the lump of coal, a sense of shame momentarily clouding their mood. -->
-	<Thought_AEChristmasCoal.stages.got_lump_of_coal.description>得到煤塊，失望之情油然而生，瞬間被一種羞愧感籠罩。</Thought_AEChristmasCoal.stages.got_lump_of_coal.description>
+    <Thought_AEChristmasCoal.stages.got_lump_of_coal.description>得到煤塊，失望之情油然而生，瞬間被一種羞愧感籠罩。</Thought_AEChristmasCoal.stages.got_lump_of_coal.description>
 
     <!--#endregion-->
 </LanguageData>

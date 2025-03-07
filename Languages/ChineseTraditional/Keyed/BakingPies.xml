@@ -3,14 +3,14 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: Amount of pie pieces: {0} -->
-	<AnomaliesExpected.BakingPies.Amount>複製派的數量：{0}</AnomaliesExpected.BakingPies.Amount>
+    <AnomaliesExpected.BakingPies.Amount>複製派的數量：{0}</AnomaliesExpected.BakingPies.Amount>
     <!-- EN: Time till creating new pieces: {0} -->
-	<AnomaliesExpected.BakingPies.Time>下次複製的剩餘時間：{0}</AnomaliesExpected.BakingPies.Time>
+    <AnomaliesExpected.BakingPies.Time>下次複製的剩餘時間：{0}</AnomaliesExpected.BakingPies.Time>
     <!-- EN: The number of {0} pieces has changed -->
-	<AnomaliesExpected.BakingPies.SpawnPiePiece>派的數量發生了變化：{0} </AnomaliesExpected.BakingPies.SpawnPiePiece>
+    <AnomaliesExpected.BakingPies.SpawnPiePiece>派的數量發生了變化：{0} </AnomaliesExpected.BakingPies.SpawnPiePiece>
     <!-- EN: Pie Pieces Critical Mass -->
     <AnomaliesExpected.BakingPies.EndGame.Label>派超過臨界數量</AnomaliesExpected.BakingPies.EndGame.Label>
-	<!-- EN: Pie Pieces overflow facility and start spreading around the planet. Facility filled with {0} Pie Pieces and {1} left the currently controlled zone of a map.\n\nIf study of {2} is done, then you have one last hope of stopping this. If not, then you have no hopes in containing it anymore.\n\nIt will take multiple days or weeks till the planet will be filled and consumed by pie. Which mean that this is the end for the colony and for everyone on this planet. -->
+    <!-- EN: Pie Pieces overflow facility and start spreading around the planet. Facility filled with {0} Pie Pieces and {1} left the currently controlled zone of a map.\n\nIf study of {2} is done, then you have one last hope of stopping this. If not, then you have no hopes in containing it anymore.\n\nIt will take multiple days or weeks till the planet will be filled and consumed by pie. Which mean that this is the end for the colony and for everyone on this planet. -->
     <AnomaliesExpected.BakingPies.EndGame.Text>派已經溢出設施並開始在整個星球間蔓延。設施已被 {0} 個派填滿，並且 {1} 個派已經脫離我們的控制區。\n\n如果研究 {2} 已經完成，那你還有最後的機會結束這場災難。如果沒有，那你已經失去了收容該異常的最後希望。\n\n不出數日或者數週，這個星球就會被派所淹沒。這也意味着殖民地乃至這個星球上所有人的末日都要到了。</AnomaliesExpected.BakingPies.EndGame.Text>
 
     <!--#endregion-->

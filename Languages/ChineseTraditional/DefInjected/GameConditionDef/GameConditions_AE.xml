@@ -2,29 +2,29 @@
 <LanguageData>
 
     <!-- EN: blood-like liquid high concentration -->
-	<AE_BloodFog.label>高濃度血樣液體</AE_BloodFog.label>
+    <AE_BloodFog.label>高濃度血樣液體</AE_BloodFog.label>
     <!-- EN: A crimson fog, thick and ominous, blankets the surroundings. This mist is a direct consequence of the elevated concentration of blood-like liquid in the air. Despite its apparent harmlessness, a subtle sense of dread creeps in. This phenomenon will undoubtedly affect all beings outside of enclosed spaces. -->
-	<AE_BloodFog.description>周圍籠罩着一層猩紅濃霧，厚重而不祥。這種霧是空氣中血樣液體濃度升高的直接後果。儘管它表面上無害，但一種微妙的恐懼感卻悄然而至。這種現象無疑會影響封閉空間外的所有生物。</AE_BloodFog.description>
+    <AE_BloodFog.description>周圍籠罩着一層猩紅濃霧，厚重而不祥。這種霧是空氣中血樣液體濃度升高的直接後果。儘管它表面上無害，但一種微妙的恐懼感卻悄然而至。這種現象無疑會影響封閉空間外的所有生物。</AE_BloodFog.description>
     <!-- EN: Blood-like liquid concentration in the air rapidly increasing. -->
-	<AE_BloodFog.endMessage>空氣中血樣液體濃度迅速增加。</AE_BloodFog.endMessage>'' <!--not sure about these quotation mark-->
+    <AE_BloodFog.endMessage>空氣中血樣液體濃度迅速增加。</AE_BloodFog.endMessage>''     <!--not sure about these quotation mark-->
     <!-- EN: Blood-like liquid concentration in the air returning to normal. -->
-	<AE_BloodFog.startMessage>空氣中血樣液體濃度回到正常。</AE_BloodFog.startMessage>''
+    <AE_BloodFog.startMessage>空氣中血樣液體濃度回到正常。</AE_BloodFog.startMessage>''
 
-    <!-- EN: temperature shifting -->
-	<AE_TemperatureDrop.label>溫度驟變</AE_TemperatureDrop.label>
+        <!-- EN: temperature shifting -->
+    <AE_TemperatureDrop.label>溫度驟變</AE_TemperatureDrop.label>
     <!-- EN: Temperature is rapidly shifting. -->
-	<AE_TemperatureDrop.description>溫度正急劇變化。</AE_TemperatureDrop.description>
+    <AE_TemperatureDrop.description>溫度正急劇變化。</AE_TemperatureDrop.description>
     <!-- EN: Temperature is rapidly shifting. -->
-	<AE_TemperatureDrop.letterText>溫度正急劇變化。</AE_TemperatureDrop.letterText>
+    <AE_TemperatureDrop.letterText>溫度正急劇變化。</AE_TemperatureDrop.letterText>
 
     <!-- EN: unnatural cold -->
-	<AE_UnnaturalCold.label>反常之寒</AE_UnnaturalCold.label>
+    <AE_UnnaturalCold.label>反常之寒</AE_UnnaturalCold.label>
     <!-- EN: A thermal absorption device is calming gas molecules in the atmosphere, decreasing outdoor temperatures. -->
-	<AE_UnnaturalCold.description>熱量吸收裝置可使大氣中的氣體分子平靜下來，從而降低室外溫度。</AE_UnnaturalCold.description>
+    <AE_UnnaturalCold.description>熱量吸收裝置可使大氣中的氣體分子平靜下來，從而降低室外溫度。</AE_UnnaturalCold.description>
 
     <!-- EN: unnatural temperature -->
-	<AE_UnnaturalTemperature.label>反常溫度</AE_UnnaturalTemperature.label>
+    <AE_UnnaturalTemperature.label>反常溫度</AE_UnnaturalTemperature.label>
     <!-- EN: A hybrid thermal control device is affecting gas molecules in the atmosphere, changing outdoor temperatures. -->
-	<AE_UnnaturalTemperature.description>混合熱控裝置正在影響大氣中的氣體分子，改變室外溫度。</AE_UnnaturalTemperature.description>
+    <AE_UnnaturalTemperature.description>混合熱控裝置正在影響大氣中的氣體分子，改變室外溫度。</AE_UnnaturalTemperature.description>
 
 </LanguageData>

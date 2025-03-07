@@ -2,10 +2,10 @@
 <LanguageData>
 
     <!-- EN: asking Provider -->
-	<AE_AskingProvider.label>祈求供者</AE_AskingProvider.label>
+    <AE_AskingProvider.label>祈求供者</AE_AskingProvider.label>
     <!-- EN: Utilize prayer and the offering of items for asking Provider deity for resources. -->
-	<AE_AskingProvider.description>祈禱並供奉物品向供者祈求資源。</AE_AskingProvider.description>
+    <AE_AskingProvider.description>祈禱並供奉物品向供者祈求資源。</AE_AskingProvider.description>
     <!-- EN: The ritual summons items of the same type as those sacrificed and placed within the Provider Box. The yield is influenced by the quantity of the sacrifice, the quality of the ritual performance, and the level of research progress. -->
-	<AE_AskingProvider.outcomeDescription>祭祀儀式會召喚與祭品相同類型的物品，並將其放置在供箱中。產量受祭品數量、儀式質量和研究進展水平的影響。</AE_AskingProvider.outcomeDescription>
+    <AE_AskingProvider.outcomeDescription>祭祀儀式會召喚與祭品相同類型的物品，並將其放置在供箱中。產量受祭品數量、儀式質量和研究進展水平的影響。</AE_AskingProvider.outcomeDescription>
 
 </LanguageData>

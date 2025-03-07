@@ -2,18 +2,18 @@
 <LanguageData>
 
     <!-- EN: The fleshmass has detached from {0} and transformed into a fleshbeast! -->
-	<AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>血肉块已脱离{0}，变成了一只血肉兽！</AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>
+    <AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>血肉块已脱离{0}，变成了一只血肉兽！</AnomaliesExpected.Fleshmass.FleshbeastEmergeOnStage.Message>
     <!-- EN: {0} mutated into {1} -->
-	<AnomaliesExpected.Fleshmass.FleshmassMutation.Message>{0}变异出{1}</AnomaliesExpected.Fleshmass.FleshmassMutation.Message>
-	
+    <AnomaliesExpected.Fleshmass.FleshmassMutation.Message>{0}变异出{1}</AnomaliesExpected.Fleshmass.FleshmassMutation.Message>
+
     <!-- EN: Reaction to enemies -->
-	<AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>对敌反应</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>
+    <AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>对敌反应</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Label>
     <!-- EN: Enable/Disable reaction on surrounding enemies during command execution. -->
-	<AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>在执行命令时启用/禁用对周围敌人的反应。</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>
+    <AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>在执行命令时启用/禁用对周围敌人的反应。</AnomaliesExpected.Fleshmass.IsIgnoreEnemies.Desc>
     <!-- EN: Spawned {0}/{1} -->
-	<AnomaliesExpected.Fleshmass.MaxSummons>已生成{0}/{1}</AnomaliesExpected.Fleshmass.MaxSummons>
-	<!-- EN: Nothing to command -->
+    <AnomaliesExpected.Fleshmass.MaxSummons>已生成{0}/{1}</AnomaliesExpected.Fleshmass.MaxSummons>
+    <!-- EN: Nothing to command -->
     <AnomaliesExpected.Fleshmass.NothingToCommand>没有东西可以指挥</AnomaliesExpected.Fleshmass.NothingToCommand>
-	<!-- EN: A {0} is attacking! -->
-	<AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>{0}正在攻击！</AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>
+    <!-- EN: A {0} is attacking! -->
+    <AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>{0}正在攻击！</AnomaliesExpected.Fleshmass.FleshmassSpitter.Attacking>
 </LanguageData>

@@ -2,24 +2,24 @@
 <LanguageData>
     <!--#region Anomalies Expected -->
 
-	<!-- EN: {0}/{1} lights on the indicator are lit -->
-	<AnomaliesExpected.BeamTarget.Indicator>指示器上有{0}/{1}个灯点亮</AnomaliesExpected.BeamTarget.Indicator>
-	<!-- EN: Current state: {0} -->
-	<AnomaliesExpected.BeamTarget.State>当前状态：{0}</AnomaliesExpected.BeamTarget.State>
-	<!-- EN: Searching -->
-	<AnomaliesExpected.BeamTarget.StateSearching>搜索中</AnomaliesExpected.BeamTarget.StateSearching>
-	<!-- EN: Activating -->
-	<AnomaliesExpected.BeamTarget.StateActivating>激活中</AnomaliesExpected.BeamTarget.StateActivating>
-	<!-- EN: Time before high energy burst: {0} -->
-	<AnomaliesExpected.BeamTarget.TimeTillBeam>能量轰炸前倒计时：{0}</AnomaliesExpected.BeamTarget.TimeTillBeam>
-	<!-- EN: Holding button -->
-	<AnomaliesExpected.BeamTarget.ButtonHold>正在按住按钮</AnomaliesExpected.BeamTarget.ButtonHold>
-	<!-- EN: {0} left containment -->
-	<AnomaliesExpected.BeamTarget.LeftContainment>{0}脱离收容</AnomaliesExpected.BeamTarget.LeftContainment>
+    <!-- EN: {0}/{1} lights on the indicator are lit -->
+    <AnomaliesExpected.BeamTarget.Indicator>指示器上有{0}/{1}个灯点亮</AnomaliesExpected.BeamTarget.Indicator>
+    <!-- EN: Current state: {0} -->
+    <AnomaliesExpected.BeamTarget.State>当前状态：{0}</AnomaliesExpected.BeamTarget.State>
+    <!-- EN: Searching -->
+    <AnomaliesExpected.BeamTarget.StateSearching>搜索中</AnomaliesExpected.BeamTarget.StateSearching>
+    <!-- EN: Activating -->
+    <AnomaliesExpected.BeamTarget.StateActivating>激活中</AnomaliesExpected.BeamTarget.StateActivating>
+    <!-- EN: Time before high energy burst: {0} -->
+    <AnomaliesExpected.BeamTarget.TimeTillBeam>能量轰炸前倒计时：{0}</AnomaliesExpected.BeamTarget.TimeTillBeam>
+    <!-- EN: Holding button -->
+    <AnomaliesExpected.BeamTarget.ButtonHold>正在按住按钮</AnomaliesExpected.BeamTarget.ButtonHold>
+    <!-- EN: {0} left containment -->
+    <AnomaliesExpected.BeamTarget.LeftContainment>{0}脱离收容</AnomaliesExpected.BeamTarget.LeftContainment>
     <!-- EN: {0} left the containment zone on its own. Its location must be urgently determined to reduce collateral damage. -->
     <AnomaliesExpected.BeamTarget.LeftContainmentText>{0} 自己逃离了收容。它的位置必须马上查明，以防止随后的危害。</AnomaliesExpected.BeamTarget.LeftContainmentText>
-	
+
     <!-- EN: {0} wasn't able to connect to Transmitter -->
-	<AnomaliesExpected.PowerBeam.BeamTargetMissing>{0} 无法连接至发信器</AnomaliesExpected.PowerBeam.BeamTargetMissing>
+    <AnomaliesExpected.PowerBeam.BeamTargetMissing>{0} 无法连接至发信器</AnomaliesExpected.PowerBeam.BeamTargetMissing>
     <!--#endregion-->
 </LanguageData>

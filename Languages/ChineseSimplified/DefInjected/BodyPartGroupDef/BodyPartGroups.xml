@@ -2,20 +2,20 @@
 <LanguageData>
 
     <!-- EN: left front hand -->
-	<AE_LeftFHand.label>左前手</AE_LeftFHand.label>
+    <AE_LeftFHand.label>左前手</AE_LeftFHand.label>
     <!-- EN: hand -->
-	<AE_LeftFHand.labelShort>手</AE_LeftFHand.labelShort>
+    <AE_LeftFHand.labelShort>手</AE_LeftFHand.labelShort>
     <!-- EN: left rear hand -->
-	<AE_LeftBHand.label>左后手</AE_LeftBHand.label>
+    <AE_LeftBHand.label>左后手</AE_LeftBHand.label>
     <!-- EN: hand -->
-	<AE_LeftBHand.labelShort>手</AE_LeftBHand.labelShort>
+    <AE_LeftBHand.labelShort>手</AE_LeftBHand.labelShort>
     <!-- EN: right front hand -->
-	<AE_RightFHand.label>右前手</AE_RightFHand.label>
+    <AE_RightFHand.label>右前手</AE_RightFHand.label>
     <!-- EN: hand -->
-	<AE_RightFHand.labelShort>手</AE_RightFHand.labelShort>
+    <AE_RightFHand.labelShort>手</AE_RightFHand.labelShort>
     <!-- EN: right rear hand -->
-	<AE_RightBHand.label>右后手</AE_RightBHand.label>
+    <AE_RightBHand.label>右后手</AE_RightBHand.label>
     <!-- EN: hand -->
-	<AE_RightBHand.labelShort>手</AE_RightBHand.labelShort>
+    <AE_RightBHand.labelShort>手</AE_RightBHand.labelShort>
 
 </LanguageData>

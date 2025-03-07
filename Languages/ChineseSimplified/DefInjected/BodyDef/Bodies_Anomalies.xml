@@ -2,134 +2,134 @@
 <LanguageData>
 
     <!-- EN: snowman -->
-	<AE_SnowMan.label>雪人</AE_SnowMan.label>
+    <AE_SnowMan.label>雪人</AE_SnowMan.label>
     <!-- EN: middle snowball -->
-	<AE_SnowMan.corePart.customLabel>中部雪球</AE_SnowMan.corePart.customLabel>
+    <AE_SnowMan.corePart.customLabel>中部雪球</AE_SnowMan.corePart.customLabel>
     <!-- EN: top snowball -->
-	<AE_SnowMan.corePart.parts.top_snowball.customLabel>上部雪球</AE_SnowMan.corePart.parts.top_snowball.customLabel>
+    <AE_SnowMan.corePart.parts.top_snowball.customLabel>上部雪球</AE_SnowMan.corePart.parts.top_snowball.customLabel>
     <!-- EN: left eye stone -->
-	<AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>左眼石</AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>
+    <AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>左眼石</AE_SnowMan.corePart.parts.top_snowball.parts.left_eye_stone.customLabel>
     <!-- EN: right eye stone -->
-	<AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>右眼石</AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>
+    <AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>右眼石</AE_SnowMan.corePart.parts.top_snowball.parts.right_eye_stone.customLabel>
     <!-- EN: bottom snowball -->
-	<AE_SnowMan.corePart.parts.bottom_snowball.customLabel>下部雪球</AE_SnowMan.corePart.parts.bottom_snowball.customLabel>
+    <AE_SnowMan.corePart.parts.bottom_snowball.customLabel>下部雪球</AE_SnowMan.corePart.parts.bottom_snowball.customLabel>
     <!-- EN: left snowball leg -->
-	<AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>左雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>
+    <AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>左雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.left_snowball_leg.customLabel>
     <!-- EN: right snowball leg -->
-	<AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>右雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>
+    <AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>右雪球腿</AE_SnowMan.corePart.parts.bottom_snowball.parts.right_snowball_leg.customLabel>
     <!-- EN: left stick arm -->
-	<AE_SnowMan.corePart.parts.left_stick_arm.customLabel>左树肢</AE_SnowMan.corePart.parts.left_stick_arm.customLabel>
+    <AE_SnowMan.corePart.parts.left_stick_arm.customLabel>左树肢</AE_SnowMan.corePart.parts.left_stick_arm.customLabel>
     <!-- EN: right stick arm -->
-	<AE_SnowMan.corePart.parts.right_stick_arm.customLabel>右树肢</AE_SnowMan.corePart.parts.right_stick_arm.customLabel>
+    <AE_SnowMan.corePart.parts.right_stick_arm.customLabel>右树肢</AE_SnowMan.corePart.parts.right_stick_arm.customLabel>
 
     <!-- EN: snow golem -->
-	<AE_SnowGolem.label>冰雪魔像</AE_SnowGolem.label>
+    <AE_SnowGolem.label>冰雪魔像</AE_SnowGolem.label>
     <!-- EN: snow block torso -->
-	<AE_SnowGolem.corePart.customLabel>雪块身体</AE_SnowGolem.corePart.customLabel>
+    <AE_SnowGolem.corePart.customLabel>雪块身体</AE_SnowGolem.corePart.customLabel>
     <!-- EN: left bottom eye stone -->
-	<AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_bottom_eye_stone.customLabel>左下眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_bottom_eye_stone.customLabel>
-	<!-- EN: left top eye stone -->
+    <AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_bottom_eye_stone.customLabel>左下眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_bottom_eye_stone.customLabel>
+    <!-- EN: left top eye stone -->
     <AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_top_eye_stone.customLabel>左上眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.left_top_eye_stone.customLabel>
-	<!-- EN: top eye stone -->
+    <!-- EN: top eye stone -->
     <AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.top_eye_stone.customLabel>上眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.top_eye_stone.customLabel>
-	<!-- EN: right bottom eye stone -->
+    <!-- EN: right bottom eye stone -->
     <AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.right_bottom_eye_stone.customLabel>右下眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.right_bottom_eye_stone.customLabel>
-	<!-- EN: right top eye stone -->
+    <!-- EN: right top eye stone -->
     <AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.right_top_eye_stone.customLabel>右上眼石</AE_SnowGolem.corePart.parts.AE_SnowFacePlate.parts.right_top_eye_stone.customLabel>
-	<!-- EN: left front snow block leg -->
+    <!-- EN: left front snow block leg -->
     <AE_SnowGolem.corePart.parts.left_front_snow_block_leg.customLabel>左前雪块腿</AE_SnowGolem.corePart.parts.left_front_snow_block_leg.customLabel>
-	<!-- EN: left rear snow block leg -->
-    <AE_SnowGolem.corePart.parts.left_rear_snow_block_leg.customLabe l>左后雪块腿</AE_SnowGolem.corePart.parts.left_rear_snow_block_leg.customLabel>
-	<!-- EN: right front snow block leg -->
+    <!-- EN: left rear snow block leg -->
+    <AE_SnowGolem.corePart.parts.left_rear_snow_block_leg.customLabel>左后雪块腿</AE_SnowGolem.corePart.parts.left_rear_snow_block_leg.customLabel>
+    <!-- EN: right front snow block leg -->
     <AE_SnowGolem.corePart.parts.right_front_snow_block_leg.customLabel>右前雪块腿</AE_SnowGolem.corePart.parts.right_front_snow_block_leg.customLabel>
-	<!-- EN: right front snow block leg -->
+    <!-- EN: right front snow block leg -->
     <AE_SnowGolem.corePart.parts.right_rear_snow_block_leg.customLabel>右后雪块腿</AE_SnowGolem.corePart.parts.right_rear_snow_block_leg.customLabel>
-	<!-- EN: right rear snow block arm -->
+    <!-- EN: right rear snow block arm -->
     <AE_SnowGolem.corePart.parts.left_front_snow_block_arm.customLabel>左前雪块臂</AE_SnowGolem.corePart.parts.left_front_snow_block_arm.customLabel>
-	<!-- EN: left front snow block arm -->
+    <!-- EN: left front snow block arm -->
     <AE_SnowGolem.corePart.parts.left_rear_snow_block_arm.customLabel>左后雪块臂</AE_SnowGolem.corePart.parts.left_rear_snow_block_arm.customLabel>
-	<!-- EN: left rear snow block arm -->
+    <!-- EN: left rear snow block arm -->
     <AE_SnowGolem.corePart.parts.right_front_snow_block_arm.customLabel>右前雪块臂</AE_SnowGolem.corePart.parts.right_front_snow_block_arm.customLabel>
-	<!-- EN: right front snow block arm -->
+    <!-- EN: right front snow block arm -->
     <AE_SnowGolem.corePart.parts.right_rear_snow_block_arm.customLabel>右后雪块臂</AE_SnowGolem.corePart.parts.right_rear_snow_block_arm.customLabel>
-	<!-- EN: right snow core -->
+    <!-- EN: right snow core -->
     <AE_SnowGolem.corePart.parts.right_snow_core.customLabel>右冰核</AE_SnowGolem.corePart.parts.right_snow_core.customLabel>
     <!-- EN: middle snow core -->
     <AE_SnowGolem.corePart.parts.middle_snow_core.customLabel>中冰核</AE_SnowGolem.corePart.parts.middle_snow_core.customLabel>
-	<!-- EN: left snow core -->
+    <!-- EN: left snow core -->
     <AE_SnowGolem.corePart.parts.left_snow_core.customLabel>左冰核</AE_SnowGolem.corePart.parts.left_snow_core.customLabel>
 
     <!-- EN: snow spider -->
-	<AE_SnowSpider.label>冰雪蜘蛛</AE_SnowSpider.label>
+    <AE_SnowSpider.label>冰雪蜘蛛</AE_SnowSpider.label>
     <!-- EN: snow cephalothorax -->
-	<AE_SnowSpider.corePart.customLabel>头胸部</AE_SnowSpider.corePart.customLabel>
+    <AE_SnowSpider.corePart.customLabel>头胸部</AE_SnowSpider.corePart.customLabel>
     <!-- EN: snow head -->
-	<AE_SnowSpider.corePart.parts.snow_head.customLabel>头</AE_SnowSpider.corePart.parts.snow_head.customLabel>
+    <AE_SnowSpider.corePart.parts.snow_head.customLabel>头</AE_SnowSpider.corePart.parts.snow_head.customLabel>
     <!-- EN: left eye stone -->
-	<AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-0.customLabel>左眼石</AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-0.customLabel>
-	<!-- EN: left eye stone -->
+    <AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-0.customLabel>左眼石</AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-0.customLabel>
+    <!-- EN: left eye stone -->
     <AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-1.customLabel>左眼石</AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-1.customLabel>
-	<!-- EN: left eye stone -->
+    <!-- EN: left eye stone -->
     <AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-2.customLabel>左眼石</AE_SnowSpider.corePart.parts.snow_head.parts.left_eye_stone-2.customLabel>
-	<!-- EN: right eye stone -->
+    <!-- EN: right eye stone -->
     <AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-0.customLabel>右眼石</AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-0.customLabel>
-	<!-- EN: right eye stone -->
+    <!-- EN: right eye stone -->
     <AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-1.customLabel>右眼石</AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-1.customLabel>
-	<!-- EN: right eye stone -->
+    <!-- EN: right eye stone -->
     <AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-2.customLabel>右眼石</AE_SnowSpider.corePart.parts.snow_head.parts.right_eye_stone-2.customLabel>
-	<!-- EN: snow abdomen -->
+    <!-- EN: snow abdomen -->
     <AE_SnowSpider.corePart.parts.snow_abdomen.customLabel>腹部</AE_SnowSpider.corePart.parts.snow_abdomen.customLabel>
-	<!-- EN: big destabilized ice crystal -->
+    <!-- EN: big destabilized ice crystal -->
     <AE_SnowSpider.corePart.parts.snow_abdomen.parts.big_destabilized_ice_crystal.customLabel>失稳冰晶</AE_SnowSpider.corePart.parts.snow_abdomen.parts.big_destabilized_ice_crystal.customLabel>
-	<!-- EN: left front snow leg -->
+    <!-- EN: left front snow leg -->
     <AE_SnowSpider.corePart.parts.left_front_snow_leg.customLabel>左前雪肢</AE_SnowSpider.corePart.parts.left_front_snow_leg.customLabel>
-	<!-- EN: left snow leg -->
+    <!-- EN: left snow leg -->
     <AE_SnowSpider.corePart.parts.left_snow_leg.customLabel>左雪肢</AE_SnowSpider.corePart.parts.left_snow_leg.customLabel>
-	<!-- EN: left rear snow leg -->
+    <!-- EN: left rear snow leg -->
     <AE_SnowSpider.corePart.parts.left_rear_snow_leg.customLabel>左后雪肢</AE_SnowSpider.corePart.parts.left_rear_snow_leg.customLabel>
-	<!-- EN: right front snow leg -->
+    <!-- EN: right front snow leg -->
     <AE_SnowSpider.corePart.parts.right_front_snow_leg.customLabel>右前雪肢</AE_SnowSpider.corePart.parts.right_front_snow_leg.customLabel>
-	<!-- EN: right snow leg -->
+    <!-- EN: right snow leg -->
     <AE_SnowSpider.corePart.parts.right_snow_leg.customLabel>右雪肢</AE_SnowSpider.corePart.parts.right_snow_leg.customLabel>
-	<!-- EN: right rear snow leg -->
+    <!-- EN: right rear snow leg -->
     <AE_SnowSpider.corePart.parts.right_rear_snow_leg.customLabel>右后雪肢</AE_SnowSpider.corePart.parts.right_rear_snow_leg.customLabel>
-	<!-- EN: snow core -->
+    <!-- EN: snow core -->
     <AE_SnowSpider.corePart.parts.snow_core.customLabel>冰核</AE_SnowSpider.corePart.parts.snow_core.customLabel>
 
     <!-- EN: ice mantis -->
-	<AE_IceMantis.label>冰刃螳螂</AE_IceMantis.label>
+    <AE_IceMantis.label>冰刃螳螂</AE_IceMantis.label>
     <!-- EN: ice shard thorax -->
-	<AE_IceMantis.corePart.customLabel>胸部冰片</AE_IceMantis.corePart.customLabel>
+    <AE_IceMantis.corePart.customLabel>胸部冰片</AE_IceMantis.corePart.customLabel>
     <!-- EN: ice shard head -->
-	<AE_IceMantis.corePart.parts.ice_shard_head.customLabel>头部冰片</AE_IceMantis.corePart.parts.ice_shard_head.customLabel>
-	<!-- EN: ice shard abdomen -->
+    <AE_IceMantis.corePart.parts.ice_shard_head.customLabel>头部冰片</AE_IceMantis.corePart.parts.ice_shard_head.customLabel>
+    <!-- EN: ice shard abdomen -->
     <AE_IceMantis.corePart.parts.ice_shard_abdomen.customLabel>腹部冰片</AE_IceMantis.corePart.parts.ice_shard_abdomen.customLabel>
-	<!-- EN: left front ice shard leg -->
+    <!-- EN: left front ice shard leg -->
     <AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.left_front_ice_shard_leg.customLabel>左前冰片腿</AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.left_front_ice_shard_leg.customLabel>
-	<!-- EN: left rear ice shard leg -->
+    <!-- EN: left rear ice shard leg -->
     <AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.left_rear_ice_shard_leg.customLabel>左后冰片腿</AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.left_rear_ice_shard_leg.customLabel>
-	<!-- EN: right front ice shard leg -->
+    <!-- EN: right front ice shard leg -->
     <AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.right_front_ice_shard_leg.customLabel>右前冰片腿</AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.right_front_ice_shard_leg.customLabel>
-	<!-- EN: right rear ice shard leg -->
+    <!-- EN: right rear ice shard leg -->
     <AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.right_rear_ice_shard_leg.customLabel>右后冰片腿</AE_IceMantis.corePart.parts.ice_shard_abdomen.parts.right_rear_ice_shard_leg.customLabel>
-	<!-- EN: left ice shard arm -->
+    <!-- EN: left ice shard arm -->
     <AE_IceMantis.corePart.parts.left_ice_shard_arm.customLabel>左冰刃</AE_IceMantis.corePart.parts.left_ice_shard_arm.customLabel>
-	<!-- EN: right ice shard arm -->
+    <!-- EN: right ice shard arm -->
     <AE_IceMantis.corePart.parts.right_ice_shard_arm.customLabel>右冰刃</AE_IceMantis.corePart.parts.right_ice_shard_arm.customLabel>
 
+    <!-- EN: ice man -->
+    <AE_IceMan.label>冰人</AE_IceMan.label>
     <!-- EN: ice shard torso -->
-	<AE_IceMan.label>胸部</AE_IceMan.label>
+    <AE_IceMan.corePart.customLabel>躯干</AE_IceMan.corePart.customLabel>
     <!-- EN: ice shard head -->
-	<AE_IceMan.corePart.customLabel>头部</AE_IceMan.corePart.customLabel>
+    <AE_IceMan.corePart.parts.ice_shard_head.customLabel>头</AE_IceMan.corePart.parts.ice_shard_head.customLabel>
     <!-- EN: left ice shard arm -->
-	<AE_IceMan.corePart.parts.ice_shard_head.customLabel>左冰臂</AE_IceMan.corePart.parts.ice_shard_head.customLabel>
-	<!-- EN: left ice shard arm -->
     <AE_IceMan.corePart.parts.left_ice_shard_arm.customLabel>左冰臂</AE_IceMan.corePart.parts.left_ice_shard_arm.customLabel>
-	<!-- EN: right ice shard arm -->
+    <!-- EN: right ice shard arm -->
     <AE_IceMan.corePart.parts.right_ice_shard_arm.customLabel>右冰臂</AE_IceMan.corePart.parts.right_ice_shard_arm.customLabel>
-	<!-- EN: left ice shard leg -->
+    <!-- EN: left ice shard leg -->
     <AE_IceMan.corePart.parts.left_ice_shard_leg.customLabel>左冰腿</AE_IceMan.corePart.parts.left_ice_shard_leg.customLabel>
-	<!-- EN: right ice shard leg -->
+    <!-- EN: right ice shard leg -->
     <AE_IceMan.corePart.parts.right_ice_shard_leg.customLabel>右冰腿</AE_IceMan.corePart.parts.right_ice_shard_leg.customLabel>
 
 </LanguageData>

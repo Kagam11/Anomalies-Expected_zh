@@ -3,15 +3,15 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Synchronisation -->
-	<Hediff_AE_BioresonatorA.label>同步</Hediff_AE_BioresonatorA.label>
+    <Hediff_AE_BioresonatorA.label>同步</Hediff_AE_BioresonatorA.label>
     <!-- EN: Bioresonator has bound itself to this pawn, affecting them depending on it's own state -->
-	<Hediff_AE_BioresonatorA.description>生体谐振器已与这个小人绑定，根据自身节律对小人产生影响。</Hediff_AE_BioresonatorA.description>
-	<!-- EN: Inhale -->
+    <Hediff_AE_BioresonatorA.description>生体谐振器已与这个小人绑定，根据自身节律对小人产生影响。</Hediff_AE_BioresonatorA.description>
+    <!-- EN: Inhale -->
     <Hediff_AE_BioresonatorA.stages.0.label>吸气</Hediff_AE_BioresonatorA.stages.0.label>
     <!-- EN: Exhale -->
-	<Hediff_AE_BioresonatorA.stages.1.label>呼气</Hediff_AE_BioresonatorA.stages.1.label>
+    <Hediff_AE_BioresonatorA.stages.1.label>呼气</Hediff_AE_BioresonatorA.stages.1.label>
     <!-- EN: Exhale -->
-	<Hediff_AE_BioresonatorA.stages.2.label>呼气</Hediff_AE_BioresonatorA.stages.2.label>
+    <Hediff_AE_BioresonatorA.stages.2.label>呼气</Hediff_AE_BioresonatorA.stages.2.label>
 
     <!--#endregion-->
 </LanguageData>

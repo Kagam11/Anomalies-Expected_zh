@@ -2,111 +2,111 @@
 <LanguageData>
 
     <!-- EN: incubating fleshmass tumor -->
-	<Hediff_AEFleshmassTumorIncubation.label>孵化血肉肿瘤</Hediff_AEFleshmassTumorIncubation.label>
+    <Hediff_AEFleshmassTumorIncubation.label>孵化血肉肿瘤</Hediff_AEFleshmassTumorIncubation.label>
     <!-- EN: All bodily functions are redirected to sustain the growth of the fleshmass tumor, a fatal process, as the cyst has become inextricably intertwined with the organ structure. However, the cyst is dependent on the host's survival. -->
-	<Hediff_AEFleshmassTumorIncubation.description>此人的所有身体机能都已调整以维持血肉囊肿的生长，囊肿已经与器官结构密不可分，因此这最终是一个致命的过程。不过，在囊肿成熟前，其本身的生存仍依赖于宿主。</Hediff_AEFleshmassTumorIncubation.description>
+    <Hediff_AEFleshmassTumorIncubation.description>此人的所有身体机能都已调整以维持血肉囊肿的生长，囊肿已经与器官结构密不可分，因此这最终是一个致命的过程。不过，在囊肿成熟前，其本身的生存仍依赖于宿主。</Hediff_AEFleshmassTumorIncubation.description>
     <!-- EN: Fleshmass tumor incubated from {0} -->
-	<Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>血肉肿瘤由{0}孵化</Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>
+    <Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>血肉肿瘤由{0}孵化</Hediff_AEFleshmassTumorIncubation.comps.HediffComp_SpawnThingOnDeath.messageText>
 
     <!-- EN: fleshmass cyst assimilates -->
-	<Hediff_AEFleshmassCystAssimilation.label>血肉囊肿同化</Hediff_AEFleshmassCystAssimilation.label>
+    <Hediff_AEFleshmassCystAssimilation.label>血肉囊肿同化</Hediff_AEFleshmassCystAssimilation.label>
     <!-- EN: The fleshmass cyst, implanted within the host's body, is undergoing assimilation, resulting in considerable pain. The cyst is dependent on the host's survival. -->
-	<Hediff_AEFleshmassCystAssimilation.description>植入宿主体内的血肉囊肿正在进行同化，导致相当大的痛苦。囊肿依赖宿主生存。</Hediff_AEFleshmassCystAssimilation.description>
-	
+    <Hediff_AEFleshmassCystAssimilation.description>植入宿主体内的血肉囊肿正在进行同化，导致相当大的痛苦。囊肿依赖宿主生存。</Hediff_AEFleshmassCystAssimilation.description>
+
     <!-- EN: fleshmass lung -->
-	<AE_FleshmassLung.label>血肉肺</AE_FleshmassLung.label>
+    <AE_FleshmassLung.label>血肉肺</AE_FleshmassLung.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. The tissue constantly regrows and replaces itself, making it immune to effects like lung rot and asthma. Infusing the air the host breathes with a calming and mood-enhancing chemical.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassLung.description>一团癌变的半智慧肉体。这种组织会不断再生和自我替代，使其对肺部腐烂和哮喘等疾病免疫。它能在宿主呼吸的空气中注入镇静和改善情绪的化学物质。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassLung.description>
+    <AE_FleshmassLung.description>一团癌变的半智慧肉体。这种组织会不断再生和自我替代，使其对肺部腐烂和哮喘等疾病免疫。它能在宿主呼吸的空气中注入镇静和改善情绪的化学物质。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassLung.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass lung has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肺导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
-	<!-- EN: a fleshmass lung -->
+    <AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肺导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+    <!-- EN: a fleshmass lung -->
     <AE_FleshmassLung.labelNoun>一个血肉肺</AE_FleshmassLung.labelNoun>
 
     <!-- EN: fleshmass stomach -->
-	<AE_FleshmassStomach.label>血肉胃</AE_FleshmassStomach.label>
+    <AE_FleshmassStomach.label>血肉胃</AE_FleshmassStomach.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. The harsh acid it produces is painful, but strong enough to prevent most food poisoning. It can break down and reabsorb nutrients from its own tissue, allowing it to sustain itself for extended periods without external sustenance.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassStomach.description>一团癌变的半智慧肉体。它产生的刺鼻酸液令人痛苦，但足以防止大多数食物中毒。它可以分解并重新吸收自身组织中的营养物质，使其能够在没有外部养料的情况下长时间维持生命。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassStomach.description>
+    <AE_FleshmassStomach.description>一团癌变的半智慧肉体。它产生的刺鼻酸液令人痛苦，但足以防止大多数食物中毒。它可以分解并重新吸收自身组织中的营养物质，使其能够在没有外部养料的情况下长时间维持生命。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassStomach.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass stomach has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉胃导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉胃导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass stomach -->
-	<AE_FleshmassStomach.labelNoun>一个血肉胃</AE_FleshmassStomach.labelNoun>
+    <AE_FleshmassStomach.labelNoun>一个血肉胃</AE_FleshmassStomach.labelNoun>
 
     <!-- EN: fleshmass liver -->
-	<AE_FleshmassLiver.label>血肉肝</AE_FleshmassLiver.label>
+    <AE_FleshmassLiver.label>血肉肝</AE_FleshmassLiver.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Strives to prolong the host's life by mitigating illness or blood loss.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassLiver.description>一团癌变的半智慧肉体。通过减轻疾病或失血，努力延长宿主的生命。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassLiver.description>
+    <AE_FleshmassLiver.description>一团癌变的半智慧肉体。通过减轻疾病或失血，努力延长宿主的生命。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassLiver.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass liver has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肝导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肝导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassLiver.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass liver -->
-	<AE_FleshmassLiver.labelNoun>一个血肉肝</AE_FleshmassLiver.labelNoun>
+    <AE_FleshmassLiver.labelNoun>一个血肉肝</AE_FleshmassLiver.labelNoun>
 
     <!-- EN: fleshmass acid cavity -->
-	<AE_FleshmassAcidCavity.label>血肉酸腔</AE_FleshmassAcidCavity.label>
+    <AE_FleshmassAcidCavity.label>血肉酸腔</AE_FleshmassAcidCavity.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Generate and store a sticky acid substance within a newly formed cavity in the sternum, along with acid-tolerant tissues in the throat. They can spit this acid to strike a distant target, where it will stick to enemies and burn them.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassAcidCavity.description>一团癌变的半智慧肉体。在胸骨处形成一个空腔，在其中产生并储存一种粘性酸性物质，同时喉咙中也有耐酸组织。以此可以吐出这种酸性物质攻击远处的目标，会粘在敌人身上并烧伤他们。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassAcidCavity.description>
-	<!-- EN: Fleshmass operation -->
+    <AE_FleshmassAcidCavity.description>一团癌变的半智慧肉体。在胸骨处形成一个空腔，在其中产生并储存一种粘性酸性物质，同时喉咙中也有耐酸组织。以此可以吐出这种酸性物质攻击远处的目标，会粘在敌人身上并烧伤他们。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassAcidCavity.description>
+    <!-- EN: Fleshmass operation -->
     <AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass acid cavity has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉酸腔导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉酸腔导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassAcidCavity.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass acid cavity -->
-	<AE_FleshmassAcidCavity.labelNoun>一个血肉酸腔</AE_FleshmassAcidCavity.labelNoun>
+    <AE_FleshmassAcidCavity.labelNoun>一个血肉酸腔</AE_FleshmassAcidCavity.labelNoun>
 
     <!-- EN: fleshmass acid gland -->
-	<AE_FleshmassAcidGland.label>血肉酸腺</AE_FleshmassAcidGland.label>
+    <AE_FleshmassAcidGland.label>血肉酸腺</AE_FleshmassAcidGland.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Generate and store a sticky acid substance withing a newly formed gland, along with acid-tolerant tissues in the mouth. They can spew this acid over an area, where it will stick to enemies and burn them.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassAcidGland.description>一团癌变的半智慧肉体。在口腔中生成耐酸组和腺体，在其中生成并储存一种粘性酸性物质。可以将这种酸喷洒到一个区域，粘在敌人身上并烧伤他们。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassAcidGland.description>
-	<!-- EN: Fleshmass operation -->
+    <AE_FleshmassAcidGland.description>一团癌变的半智慧肉体。在口腔中生成耐酸组和腺体，在其中生成并储存一种粘性酸性物质。可以将这种酸喷洒到一个区域，粘在敌人身上并烧伤他们。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassAcidGland.description>
+    <!-- EN: Fleshmass operation -->
     <AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass acid gland has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉酸腺导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉酸腺导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassAcidGland.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass acid gland -->
-	<AE_FleshmassAcidGland.labelNoun>一个血肉酸腺</AE_FleshmassAcidGland.labelNoun>
+    <AE_FleshmassAcidGland.labelNoun>一个血肉酸腺</AE_FleshmassAcidGland.labelNoun>
 
     <!-- EN: fleshmass nose -->
-	<AE_FleshmassNose.label>血肉鼻</AE_FleshmassNose.label>
+    <AE_FleshmassNose.label>血肉鼻</AE_FleshmassNose.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Its internal structure functions similarly to a rudimentary gas mask filter, partially blocking the entry of toxins into the host's body.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassNose.description>一团癌变的半智慧肉体。内部结构类似于一个简易的防毒面具过滤器，能部分阻挡毒素进入宿主体内。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassNose.description>
+    <AE_FleshmassNose.description>一团癌变的半智慧肉体。内部结构类似于一个简易的防毒面具过滤器，能部分阻挡毒素进入宿主体内。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassNose.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass nose has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉鼻导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉鼻导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass nose -->
-	<AE_FleshmassNose.labelNoun>一个血肉鼻</AE_FleshmassNose.labelNoun>
+    <AE_FleshmassNose.labelNoun>一个血肉鼻</AE_FleshmassNose.labelNoun>
 
     <!-- EN: fleshmass tumor assimilates -->
-	<Hediff_AEFleshmassTumorAssimilation.label>血肉肿瘤同化物</Hediff_AEFleshmassTumorAssimilation.label>
+    <Hediff_AEFleshmassTumorAssimilation.label>血肉肿瘤同化物</Hediff_AEFleshmassTumorAssimilation.label>
     <!-- EN: The fleshmass tumor, implanted within the host's body, is undergoing assimilation, resulting in substantial pain. The tumor is dependent on the host's survival. -->
-	<Hediff_AEFleshmassTumorAssimilation.description>植入宿主体内的血肉肿瘤正在进行同化，导致宿主产生剧烈疼痛。肿瘤依赖于宿主的生存。</Hediff_AEFleshmassTumorAssimilation.description>
+    <Hediff_AEFleshmassTumorAssimilation.description>植入宿主体内的血肉肿瘤正在进行同化，导致宿主产生剧烈疼痛。肿瘤依赖于宿主的生存。</Hediff_AEFleshmassTumorAssimilation.description>
 
     <!-- EN: fleshmass eye -->
-	<AE_FleshmassEye.label>血肉眼</AE_FleshmassEye.label>
+    <AE_FleshmassEye.label>血肉眼</AE_FleshmassEye.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. In addition to improved vision it can generate concentrated burst of psychic energy to strike targets in front of them.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassEye.description>一团癌变的半智慧肉体。除了改善视力外，它还能产生灵能射束，攻击面前的目标。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassEye.description>
+    <AE_FleshmassEye.description>一团癌变的半智慧肉体。除了改善视力外，它还能产生灵能射束，攻击面前的目标。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassEye.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass eye has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉眼导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉眼导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassEye.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass eye -->
-	<AE_FleshmassEye.labelNoun>一个血肉眼</AE_FleshmassEye.labelNoun>
+    <AE_FleshmassEye.labelNoun>一个血肉眼</AE_FleshmassEye.labelNoun>
 
     <!-- EN: fleshmass ear -->
-	<AE_FleshmassEar.label>血肉耳</AE_FleshmassEar.label>
+    <AE_FleshmassEar.label>血肉耳</AE_FleshmassEar.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Increasing host's psychic sensitivity and conductivity.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassEar.description>一团癌变的半智慧肉体。可以提升心灵敏感度。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassEar.description>
+    <AE_FleshmassEar.description>一团癌变的半智慧肉体。可以提升心灵敏感度。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassEar.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass ear has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉耳导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉耳导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassEar.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass ear -->
-	<AE_FleshmassEar.labelNoun>一个血肉耳</AE_FleshmassEar.labelNoun>
+    <AE_FleshmassEar.labelNoun>一个血肉耳</AE_FleshmassEar.labelNoun>
 
-<!-- May duplicate???
+    <!-- May duplicate???
 	<AE_FleshmassNose.label>нос из биомассы</AE_FleshmassNose.label>
 	<AE_FleshmassNose.description>一团癌变的半智慧肉体。 Внутренняя структура схожа с простым фильтром противогаза, частично блокирующим попадание токсинов в тело носителя.\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassNose.description>
 	<AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>
@@ -115,60 +115,60 @@
 -->
 
     <!-- EN: fleshmass kidney -->
-	<AE_FleshmassKidney.label>血肉肾</AE_FleshmassKidney.label>
+    <AE_FleshmassKidney.label>血肉肾</AE_FleshmassKidney.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Will grow fleshmass that can be mutated into Fingerspike afflicted with by destabilization mutation.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassKidney.description>一团癌变的半智慧肉体。可以长出肉块并使用不稳定突变将其变成单爪兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassKidney.description>
+    <AE_FleshmassKidney.description>一团癌变的半智慧肉体。可以长出肉块并使用不稳定突变将其变成单爪兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassKidney.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass kidney has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肾导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉肾导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass kidney -->
-	<AE_FleshmassKidney.labelNoun>一个血肉肾</AE_FleshmassKidney.labelNoun>
+    <AE_FleshmassKidney.labelNoun>一个血肉肾</AE_FleshmassKidney.labelNoun>
 
     <!-- EN: fleshmass heart -->
-	<AE_FleshmassHeart.label>血肉心</AE_FleshmassHeart.label>
+    <AE_FleshmassHeart.label>血肉心</AE_FleshmassHeart.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Drastically increase regeneration and blood clotting.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-	<AE_FleshmassHeart.description>一团癌变的半智慧肉体。能够大幅提高再生和凝血能力。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassHeart.description>
+    <AE_FleshmassHeart.description>一团癌变的半智慧肉体。能够大幅提高再生和凝血能力。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。</AE_FleshmassHeart.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass heart has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉心导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉心导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassHeart.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass heart -->
-	<AE_FleshmassHeart.labelNoun>一个血肉心</AE_FleshmassHeart.labelNoun>
+    <AE_FleshmassHeart.labelNoun>一个血肉心</AE_FleshmassHeart.labelNoun>
 
     <!-- EN: fleshmass brain tumor -->
-	<AE_FleshmassBrainTumor.label>血肉脑瘤</AE_FleshmassBrainTumor.label>
+    <AE_FleshmassBrainTumor.label>血肉脑瘤</AE_FleshmassBrainTumor.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. The tumor possesses its own neural network capable of controlling allied fleshbeasts.\n\nThe organ has its own neural structures and may become dangerous if removed.\n\nIt effect on the brain's pain centers and radius of effect depends on amount of fleshmass tumors assimilated in the host's brain up to 5. -->
-	<AE_FleshmassBrainTumor.description>一团癌变的半智慧肉体。肿瘤拥有自己的神经网络，能够控制友方的血肉兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n它对大脑疼痛中心的影响和作用半径取决于宿主大脑中同化的血肉脑瘤数量，最多可达5个。</AE_FleshmassBrainTumor.description>
+    <AE_FleshmassBrainTumor.description>一团癌变的半智慧肉体。肿瘤拥有自己的神经网络，能够控制友方的血肉兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n它对大脑疼痛中心的影响和作用半径取决于宿主大脑中同化的血肉脑瘤数量，最多可达5个。</AE_FleshmassBrainTumor.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass brain tumor has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉脑瘤导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉脑瘤导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassBrainTumor.comps.HediffComp_FleshbeastEmerge.letterText>
 
     <!-- EN: fleshmass body mutation -->
-	<AE_FleshmassBodyMutation.label>血肉躯体突变</AE_FleshmassBodyMutation.label>
+    <AE_FleshmassBodyMutation.label>血肉躯体突变</AE_FleshmassBodyMutation.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Mutate the host's entire body and replacing some tissue with fleshmass, significantly enhancing bodily functions. Will grow fleshmass that can be mutated into Toughspike afflicted with by destabilization mutation.\n\nThe organ has its own neural structures and may become dangerous if removed.\n\nIt effect depends on amount of fleshmass mutations in the host's body up to 15. -->
-	<AE_FleshmassBodyMutation.description>一团癌变的半智慧肉体。变异宿主的整个身体，用血肉块取代部分组织，显著增强身体机能。生长出的血肉块可通过不稳定变异作用变异成双爪兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n它的效果取决于宿主体内血肉躯体突变的数量，最高可达15个。</AE_FleshmassBodyMutation.description>
+    <AE_FleshmassBodyMutation.description>一团癌变的半智慧肉体。变异宿主的整个身体，用血肉块取代部分组织，显著增强身体机能。生长出的血肉块可通过不稳定变异作用变异成双爪兽。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n它的效果取决于宿主体内血肉躯体突变的数量，最高可达15个。</AE_FleshmassBodyMutation.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass body mutation has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的躯体突变导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的躯体突变导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassBodyMutation.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: full adaptation -->
-	<AE_FleshmassBodyMutation.stages.full_adaptation.label>完全适应</AE_FleshmassBodyMutation.stages.full_adaptation.label>
+    <AE_FleshmassBodyMutation.stages.full_adaptation.label>完全适应</AE_FleshmassBodyMutation.stages.full_adaptation.label>
 
     <!-- EN: fleshmass cells restoration -->
-	<Hediff_AEFleshmassPartRestoration.label>血肉细胞修复</Hediff_AEFleshmassPartRestoration.label>
+    <Hediff_AEFleshmassPartRestoration.label>血肉细胞修复</Hediff_AEFleshmassPartRestoration.label>
     <!-- EN: The fleshmass cells, left within the host's body, are actively regenerating into a new organ. The cells is dependent on the host's survival. -->
-	<Hediff_AEFleshmassPartRestoration.description>留在宿主体内的血肉细胞正在积极地再生为一个新的器官。这些细胞依赖宿主生存。</Hediff_AEFleshmassPartRestoration.description>
+    <Hediff_AEFleshmassPartRestoration.description>留在宿主体内的血肉细胞正在积极地再生为一个新的器官。这些细胞依赖宿主生存。</Hediff_AEFleshmassPartRestoration.description>
 
     <!-- EN: fleshmass organogenesis core -->
-	<AE_FleshmassOrganogenesisCore.label>血肉器官再生核心</AE_FleshmassOrganogenesisCore.label>
+    <AE_FleshmassOrganogenesisCore.label>血肉器官再生核心</AE_FleshmassOrganogenesisCore.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Seamlessly integrate with fleshmass organs, allowing them to regrow even after full destruction.\n\nThe organ has its own neural structures and may become dangerous if removed.\n\nAffects:\n- Fleshmass stomach;\n- Fleshmass lung;\n- Fleshmass liver;\n- Fleshmass nose;\n- Fleshmass eye;\n- Fleshmass ear;\n- Fleshmass kidney;\n- Fleshmass heart. -->
-	<AE_FleshmassOrganogenesisCore.description>一团癌变的半智慧肉体。与血肉器官无缝结合，即使完全破坏也能重新生长。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n影响：\n- 血肉胃；\n- 血肉肺；\n- 血肉肝；\n- 血肉鼻；\n- 血肉眼\n- 血肉耳；\n- 血肉肾；\n- 血肉心。</AE_FleshmassOrganogenesisCore.description>
+    <AE_FleshmassOrganogenesisCore.description>一团癌变的半智慧肉体。与血肉器官无缝结合，即使完全破坏也能重新生长。\n\n该器官有自己的神经结构，如果被移除，可能会变得危险。\n\n影响：\n- 血肉胃；\n- 血肉肺；\n- 血肉肝；\n- 血肉鼻；\n- 血肉眼\n- 血肉耳；\n- 血肉肾；\n- 血肉心。</AE_FleshmassOrganogenesisCore.description>
     <!-- EN: Fleshmass operation -->
-	<AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>
+    <AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass organogenesis core has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
-	<AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉器官再生核心导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>
+    <AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>试图移除{PAWN_nameDef}的血肉器官再生核心导致扭曲的血肉块发动攻击。血肉块已脱离{PAWN_nameDef}并转化为血肉兽！</AE_FleshmassOrganogenesisCore.comps.HediffComp_FleshbeastEmerge.letterText>
     <!-- EN: a fleshmass organogenesis core -->
     <AE_FleshmassOrganogenesisCore.labelNoun>一个血肉器官再生核心</AE_FleshmassOrganogenesisCore.labelNoun>
 

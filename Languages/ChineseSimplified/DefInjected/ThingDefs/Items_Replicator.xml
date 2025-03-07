@@ -3,45 +3,45 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Clay figure -->
-	<AE_Replicator.label>粘土人偶</AE_Replicator.label>
+    <AE_Replicator.label>粘土人偶</AE_Replicator.label>
     <!-- EN: A white-colored figure made of clay-like material -->
-	<AE_Replicator.description>一个白色人偶，由类似粘土的材料制成。</AE_Replicator.description>
-	
+    <AE_Replicator.description>一个白色人偶，由类似粘土的材料制成。</AE_Replicator.description>
+
     <!-- EN: Clay figure -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>粘土人偶</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>粘土人偶</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
     <!-- EN: A white-colored figure made of clay-like material -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: #1/3 Clay figure study report -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 粘土人偶研究报告</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 粘土人偶研究报告</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: General properties of the Clay figure\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the properties of the object we decided to name "Clay figure". Although it shouldn't necessarily be made of clay, it seems to have the same physical properties as the material. The figure itself is painted white and has a humanoid shape, although somewhat twisted. No anomalous properties were found as for now, so we suggest waiting for further activity.\n\nObservations:\n{PAWN_nameDef} Reported the object to be a white figurine.\nMaterial is unknown, but it's properties resemble that of hardened clay.\nHas a humanoid shape.\nNo anomalous properties found.\n\nFindings:\nOnly physical properties.\n\nDiscussion:\nBecause the anomalous properties are yet to be found, we recommend being cautious when performing research of the object.\n\nRecommendations:\nFurther experimentation/waiting is required.
     -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.text>粘土人偶的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于我们决定命名为“粘土人偶”的物体的观察结果。尽管它不一定由黏土制成，但似乎具有与粘土相同的物理性质。该人偶本身为白色，为稍有些扭曲的人形。到目前为止没有发现任何异常属性，因此我们建议等待其进一步的活动。\n\n现象：\n{PAWN_nameDef}报告物体为白色人偶。\n物体的材料未知，但类似于硬化了的粘土。\n形状类似人形。\n未发现异常性质。\n\n发现：\n只发现物理性质。\n\n讨论：\n由于尚未发现异常性质，我们建议在研究该物体时保持谨慎。\n\n建议：\n需要进一步实验或等待。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.text>
-	
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.text>粘土人偶的一般性质\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于我们决定命名为“粘土人偶”的物体的观察结果。尽管它不一定由黏土制成，但似乎具有与粘土相同的物理性质。该人偶本身为白色，为稍有些扭曲的人形。到目前为止没有发现任何异常属性，因此我们建议等待其进一步的活动。\n\n现象：\n{PAWN_nameDef}报告物体为白色人偶。\n物体的材料未知，但类似于硬化了的粘土。\n形状类似人形。\n未发现异常性质。\n\n发现：\n只发现物理性质。\n\n讨论：\n由于尚未发现异常性质，我们建议在研究该物体时保持谨慎。\n\n建议：\n需要进一步实验或等待。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.0.text>
+
     <!-- EN: Tiny army -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>小小军团</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>小小军团</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyLabel>
     <!-- EN: A white-colored figure made of clay-like material. Can make more of itself -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
-	<!-- EN: #2/3 Tiny army study report -->
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.AnomalyDesc>
+    <!-- EN: #2/3 Tiny army study report -->
     <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.label>#2/3 粘土人偶研究报告</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.label>
     <!--
         EN: Replicative properties of the Clay figure\n\nAbstract:\nThis report details observations concerning the recently found replicative properties of the Clay figure. After some time of inactivity, the object spontaneously created another similar figurine, which was somewhat different in shape but still reminiscent of the previous figurine. The newly created object seems to have the same properties as the original, which might also include it's ability to replicate. The only notable difference is that the copy seems to be weighing less. No other notable properties were observed.\n\nObservations:\nThe object is able to make imperfect copies of itself.\n\nDiscussion:\nIf this is the only anomalous property of the object, then no risk should be associated with it, this, however, should be proven first.\n\nRecommendations:\nFurther research
     -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.text>粘土人偶的复制行为\n\n摘要：\n本报告详细记录了关于近期发现的人偶的复制性质的观察结果。在一段时间的静止之后，该物体自发地创造了另一个类似的人偶，其形状略有不同，但仍然让人联想到之前的雕像。新的物体似乎具有与原物体相同的性质，这可能也包括其复制的能力。唯一显著的区别是复制品似乎重量更轻。没有观察到其他显著的性质。\n\n现象：\n该物体能够制造自身的非完美复制品。\n\n讨论：\n如果这是物体的唯一异常性质，那么不应该将它与任何风险关联起来，然而，此推断应该首先得到证实。\n\n建议：\n继续研究。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.text>
-	
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.text>粘土人偶的复制行为\n\n摘要：\n本报告详细记录了关于近期发现的人偶的复制性质的观察结果。在一段时间的静止之后，该物体自发地创造了另一个类似的人偶，其形状略有不同，但仍然让人联想到之前的雕像。新的物体似乎具有与原物体相同的性质，这可能也包括其复制的能力。唯一显著的区别是复制品似乎重量更轻。没有观察到其他显著的性质。\n\n现象：\n该物体能够制造自身的非完美复制品。\n\n讨论：\n如果这是物体的唯一异常性质，那么不应该将它与任何风险关联起来，然而，此推断应该首先得到证实。\n\n建议：\n继续研究。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.1.text>
+
     <!-- EN: Replicator -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>复制者</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>复制者</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyLabel>
     <!-- EN: A white-colored figure made of clay-like material. Can make more of itself -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
-	<!-- EN: #3/3 Replicator study report -->
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.AnomalyDesc>
+    <!-- EN: #3/3 Replicator study report -->
     <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.label>#3/3 粘土人偶研究报告</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.label>
     <!-- EN: Theory regarding the replicative mechanism behind Clay figure\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report presents a novel theory proposed by Subject {PAWN_nameDef} regarding the mechanism behind Clay figure's replicative properties. After some inspection, we came to the conclusion that the main difference between the original figurine and it's copies is that the original has a shard inside of it. The shard is also the source of the object's properties, which it can also provide to it's copies as well, forming some kind of a net with the shard as it's center. This property does not have any effects on the health of our colonists. Because of that, the anomaly associated with the Clay figure has been classified as Class-1 (Safe).\n\nHypothesis:\nFollowing the prolonged study of the clay figure and it's copies, {PAWN_nameDef} has proposed a theory concerning the item. Subject suggest the original figure utilizes a shard to replicate itself. This also explains why all of the copies have less mass.\n\nProposed Mechanism:\n{PAWN_nameDef}'s theory suggests the properties cannot be explained by a presence of mechanites, since the speed at which they can build up material is too slow for what we have observed. Because of that, it's possible that the shard can allow either teleportation of the material from far away, or a complete alteration of the space around it.\n\nOutcome:\nBased on information gained during this observation, {PAWN_nameDef} has successfully classified the anomaly associated with the clay figure as Class-1 (Safe).\n\nConsiderations:\nThe potential validity of Subject's theory requires further investigation. No risk is associated with the object and it's copies.\n\nRecommendations:\nDestruction: Given the possibility of uncontrolled replication, object's destruction can both prevent this outcome and allow us to extract a shard from the object.\nSupervision: Alternatively, considering that the item's properties can allow us to gather infinite amounts of free material, we can try to exploit the object and watch over it to prevent uncontrolled replication -->
-	<AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.text>关于粘土人偶自我复制原理的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告提出了一个由对象{PAWN_nameDef}提出的关于人偶复制性质背后机制的新理论。经过一些检查，我们得出结论，原始人偶及其复制品之间的主要区别在于原始人偶内部有一个超凡碎片。该碎片也是人偶异常性质的源头，并可以将该性质传递给其复制体，形成一个以碎片为中心的网络。这种属性对居民的健康没有任何影响。因此，与人偶相关的该异常已被分类为 1 级（安全）异常。\n\n假说：\n在长期研究人偶及其复制品之后，{PAWN_nameDef}提出了一个关于该物品的理论。对象认为原始人偶使用其体内的碎片来复制自己。这也解释了为什么所有复制品的质量都更轻。\n\n拟议机制：\n{PAWN_nameDef}的理论表明，这些性质不能通过纳米机械来解释，因为我们观察到的物质积累速度对于纳米机械来说太慢了。因此，碎片可能允许人偶从远处传送材料，或者完全改变它周围的空间。\n\n结果：\n根据此次观察获得的信息，{PAWN_nameDef}已成功将泥塑相关的异常分类为1级（安全）异常。\n\n审议：\n对象理论的潜在有效性需要进一步调查。人偶及其复制品不涉及任何风险。\n\n建议：\n销毁：考虑到不受控制的复制的可能性，销毁该物体既可以防止这种结果，又允许我们从中提取碎片。\n监控：另一方面，考虑到该物品的性质允许我们收集无限量的免费材料，我们可以尝试利用该物体并监控它，以防止不受控制的复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.text>
-	
+    <AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.text>关于粘土人偶自我复制原理的理论\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告提出了一个由对象{PAWN_nameDef}提出的关于人偶复制性质背后机制的新理论。经过一些检查，我们得出结论，原始人偶及其复制品之间的主要区别在于原始人偶内部有一个超凡碎片。该碎片也是人偶异常性质的源头，并可以将该性质传递给其复制体，形成一个以碎片为中心的网络。这种属性对居民的健康没有任何影响。因此，与人偶相关的该异常已被分类为 1 级（安全）异常。\n\n假说：\n在长期研究人偶及其复制品之后，{PAWN_nameDef}提出了一个关于该物品的理论。对象认为原始人偶使用其体内的碎片来复制自己。这也解释了为什么所有复制品的质量都更轻。\n\n拟议机制：\n{PAWN_nameDef}的理论表明，这些性质不能通过纳米机械来解释，因为我们观察到的物质积累速度对于纳米机械来说太慢了。因此，碎片可能允许人偶从远处传送材料，或者完全改变它周围的空间。\n\n结果：\n根据此次观察获得的信息，{PAWN_nameDef}已成功将泥塑相关的异常分类为1级（安全）异常。\n\n审议：\n对象理论的潜在有效性需要进一步调查。人偶及其复制品不涉及任何风险。\n\n建议：\n销毁：考虑到不受控制的复制的可能性，销毁该物体既可以防止这种结果，又允许我们从中提取碎片。\n监控：另一方面，考虑到该物品的性质允许我们收集无限量的免费材料，我们可以尝试利用该物体并监控它，以防止不受控制的复制。</AE_Replicator.comps.CompAEStudyUnlocks.studyNotes.2.text>
+
     <!-- EN: Clayling -->
-	<AE_ReplicatorSecond.label>粘土小人</AE_ReplicatorSecond.label>
+    <AE_ReplicatorSecond.label>粘土小人</AE_ReplicatorSecond.label>
     <!-- EN: A white-colored figure presumably made of clay. Can make more of itself -->
-	<AE_ReplicatorSecond.description>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_ReplicatorSecond.description>
+    <AE_ReplicatorSecond.description>一个白色人偶，由类似粘土的材料制成。可以自我复制。</AE_ReplicatorSecond.description>
 
     <!--#endregion-->
 </LanguageData>

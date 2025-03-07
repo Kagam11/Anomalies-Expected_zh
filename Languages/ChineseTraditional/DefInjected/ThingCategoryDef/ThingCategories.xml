@@ -3,15 +3,15 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: anomaly -->
-	<BodyPartsAnomalyAE.label>異常</BodyPartsAnomalyAE.label>
+    <BodyPartsAnomalyAE.label>異常</BodyPartsAnomalyAE.label>
     <!-- EN: anomaly -->
-	<ItemsAnomalies.label>異常</ItemsAnomalies.label>
+    <ItemsAnomalies.label>異常</ItemsAnomalies.label>
     <!-- EN: research notes -->
-	<AnomalyStudyNotes.label>研究記錄</AnomalyStudyNotes.label>
+    <AnomalyStudyNotes.label>研究記錄</AnomalyStudyNotes.label>
     <!-- EN: SA corpses -->
-	<CorpsesEntitySnowArmy.label>冰雪軍團遺體</CorpsesEntitySnowArmy.label>
+    <CorpsesEntitySnowArmy.label>冰雪軍團遺體</CorpsesEntitySnowArmy.label>
     <!-- EN: anomaly -->
-	<AEWeaponsAnomalies.label>異常</AEWeaponsAnomalies.label>
+    <AEWeaponsAnomalies.label>異常</AEWeaponsAnomalies.label>
 
     <!--#endregion-->
 </LanguageData>

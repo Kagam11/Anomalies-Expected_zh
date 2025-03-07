@@ -3,18 +3,18 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Time sync -->
-	<Hediff_AE_Clock.label>时间同步</Hediff_AE_Clock.label>
+    <Hediff_AE_Clock.label>时间同步</Hediff_AE_Clock.label>
     <!-- EN: The anomalous watch has bound itself to this pawn, affecting them depending on it's own state -->
-	<Hediff_AE_Clock.description>异常怀表已与这个小人绑定，根据自身节律对小人产生影响。</Hediff_AE_Clock.description>
-	<!-- EN: Dawn -->
+    <Hediff_AE_Clock.description>异常怀表已与这个小人绑定，根据自身节律对小人产生影响。</Hediff_AE_Clock.description>
+    <!-- EN: Dawn -->
     <Hediff_AE_Clock.stages.0.label>拂晓</Hediff_AE_Clock.stages.0.label>
-	<!-- EN: Noon -->
+    <!-- EN: Noon -->
     <Hediff_AE_Clock.stages.1.label>正午</Hediff_AE_Clock.stages.1.label>
-	<!-- EN: Dusk -->
+    <!-- EN: Dusk -->
     <Hediff_AE_Clock.stages.2.label>黄昏</Hediff_AE_Clock.stages.2.label>
-	<!-- EN: Midnight -->
+    <!-- EN: Midnight -->
     <Hediff_AE_Clock.stages.3.label>子夜</Hediff_AE_Clock.stages.3.label>
-	<!-- EN: Midnight -->
+    <!-- EN: Midnight -->
     <Hediff_AE_Clock.stages.4.label>子夜</Hediff_AE_Clock.stages.4.label>
 
     <!--#endregion-->

@@ -3,60 +3,60 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: install implant of forbidden knowledge -->
-	<InstallAEForbiddenFruitImplant.label>安裝禁忌知識植入體</InstallAEForbiddenFruitImplant.label>
+    <InstallAEForbiddenFruitImplant.label>安裝禁忌知識植入體</InstallAEForbiddenFruitImplant.label>
     <!-- EN: Install an implant of forbidden knowledge. -->
-	<InstallAEForbiddenFruitImplant.description>安裝一個禁忌知識植入體。</InstallAEForbiddenFruitImplant.description>
+    <InstallAEForbiddenFruitImplant.description>安裝一個禁忌知識植入體。</InstallAEForbiddenFruitImplant.description>
     <!-- EN: Installing implant of forbidden knowledge. -->
-	<InstallAEForbiddenFruitImplant.jobString>正在安裝禁忌知識植入體。</InstallAEForbiddenFruitImplant.jobString>
+    <InstallAEForbiddenFruitImplant.jobString>正在安裝禁忌知識植入體。</InstallAEForbiddenFruitImplant.jobString>
 
     <!-- EN: remove implant of forbidden knowledge -->
-	<RemoveAEForbiddenFruitImplant.label>移除禁忌知識植入體</RemoveAEForbiddenFruitImplant.label>
+    <RemoveAEForbiddenFruitImplant.label>移除禁忌知識植入體</RemoveAEForbiddenFruitImplant.label>
     <!-- EN: Remove implant of forbidden knowledge. -->
-	<RemoveAEForbiddenFruitImplant.description>移除禁忌知識植入體。</RemoveAEForbiddenFruitImplant.description>
+    <RemoveAEForbiddenFruitImplant.description>移除禁忌知識植入體。</RemoveAEForbiddenFruitImplant.description>
     <!-- EN: Removing implant of forbidden knowledge. -->
-	<RemoveAEForbiddenFruitImplant.jobString>正在移除禁忌知識植入體。</RemoveAEForbiddenFruitImplant.jobString>
+    <RemoveAEForbiddenFruitImplant.jobString>正在移除禁忌知識植入體。</RemoveAEForbiddenFruitImplant.jobString>
 
     <!-- EN: install grinder stomach -->
-	<InstallAEGrinderStomach.label>安裝絞磨胃</InstallAEGrinderStomach.label>
+    <InstallAEGrinderStomach.label>安裝絞磨胃</InstallAEGrinderStomach.label>
     <!-- EN: Install a grinder stomach. -->
-	<InstallAEGrinderStomach.description>安裝絞磨胃。</InstallAEGrinderStomach.description>
+    <InstallAEGrinderStomach.description>安裝絞磨胃。</InstallAEGrinderStomach.description>
     <!-- EN: Installing grinder stomach. -->
-	<InstallAEGrinderStomach.jobString>正在安裝絞磨胃。</InstallAEGrinderStomach.jobString>
-	
+    <InstallAEGrinderStomach.jobString>正在安裝絞磨胃。</InstallAEGrinderStomach.jobString>
+
     <!-- EN: Install grinder jaw -->
-	<InstallAEGrinderJaw.label>安裝絞磨下頜</InstallAEGrinderJaw.label>
+    <InstallAEGrinderJaw.label>安裝絞磨下頜</InstallAEGrinderJaw.label>
     <!-- EN: Install grinder jaw. -->
-	<InstallAEGrinderJaw.description>安裝絞磨下頜。</InstallAEGrinderJaw.description>
+    <InstallAEGrinderJaw.description>安裝絞磨下頜。</InstallAEGrinderJaw.description>
     <!-- EN: Installing grinder jaw. -->
-	<InstallAEGrinderJaw.jobString>正在安裝絞磨下頜</InstallAEGrinderJaw.jobString>
+    <InstallAEGrinderJaw.jobString>正在安裝絞磨下頜</InstallAEGrinderJaw.jobString>
 
     <!-- EN: install thermal-reflective skin gland -->
-	<InstallAEThermalReflectiveSkinImplant.label>安裝熱反射皮腺</InstallAEThermalReflectiveSkinImplant.label>
-	<!-- EN: Install a thermal-reflective skin gland. -->
+    <InstallAEThermalReflectiveSkinImplant.label>安裝熱反射皮腺</InstallAEThermalReflectiveSkinImplant.label>
+    <!-- EN: Install a thermal-reflective skin gland. -->
     <InstallAEThermalReflectiveSkinImplant.description>安裝熱反射皮腺。</InstallAEThermalReflectiveSkinImplant.description>
-	<!-- EN: Installing thermal-reflective skin gland. -->
+    <!-- EN: Installing thermal-reflective skin gland. -->
     <InstallAEThermalReflectiveSkinImplant.jobString>正在安裝熱反射皮腺。</InstallAEThermalReflectiveSkinImplant.jobString>
-	
+
     <!-- EN: remove thermal-reflective skin gland -->
-	<RemoveAEThermalReflectiveSkinImplant.label>移除熱反射皮腺</RemoveAEThermalReflectiveSkinImplant.label>
-	<!-- EN: Remove thermal-reflective skin gland. -->
+    <RemoveAEThermalReflectiveSkinImplant.label>移除熱反射皮腺</RemoveAEThermalReflectiveSkinImplant.label>
+    <!-- EN: Remove thermal-reflective skin gland. -->
     <RemoveAEThermalReflectiveSkinImplant.description>移除熱反射皮腺。</RemoveAEThermalReflectiveSkinImplant.description>
-	<!-- EN: Removing thermal-reflective skin gland. -->
+    <!-- EN: Removing thermal-reflective skin gland. -->
     <RemoveAEThermalReflectiveSkinImplant.jobString>正在移除熱反射皮腺。</RemoveAEThermalReflectiveSkinImplant.jobString>
-	
+
     <!-- EN: install snow core implant -->
-	<InstallAESnowCoreImplant.label>安裝冰雪核心植入物</InstallAESnowCoreImplant.label>
+    <InstallAESnowCoreImplant.label>安裝冰雪核心植入物</InstallAESnowCoreImplant.label>
     <!-- EN: Install a snow core implant. -->
-	<InstallAESnowCoreImplant.description>安裝冰雪核心植入物。</InstallAESnowCoreImplant.description>
+    <InstallAESnowCoreImplant.description>安裝冰雪核心植入物。</InstallAESnowCoreImplant.description>
     <!-- EN: Installing snow core implant. -->
-	<InstallAESnowCoreImplant.jobString>正在安裝冰雪核心植入物。</InstallAESnowCoreImplant.jobString>
+    <InstallAESnowCoreImplant.jobString>正在安裝冰雪核心植入物。</InstallAESnowCoreImplant.jobString>
 
     <!-- EN: remove snow core implant -->
-	<RemoveAESnowCoreImplant.label>移除冰雪核心植入物</RemoveAESnowCoreImplant.label>
+    <RemoveAESnowCoreImplant.label>移除冰雪核心植入物</RemoveAESnowCoreImplant.label>
     <!-- EN: Remove snow core implant. -->
-	<RemoveAESnowCoreImplant.description>移除冰雪核心植入物。</RemoveAESnowCoreImplant.description>
+    <RemoveAESnowCoreImplant.description>移除冰雪核心植入物。</RemoveAESnowCoreImplant.description>
     <!-- EN: Removing snow core implant. -->
-	<RemoveAESnowCoreImplant.jobString>正在移除冰雪核心植入物。</RemoveAESnowCoreImplant.jobString>
+    <RemoveAESnowCoreImplant.jobString>正在移除冰雪核心植入物。</RemoveAESnowCoreImplant.jobString>
 
     <!--#endregion-->
 

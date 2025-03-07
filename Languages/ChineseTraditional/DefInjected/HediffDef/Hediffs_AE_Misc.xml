@@ -3,77 +3,77 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: fatigue -->
-	<Hediff_AEFatigue.label>疲勞</Hediff_AEFatigue.label>
+    <Hediff_AEFatigue.label>疲勞</Hediff_AEFatigue.label>
     <!-- EN: The body feels heavy and requires additional rest. -->
-	<Hediff_AEFatigue.description>身體昏沉，需要額外的休息</Hediff_AEFatigue.description>
+    <Hediff_AEFatigue.description>身體昏沉，需要額外的休息</Hediff_AEFatigue.description>
 
     <!-- EN: fruit's effects -->
     <Hediff_AEForbiddenFruit.label>禁果效應</Hediff_AEForbiddenFruit.label>
     <!-- EN: The effects the fruit had on the body.\nIt appears to have made the host's thoughts sharper, making it more wise. -->
-	<Hediff_AEForbiddenFruit.description>果實對身體產生影響。\n它似乎讓宿主的思想更加敏銳，令其更加睿智。</Hediff_AEForbiddenFruit.description>
+    <Hediff_AEForbiddenFruit.description>果實對身體產生影響。\n它似乎讓宿主的思想更加敏銳，令其更加睿智。</Hediff_AEForbiddenFruit.description>
     <!-- EN: Seeking -->
-	<Hediff_AEForbiddenFruit.stages.0.label>尋索</Hediff_AEForbiddenFruit.stages.0.label>
+    <Hediff_AEForbiddenFruit.stages.0.label>尋索</Hediff_AEForbiddenFruit.stages.0.label>
     <!-- EN: Awareness -->
-	<Hediff_AEForbiddenFruit.stages.1.label>覺知</Hediff_AEForbiddenFruit.stages.1.label>
+    <Hediff_AEForbiddenFruit.stages.1.label>覺知</Hediff_AEForbiddenFruit.stages.1.label>
     <!-- EN: Enlightenment -->
-	<Hediff_AEForbiddenFruit.stages.2.label>啓悟</Hediff_AEForbiddenFruit.stages.2.label>
+    <Hediff_AEForbiddenFruit.stages.2.label>啓悟</Hediff_AEForbiddenFruit.stages.2.label>
     <!-- EN: Transcendence -->
-	<Hediff_AEForbiddenFruit.stages.3.label>超脫</Hediff_AEForbiddenFruit.stages.3.label>
+    <Hediff_AEForbiddenFruit.stages.3.label>超脫</Hediff_AEForbiddenFruit.stages.3.label>
     <!-- EN: Retribution -->
-	<Hediff_AEForbiddenFruit.stages.4.label>懲罰</Hediff_AEForbiddenFruit.stages.4.label>
+    <Hediff_AEForbiddenFruit.stages.4.label>懲罰</Hediff_AEForbiddenFruit.stages.4.label>
     <!-- EN: Wrath -->
-	<Hediff_AEForbiddenFruit.stages.5.label>憤怒</Hediff_AEForbiddenFruit.stages.5.label>
+    <Hediff_AEForbiddenFruit.stages.5.label>憤怒</Hediff_AEForbiddenFruit.stages.5.label>
 
     <!-- EN: fruit's effects inhibitor -->
-	<Hediff_AEForbiddenFruitWithdrawal.label>禁果影響抑制</Hediff_AEForbiddenFruitWithdrawal.label>
+    <Hediff_AEForbiddenFruitWithdrawal.label>禁果影響抑制</Hediff_AEForbiddenFruitWithdrawal.label>
     <!-- EN: Withdrawal of the effects the fruit had on the body.\nIt appears to decrease the host's experience of outwordly pressure. -->
-	<Hediff_AEForbiddenFruitWithdrawal.description>減輕禁果對身體的影響。\n這似乎會減弱宿主對超凡壓力的感受。</Hediff_AEForbiddenFruitWithdrawal.description>
+    <Hediff_AEForbiddenFruitWithdrawal.description>減輕禁果對身體的影響。\n這似乎會減弱宿主對超凡壓力的感受。</Hediff_AEForbiddenFruitWithdrawal.description>
     <!-- EN: Forgiveness -->
-	<Hediff_AEForbiddenFruitWithdrawal.stages.0.label>寬恕</Hediff_AEForbiddenFruitWithdrawal.stages.0.label>
+    <Hediff_AEForbiddenFruitWithdrawal.stages.0.label>寬恕</Hediff_AEForbiddenFruitWithdrawal.stages.0.label>
     <!-- EN: Repentance -->
-	<Hediff_AEForbiddenFruitWithdrawal.stages.1.label>懺悔</Hediff_AEForbiddenFruitWithdrawal.stages.1.label>
+    <Hediff_AEForbiddenFruitWithdrawal.stages.1.label>懺悔</Hediff_AEForbiddenFruitWithdrawal.stages.1.label>
 
     <!-- EN: digesting pie -->
-	<Hediff_AEDigestingPie.label>正在消化派</Hediff_AEDigestingPie.label>
+    <Hediff_AEDigestingPie.label>正在消化派</Hediff_AEDigestingPie.label>
     <!-- EN: Feeling heavy in the stomach. -->
-	<Hediff_AEDigestingPie.description>感覺胃部沉重。</Hediff_AEDigestingPie.description>
+    <Hediff_AEDigestingPie.description>感覺胃部沉重。</Hediff_AEDigestingPie.description>
 
     <!-- EN: dog tag -->
-	<Hediff_AEDogTag.label>狗牌</Hediff_AEDogTag.label>
+    <Hediff_AEDogTag.label>狗牌</Hediff_AEDogTag.label>
     <!-- EN: I can psychically feel the imprint of the person who once owned it. -->
-	<Hediff_AEDogTag.description>我能從心理上感受到它曾經主人的痕跡。</Hediff_AEDogTag.description>
+    <Hediff_AEDogTag.description>我能從心理上感受到它曾經主人的痕跡。</Hediff_AEDogTag.description>
 
     <!-- EN: blood-like liquid concentration -->
-	<Hediff_AEBloodLiquidConcentration.label>血樣液體濃度</Hediff_AEBloodLiquidConcentration.label>
+    <Hediff_AEBloodLiquidConcentration.label>血樣液體濃度</Hediff_AEBloodLiquidConcentration.label>
     <!-- EN: A blood-like liquid is introduced into the body. At high concentration it might mutate flesh into something hostile. The body will eventually filter out the substance. -->
-	<Hediff_AEBloodLiquidConcentration.description>血樣液體進入此人體內。高濃度時可能會使肉體變異，變成某種有敵意的東西。不過人體最終會過濾掉這種物質。</Hediff_AEBloodLiquidConcentration.description>
+    <Hediff_AEBloodLiquidConcentration.description>血樣液體進入此人體內。高濃度時可能會使肉體變異，變成某種有敵意的東西。不過人體最終會過濾掉這種物質。</Hediff_AEBloodLiquidConcentration.description>
     <!-- EN: minor -->
-	<Hediff_AEBloodLiquidConcentration.stages.minor-0.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-0.label>
+    <Hediff_AEBloodLiquidConcentration.stages.minor-0.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-0.label>
     <!-- EN: minor -->
-	<Hediff_AEBloodLiquidConcentration.stages.minor-1.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-1.label>
+    <Hediff_AEBloodLiquidConcentration.stages.minor-1.label>輕微</Hediff_AEBloodLiquidConcentration.stages.minor-1.label>
     <!-- EN: moderate -->
-	<Hediff_AEBloodLiquidConcentration.stages.moderate.label>中等</Hediff_AEBloodLiquidConcentration.stages.moderate.label>
+    <Hediff_AEBloodLiquidConcentration.stages.moderate.label>中等</Hediff_AEBloodLiquidConcentration.stages.moderate.label>
     <!-- EN: severe -->
-	<Hediff_AEBloodLiquidConcentration.stages.severe.label>嚴重</Hediff_AEBloodLiquidConcentration.stages.severe.label>
+    <Hediff_AEBloodLiquidConcentration.stages.severe.label>嚴重</Hediff_AEBloodLiquidConcentration.stages.severe.label>
     <!-- EN: extreme -->
-	<Hediff_AEBloodLiquidConcentration.stages.extreme.label>極重</Hediff_AEBloodLiquidConcentration.stages.extreme.label>
+    <Hediff_AEBloodLiquidConcentration.stages.extreme.label>極重</Hediff_AEBloodLiquidConcentration.stages.extreme.label>
 
     <!-- EN: destabilization mutation -->
-	<Hediff_AEDestabilization.label>不穩定突變</Hediff_AEDestabilization.label>
+    <Hediff_AEDestabilization.label>不穩定突變</Hediff_AEDestabilization.label>
     <!-- EN: Destabilization of biological structure to amplify creature physical performance. The creature's life expectancy will be drastically reduced due to the mutation. -->
-	<Hediff_AEDestabilization.description>使生理機能失衡從而增強生物的體能。生物的預期壽命會因突變而大幅縮短。</Hediff_AEDestabilization.description>
+    <Hediff_AEDestabilization.description>使生理機能失衡從而增強生物的體能。生物的預期壽命會因突變而大幅縮短。</Hediff_AEDestabilization.description>
 
     <!-- EN: freezing core -->
-	<Hediff_AESnowArmy.label>凍結核心</Hediff_AESnowArmy.label>
+    <Hediff_AESnowArmy.label>凍結核心</Hediff_AESnowArmy.label>
     <!-- EN: Regeneration speed increases proportionally to the decrease in ambient temperature. When exposed to fire, its surface becomes significantly more susceptible to damage.\n\nReceivied damage x2, when on fire. -->
-	<Hediff_AESnowArmy.description>再生速度與環境溫度的降低成正比。當暴露在火中時，其表面更容易受損。\n\n着火時受到雙倍傷害。</Hediff_AESnowArmy.description>
+    <Hediff_AESnowArmy.description>再生速度與環境溫度的降低成正比。當暴露在火中時，其表面更容易受損。\n\n着火時受到雙倍傷害。</Hediff_AESnowArmy.description>
 
     <!-- EN: deflective ice -->
-	<AE_IceThinBody.label>偏轉冰片</AE_IceThinBody.label>
+    <AE_IceThinBody.label>偏轉冰片</AE_IceThinBody.label>
     <!-- EN: This thin ice shard structure enhances incoming attack deflection. It reduces received frontal and rear damage, but increases damage from the sides. -->
-	<AE_IceThinBody.description>這種薄冰結構可增強攻擊偏轉。它能減少正面和背面受到的傷害，但會增加來自側面的傷害。</AE_IceThinBody.description>
+    <AE_IceThinBody.description>這種薄冰結構可增強攻擊偏轉。它能減少正面和背面受到的傷害，但會增加來自側面的傷害。</AE_IceThinBody.description>
     <!-- EN: a deflective ice -->
-	<AE_IceThinBody.labelNoun>偏轉冰片</AE_IceThinBody.labelNoun>
+    <AE_IceThinBody.labelNoun>偏轉冰片</AE_IceThinBody.labelNoun>
 
     <!--#endregion-->
 </LanguageData>

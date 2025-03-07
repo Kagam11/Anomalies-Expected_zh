@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!--#region Anomalies Expected Addon-->
+    <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Subroutine -->
-	<AE_Subroutine.label>子程序</AE_Subroutine.label>
+    <AE_Subroutine.label>子程序</AE_Subroutine.label>
     <!-- EN: A levitating structure of archotech origin, displaced from it's former spot in the void dimension. \nIt seems to be powered by the pearl-like object inside of it. We might make the structure go down if we severely damage it -->
-	<AE_Subroutine.description>一个从虚空维度撕下的具有超凡科技起源的悬浮结构。\n它似乎是由内部一个类似珍珠的物体提供动力的。如果我们严重损坏它，可能会使其降下。</AE_Subroutine.description>
-	
+    <AE_Subroutine.description>一个从虚空维度撕下的具有超凡科技起源的悬浮结构。\n它似乎是由内部一个类似珍珠的物体提供动力的。如果我们严重损坏它，可能会使其降下。</AE_Subroutine.description>
+
     <!-- EN: Subroutine shield -->
-	<AE_SubroutineStructureSpawner.label>子程序护盾</AE_SubroutineStructureSpawner.label>
+    <AE_SubroutineStructureSpawner.label>子程序护盾</AE_SubroutineStructureSpawner.label>
     <!-- EN: - -->
-	<AE_SubroutineStructureSpawner.description>-</AE_SubroutineStructureSpawner.description>
-	
+    <AE_SubroutineStructureSpawner.description>-</AE_SubroutineStructureSpawner.description>
+
     <!-- EN: Subroutine shield -->
-	<AE_SubroutineStructure.label>子程序护盾</AE_SubroutineStructure.label>
+    <AE_SubroutineStructure.label>子程序护盾</AE_SubroutineStructure.label>
     <!-- EN: A metallic structure created by the subroutine, seemingly made to protect it -->
-	<AE_SubroutineStructure.description>由子程序创造的一种金属结构，似乎是为了保护自身而创造。</AE_SubroutineStructure.description>
-	
-	<!-- EN: Damaged Subroutine -->
-	<AE_SubroutineDestroyed.label>损坏的子程序</AE_SubroutineDestroyed.label>
-    <!-- EN: A powerful structure of archotech origin, now damaged to the point it can no longer levitate. \nThe spherical core seems to be slightly damaged, although it still holds valuable information -->
-	<AE_SubroutineDestroyed.description>一个强大的超凡科技结构，现在被破坏以致其无法漂浮。\n其球状核心似乎部分损坏，然而其仍然具有宝贵研究价值。</AE_SubroutineDestroyed.description>
+    <AE_SubroutineStructure.description>由子程序创造的一种金属结构，似乎是为了保护自身而创造。</AE_SubroutineStructure.description>
 
     <!-- EN: Damaged Subroutine -->
-	<AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>损坏的子程序</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <AE_SubroutineDestroyed.label>损坏的子程序</AE_SubroutineDestroyed.label>
     <!-- EN: A powerful structure of archotech origin, now damaged to the point it can no longer levitate. \nThe spherical core seems to be slightly damaged, although it still holds valuable information -->
-	<AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个强大的超凡科技结构，现在被破坏以致其无法漂浮。\n其球状核心似乎部分损坏，然而其仍然具有宝贵研究价值。</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_SubroutineDestroyed.description>一个强大的超凡科技结构，现在被破坏以致其无法漂浮。\n其球状核心似乎部分损坏，然而其仍然具有宝贵研究价值。</AE_SubroutineDestroyed.description>
+
+    <!-- EN: Damaged Subroutine -->
+    <AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>损坏的子程序</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <!-- EN: A powerful structure of archotech origin, now damaged to the point it can no longer levitate. \nThe spherical core seems to be slightly damaged, although it still holds valuable information -->
+    <AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>一个强大的超凡科技结构，现在被破坏以致其无法漂浮。\n其球状核心似乎部分损坏，然而其仍然具有宝贵研究价值。</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: Damaged Subroutine Study report -->
-	<AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.label>损坏的子程序研究报告</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.label>损坏的子程序研究报告</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!--
         EN: Subroutine core properties\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThis report details observations from Subject {PAWN_nameDef} regarding the properties of the Subroutine structure. The entire object is powered by it's core, which resembles the other shards in structure, but clearly distinct from them. It is also way more powerful, as it allows use of the advanced abilities such as matter relocation, structural regeneration and other. It still requires a medium, and for that it used the pearl-like shell, which not only allows it to work properly, but also to effectively use it's energy and distribute it through the structure. Because the shell is now severely damaged the shard could no longer power the structure and it fell. However the core was left undamaged, which means that if we put it into a medium like the shell, it would reactivate again.\n\nObservations:\nThe object was powered by a core similar in structure to the shards.\nIt also allows teleportation of matter and regeneration of any structure.\nThe shard requires a medium to function.\n\nFindings:\nThe structure houses an incredibly powerful core.\n\nDiscussion:\nThe core is extremely powerful, but reactivating it would still make it hostile. If we circumvent that problem somehow, it would allow us to use all of the shard's abilities.\n\nRecommendations:\nExtract the core and find a way to make it useful to us.
     -->
-	<AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.text>子程序核心的属性\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于子程序结构的观察结果。整个结构由其核心提供动力。核心的性质类似于结构中的其他碎片，但外形上与它们不同。该核心也远比其他碎片强大，因为它具有诸如物质重定位、结构再生等高级能力。该核心需要一个媒介，为此它使用了类似珍珠的外壳，这不仅使其能够正常工作，而且还能有效地使用其能量并分散至结构各处。由于外壳现在严重受损，碎片再也无法为结构提供动力，从而导致结构倒塌。然而，核心并未受损，这意味着如果我们将其放入类似外壳的媒介中，它将再次激活。\n\n现象：\n结构由类似碎片的核心供给能量。\n核心也为结构提供物质传送及结构再生功能。\n核心需要媒介才能工作。\n\n发现：\n结构内含一个极其强大的核心。\n\n讨论：\n虽然核心极其强大，但重新激活它仍然会使它变得敌对。如果我们以某种方式绕过这个问题，就能利用碎片的这些特性。\n\n建议：\n提取核心，想办法将其为我们所用。</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.text>
-	
-	<!-- EN: Subroutine core -->
+    <AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.text>子程序核心的属性\n\n对象：{PAWN_nameDef}\n\n摘要：\n本报告详细记录了对象{PAWN_nameDef}关于子程序结构的观察结果。整个结构由其核心提供动力。核心的性质类似于结构中的其他碎片，但外形上与它们不同。该核心也远比其他碎片强大，因为它具有诸如物质重定位、结构再生等高级能力。该核心需要一个媒介，为此它使用了类似珍珠的外壳，这不仅使其能够正常工作，而且还能有效地使用其能量并分散至结构各处。由于外壳现在严重受损，碎片再也无法为结构提供动力，从而导致结构倒塌。然而，核心并未受损，这意味着如果我们将其放入类似外壳的媒介中，它将再次激活。\n\n现象：\n结构由类似碎片的核心供给能量。\n核心也为结构提供物质传送及结构再生功能。\n核心需要媒介才能工作。\n\n发现：\n结构内含一个极其强大的核心。\n\n讨论：\n虽然核心极其强大，但重新激活它仍然会使它变得敌对。如果我们以某种方式绕过这个问题，就能利用碎片的这些特性。\n\n建议：\n提取核心，想办法将其为我们所用。</AE_SubroutineDestroyed.comps.CompAEStudyUnlocks.studyNotes.0.text>
+
+    <!-- EN: Subroutine core -->
     <AE_SubroutineShard.label>子程序核心</AE_SubroutineShard.label>
     <!--
         EN: A fragment of dark archotechnology gained after the destruction of subroutine. This shard alone has powered the entire structure and houses way more power than it's alternatives. It seems like it can also manipulate matter around it, as we have seen it form other structures around itself. \nConsidering it has an almost direct link to a dark archotech, it might allow us to become closer to that enigmatic being
     -->
-	<AE_SubroutineShard.description>在子程序被摧毁后获得的一个暗黑超凡碎片。这个碎片本身为整个结构提供了动力，并与其他碎片相比具有更多的能量。考虑到它围绕自身构造了其他结构，似乎它还能够操纵它周围的物质。\n考虑到它与一个暗黑超凡智能有几乎直接的联系，我们可能可以通过这个核心更接近那个神秘的存在。</AE_SubroutineShard.description>
+    <AE_SubroutineShard.description>在子程序被摧毁后获得的一个暗黑超凡碎片。这个碎片本身为整个结构提供了动力，并与其他碎片相比具有更多的能量。考虑到它围绕自身构造了其他结构，似乎它还能够操纵它周围的物质。\n考虑到它与一个暗黑超凡智能有几乎直接的联系，我们可能可以通过这个核心更接近那个神秘的存在。</AE_SubroutineShard.description>
 
     <!--#endregion-->
 </LanguageData>

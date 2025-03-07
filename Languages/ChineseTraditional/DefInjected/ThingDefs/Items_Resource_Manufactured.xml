@@ -3,92 +3,92 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: sleep enhancer serum -->
-	<AESleepEnhancerSerum.label>睡眠增強血清</AESleepEnhancerSerum.label>
+    <AESleepEnhancerSerum.label>睡眠增強血清</AESleepEnhancerSerum.label>
     <!-- EN: A syringe of clear, viscous fluid. Injected near the brainstem, it affect stressed part of the brain and distribute the load among neurons, making rest via sleep more time efficient.\n\nThe effect is temporary and does not stack.\n\nFrom 16/8 to 20/4 sleep shedule. -->
-	<AESleepEnhancerSerum.description>裝有透明粘稠液體的注射針劑。在腦幹附近注射後，它能影響大腦受壓的部分，分散神經元的負擔，使睡眠休息更有效率。\n\n這種影響是暫時的且不能疊加。\n\n能將8小時的睡眠需求減少到4小時。</AESleepEnhancerSerum.description>
-	<!-- EN: Use {0_label} -->
+    <AESleepEnhancerSerum.description>裝有透明粘稠液體的注射針劑。在腦幹附近注射後，它能影響大腦受壓的部分，分散神經元的負擔，使睡眠休息更有效率。\n\n這種影響是暫時的且不能疊加。\n\n能將8小時的睡眠需求減少到4小時。</AESleepEnhancerSerum.description>
+    <!-- EN: Use {0_label} -->
     <AESleepEnhancerSerum.comps.CompUsable.useLabel>使用 {0_label}</AESleepEnhancerSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AESleepEnhancerSerum.ingestible.ingestCommandString>注射 {0}</AESleepEnhancerSerum.ingestible.ingestCommandString>
+    <AESleepEnhancerSerum.ingestible.ingestCommandString>注射 {0}</AESleepEnhancerSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AESleepEnhancerSerum.ingestible.ingestReportString>正在注射 {0}。</AESleepEnhancerSerum.ingestible.ingestReportString>
-	
-	<AERegenSerum.label>再生血清</AERegenSerum.label>
-	<AERegenSerum.description>裝有深紅色的粘稠液體的注射針劑。注入血液後，它會影響受損組織並增加癒合係數。\n\n這種影響是暫時的且不能疊加。</AERegenSerum.description>
+    <AESleepEnhancerSerum.ingestible.ingestReportString>正在注射 {0}。</AESleepEnhancerSerum.ingestible.ingestReportString>
+
+    <AERegenSerum.label>再生血清</AERegenSerum.label>
+    <AERegenSerum.description>裝有深紅色的粘稠液體的注射針劑。注入血液後，它會影響受損組織並增加癒合係數。\n\n這種影響是暫時的且不能疊加。</AERegenSerum.description>
     <!-- EN: Use {0_label} -->
-	<AERegenSerum.comps.CompUsable.useLabel>使用 {0_label}</AERegenSerum.comps.CompUsable.useLabel>
+    <AERegenSerum.comps.CompUsable.useLabel>使用 {0_label}</AERegenSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AERegenSerum.ingestible.ingestCommandString>注射 {0}</AERegenSerum.ingestible.ingestCommandString>
+    <AERegenSerum.ingestible.ingestCommandString>注射 {0}</AERegenSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AERegenSerum.ingestible.ingestReportString>正在注射 {0}。</AERegenSerum.ingestible.ingestReportString>
-    
+    <AERegenSerum.ingestible.ingestReportString>正在注射 {0}。</AERegenSerum.ingestible.ingestReportString>
+
     <!-- EN: giant apple inhibitor serum -->
     <AEFruitInhibitorSerum.label>禁果抑制血清</AEFruitInhibitorSerum.label>
     <!-- EN: A syringe filled with purple fluid. Injected in bloodstream, it removes the effect given by the Giant Apple.\n\nThe effect is not instant. -->
-	<AEFruitInhibitorSerum.description>裝有紫色液體的注射針劑。注入血液後，它能消除巨大蘋果帶來的影響。\n\n這種影響不會立即起效。</AEFruitInhibitorSerum.description>
+    <AEFruitInhibitorSerum.description>裝有紫色液體的注射針劑。注入血液後，它能消除巨大蘋果帶來的影響。\n\n這種影響不會立即起效。</AEFruitInhibitorSerum.description>
     <!-- EN: Use {0_label} -->
-	<AEFruitInhibitorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEFruitInhibitorSerum.comps.CompUsable.useLabel>
+    <AEFruitInhibitorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEFruitInhibitorSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AEFruitInhibitorSerum.ingestible.ingestCommandString>注射 {0}</AEFruitInhibitorSerum.ingestible.ingestCommandString>
+    <AEFruitInhibitorSerum.ingestible.ingestCommandString>注射 {0}</AEFruitInhibitorSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AEFruitInhibitorSerum.ingestible.ingestReportString>正在注射 {0}。</AEFruitInhibitorSerum.ingestible.ingestReportString>
+    <AEFruitInhibitorSerum.ingestible.ingestReportString>正在注射 {0}。</AEFruitInhibitorSerum.ingestible.ingestReportString>
 
     <!-- EN: binging food serum -->
-	<AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
+    <AEBingingFoodSerum.label>暴食血清</AEBingingFoodSerum.label>
     <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it stimulates the digestive system and makes person feel really hungry for a good meal. Additionally reduces Big Pie effect.\n\nThe effect is temporary and does not stack. -->
-	<AEBingingFoodSerum.description>裝有綠色粘稠液體的注射針劑。注入食道後能刺激消化系統，讓人真正感到飢餓，想吃一頓好的。可以抵消食用巨大的派的效果。\n\n這種影響是暫時的且不能疊加。</AEBingingFoodSerum.description>
+    <AEBingingFoodSerum.description>裝有綠色粘稠液體的注射針劑。注入食道後能刺激消化系統，讓人真正感到飢餓，想吃一頓好的。可以抵消食用巨大的派的效果。\n\n這種影響是暫時的且不能疊加。</AEBingingFoodSerum.description>
     <!-- EN: Use {0_label} -->
     <AEBingingFoodSerum.comps.CompUsable.useLabel>使用 {0_label}</AEBingingFoodSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AEBingingFoodSerum.ingestible.ingestCommandString>注射 {0}</AEBingingFoodSerum.ingestible.ingestCommandString>
+    <AEBingingFoodSerum.ingestible.ingestCommandString>注射 {0}</AEBingingFoodSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AEBingingFoodSerum.ingestible.ingestReportString>正在注射 {0}。</AEBingingFoodSerum.ingestible.ingestReportString>
+    <AEBingingFoodSerum.ingestible.ingestReportString>正在注射 {0}。</AEBingingFoodSerum.ingestible.ingestReportString>
 
     <!-- EN: hunger suppressor serum -->
     <AEHungerSuppressorSerum.label>飢餓抑制血清</AEHungerSuppressorSerum.label>
     <!-- EN: A syringe of green, viscous fluid. Injected in esophagus, it contains nutrients and changes metabolism to increase efficiency of digestive system and stimulate body to use it nutrient reserves for the time being.\n\nThe effect is temporary and does not stack. After effect it will take time to restore metabolism to normal state.\n\nActive effect lasts 1 day. Increase time x2 till malnourished. -->
-	<AEHungerSuppressorSerum.description>裝有綠色粘稠液體的注射針劑，含有營養物質並能改變新陳代謝。注入食道後能夠提高消化系統的效率，並刺激身體暫時使用其營養儲備。</AEHungerSuppressorSerum.description>
+    <AEHungerSuppressorSerum.description>裝有綠色粘稠液體的注射針劑，含有營養物質並能改變新陳代謝。注入食道後能夠提高消化系統的效率，並刺激身體暫時使用其營養儲備。</AEHungerSuppressorSerum.description>
     <!-- EN: Use {0_label} -->
-	<AEHungerSuppressorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEHungerSuppressorSerum.comps.CompUsable.useLabel>
+    <AEHungerSuppressorSerum.comps.CompUsable.useLabel>使用 {0_label}</AEHungerSuppressorSerum.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AEHungerSuppressorSerum.ingestible.ingestCommandString>注射 {0}</AEHungerSuppressorSerum.ingestible.ingestCommandString>
+    <AEHungerSuppressorSerum.ingestible.ingestCommandString>注射 {0}</AEHungerSuppressorSerum.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AEHungerSuppressorSerum.ingestible.ingestReportString>正在注射 {0}。</AEHungerSuppressorSerum.ingestible.ingestReportString>
+    <AEHungerSuppressorSerum.ingestible.ingestReportString>正在注射 {0}。</AEHungerSuppressorSerum.ingestible.ingestReportString>
 
     <!-- EN: Mote -->
-	<Mote_AEBloodLiquidInjector.label>萌芽</Mote_AEBloodLiquidInjector.label>
+    <Mote_AEBloodLiquidInjector.label>萌芽</Mote_AEBloodLiquidInjector.label>
     <!-- EN: blood-like liquid injector -->
-	<AE_BloodLiquidInjector.label>血樣液體注射器</AE_BloodLiquidInjector.label>
+    <AE_BloodLiquidInjector.label>血樣液體注射器</AE_BloodLiquidInjector.label>
     <!-- EN: A one-use dose of blood-like liquid. This liquid, when administered, transmute to replace some of lost blood and increases its density around major wounds to prevent further blood loss. It prioritizes the 5 most severe injuries, focusing on those with the highest bleeding rates. Precise dosing is crucial to avoid excessive blood-liquid levels in the bloodstream. -->
-	<AE_BloodLiquidInjector.description>一次性使用的血樣液體。注入後該液體能轉化爲血液，補充部分失血，並增加主要傷口周圍的血液密度，防止進一步失血。它根據出血率優先處理5處最嚴重的傷口。精確的劑量對於避免血液中血樣液體濃度過高至關重要。</AE_BloodLiquidInjector.description>
+    <AE_BloodLiquidInjector.description>一次性使用的血樣液體。注入後該液體能轉化爲血液，補充部分失血，並增加主要傷口周圍的血液密度，防止進一步失血。它根據出血率優先處理5處最嚴重的傷口。精確的劑量對於避免血液中血樣液體濃度過高至關重要。</AE_BloodLiquidInjector.description>
     <!-- EN: Inject self -->
-	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>自我注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>
+    <AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>自我注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useLabel>
     <!-- EN: Inject someone else -->
-	<AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>幫別人注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>
+    <AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>幫別人注射</AE_BloodLiquidInjector.comps.CompApplyUsableTo.useToLabel>
     <!-- EN: Inject self with {0} -->
-	<AE_BloodLiquidInjector.ingestible.ingestCommandString>正在自我注射{0}</AE_BloodLiquidInjector.ingestible.ingestCommandString>
+    <AE_BloodLiquidInjector.ingestible.ingestCommandString>正在自我注射{0}</AE_BloodLiquidInjector.ingestible.ingestCommandString>
     <!-- EN: Injecting {0}. -->
-	<AE_BloodLiquidInjector.ingestible.ingestReportString>正在注射{0}。</AE_BloodLiquidInjector.ingestible.ingestReportString>
+    <AE_BloodLiquidInjector.ingestible.ingestReportString>正在注射{0}。</AE_BloodLiquidInjector.ingestible.ingestReportString>
 
     <!-- EN: fleshmass cyst -->
-	<AE_FleshmassCyst.label>血肉囊腫</AE_FleshmassCyst.label>
+    <AE_FleshmassCyst.label>血肉囊腫</AE_FleshmassCyst.label>
     <!-- EN: A parasitic, pulsating small mass of flesh, capable of rapid growth and transformation. Capable of embedding itself within a host and drawing sustenance from their body. -->
-	<AE_FleshmassCyst.description>一團寄生、跳動着的肉團。能夠快速生長和變化。能夠嵌入宿主體內，並從宿主體內汲取養分。</AE_FleshmassCyst.description>
+    <AE_FleshmassCyst.description>一團寄生、跳動着的肉團。能夠快速生長和變化。能夠嵌入宿主體內，並從宿主體內汲取養分。</AE_FleshmassCyst.description>
 
     <!-- EN: fleshmass tumor -->
-	<AE_FleshmassTumor.label>血肉腫瘤</AE_FleshmassTumor.label>
+    <AE_FleshmassTumor.label>血肉腫瘤</AE_FleshmassTumor.label>
     <!-- EN: A living, pulsating mass of flesh with it own will, capable of rapid growth and transformation. Capable of embedding itself within a host and drawing sustenance from their body. -->
-	<AE_FleshmassTumor.description>一團有生命的、跳動的肉團，有自己的意志，能夠快速生長和變化。能夠嵌入宿主體內，並從宿主體內汲取養分。</AE_FleshmassTumor.description>
+    <AE_FleshmassTumor.description>一團有生命的、跳動的肉團，有自己的意志，能夠快速生長和變化。能夠嵌入宿主體內，並從宿主體內汲取養分。</AE_FleshmassTumor.description>
 
     <!-- EN: ice crystal -->
-	<AE_IceCrystal.label>冰晶</AE_IceCrystal.label>
+    <AE_IceCrystal.label>冰晶</AE_IceCrystal.label>
     <!-- EN: An exotic crystal, visually indistinguishable from ice, remains cold and solid regardless of external temperature. Can be extracted from related anomalies. Its dust can drastically lower temperature of surrounding air. -->
-	<AE_IceCrystal.description>一種奇特的晶體，在視覺上與冰無異，無論外界溫度如何，都能保持冰冷和堅固。可以從相關的異常中提取。它的碎屑能大幅降低周圍空氣的溫度。</AE_IceCrystal.description>
+    <AE_IceCrystal.description>一種奇特的晶體，在視覺上與冰無異，無論外界溫度如何，都能保持冰冷和堅固。可以從相關的異常中提取。它的碎屑能大幅降低周圍空氣的溫度。</AE_IceCrystal.description>
 
     <!-- EN: destabilized ice crystal -->
-	<AE_IceCrystalDestabilized.label>失穩冰晶</AE_IceCrystalDestabilized.label>
+    <AE_IceCrystalDestabilized.label>失穩冰晶</AE_IceCrystalDestabilized.label>
     <!-- EN: A fusion of exotic ice crystal with bioferrite destabilizes the crystal's molecular structure, resulting in contradictory properties. Burning of this mixture releases a significant amount of energy. Its dust can drastically lower temperature of surrounding air. -->
-	<AE_IceCrystalDestabilized.description>冰晶與活鐵的融合會破壞晶體分子結構的穩定性，從而產生相互矛盾的特性。燃燒這種混合物會釋放大量能量。它的碎屑能大幅降低周圍空氣的溫度。</AE_IceCrystalDestabilized.description>
+    <AE_IceCrystalDestabilized.description>冰晶與活鐵的融合會破壞晶體分子結構的穩定性，從而產生相互矛盾的特性。燃燒這種混合物會釋放大量能量。它的碎屑能大幅降低周圍空氣的溫度。</AE_IceCrystalDestabilized.description>
 
     <!--#endregion-->
 
@@ -98,13 +98,13 @@
     <!-- EN: Resource pills -->
     <AEResourcePills.label>組織膠囊</AEResourcePills.label>
     <!-- EN: Pills which provide a surplus of various bodily resources, allowing to surpass the effects caused by the razor shard -->
-	<AEResourcePills.description>過量提供各種身體組織盈餘的膠囊，可以抵擋刀鋒碎片所帶來的影響</AEResourcePills.description>
+    <AEResourcePills.description>過量提供各種身體組織盈餘的膠囊，可以抵擋刀鋒碎片所帶來的影響</AEResourcePills.description>
     <!-- EN: Use {0_label} -->
-	<AEResourcePills.comps.CompUsable.useLabel>使用 {0_label}</AEResourcePills.comps.CompUsable.useLabel>
+    <AEResourcePills.comps.CompUsable.useLabel>使用 {0_label}</AEResourcePills.comps.CompUsable.useLabel>
     <!-- EN: Ingest {0} -->
-	<AEResourcePills.ingestible.ingestCommandString>注射 {0}</AEResourcePills.ingestible.ingestCommandString>
+    <AEResourcePills.ingestible.ingestCommandString>注射 {0}</AEResourcePills.ingestible.ingestCommandString>
     <!-- EN: Ingesting {0}. -->
-	<AEResourcePills.ingestible.ingestReportString>正在注射 {0}。</AEResourcePills.ingestible.ingestReportString>
-    
+    <AEResourcePills.ingestible.ingestReportString>正在注射 {0}。</AEResourcePills.ingestible.ingestReportString>
+
     <!--#endregion-->
 </LanguageData>

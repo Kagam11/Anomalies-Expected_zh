@@ -3,39 +3,39 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Wandering mind -->
-	<Hediff_AE_Puzzle.label>出神</Hediff_AE_Puzzle.label>
+    <Hediff_AE_Puzzle.label>出神</Hediff_AE_Puzzle.label>
     <!-- EN: The entity's mind is currently projected into the anomalous contraption -->
-	<Hediff_AE_Puzzle.description>这个生物的思维已经投射至异常装置中</Hediff_AE_Puzzle.description>
-	
+    <Hediff_AE_Puzzle.description>这个生物的思维已经投射至异常装置中</Hediff_AE_Puzzle.description>
+
     <!-- EN: Rapid regeneration -->
-	<Hediff_AE_PuzzleOne.label>快速再生</Hediff_AE_PuzzleOne.label>
+    <Hediff_AE_PuzzleOne.label>快速再生</Hediff_AE_PuzzleOne.label>
     <!-- EN: The anomaly has caused this pawn to regenerate faster -->
-	<Hediff_AE_PuzzleOne.description>异常导致该小人的再生速度加快</Hediff_AE_PuzzleOne.description>
-	
+    <Hediff_AE_PuzzleOne.description>异常导致该小人的再生速度加快</Hediff_AE_PuzzleOne.description>
+
     <!-- EN: Psychic supression -->
-	<Hediff_AE_PuzzleTwo.label>心灵抑制</Hediff_AE_PuzzleTwo.label>
+    <Hediff_AE_PuzzleTwo.label>心灵抑制</Hediff_AE_PuzzleTwo.label>
     <!-- EN: The anomaly has suppressed the pawn's psychic sensitivity -->
-	<Hediff_AE_PuzzleTwo.description>异常导致该小人的心灵敏感度下降</Hediff_AE_PuzzleTwo.description>
-	
+    <Hediff_AE_PuzzleTwo.description>异常导致该小人的心灵敏感度下降</Hediff_AE_PuzzleTwo.description>
+
     <!-- EN:Anomalous invisibility  -->
-	<Hediff_AE_PuzzleThree.label>异常隐形</Hediff_AE_PuzzleThree.label>
+    <Hediff_AE_PuzzleThree.label>异常隐形</Hediff_AE_PuzzleThree.label>
     <!-- EN: The anomaly has given the pawn full invisibility -->
-	<Hediff_AE_PuzzleThree.description>异常导致该小人完全隐形</Hediff_AE_PuzzleThree.description>
-	
+    <Hediff_AE_PuzzleThree.description>异常导致该小人完全隐形</Hediff_AE_PuzzleThree.description>
+
     <!-- EN: Phasing -->
-	<Hediff_AE_PuzzleFour.label>跃离</Hediff_AE_PuzzleFour.label>
+    <Hediff_AE_PuzzleFour.label>跃离</Hediff_AE_PuzzleFour.label>
     <!-- EN: The anomaly made the pawn mostly invincible at the cost of almost full inability to attack -->
-	<Hediff_AE_PuzzleFour.description>异常导致小人基本处于无敌状态，代价是几乎完全无法攻击</Hediff_AE_PuzzleFour.description>
-	
+    <Hediff_AE_PuzzleFour.description>异常导致小人基本处于无敌状态，代价是几乎完全无法攻击</Hediff_AE_PuzzleFour.description>
+
     <!-- EN: Flesh lump -->
-	<Hediff_AE_PuzzleFive.label>血肉瘤块</Hediff_AE_PuzzleFive.label>
+    <Hediff_AE_PuzzleFive.label>血肉瘤块</Hediff_AE_PuzzleFive.label>
     <!-- EN: The anomaly has given the pawn a horrendous flesh growth -->
-	<Hediff_AE_PuzzleFive.description>异常导致小人小人长出了可怖的肉瘤</Hediff_AE_PuzzleFive.description>
-	
+    <Hediff_AE_PuzzleFive.description>异常导致小人小人长出了可怖的肉瘤</Hediff_AE_PuzzleFive.description>
+
     <!-- EN: Glass body -->
-	<Hediff_AE_PuzzleSix.label>玻璃躯体</Hediff_AE_PuzzleSix.label>
+    <Hediff_AE_PuzzleSix.label>玻璃躯体</Hediff_AE_PuzzleSix.label>
     <!-- EN: The anomaly made the pawn more fragile, but also way more powerful -->
-	<Hediff_AE_PuzzleSix.description>异常导致小人更加脆弱，但也更加强大</Hediff_AE_PuzzleSix.description>
+    <Hediff_AE_PuzzleSix.description>异常导致小人更加脆弱，但也更加强大</Hediff_AE_PuzzleSix.description>
 
     <!--#endregion-->
 </LanguageData>

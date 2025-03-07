@@ -3,9 +3,9 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Deficiency -->
-	<Hediff_AE_ShardFatique.label>组织缺失</Hediff_AE_ShardFatique.label>
+    <Hediff_AE_ShardFatique.label>组织缺失</Hediff_AE_ShardFatique.label>
     <!-- EN: Side effects caused by the contact with razor shard -->
-	<Hediff_AE_ShardFatique.description>因使用刀锋碎片而带来的副作用</Hediff_AE_ShardFatique.description>
+    <Hediff_AE_ShardFatique.description>因使用刀锋碎片而带来的副作用</Hediff_AE_ShardFatique.description>
     <!-- EN: soft -->
     <Hediff_AE_ShardFatique.stages.0.label>轻微</Hediff_AE_ShardFatique.stages.0.label>
     <!-- EN: minor -->

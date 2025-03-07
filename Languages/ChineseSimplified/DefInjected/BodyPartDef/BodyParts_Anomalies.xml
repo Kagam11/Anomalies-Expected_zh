@@ -2,52 +2,52 @@
 <LanguageData>
 
     <!-- EN: middle snowball -->
-	<AE_SnowBallA.label>中部雪球</AE_SnowBallA.label>
-        <!-- EN: middle snowball -->
-	<AE_SnowBallB.label>中部雪球</AE_SnowBallB.label>
-        <!-- EN: middle snowball -->
-	<AE_SnowBallC.label>中部雪球</AE_SnowBallC.label>
+    <AE_SnowBallA.label>上雪球</AE_SnowBallA.label>
+    <!-- EN: middle snowball -->
+    <AE_SnowBallB.label>中部雪球</AE_SnowBallB.label>
+    <!-- EN: middle snowball -->
+    <AE_SnowBallC.label>底部雪球</AE_SnowBallC.label>
     <!-- EN: snow core -->
-	<AE_SnowCoreHeart.label>冰雪核心</AE_SnowCoreHeart.label>
+    <AE_SnowCoreHeart.label>冰雪核心</AE_SnowCoreHeart.label>
     <!-- EN: stick arm -->
-	<AE_SnowArm.label>树肢</AE_SnowArm.label>
+    <AE_SnowArm.label>树肢</AE_SnowArm.label>
     <!-- EN: carrot nose -->
-	<AE_SnowNose.label>胡萝卜鼻</AE_SnowNose.label>
+    <AE_SnowNose.label>胡萝卜鼻</AE_SnowNose.label>
     <!-- EN: eye stone -->
-	<AE_SnowEyeA.label>眼石</AE_SnowEyeA.label>
+    <AE_SnowEyeA.label>眼石</AE_SnowEyeA.label>
     <!-- EN: snowball leg -->
-	<AE_SnowLegA.label>雪球腿</AE_SnowLegA.label>
+    <AE_SnowLegA.label>雪球腿</AE_SnowLegA.label>
     <!-- EN: snow block -->
-	<AE_SnowBlock.label>雪块</AE_SnowBlock.label>
+    <AE_SnowBlock.label>雪块</AE_SnowBlock.label>
     <!-- EN: face plate -->
-	<AE_SnowFacePlate.label>面部</AE_SnowFacePlate.label>
+    <AE_SnowFacePlate.label>面部</AE_SnowFacePlate.label>
     <!-- EN: [not found] -->
-	<AE_SnowEyeB.label>眼石</AE_SnowEyeB.label>
+    <AE_SnowEyeB.label>眼石</AE_SnowEyeB.label>
     <!-- EN: snow block leg -->
-	<AE_SnowBlockLeg.label>雪块腿</AE_SnowBlockLeg.label>
+    <AE_SnowBlockLeg.label>雪块腿</AE_SnowBlockLeg.label>
     <!-- EN: snow block arm -->
-	<AE_SnowBlockArm.label>雪块臂</AE_SnowBlockArm.label>
+    <AE_SnowBlockArm.label>雪块臂</AE_SnowBlockArm.label>
     <!-- EN: snow block compressor -->
-	<AE_SnowBlockCompressor.label>雪块压缩机</AE_SnowBlockCompressor.label>
+    <AE_SnowBlockCompressor.label>雪块压缩机</AE_SnowBlockCompressor.label>
+    <!-- EN: snow cephalothoraxl -->
+    <AE_SnowBallD.label>头胸部</AE_SnowBallD.label>
     <!-- EN: middle snowball -->
-	<AE_SnowBallD.label>中部雪球</AE_SnowBallD.label>
-    <!-- EN: middle snowball -->
-	<AE_SnowBallE.label>中部雪球</AE_SnowBallE.label>
+    <AE_SnowBallE.label>头</AE_SnowBallE.label>
     <!-- EN: eye stone -->
-	<AE_SnowEyeC.label>眼石</AE_SnowEyeC.label>
+    <AE_SnowEyeC.label>眼石</AE_SnowEyeC.label>
     <!-- EN: middle snowball -->
-	<AE_SnowBallF.label>中部雪球</AE_SnowBallF.label>
+    <AE_SnowBallF.label>中部雪球</AE_SnowBallF.label>
     <!-- EN: destabilized ice crystal -->
-	<AE_IceCrystalDestabilized.label>失稳冰晶</AE_IceCrystalDestabilized.label>
+    <AE_IceCrystalDestabilized.label>失稳冰晶</AE_IceCrystalDestabilized.label>
     <!-- EN: snow leg -->
-	<AE_SnowLegB.label>雪肢</AE_SnowLegB.label>
+    <AE_SnowLegB.label>雪肢</AE_SnowLegB.label>
     <!-- EN: [not found] -->
-	<AE_IceShardA.label>冰片</AE_IceShardA.label>
-	<AE_IceShardB.label>冰片</AE_IceShardB.label>
-	<AE_IceShardC.label>冰片</AE_IceShardC.label>
-	<AE_IceShardD.label>冰片</AE_IceShardD.label>
-	<AE_IceShardE.label>冰片</AE_IceShardE.label>
-	<AE_IceShardF.label>冰片</AE_IceShardF.label>
+    <AE_IceShardA.label>冰片</AE_IceShardA.label>
+    <AE_IceShardB.label>冰片</AE_IceShardB.label>
+    <AE_IceShardC.label>冰片</AE_IceShardC.label>
+    <AE_IceShardD.label>冰片</AE_IceShardD.label>
+    <AE_IceShardE.label>冰片</AE_IceShardE.label>
+    <AE_IceShardF.label>冰片</AE_IceShardF.label>
 
 
 </LanguageData>

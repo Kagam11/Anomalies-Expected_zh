@@ -3,75 +3,75 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: ordinary bed -->
-	<AE_IncidentDef_AnomalyBedSpawn.label>普通的床</AE_IncidentDef_AnomalyBedSpawn.label>
+    <AE_IncidentDef_AnomalyBedSpawn.label>普通的床</AE_IncidentDef_AnomalyBedSpawn.label>
     <!-- EN: Found ordinary bed -->
-	<AE_IncidentDef_AnomalyBedSpawn.letterLabel>发现普通的床</AE_IncidentDef_AnomalyBedSpawn.letterLabel>
+    <AE_IncidentDef_AnomalyBedSpawn.letterLabel>发现普通的床</AE_IncidentDef_AnomalyBedSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ordinary bed, but with frame made of organic metal. It looks very comfortable to sleep on. -->
-	<AE_IncidentDef_AnomalyBedSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一张普通的床，但床架是用有机金属制成的。看起来睡在上面非常舒服。</AE_IncidentDef_AnomalyBedSpawn.letterText>
+    <AE_IncidentDef_AnomalyBedSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一张普通的床，但床架是用有机金属制成的。看起来睡在上面非常舒服。</AE_IncidentDef_AnomalyBedSpawn.letterText>
 
     <!-- EN: ordinary hospital bed -->
-	<AE_IncidentDef_AnomalyHospitalBedSpawn.label>普通的医疗床</AE_IncidentDef_AnomalyHospitalBedSpawn.label>
+    <AE_IncidentDef_AnomalyHospitalBedSpawn.label>普通的医疗床</AE_IncidentDef_AnomalyHospitalBedSpawn.label>
     <!-- EN: Found ordinary hospital bed -->
-	<AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>发现普通的医疗床</AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>
+    <AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>发现普通的医疗床</AE_IncidentDef_AnomalyHospitalBedSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ordinary bed specially designed for use in hospitals, but with frame made of organic metal. Medical clipboard lying on the bed with some text written on it. -->
-	<AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一张医疗专用的床，但床架是用有机金属制成的。病床上放着医疗夹板，上面写着一些文字。</AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>
+    <AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一张医疗专用的床，但床架是用有机金属制成的。病床上放着医疗夹板，上面写着一些文字。</AE_IncidentDef_AnomalyHospitalBedSpawn.letterText>
 
     <!-- EN: giant apple -->
-	<AE_IncidentDef_ForbiddenFruitSpawn.label>巨大苹果</AE_IncidentDef_ForbiddenFruitSpawn.label>
+    <AE_IncidentDef_ForbiddenFruitSpawn.label>巨大苹果</AE_IncidentDef_ForbiddenFruitSpawn.label>
     <!-- EN: Found giant apple -->
-	<AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>发现巨大苹果</AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>
+    <AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>发现巨大苹果</AE_IncidentDef_ForbiddenFruitSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a quite giant apple. -->
-	<AE_IncidentDef_ForbiddenFruitSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个非常巨大的苹果。</AE_IncidentDef_ForbiddenFruitSpawn.letterText>
+    <AE_IncidentDef_ForbiddenFruitSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个非常巨大的苹果。</AE_IncidentDef_ForbiddenFruitSpawn.letterText>
 
     <!-- EN: industrial metal box -->
     <AE_IncidentDef_MeatGrinderSpawn.label>工业金属箱</AE_IncidentDef_MeatGrinderSpawn.label>
     <!-- EN: Found industrial metal box -->
-	<AE_IncidentDef_MeatGrinderSpawn.letterLabel>发现工业金属箱</AE_IncidentDef_MeatGrinderSpawn.letterLabel>
-	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
+    <AE_IncidentDef_MeatGrinderSpawn.letterLabel>发现工业金属箱</AE_IncidentDef_MeatGrinderSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
     <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个形同一张桌子般高度的金属箱体，外观类似工业制品。光滑的表面两侧有几扇小门，顶部有一个大洞，里面藏着刀片。孔旁边有一个按钮，暗示着一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
-	
+
     <!-- EN: transmitter -->
     <AE_IncidentDef_BeamTargetSpawn.label>发信器</AE_IncidentDef_BeamTargetSpawn.label>
     <!-- EN: Found transmitter -->
-	<AE_IncidentDef_BeamTargetSpawn.letterLabel>发现发信器</AE_IncidentDef_BeamTargetSpawn.letterLabel>
-	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a small device with pneumatic retractable stops. On its body there are indicators with lights, an antenna and a small button. It looks like military grade. -->
+    <AE_IncidentDef_BeamTargetSpawn.letterLabel>发现发信器</AE_IncidentDef_BeamTargetSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a small device with pneumatic retractable stops. On its body there are indicators with lights, an antenna and a small button. It looks like military grade. -->
     <AE_IncidentDef_BeamTargetSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个带有气动缩回固定装置的小型设备，机身上有指示器、天线、灯和一个小型按钮，看上去是军用级的。</AE_IncidentDef_BeamTargetSpawn.letterText>
 
     <!-- EN: strange puddle -->
-	<AE_IncidentDef_BloodPuddleSpawn.label>怪潭</AE_IncidentDef_BloodPuddleSpawn.label>
+    <AE_IncidentDef_BloodPuddleSpawn.label>怪潭</AE_IncidentDef_BloodPuddleSpawn.label>
     <!-- EN: Found strange puddle -->
-	<AE_IncidentDef_BloodPuddleSpawn.letterLabel>发现怪潭</AE_IncidentDef_BloodPuddleSpawn.letterLabel>
-	<!-- EN: Your colonist noticed some small ground vibration. It seems like a pool of liquid seeping up from beneath the ground. -->
+    <AE_IncidentDef_BloodPuddleSpawn.letterLabel>发现怪潭</AE_IncidentDef_BloodPuddleSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some small ground vibration. It seems like a pool of liquid seeping up from beneath the ground. -->
     <AE_IncidentDef_BloodPuddleSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一汪水潭。</AE_IncidentDef_BloodPuddleSpawn.letterText>
 
     <!-- EN: strange lake -->
-	<AE_IncidentDef_BloodLakeSpawn.label>怪湖</AE_IncidentDef_BloodLakeSpawn.label>
+    <AE_IncidentDef_BloodLakeSpawn.label>怪湖</AE_IncidentDef_BloodLakeSpawn.label>
     <!-- EN: Found strange lake -->
-	<AE_IncidentDef_BloodLakeSpawn.letterLabel>发现怪湖</AE_IncidentDef_BloodLakeSpawn.letterLabel>
+    <AE_IncidentDef_BloodLakeSpawn.letterLabel>发现怪湖</AE_IncidentDef_BloodLakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some strong ground vibration. It seems like a giant pool of liquid seeping up from beneath the ground. -->
-	<AE_IncidentDef_BloodLakeSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一片小湖。</AE_IncidentDef_BloodLakeSpawn.letterText>
+    <AE_IncidentDef_BloodLakeSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一片小湖。</AE_IncidentDef_BloodLakeSpawn.letterText>
 
     <!-- EN: yellow notepad -->
-	<AE_IncidentDef_StudyNotepadSpawn.label>黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.label>
+    <AE_IncidentDef_StudyNotepadSpawn.label>黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.label>
     <!-- EN: Found yellow notepad -->
-	<AE_IncidentDef_StudyNotepadSpawn.letterLabel>发现黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.letterLabel>
+    <AE_IncidentDef_StudyNotepadSpawn.letterLabel>发现黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a notepad, its yellow pages filled with handwritten notes. -->
-	<AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个黄色的笔记本，上面写满了手写笔记。</AE_IncidentDef_StudyNotepadSpawn.letterText>
+    <AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个黄色的笔记本，上面写满了手写笔记。</AE_IncidentDef_StudyNotepadSpawn.letterText>
 
     <!-- EN: ancient scripture -->
-	<AE_IncidentDef_ProviderScriptureSpawn.label>远古经书</AE_IncidentDef_ProviderScriptureSpawn.label>
+    <AE_IncidentDef_ProviderScriptureSpawn.label>远古经书</AE_IncidentDef_ProviderScriptureSpawn.label>
     <!-- EN: Found ancient scripture -->
-	<AE_IncidentDef_ProviderScriptureSpawn.letterLabel>发现远古经书</AE_IncidentDef_ProviderScriptureSpawn.letterLabel>
+    <AE_IncidentDef_ProviderScriptureSpawn.letterLabel>发现远古经书</AE_IncidentDef_ProviderScriptureSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark-covered book bearing the marks of time, featuring a prominent symbol. -->
-	<AE_IncidentDef_ProviderScriptureSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一本古老的暗色书记，其上有一个醒目的标志。</AE_IncidentDef_ProviderScriptureSpawn.letterText>
+    <AE_IncidentDef_ProviderScriptureSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一本古老的暗色书记，其上有一个醒目的标志。</AE_IncidentDef_ProviderScriptureSpawn.letterText>
 
     <!-- EN: red stockings -->
-	<AE_IncidentDef_ChristmasStockingsSpawn.label>红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.label>
+    <AE_IncidentDef_ChristmasStockingsSpawn.label>红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.label>
     <!-- EN: Found red stockings -->
-	<AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>发现红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>
+    <AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>发现红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a red stockings, featuring white details and a snowflake symbol. It appear to be filled with something. -->
-	<AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个红色的长袜，表面有白色的纹路和雪花装饰。似乎里面填满了东西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
-    
+    <AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个红色的长袜，表面有白色的纹路和雪花装饰。似乎里面填满了东西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
+
     <!--#endregion-->
 
 
@@ -80,57 +80,57 @@
     <!-- EN: Razor shard -->
     <AE_IncidentDef_RazorShardSpawn.label>刀锋碎片</AE_IncidentDef_RazorShardSpawn.label>
     <!-- EN: Found razor shard -->
-	<AE_IncidentDef_RazorShardSpawn.letterLabel>发现刀锋碎片</AE_IncidentDef_RazorShardSpawn.letterLabel>
+    <AE_IncidentDef_RazorShardSpawn.letterLabel>发现刀锋碎片</AE_IncidentDef_RazorShardSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a shard of archotechnology, although clearly distinct from others. -->
-	<AE_IncidentDef_RazorShardSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一块超凡智能的碎片，但明显和其他碎片不同。</AE_IncidentDef_RazorShardSpawn.letterText>
-    
+    <AE_IncidentDef_RazorShardSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一块超凡智能的碎片，但明显和其他碎片不同。</AE_IncidentDef_RazorShardSpawn.letterText>
+
     <!-- EN: Anomalous watch -->
-	<AE_IncidentDef_ClockSpawn.label>异常怀表</AE_IncidentDef_ClockSpawn.label>
+    <AE_IncidentDef_ClockSpawn.label>异常怀表</AE_IncidentDef_ClockSpawn.label>
     <!-- EN: Found anomalous watch -->
-	<AE_IncidentDef_ClockSpawn.letterLabel>发现异常怀表</AE_IncidentDef_ClockSpawn.letterLabel>
+    <AE_IncidentDef_ClockSpawn.letterLabel>发现异常怀表</AE_IncidentDef_ClockSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an old pocket watch -->
-	<AE_IncidentDef_ClockSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个旧怀表。</AE_IncidentDef_ClockSpawn.letterText>
-	
+    <AE_IncidentDef_ClockSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个旧怀表。</AE_IncidentDef_ClockSpawn.letterText>
+
     <!-- EN: The Key -->
-	<AE_IncidentDef_KeySpawn.label>洞启之钥</AE_IncidentDef_KeySpawn.label>
+    <AE_IncidentDef_KeySpawn.label>洞启之钥</AE_IncidentDef_KeySpawn.label>
     <!-- EN: Found the key -->
-	<AE_IncidentDef_KeySpawn.letterLabel>发现洞启之钥</AE_IncidentDef_KeySpawn.letterLabel>
+    <AE_IncidentDef_KeySpawn.letterLabel>发现洞启之钥</AE_IncidentDef_KeySpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to resemble a key -->
-	<AE_IncidentDef_KeySpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个钥匙。</AE_IncidentDef_KeySpawn.letterText>
-	
+    <AE_IncidentDef_KeySpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个钥匙。</AE_IncidentDef_KeySpawn.letterText>
+
     <!-- EN: The puzzle -->
-	<AE_IncidentDef_PuzzleSpawn.label>神秘装置</AE_IncidentDef_PuzzleSpawn.label>
+    <AE_IncidentDef_PuzzleSpawn.label>神秘装置</AE_IncidentDef_PuzzleSpawn.label>
     <!-- EN: Found the puzzle -->
-	<AE_IncidentDef_PuzzleSpawn.letterLabel>发现神秘装置</AE_IncidentDef_PuzzleSpawn.letterLabel>
+    <AE_IncidentDef_PuzzleSpawn.letterLabel>发现神秘装置</AE_IncidentDef_PuzzleSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be a strange contraption -->
-	<AE_IncidentDef_PuzzleSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个古怪装置。</AE_IncidentDef_PuzzleSpawn.letterText>
+    <AE_IncidentDef_PuzzleSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个古怪装置。</AE_IncidentDef_PuzzleSpawn.letterText>
 
     <!-- EN: Strange device -->
-	<AE_IncidentDef_SubcoreSpawn.label>奇怪设备</AE_IncidentDef_SubcoreSpawn.label>
+    <AE_IncidentDef_SubcoreSpawn.label>奇怪设备</AE_IncidentDef_SubcoreSpawn.label>
     <!-- EN: Strange device -->
-	<AE_IncidentDef_SubcoreSpawn.letterLabel>发现奇怪设备</AE_IncidentDef_SubcoreSpawn.letterLabel>
+    <AE_IncidentDef_SubcoreSpawn.letterLabel>发现奇怪设备</AE_IncidentDef_SubcoreSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of a device -->
-	<AE_IncidentDef_SubcoreSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是某种装置。</AE_IncidentDef_SubcoreSpawn.letterText>
+    <AE_IncidentDef_SubcoreSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是某种装置。</AE_IncidentDef_SubcoreSpawn.letterText>
 
     <!-- EN: Clay figure -->
     <AE_IncidentDef_ReplicatorSpawn.label>粘土人偶</AE_IncidentDef_ReplicatorSpawn.label>
     <!-- EN: Found clay figure -->
-	<AE_IncidentDef_ReplicatorSpawn.letterLabel>发现粘土人偶</AE_IncidentDef_ReplicatorSpawn.letterLabel>
+    <AE_IncidentDef_ReplicatorSpawn.letterLabel>发现粘土人偶</AE_IncidentDef_ReplicatorSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of clay figure -->
-	<AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
+    <AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
 
     <!-- EN: big pie -->
-	<AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
+    <AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
     <!-- EN: Found big pie -->
-	<AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
+    <AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
-	<AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
+    <AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
 
     <!-- EN: Strange pebble -->
     <AE_IncidentDef_PebbleSpawn.label>奇异卵石</AE_IncidentDef_PebbleSpawn.label>
     <!-- EN: Found strange pebble -->
-	<AE_IncidentDef_PebbleSpawn.letterLabel>发现奇异卵石</AE_IncidentDef_PebbleSpawn.letterLabel>
-	<!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some strange pebble -->
+    <AE_IncidentDef_PebbleSpawn.letterLabel>发现奇异卵石</AE_IncidentDef_PebbleSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some strange pebble -->
     <AE_IncidentDef_PebbleSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一种奇怪的卵石。</AE_IncidentDef_PebbleSpawn.letterText>
 
     <!--#endregion-->

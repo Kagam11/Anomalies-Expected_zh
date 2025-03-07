@@ -2,17 +2,17 @@
 <LanguageData>
 
     <!-- EN: snow army assault -->
-	<AE_IncidentDef_SnowArmyAssaultBasic.label>冰雪軍團進攻</AE_IncidentDef_SnowArmyAssaultBasic.label>
+    <AE_IncidentDef_SnowArmyAssaultBasic.label>冰雪軍團進攻</AE_IncidentDef_SnowArmyAssaultBasic.label>
     <!-- EN: Snow army attack -->
-	<AE_IncidentDef_SnowArmyAssaultBasic.letterLabel>冰雪軍團攻擊</AE_IncidentDef_SnowArmyAssaultBasic.letterLabel>
+    <AE_IncidentDef_SnowArmyAssaultBasic.letterLabel>冰雪軍團攻擊</AE_IncidentDef_SnowArmyAssaultBasic.letterLabel>
     <!-- EN: Snow Army reconnaissance forces are now attacking our facility! Prepare for a frigid encounter! -->
-	<AE_IncidentDef_SnowArmyAssaultBasic.letterText>冰雪軍團的偵察部隊正在攻擊我們的設施！準備迎接一場寒冷的遭遇戰！</AE_IncidentDef_SnowArmyAssaultBasic.letterText>
+    <AE_IncidentDef_SnowArmyAssaultBasic.letterText>冰雪軍團的偵察部隊正在攻擊我們的設施！準備迎接一場寒冷的遭遇戰！</AE_IncidentDef_SnowArmyAssaultBasic.letterText>
 
     <!-- EN: snow army assault -->
-	<AE_IncidentDef_SnowArmyAssaultAdvanced.label>冰雪軍團進攻</AE_IncidentDef_SnowArmyAssaultAdvanced.label>
+    <AE_IncidentDef_SnowArmyAssaultAdvanced.label>冰雪軍團進攻</AE_IncidentDef_SnowArmyAssaultAdvanced.label>
     <!-- EN: Snow army attack -->
-	<AE_IncidentDef_SnowArmyAssaultAdvanced.letterLabel>冰雪軍團攻擊</AE_IncidentDef_SnowArmyAssaultAdvanced.letterLabel>
+    <AE_IncidentDef_SnowArmyAssaultAdvanced.letterLabel>冰雪軍團攻擊</AE_IncidentDef_SnowArmyAssaultAdvanced.letterLabel>
     <!-- EN: Snow Army main forces are now attacking our facility! Expect extreme cold! -->
-	<AE_IncidentDef_SnowArmyAssaultAdvanced.letterText>冰雪軍團主力正在攻擊我們的設施！準備面對極度深寒！</AE_IncidentDef_SnowArmyAssaultAdvanced.letterText>
-  
+    <AE_IncidentDef_SnowArmyAssaultAdvanced.letterText>冰雪軍團主力正在攻擊我們的設施！準備面對極度深寒！</AE_IncidentDef_SnowArmyAssaultAdvanced.letterText>
+
 </LanguageData>

@@ -2,39 +2,39 @@
 <LanguageData>
 
     <!-- EN: underground emergence -->
-	<AE_BloodPuddleSpawner.label>地下涌现</AE_BloodPuddleSpawner.label>
+    <AE_BloodPuddleSpawner.label>地下涌现</AE_BloodPuddleSpawner.label>
     <!-- EN: Something is emerging from the ground here. -->
-	<AE_BloodPuddleSpawner.description>有什么东西正在从地下冒出来。</AE_BloodPuddleSpawner.description>
+    <AE_BloodPuddleSpawner.description>有什么东西正在从地下冒出来。</AE_BloodPuddleSpawner.description>
 
     <!-- EN: underground emergence -->
-	<AE_BloodLakeSpawner.label>地下涌现</AE_BloodLakeSpawner.label>
+    <AE_BloodLakeSpawner.label>地下涌现</AE_BloodLakeSpawner.label>
     <!-- EN: Something is emerging from the ground here. -->
-	<AE_BloodLakeSpawner.description>有什么东西正在从地下冒出来。</AE_BloodLakeSpawner.description>
+    <AE_BloodLakeSpawner.description>有什么东西正在从地下冒出来。</AE_BloodLakeSpawner.description>
 
     <!-- EN: provider box -->
-	<AE_ProviderBox.label>供者之箱</AE_ProviderBox.label>
+    <AE_ProviderBox.label>供者之箱</AE_ProviderBox.label>
     <!-- EN: The ritual box, designed to hold sacrificial offerings for asking Provider ritual. Its surface corroded, aged prematurely, and became marred with scratches upon creation. -->
-	<AE_ProviderBox.description>用于向供者献上物品的箱子。箱体表面经过做旧处理，包括表面腐蚀及制作时留下划痕，显示出老旧的样子。</AE_ProviderBox.description>
+    <AE_ProviderBox.description>用于向供者献上物品的箱子。箱体表面经过做旧处理，包括表面腐蚀及制作时留下划痕，显示出老旧的样子。</AE_ProviderBox.description>
 
     <!-- EN: christmas gift box -->
-	<AE_ChristmasGiftBox.label>圣诞礼物盒</AE_ChristmasGiftBox.label>
+    <AE_ChristmasGiftBox.label>圣诞礼物盒</AE_ChristmasGiftBox.label>
     <!-- EN: This elegant Christmas gift box is adorned with festive ribbons. It's the perfect container that holds a special surprise. -->
-	<AE_ChristmasGiftBox.description>一个优雅的圣诞礼盒，上面装饰着节日彩带。是盛放特别惊喜的完美容器。</AE_ChristmasGiftBox.description>
+    <AE_ChristmasGiftBox.description>一个优雅的圣诞礼盒，上面装饰着节日彩带。是盛放特别惊喜的完美容器。</AE_ChristmasGiftBox.description>
 
     <!-- EN: [not found] -->
-	<AE_AtmosphericHeaterGlowingVentsInv.label>冰晶碎片</AE_AtmosphericHeaterGlowingVentsInv.label>
+    <AE_AtmosphericHeaterGlowingVentsInv.label>冰晶碎片</AE_AtmosphericHeaterGlowingVentsInv.label>
     <!-- EN: atmospheric cooler -->
-	<AE_AtmosphericCooler.label>大气降温器</AE_AtmosphericCooler.label>
+    <AE_AtmosphericCooler.label>大气降温器</AE_AtmosphericCooler.label>
     <!-- EN: A thermal absorption device powered by scavenged shards of dark archotechnology. The device spread dust of ice crystal to calm gas molecules in the atmosphere, decreasing the local outdoor temperature. The building itself also produces huge amounts of cold air. -->
-	<AE_AtmosphericCooler.description>由暗黑超凡碎片驱动的热能吸收设备。它能通过散发冰晶碎片来稳定大气中的气体分子，降低当地室外温度。它本身也会产生大量冷气。</AE_AtmosphericCooler.description>
+    <AE_AtmosphericCooler.description>由暗黑超凡碎片驱动的热能吸收设备。它能通过散发冰晶碎片来稳定大气中的气体分子，降低当地室外温度。它本身也会产生大量冷气。</AE_AtmosphericCooler.description>
     <!-- EN: Target outdoor temperature -->
-	<AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>目标室外温度</AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>
+    <AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>目标室外温度</AE_AtmosphericCooler.comps.Comp_AtmosphericCooler.inspectString>
 
     <!-- EN: atmospheric controller -->
-	<AE_AtmosphericController.label>气温控制器</AE_AtmosphericController.label>
+    <AE_AtmosphericController.label>气温控制器</AE_AtmosphericController.label>
     <!-- EN: In heater mode device burns destabilized ice crystal to agitate gas molecules in the atmosphere, raising the local outdoor temperature.\nIn cooler mode device spread dust of destabilized ice crystal to calm gas molecules in the atmosphere, decreasing the local outdoor temperature.\nDestabilized ice crystal have higher efficiency, than bioferrite or ice crystal alone. Depending on a current mode building itself also produces enormous amounts of waste heat or cold air. -->
-	<AE_AtmosphericController.description>在加热模式下，通过燃烧失稳冰晶来搅动大气中的气体分子，提高当地室外温度。\n在降温模式下，通过散发冰晶碎片来稳定大气中的气体分子，降低当地室外温度。\n与活铁或冰晶相比，失稳冰晶的效率更高。根据使用的模式，建筑本身也会产生大量的废热或冷气。</AE_AtmosphericController.description>
+    <AE_AtmosphericController.description>在加热模式下，通过燃烧失稳冰晶来搅动大气中的气体分子，提高当地室外温度。\n在降温模式下，通过散发冰晶碎片来稳定大气中的气体分子，降低当地室外温度。\n与活铁或冰晶相比，失稳冰晶的效率更高。根据使用的模式，建筑本身也会产生大量的废热或冷气。</AE_AtmosphericController.description>
     <!-- EN: Target outdoor temperature -->
-	<AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>目标室外温度</AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>
+    <AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>目标室外温度</AE_AtmosphericController.comps.Comp_AtmosphericController.inspectString>
 
 </LanguageData>

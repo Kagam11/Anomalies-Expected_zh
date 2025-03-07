@@ -2,14 +2,14 @@
 <LanguageData>
 
     <!-- EN: snow army entities -->
-	<AE_SnowArmy.label>冰雪军团实体</AE_SnowArmy.label>
+    <AE_SnowArmy.label>冰雪军团实体</AE_SnowArmy.label>
     <!-- EN: Snow army -->
-	<AE_SnowArmy.fixedName>冰雪军团</AE_SnowArmy.fixedName>
+    <AE_SnowArmy.fixedName>冰雪军团</AE_SnowArmy.fixedName>
     <!-- EN: [not found] -->
-	<AE_SnowArmy.leaderTitle>领袖</AE_SnowArmy.leaderTitle>
+    <AE_SnowArmy.leaderTitle>领袖</AE_SnowArmy.leaderTitle>
     <!-- EN: snow soldier -->
-	<AE_SnowArmy.pawnSingular>冰雪士兵</AE_SnowArmy.pawnSingular>
+    <AE_SnowArmy.pawnSingular>冰雪士兵</AE_SnowArmy.pawnSingular>
     <!-- EN: snow army -->
-	<AE_SnowArmy.pawnsPlural>冰雪军团</AE_SnowArmy.pawnsPlural>
+    <AE_SnowArmy.pawnsPlural>冰雪军团</AE_SnowArmy.pawnsPlural>
 
 </LanguageData>

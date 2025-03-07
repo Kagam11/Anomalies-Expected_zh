@@ -2,32 +2,32 @@
 <LanguageData>
 
     <!-- EN: No figts left -->
-	<AnomaliesExpected.ChristmasStockings.NoGifts>沒有禮物了</AnomaliesExpected.ChristmasStockings.NoGifts>
+    <AnomaliesExpected.ChristmasStockings.NoGifts>沒有禮物了</AnomaliesExpected.ChristmasStockings.NoGifts>
     <!-- EN: Already have a gift -->
-	<AnomaliesExpected.ChristmasStockings.AlreadyGotGift>已經有禮物了</AnomaliesExpected.ChristmasStockings.AlreadyGotGift>
+    <AnomaliesExpected.ChristmasStockings.AlreadyGotGift>已經有禮物了</AnomaliesExpected.ChristmasStockings.AlreadyGotGift>
     <!-- EN: Available gifts {0}/{1} -->
-	<AnomaliesExpected.ChristmasStockings.GiftsLeft>還有{0}/{1}個禮物</AnomaliesExpected.ChristmasStockings.GiftsLeft>
+    <AnomaliesExpected.ChristmasStockings.GiftsLeft>還有{0}/{1}個禮物</AnomaliesExpected.ChristmasStockings.GiftsLeft>
 
     <!-- EN: Go under the tree -->
-	<AnomaliesExpected.ChristmasStockings.Enter>去樹下</AnomaliesExpected.ChristmasStockings.Enter>
+    <AnomaliesExpected.ChristmasStockings.Enter>去樹下</AnomaliesExpected.ChristmasStockings.Enter>
     <!-- EN: New Year is here. {0} can be interacted again. -->
-	<AnomaliesExpected.ChristmasStockings.NewYear>新年到了，可以再次進入{0}。</AnomaliesExpected.ChristmasStockings.NewYear>
+    <AnomaliesExpected.ChristmasStockings.NewYear>新年到了，可以再次進入{0}。</AnomaliesExpected.ChristmasStockings.NewYear>
     <!-- EN: Require some cleaning from snow -->
-	<AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>需要清理積雪</AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>
+    <AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>需要清理積雪</AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>
     <!-- EN: Passage is not available till next New Year -->
-	<AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>到明年之前都不能進入</AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>
-	
+    <AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>到明年之前都不能進入</AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>
+
     <!-- EN: Time till next New Year: {0} -->
-	<AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>到下一年還有：{0}</AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>
-	
+    <AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>到下一年還有：{0}</AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>
+
     <!-- EN: Christmas Tree passage is freezing up -->
-	<AnomaliesExpected.ChristmasStockings.AlertSubMap.Label>聖誕樹通道正在凍結</AnomaliesExpected.ChristmasStockings.AlertSubMap.Label>
+    <AnomaliesExpected.ChristmasStockings.AlertSubMap.Label>聖誕樹通道正在凍結</AnomaliesExpected.ChristmasStockings.AlertSubMap.Label>
     <!-- EN: Passage through the Christmas Tree is slowly freezing up. After few days it will prevent us from accessing the other side of the tree.\n[Will destroy the map] -->
-	<AnomaliesExpected.ChristmasStockings.AlertSubMap.Desc>穿過聖誕樹的通道正在慢慢凍結。幾天後，我們將無法進入聖誕樹的另一側。\n[會摧毀這張地圖]</AnomaliesExpected.ChristmasStockings.AlertSubMap.Desc>
-	
+    <AnomaliesExpected.ChristmasStockings.AlertSubMap.Desc>穿過聖誕樹的通道正在慢慢凍結。幾天後，我們將無法進入聖誕樹的另一側。\n[會摧毀這張地圖]</AnomaliesExpected.ChristmasStockings.AlertSubMap.Desc>
+
     <!-- EN: Celebration Started -->
-	<AnomaliesExpected.ChristmasStockings.LetterEnter.Label>慶典開始</AnomaliesExpected.ChristmasStockings.LetterEnter.Label>
+    <AnomaliesExpected.ChristmasStockings.LetterEnter.Label>慶典開始</AnomaliesExpected.ChristmasStockings.LetterEnter.Label>
     <!-- EN: Your colonists reached the celebration spot. Survive the cold and trial to acquire gifts.\n\nYou have 5 days to finish celebrating till the temperature drop and freeze the passage back. -->
-	<AnomaliesExpected.ChristmasStockings.LetterEnter.Text>你們的殖民者到達了慶祝地點。經受住寒冷和考驗以獲得禮物。\n\n在氣溫下降到將通道凍結之前，你有5天的時間完成慶典。</AnomaliesExpected.ChristmasStockings.LetterEnter.Text>
+    <AnomaliesExpected.ChristmasStockings.LetterEnter.Text>你們的殖民者到達了慶祝地點。經受住寒冷和考驗以獲得禮物。\n\n在氣溫下降到將通道凍結之前，你有5天的時間完成慶典。</AnomaliesExpected.ChristmasStockings.LetterEnter.Text>
 
 </LanguageData>

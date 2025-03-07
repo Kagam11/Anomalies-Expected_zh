@@ -2,7 +2,7 @@
 <LanguageData>
 
     <!-- EN: Snow Army still present nearby. -->
-	<AnomaliesExpected.SnowArmy.Ritual.AlreadyExists>冰雪軍團仍在附近。</AnomaliesExpected.SnowArmy.Ritual.AlreadyExists>
+    <AnomaliesExpected.SnowArmy.Ritual.AlreadyExists>冰雪軍團仍在附近。</AnomaliesExpected.SnowArmy.Ritual.AlreadyExists>
     <!-- EN: Size multiplier of Snow Army: {0}. -->
-	<AnomaliesExpected.SnowArmy.Ritual.OutputDesc>冰雪軍團的規模乘數：{0}。</AnomaliesExpected.SnowArmy.Ritual.OutputDesc>
+    <AnomaliesExpected.SnowArmy.Ritual.OutputDesc>冰雪軍團的規模乘數：{0}。</AnomaliesExpected.SnowArmy.Ritual.OutputDesc>
 </LanguageData>

@@ -18,17 +18,17 @@
     <AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>当发信器脱离收容时收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
 
     <!-- EN: Set multiplier for amount of threat points for fleshbeast generation from nests to {0} -->
-	<AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>将巢穴生成血肉兽的威胁点数系数设置为 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
+    <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>将巢穴生成血肉兽的威胁点数系数设置为 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
 
     <!-- EN: Set multiplier for time between fleshbeast generation from nests to {0} -->
-	<AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>将血肉兽生成时间间隔的乘数为 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>
+    <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>将血肉兽生成时间间隔的乘数为 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>
     <!-- EN: Set maximum size for Lake sub map generation to {0}x{0} (by default will copy size of colony map)\n(Size affect amount of loot, enemies and required resources from PC) -->
-	<AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>将湖中地图的大小设置为 {0}x{0} (默认情况下为殖民地地图大小)\n(大小会影响战利品数量、敌人数量和电脑资源要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
+    <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>将湖中地图的大小设置为 {0}x{0} (默认情况下为殖民地地图大小)\n(大小会影响战利品数量、敌人数量和电脑资源要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
 
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>尝试解锁 Anomalies Expected 的研究项目</AnomaliesExpected.Settings.ResearchTab.Unlock>
 
     <!-- EN: Show additional information for debug -->
-	<AnomaliesExpected.Settings.DevMode.Info>展示用于调试的额外信息</AnomaliesExpected.Settings.DevMode.Info>
+    <AnomaliesExpected.Settings.DevMode.Info>展示用于调试的额外信息</AnomaliesExpected.Settings.DevMode.Info>
 
 </LanguageData>

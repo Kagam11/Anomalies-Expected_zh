@@ -3,29 +3,29 @@
     <!--#region Anomalies Expected-->
 
     <!--EN:sleep enhancer serum-->
-	<Hediff_AESleepEnhancerSerum.label>睡眠增強血清</Hediff_AESleepEnhancerSerum.label>
+    <Hediff_AESleepEnhancerSerum.label>睡眠增強血清</Hediff_AESleepEnhancerSerum.label>
     <!--EN:This person has ingested a drug which enhanced their rest efficiency.-->
-	<Hediff_AESleepEnhancerSerum.description>此人服用了一種增強休息效率的藥物。</Hediff_AESleepEnhancerSerum.description>
+    <Hediff_AESleepEnhancerSerum.description>此人服用了一種增強休息效率的藥物。</Hediff_AESleepEnhancerSerum.description>
 
     <!--EN:regen serum-->
-	<Hediff_AERegenSerum.label>再生血清</Hediff_AERegenSerum.label>
+    <Hediff_AERegenSerum.label>再生血清</Hediff_AERegenSerum.label>
     <!--EN:This person has ingested a drug which enhanced their healing factor.-->
-	<Hediff_AERegenSerum.description>此人服用了一種增強癒合係數的藥物。</Hediff_AERegenSerum.description>
+    <Hediff_AERegenSerum.description>此人服用了一種增強癒合係數的藥物。</Hediff_AERegenSerum.description>
 
     <!-- EN: binging food serum -->
     <Hediff_AEBingingFoodSerum.label>暴食血清</Hediff_AEBingingFoodSerum.label>
     <!-- EN: This person has ingested a drug which stimulates the digestive system. -->
-	<Hediff_AEBingingFoodSerum.description>此人服用了一種刺激消化系統的藥物。</Hediff_AEBingingFoodSerum.description>
+    <Hediff_AEBingingFoodSerum.description>此人服用了一種刺激消化系統的藥物。</Hediff_AEBingingFoodSerum.description>
 
     <!-- EN: hunger suppressor serum -->
-	<Hediff_AEHungerSuppressorSerum.label>飢餓抑制血清</Hediff_AEHungerSuppressorSerum.label>
+    <Hediff_AEHungerSuppressorSerum.label>飢餓抑制血清</Hediff_AEHungerSuppressorSerum.label>
     <!-- EN: This person has ingested a drug which changing it metabolism to increase efficiency of nutrient breakdown including body reserves. -->
-	<Hediff_AEHungerSuppressorSerum.description>此人服用了一種改變其新陳代謝的藥物，可以提高分解營養物質（包括體內儲備營養）的效率。</Hediff_AEHungerSuppressorSerum.description>
+    <Hediff_AEHungerSuppressorSerum.description>此人服用了一種改變其新陳代謝的藥物，可以提高分解營養物質（包括體內儲備營養）的效率。</Hediff_AEHungerSuppressorSerum.description>
     <!-- EN: Active effect -->
-	<Hediff_AEHungerSuppressorSerum.stages.0.label>藥物生效</Hediff_AEHungerSuppressorSerum.stages.0.label>
-	<!-- EN: Withdrawal from system -->
+    <Hediff_AEHungerSuppressorSerum.stages.0.label>藥物生效</Hediff_AEHungerSuppressorSerum.stages.0.label>
+    <!-- EN: Withdrawal from system -->
     <Hediff_AEHungerSuppressorSerum.stages.1.label>藥物退出</Hediff_AEHungerSuppressorSerum.stages.1.label>
     <!-- EN: Metabolism restoration -->
-	<Hediff_AEHungerSuppressorSerum.stages.2.label>新陳代謝補償</Hediff_AEHungerSuppressorSerum.stages.2.label>
+    <Hediff_AEHungerSuppressorSerum.stages.2.label>新陳代謝補償</Hediff_AEHungerSuppressorSerum.stages.2.label>
     <!--#endregion-->
 </LanguageData>

@@ -2,22 +2,22 @@
 <LanguageData>
 
     <!-- EN: destabilize ice crystal -->
-	<MakeAEIceCrystalDestabilized.label>制造失稳冰晶</MakeAEIceCrystalDestabilized.label>
+    <MakeAEIceCrystalDestabilized.label>制造失稳冰晶</MakeAEIceCrystalDestabilized.label>
     <!-- EN: Fuse exotic ice crystal with bioferrite to destabilize it. -->
-	<MakeAEIceCrystalDestabilized.description>往异种冰晶中注入活铁，使其失稳</MakeAEIceCrystalDestabilized.description>
-	<!-- EN: Destabilizing ice crystal. -->
+    <MakeAEIceCrystalDestabilized.description>往异种冰晶中注入活铁，使其失稳</MakeAEIceCrystalDestabilized.description>
+    <!-- EN: Destabilizing ice crystal. -->
     <MakeAEIceCrystalDestabilized.jobString>正在制造失稳冰晶。</MakeAEIceCrystalDestabilized.jobString>
     <!-- EN: destabilize ice crystal x4 -->
-	<MakeAEIceCrystalDestabilizedBulk.label>制造失稳冰晶 x4</MakeAEIceCrystalDestabilizedBulk.label>
+    <MakeAEIceCrystalDestabilizedBulk.label>制造失稳冰晶 x4</MakeAEIceCrystalDestabilizedBulk.label>
     <!-- EN: Fuse exotic ice crystal with bioferrite to destabilize it. -->
-	<MakeAEIceCrystalDestabilizedBulk.description>往异种冰晶中注入活铁，使其失稳</MakeAEIceCrystalDestabilizedBulk.description>
-	<!-- EN: Destabilizing ice crystal x4. -->
+    <MakeAEIceCrystalDestabilizedBulk.description>往异种冰晶中注入活铁，使其失稳</MakeAEIceCrystalDestabilizedBulk.description>
+    <!-- EN: Destabilizing ice crystal x4. -->
     <MakeAEIceCrystalDestabilizedBulk.jobString>正在制造失稳冰晶 x4。</MakeAEIceCrystalDestabilizedBulk.jobString>
     <!-- EN: destabilize ice crystal x16 -->
     <MakeAEIceCrystalDestabilizedMass.label>制造失稳冰晶 x16</MakeAEIceCrystalDestabilizedMass.label>
     <!-- EN: Fuse exotic ice crystal with bioferrite to destabilize it. -->
     <MakeAEIceCrystalDestabilizedMass.description>往异种冰晶中注入活铁，使其失稳</MakeAEIceCrystalDestabilizedMass.description>
-	<!-- EN: Destabilizing ice crystal x16. -->
+    <!-- EN: Destabilizing ice crystal x16. -->
     <MakeAEIceCrystalDestabilizedMass.jobString>正在制造失稳冰晶 x16。</MakeAEIceCrystalDestabilizedMass.jobString>
-  
+
 </LanguageData>

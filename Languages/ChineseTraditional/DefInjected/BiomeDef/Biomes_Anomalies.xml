@@ -2,13 +2,13 @@
 <LanguageData>
 
     <!-- EN: blood lake -->
-	<AE_BloodLakeBiome.label>血湖</AE_BloodLakeBiome.label>
+    <AE_BloodLakeBiome.label>血湖</AE_BloodLakeBiome.label>
     <!-- EN: Flashmass infected area on the other side of Blood Lake. -->
-	<AE_BloodLakeBiome.description>血湖另一側的血肉感染區</AE_BloodLakeBiome.description>
+    <AE_BloodLakeBiome.description>血湖另一側的血肉感染區</AE_BloodLakeBiome.description>
 
     <!-- EN: christmas tree -->
-	<AE_ChristmasTreeBiome.label>聖誕樹</AE_ChristmasTreeBiome.label>
+    <AE_ChristmasTreeBiome.label>聖誕樹</AE_ChristmasTreeBiome.label>
     <!-- EN: Ice fields area on the other side of Christmas Tree. -->
-	<AE_ChristmasTreeBiome.description>聖誕樹另一側的冰原</AE_ChristmasTreeBiome.description>
+    <AE_ChristmasTreeBiome.description>聖誕樹另一側的冰原</AE_ChristmasTreeBiome.description>
 
 </LanguageData>

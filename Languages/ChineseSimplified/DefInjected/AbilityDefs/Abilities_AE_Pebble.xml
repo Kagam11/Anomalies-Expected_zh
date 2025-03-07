@@ -3,9 +3,9 @@
     <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Summon void structure -->
-	<AE_Ability_PebbleA.label>召唤虚空结构</AE_Ability_PebbleA.label>
+    <AE_Ability_PebbleA.label>召唤虚空结构</AE_Ability_PebbleA.label>
     <!-- EN: Rips the archotechnological structure from it's place and teleports it into our world -->
-	<AE_Ability_PebbleA.description>将超凡结构从原处撕下，传送到我们的世界</AE_Ability_PebbleA.description>
+    <AE_Ability_PebbleA.description>将超凡结构从原处撕下，传送到我们的世界</AE_Ability_PebbleA.description>
 
     <!--#endregion-->
 </LanguageData>

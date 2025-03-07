@@ -2,8 +2,8 @@
 <LanguageData>
 
     <!-- EN: blood-like liquid pump -->
-	<AE_BloodPump.label>血样液体泵</AE_BloodPump.label>
+    <AE_BloodPump.label>血样液体泵</AE_BloodPump.label>
     <!-- EN: Collect blood-like liquid from nearby anomalous source. -->
-	<AE_BloodPump.description>从附近的异常源收集血样液体。</AE_BloodPump.description>
-    
+    <AE_BloodPump.description>从附近的异常源收集血样液体。</AE_BloodPump.description>
+
 </LanguageData>

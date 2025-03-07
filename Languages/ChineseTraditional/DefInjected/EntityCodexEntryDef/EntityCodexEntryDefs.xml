@@ -3,10 +3,10 @@
     <!--#region Anomalies Expected-->
 
     <!-- EN: ordinary bed -->
-	<AE_EntityCodexEntry_AnomalyBed.label>正常的床</AE_EntityCodexEntry_AnomalyBed.label>
+    <AE_EntityCodexEntry_AnomalyBed.label>正常的床</AE_EntityCodexEntry_AnomalyBed.label>
 
     <!-- EN: ordinary hospital bed -->
-	<AE_EntityCodexEntry_AnomalyHospitalBed.label>正常的醫療床</AE_EntityCodexEntry_AnomalyHospitalBed.label>
+    <AE_EntityCodexEntry_AnomalyHospitalBed.label>正常的醫療床</AE_EntityCodexEntry_AnomalyHospitalBed.label>
 
     <!-- EN: giant apple -->
     <AE_EntityCodexEntry_ForbiddenFruit.label>巨大蘋果</AE_EntityCodexEntry_ForbiddenFruit.label>
@@ -21,32 +21,32 @@
     <AE_EntityCodexEntry_BeamTarget.label>發信器</AE_EntityCodexEntry_BeamTarget.label>
 
     <!-- EN: strange puddle -->
-	<AE_EntityCodexEntry_BloodPuddle.label>怪潭</AE_EntityCodexEntry_BloodPuddle.label>
-	
+    <AE_EntityCodexEntry_BloodPuddle.label>怪潭</AE_EntityCodexEntry_BloodPuddle.label>
+
     <!-- EN: strange lake -->
-	<AE_EntityCodexEntry_BloodLake.label>怪湖</AE_EntityCodexEntry_BloodLake.label>
+    <AE_EntityCodexEntry_BloodLake.label>怪湖</AE_EntityCodexEntry_BloodLake.label>
 
     <!-- EN: Blood-like liquid -->
-	<AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>血樣液體</AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>
+    <AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>血樣液體</AE_EntityCodexEntry_BloodLake.modExtensions.0.groupName>
 
     <!-- EN: yellow notepad -->
-	<AE_EntityCodexEntry_StudyNotepad.label>黃色筆記本</AE_EntityCodexEntry_StudyNotepad.label>
+    <AE_EntityCodexEntry_StudyNotepad.label>黃色筆記本</AE_EntityCodexEntry_StudyNotepad.label>
 
     <!-- EN: ancient scripture -->
     <AE_EntityCodexEntry_ProviderScripture.label>遠古經書</AE_EntityCodexEntry_ProviderScripture.label>
 
     <!-- EN: red stockings -->
-	<AE_EntityCodexEntry_ChristmasStockings.label>紅色長襪</AE_EntityCodexEntry_ChristmasStockings.label>
+    <AE_EntityCodexEntry_ChristmasStockings.label>紅色長襪</AE_EntityCodexEntry_ChristmasStockings.label>
 
     <!-- EN: Christmas -->
-	<AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>聖誕節</AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>
-	
+    <AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>聖誕節</AE_EntityCodexEntry_ChristmasStockings.modExtensions.0.groupName>
+
     <!-- EN: snow army -->
-	<AE_EntityCodexEntry_SnowArmy.label>冰雪軍團</AE_EntityCodexEntry_SnowArmy.label>
+    <AE_EntityCodexEntry_SnowArmy.label>冰雪軍團</AE_EntityCodexEntry_SnowArmy.label>
     <!-- EN: Whispers on the icy winds tell of a force frozen to the core, a chilling legion that emerges from the heart of the blizzards. The only grim evidence of their passage is the trail of frozen corpses.\n\nClassified as Class-4 (Critical) anomaly. -->
-	<AE_EntityCodexEntry_SnowArmy.description>一支從暴風雪中心湧出的令人不寒而慄的軍團，他們冰風中的低語訴說着一股凍結的力量。唯一能證明他們存在的殘酷證據就是一具具冰凍的屍體。\n\n分類爲 4 級（緊急）異常。</AE_EntityCodexEntry_SnowArmy.description>
+    <AE_EntityCodexEntry_SnowArmy.description>一支從暴風雪中心湧出的令人不寒而慄的軍團，他們冰風中的低語訴說着一股凍結的力量。唯一能證明他們存在的殘酷證據就是一具具冰凍的屍體。\n\n分類爲 4 級（緊急）異常。</AE_EntityCodexEntry_SnowArmy.description>
     <!-- EN: Snow army -->
-	<AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>冰雪軍團</AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>
+    <AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>冰雪軍團</AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>
 
 
     <!--#endregion-->
@@ -57,19 +57,19 @@
     <AE_EntityCodexEntry_RazorShard.label>刀鋒碎片</AE_EntityCodexEntry_RazorShard.label>
 
     <!-- EN: Anomalous watch -->
-	<AE_EntityCodexEntry_Clock.label>異常懷錶</AE_EntityCodexEntry_Clock.label>
+    <AE_EntityCodexEntry_Clock.label>異常懷錶</AE_EntityCodexEntry_Clock.label>
 
     <!-- EN: The Key -->
-	<AE_EntityCodexEntry_Key.label>洞啓之鑰</AE_EntityCodexEntry_Key.label>
+    <AE_EntityCodexEntry_Key.label>洞啓之鑰</AE_EntityCodexEntry_Key.label>
 
     <!-- EN: Puzzle -->
-	<AE_EntityCodexEntry_Puzzle.label>神祕裝置</AE_EntityCodexEntry_Puzzle.label>
+    <AE_EntityCodexEntry_Puzzle.label>神祕裝置</AE_EntityCodexEntry_Puzzle.label>
 
     <!-- EN: Subcore -->
-	<AE_EntityCodexEntry_Subcore.label>人格子核</AE_EntityCodexEntry_Subcore.label>
+    <AE_EntityCodexEntry_Subcore.label>人格子核</AE_EntityCodexEntry_Subcore.label>
 
     <!-- EN: Ion -->
-	<AE_EntityCodexEntry_SubcoreConnected.label>Ion</AE_EntityCodexEntry_SubcoreConnected.label>
+    <AE_EntityCodexEntry_SubcoreConnected.label>Ion</AE_EntityCodexEntry_SubcoreConnected.label>
 
     <!-- EN: Clay figure -->
     <AE_EntityCodexEntry_Replicator.label>粘土人偶</AE_EntityCodexEntry_Replicator.label>

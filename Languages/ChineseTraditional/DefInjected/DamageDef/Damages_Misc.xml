@@ -2,34 +2,34 @@
 <LanguageData>
 
     <!-- EN: acid burn -->
-	<AcidBurnFleshmass.label>酸液燒傷</AcidBurnFleshmass.label>
+    <AcidBurnFleshmass.label>酸液燒傷</AcidBurnFleshmass.label>
     <!-- EN: [not found] -->
-	<AcidBurnFleshmass.deathMessage>{0}死於燒傷。</AcidBurnFleshmass.deathMessage>
+    <AcidBurnFleshmass.deathMessage>{0}死於燒傷。</AcidBurnFleshmass.deathMessage>
     <!-- EN: psychic flash -->
-	<AEPsychicFlash.label>靈能電眼</AEPsychicFlash.label>
+    <AEPsychicFlash.label>靈能電眼</AEPsychicFlash.label>
     <!-- EN: [not found] -->
-	<AEPsychicFlash.deathMessage>{0}死於燒傷。</AEPsychicFlash.deathMessage>
+    <AEPsychicFlash.deathMessage>{0}死於燒傷。</AEPsychicFlash.deathMessage>
 
     <!-- EN: freezing -->
-	<AEFreezing.label>凍結</AEFreezing.label>
+    <AEFreezing.label>凍結</AEFreezing.label>
     <!-- EN: {0} has succumbed to freezing. -->
-	<AEFreezing.deathMessage>{0}死於凍結。</AEFreezing.deathMessage>
+    <AEFreezing.deathMessage>{0}死於凍結。</AEFreezing.deathMessage>
 
     <!-- EN: nitrogen -->
-	<AENitrogen.label>液氮</AENitrogen.label>
+    <AENitrogen.label>液氮</AENitrogen.label>
     <!-- EN: {0} has succumbed to nitrogen freezing. -->
-	<AENitrogen.deathMessage>{0}死於液氮凍傷。</AENitrogen.deathMessage>
+    <AENitrogen.deathMessage>{0}死於液氮凍傷。</AENitrogen.deathMessage>
     <!-- EN: nitrogen -->
-	<AENitrogenPlayer.label>液氮</AENitrogenPlayer.label>
+    <AENitrogenPlayer.label>液氮</AENitrogenPlayer.label>
     <!-- EN: {0} has succumbed to nitrogen freezing. -->
-	<AENitrogenPlayer.deathMessage>{0}死於液氮凍傷。</AENitrogenPlayer.deathMessage>
+    <AENitrogenPlayer.deathMessage>{0}死於液氮凍傷。</AENitrogenPlayer.deathMessage>
     <!-- EN: freezing fragile -->
-	<AEFreezingFragileCut.label>凍結脆弱</AEFreezingFragileCut.label>
+    <AEFreezingFragileCut.label>凍結脆弱</AEFreezingFragileCut.label>
     <!-- EN: {0} become too fragile from freezing. -->
-	<AEFreezingFragileCut.deathMessage>{0}凍得太脆了。</AEFreezingFragileCut.deathMessage>
+    <AEFreezingFragileCut.deathMessage>{0}凍得太脆了。</AEFreezingFragileCut.deathMessage>
     <!-- EN: freezing fragile -->
-	<AEFreezingFragileStab.label>凍結脆弱</AEFreezingFragileStab.label>
+    <AEFreezingFragileStab.label>凍結脆弱</AEFreezingFragileStab.label>
     <!-- EN: {0} become too fragile from freezing. -->
-	<AEFreezingFragileStab.deathMessage>{0}凍得太脆了。</AEFreezingFragileStab.deathMessage>
+    <AEFreezingFragileStab.deathMessage>{0}凍得太脆了。</AEFreezingFragileStab.deathMessage>
 
 </LanguageData>

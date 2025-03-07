@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<!--#region Anomalies Expected Addon-->
+    <!--#region Anomalies Expected Addon-->
 
     <!-- EN: Dark archotech connection -->
-	<Hediff_AE_ArchoConnector.label>暗黑超凡连接</Hediff_AE_ArchoConnector.label>
+    <Hediff_AE_ArchoConnector.label>暗黑超凡连接</Hediff_AE_ArchoConnector.label>
     <!-- EN: The dark archotech now recognizes this pawn as it's own subject, allowing them to use powers similar to those of the subroutine -->
-	<Hediff_AE_ArchoConnector.description>暗黑超凡智能现在认为这个小人是它自己的造物，并给予了这个小人类似子程序的能力。</Hediff_AE_ArchoConnector.description>
+    <Hediff_AE_ArchoConnector.description>暗黑超凡智能现在认为这个小人是它自己的造物，并给予了这个小人类似子程序的能力。</Hediff_AE_ArchoConnector.description>
 
     <!--#endregion-->
 </LanguageData>
