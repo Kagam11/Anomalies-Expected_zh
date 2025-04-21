@@ -48,6 +48,8 @@
     <!-- EN: Snow army -->
     <AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>冰雪軍團</AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>
 
+    <!-- EN: speedometer -->
+    <AE_EntityCodexEntry_Speedometer.label>速度計</AE_EntityCodexEntry_Speedometer.label>
 
     <!--#endregion-->
 

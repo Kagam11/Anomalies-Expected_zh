@@ -72,6 +72,13 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a red stockings, featuring white details and a snowflake symbol. It appear to be filled with something. -->
     <AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個紅色的長襪，表面有白色的紋路和雪花裝飾。似乎裏面填滿了東西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
 
+    <!-- EN: speedometer -->
+	<AE_IncidentDef_SpeedometerSpawn.label>速度計</AE_IncidentDef_SpeedometerSpawn.label>
+    <!-- EN: Found speedometer -->
+	<AE_IncidentDef_SpeedometerSpawn.letterLabel>發現速度計</AE_IncidentDef_SpeedometerSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark circular gauge with faded numbers and a thin red needle. -->
+	<AE_IncidentDef_SpeedometerSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個深色的圓形儀器，上面有褪色的數字和一根細紅色指針。</AE_IncidentDef_SpeedometerSpawn.letterText>
+
     <!--#endregion-->
 
 
