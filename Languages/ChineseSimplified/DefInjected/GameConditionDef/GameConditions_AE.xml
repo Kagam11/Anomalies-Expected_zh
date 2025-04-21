@@ -5,10 +5,10 @@
     <AE_BloodFog.label>高浓度血样液体</AE_BloodFog.label>
     <!-- EN: A crimson fog, thick and ominous, blankets the surroundings. This mist is a direct consequence of the elevated concentration of blood-like liquid in the air. Despite its apparent harmlessness, a subtle sense of dread creeps in. This phenomenon will undoubtedly affect all beings outside of enclosed spaces. -->
     <AE_BloodFog.description>周围笼罩着一层猩红浓雾，厚重而不祥。这种雾是空气中血样液体浓度升高的直接后果。尽管它表面上无害，但一种微妙的恐惧感却悄然而至。这种现象无疑会影响封闭空间外的所有生物。</AE_BloodFog.description>
-    <!-- EN: Blood-like liquid concentration in the air rapidly increasing. -->
-    <AE_BloodFog.endMessage>空气中血样液体浓度迅速增加。</AE_BloodFog.endMessage>''     <!--not sure about these quotation mark-->
     <!-- EN: Blood-like liquid concentration in the air returning to normal. -->
-    <AE_BloodFog.startMessage>空气中血样液体浓度回到正常。</AE_BloodFog.startMessage>''
+    <AE_BloodFog.endMessage>空气中血样液体浓度回到正常。</AE_BloodFog.endMessage>''     <!--!!!not sure about these quotation mark-->
+    <!-- EN: Blood-like liquid concentration in the air rapidly increasing. -->
+    <AE_BloodFog.startMessage>空气中血样液体浓度迅速增加。</AE_BloodFog.startMessage>''
 
         <!-- EN: temperature shifting -->
     <AE_TemperatureDrop.label>温度骤变</AE_TemperatureDrop.label>

@@ -17,7 +17,7 @@
     <AnomaliesExpected.BloodLake.AlreadyExists>怪湖已存在</AnomaliesExpected.BloodLake.AlreadyExists>
 
     <!-- EN: High liquid density prevents exploration -->
-    <AnomaliesExpected.BloodLake.Reason.CantEnterA>液体密度过高，无法勘探</AnomaliesExpected.BloodLake.Reason.CantEnterA>
+    <AnomaliesExpected.BloodLake.Reason.CantEnterA>液体浓度过高，无法勘探</AnomaliesExpected.BloodLake.Reason.CantEnterA>
     <!-- EN: Underwater drone currently surveying lakebed -->
     <AnomaliesExpected.BloodLake.Reason.CantEnterB>水下无人机正在勘测湖床</AnomaliesExpected.BloodLake.Reason.CantEnterB>
     <!-- EN: Connection with other side lost -->
@@ -26,7 +26,7 @@
     <!-- EN: Fleshbeasts hoard -->
     <AnomaliesExpected.BloodLake.LetterRaid.Label>血肉兽聚集</AnomaliesExpected.BloodLake.LetterRaid.Label>
     <!-- EN: Blood Lake liquid density fall too low. A hoard of fleshbeasts is emerging from it. -->
-    <AnomaliesExpected.BloodLake.LetterRaid.Text>血湖液体密度过低。一群血肉兽正从里面涌出。</AnomaliesExpected.BloodLake.LetterRaid.Text>
+    <AnomaliesExpected.BloodLake.LetterRaid.Text>血湖液体浓度过低。一群血肉兽正从里面涌出。</AnomaliesExpected.BloodLake.LetterRaid.Text>
 
     <!-- EN: Fleshmass territory -->
     <AnomaliesExpected.BloodLake.LetterEnter.Label>血肉领域</AnomaliesExpected.BloodLake.LetterEnter.Label>

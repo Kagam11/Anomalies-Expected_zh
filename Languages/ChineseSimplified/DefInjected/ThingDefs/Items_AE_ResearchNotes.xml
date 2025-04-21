@@ -218,7 +218,7 @@
     <!-- EN: By studying research note, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-01 research note studied: {RESEARCH} unlocked -->
-    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析轨道光束演习标靶研究记录：解锁{RESEARCH}</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析大气降温器研究记录：解锁{RESEARCH}</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- EN: Turn pointer to {0} -->
+	<AnomaliesExpected.Speedometer.TurnPointer>调整指针至{0}</AnomaliesExpected.Speedometer.TurnPointer>
+    <!-- EN: Turn pointer to {0} [Current] -->
+	<AnomaliesExpected.Speedometer.TurnPointerCurrent>调整指针至{0} [当前档位]</AnomaliesExpected.Speedometer.TurnPointerCurrent>
+    <!-- EN: Turn pointer to {0} [Disabled] -->
+	<AnomaliesExpected.Speedometer.TurnPointerDisabled>调整指针至{0} [不可用]</AnomaliesExpected.Speedometer.TurnPointerDisabled>
+    <!-- EN: Rotate screw -->
+	<AnomaliesExpected.Speedometer.TurnPointer.Label>旋转螺丝</AnomaliesExpected.Speedometer.TurnPointer.Label>
+    <!-- EN: Rotate screw to turn pointer to a different value -->
+	<AnomaliesExpected.Speedometer.TurnPointer.Desc>旋转螺丝，将指针调至某个值</AnomaliesExpected.Speedometer.TurnPointer.Desc>
+	
+    <!-- EN: Take off {0}? -->
+	<AnomaliesExpected.Speedometer.TakeOff>取下{0}吗?</AnomaliesExpected.Speedometer.TakeOff>
+    <!-- EN: Take off -->
+	<AnomaliesExpected.Speedometer.TakeOff.Label>取下</AnomaliesExpected.Speedometer.TakeOff.Label>
+    <!-- EN: Take off {0} from yourself -->
+	<AnomaliesExpected.Speedometer.TakeOff.Desc>将{0}从身体中取下</AnomaliesExpected.Speedometer.TakeOff.Desc>
+</LanguageData>
