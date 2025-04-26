@@ -140,5 +140,12 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some strange pebble -->
     <AE_IncidentDef_PebbleSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一种奇怪的卵石。</AE_IncidentDef_PebbleSpawn.letterText>
 
+    <!-- EN: ancient server -->
+    <AE_IncidentDef_EntityDatabaseSpawn.label>远古服务器</AE_IncidentDef_EntityDatabaseSpawn.label>
+    <!-- EN: Found ancient server -->
+	<AE_IncidentDef_EntityDatabaseSpawn.letterLabel>发现远古服务器</AE_IncidentDef_EntityDatabaseSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ancient server composed of three connected sections. The data it holds, however, remains unknown. -->
+	<AE_IncidentDef_EntityDatabaseSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由三部分连接组成的远古服务器，其包含的数据仍然未知。</AE_IncidentDef_EntityDatabaseSpawn.letterText>
+
     <!--#endregion-->
 </LanguageData>

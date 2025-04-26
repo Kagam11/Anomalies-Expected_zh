@@ -198,6 +198,11 @@
     <!-- EN: Analyze the mechanisms of ice crystal control over nano-scale frostites. -->
     <AENanoInfusedIceCrystal.description>分析冰晶如何控制納米霜粒。</AENanoInfusedIceCrystal.description>
 
+    <!-- EN: connect with entity database -->
+	<AEConnectEntityDatabase.label>數據庫連接</AEConnectEntityDatabase.label>
+    <!-- EN: Examining data from entity database and learn connect with entity database ritual. -->
+	<AEConnectEntityDatabase.description>檢查實體數據庫中的數據，學習與實體數據庫儀式的連接。</AEConnectEntityDatabase.description>
+
 
     <!--#endregion-->
 

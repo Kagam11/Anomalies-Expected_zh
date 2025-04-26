@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: {0} emitted a psychic pulse of strength {1} -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Active>{0}激發了強度爲{1}的靈能脈衝</AnomaliesExpected.EntityDatabaseAnomaly.Active>
+    <!-- EN: Selected entity: {0} -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Selected>選定實體：{0}</AnomaliesExpected.EntityDatabaseAnomaly.Selected>
+    <!-- EN: Access Database -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>訪問數據庫</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>
+    <!-- EN: Open database to select entity as a target for ritual. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>開啓數據庫，選定一個實體作爲儀式的目標</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>
+	
+    <!-- EN: \n{0} entity will be provoked. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>\n將引來{0}。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>
+    <!-- EN: Missing Entity Database for ritual. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>儀式缺少需要的數據庫。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>
+    <!-- EN: Entity not selected in Entity Database. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>實體未在數據庫中選中。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>
+    <!-- EN: Entity already was provoked. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>實體已被吸引。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>
+	
+    <!-- EN: All known entities: available {0}/{1} -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Desc>已知實體：{0}/{1}可用</AnomaliesExpected.EntityDatabaseAnomaly.Desc>
+    <!-- EN: Available now. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>現在可用。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>
+    <!-- EN: Was provoked too recently. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>召喚過於頻繁。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>
+    <!-- EN: Prevented by something. -->
+	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>被某物阻止。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>
+	
+</LanguageData>

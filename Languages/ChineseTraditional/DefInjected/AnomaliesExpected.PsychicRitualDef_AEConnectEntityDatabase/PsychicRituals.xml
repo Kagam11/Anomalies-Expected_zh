@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: connect with entity database -->
+	<AE_ConnectEntityDatabase.label>連接實體數據庫</AE_ConnectEntityDatabase.label>
+    <!-- EN: Psychically commune with the void through connection with Entity Database, attracting previously studied entities again. There’s a chance that the invoker will fall into a coma for several hours. -->
+	<AE_ConnectEntityDatabase.description>通過數據庫與虛空進行心靈交流，吸引一個可以之前調查過的實體。發起者可能會昏迷數小時。</AE_ConnectEntityDatabase.description>
+    <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
+	<AE_ConnectEntityDatabase.outcomeDescription>當前儀式質量下，發起者有{0}的可能性陷入暗黑心靈衝擊。</AE_ConnectEntityDatabase.outcomeDescription>
+  
+</LanguageData>

@@ -51,6 +51,10 @@
     <!-- EN: speedometer -->
     <AE_EntityCodexEntry_Speedometer.label>速度计</AE_EntityCodexEntry_Speedometer.label>
 
+    <!-- EN: ancient server -->
+    <AE_EntityCodexEntry_EntityDatabase.label>远古服务器</AE_EntityCodexEntry_EntityDatabase.label>
+
+
     <!--#endregion-->
 
     <!--#region Anomalies Expected Addon-->
