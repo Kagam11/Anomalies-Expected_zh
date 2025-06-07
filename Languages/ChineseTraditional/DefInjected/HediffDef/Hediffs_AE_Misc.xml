@@ -75,8 +75,10 @@
     <!-- EN: a deflective ice -->
     <AE_IceThinBody.labelNoun>偏轉冰片</AE_IceThinBody.labelNoun>
     
-	<Hediff_AESnowMelting.label>таяние</Hediff_AESnowMelting.label>
-	<Hediff_AESnowMelting.description>Тело существа медлено тает.</Hediff_AESnowMelting.description>
+    <!-- EN: melting -->
+	<Hediff_AESnowMelting.label>融化</Hediff_AESnowMelting.label>
+    <!-- EN: The creature's body gradually melts away. -->
+	<Hediff_AESnowMelting.description>這個生物的身體正在逐漸融化。</Hediff_AESnowMelting.description>
 
     <!-- EN: speedometer acceleration -->
 	<Hediff_AEAcceleration.label>速時</Hediff_AEAcceleration.label>

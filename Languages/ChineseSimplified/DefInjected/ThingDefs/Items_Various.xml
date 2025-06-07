@@ -167,7 +167,7 @@
     <AE_StudyNotepad.comps.Comp_StudyNotepad.onCooldownString>恢复中</AE_StudyNotepad.comps.Comp_StudyNotepad.onCooldownString>
 
     <!-- EN: Yellow notepad is ready to use again. -->
-    <AE_StudyNotepad.comps.Comp_StudyNotepad.messageCooldownEnded>Жёлтый блокнот можно использовать снова.</AE_StudyNotepad.comps.Comp_StudyNotepad.messageCooldownEnded>
+    <AE_StudyNotepad.comps.Comp_StudyNotepad.messageCooldownEnded>黄色笔记本已可以再次使用。</AE_StudyNotepad.comps.Comp_StudyNotepad.messageCooldownEnded>
 
     <!-- EN: #1/2 Yellow notepad study report -->
     <AE_StudyNotepad.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/2 黄色笔记本研究报告</AE_StudyNotepad.comps.CompAEStudyUnlocks.studyNotes.0.label>
@@ -247,7 +247,7 @@
     <!-- EN: preparing -->
     <AE_ChristmasStockings.comps.Comp_ChristmasStockings.onCooldownString>准备中</AE_ChristmasStockings.comps.Comp_ChristmasStockings.onCooldownString>
     <!-- EN: Red stockings is ready to use again. -->
-	<AE_ChristmasStockings.comps.Comp_ChristmasStockings.messageCooldownEnded>Красный носок можно использовать снова.</AE_ChristmasStockings.comps.Comp_ChristmasStockings.messageCooldownEnded>
+	<AE_ChristmasStockings.comps.Comp_ChristmasStockings.messageCooldownEnded>红色长袜已经可以再次使用。</AE_ChristmasStockings.comps.Comp_ChristmasStockings.messageCooldownEnded>
 
     <!-- EN: #1/3 Red stockings study report -->
     <AE_ChristmasStockings.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/3 红色长袜研究报告</AE_ChristmasStockings.comps.CompAEStudyUnlocks.studyNotes.0.label>
@@ -309,7 +309,7 @@
     <!-- EN: readjusting -->
 	<AE_Speedometer.comps.Comp_Speedometer.onCooldownString>正在重调中</AE_Speedometer.comps.Comp_Speedometer.onCooldownString>
     <!-- EN: Speedometer is ready to use again. -->
-	<AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>Спидометр можно использовать снова.</AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>
+	<AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>速度计已经可以再次使用。</AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>
 
     <!-- EN: #1/1 Speedometer study report -->
 	<AE_Speedometer.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/1 速度计研究报告</AE_Speedometer.comps.CompAEStudyUnlocks.studyNotes.0.label>

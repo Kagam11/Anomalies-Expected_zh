@@ -106,14 +106,6 @@
     <!-- EN: a fleshmass ear -->
     <AE_FleshmassEar.labelNoun>一個血肉耳</AE_FleshmassEar.labelNoun>
 
-    <!-- May duplicate???
-	<AE_FleshmassNose.label>нос из биомассы</AE_FleshmassNose.label>
-	<AE_FleshmassNose.description>一團癌變的半智慧肉體。 Внутренняя структура схожа с простым фильтром противогаза, частично блокирующим попадание токсинов в тело носителя.\n\n該器官有自己的神經結構，如果被移除，可能會變得危險。</AE_FleshmassNose.description>
-	<AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手術</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterLabel>
-	<AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>試圖移除{PAWN_nameDef}的нос導致扭曲的血肉塊發動攻擊。血肉塊已脫離{PAWN_nameDef}並轉化爲血肉獸！</AE_FleshmassNose.comps.HediffComp_FleshbeastEmerge.letterText>
-	<AE_FleshmassNose.labelNoun>нос из биомассы</AE_FleshmassNose.labelNoun> 
--->
-
     <!-- EN: fleshmass kidney -->
     <AE_FleshmassKidney.label>血肉腎</AE_FleshmassKidney.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Will grow fleshmass that can be mutated into Fingerspike afflicted with by destabilization mutation.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
