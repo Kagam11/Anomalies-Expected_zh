@@ -29,6 +29,17 @@
     <AE_IncidentDef_MeatGrinderSpawn.letterLabel>发现工业金属箱</AE_IncidentDef_MeatGrinderSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
     <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个形同一张桌子般高度的金属箱体，外观类似工业制品。光滑的表面两侧有几扇小门，顶部有一个大洞，里面藏着刀片。孔旁边有一个按钮，暗示着一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
+    <!-- EN: industrial metal box -->
+    <AE_IncidentDef_MeatGrinderMysteriousCargo.label>工业金属箱</AE_IncidentDef_MeatGrinderMysteriousCargo.label>
+
+    <!-- EN: big pie -->
+    <AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
+    <!-- EN: Found big pie -->
+    <AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
+    <AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
+	<!-- EN: big pie -->
+    <AE_IncidentDef_BakingPiesMysteriousCargo.label>巨大的派</AE_IncidentDef_BakingPiesMysteriousCargo.label>
 
     <!-- EN: transmitter -->
     <AE_IncidentDef_BeamTargetSpawn.label>发信器</AE_IncidentDef_BeamTargetSpawn.label>
@@ -36,6 +47,9 @@
     <AE_IncidentDef_BeamTargetSpawn.letterLabel>发现发信器</AE_IncidentDef_BeamTargetSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a small device with pneumatic retractable stops. On its body there are indicators with lights, an antenna and a small button. It looks like military grade. -->
     <AE_IncidentDef_BeamTargetSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个带有气动缩回固定装置的小型设备，机身上有指示器、天线、灯和一个小型按钮，看上去是军用级的。</AE_IncidentDef_BeamTargetSpawn.letterText>
+    <!-- EN: transmitter -->
+    <AE_IncidentDef_BeamTargetMysteriousCargo.label>发信器</AE_IncidentDef_BeamTargetMysteriousCargo.label>
+
 
     <!-- EN: strange puddle -->
     <AE_IncidentDef_BloodPuddleSpawn.label>怪潭</AE_IncidentDef_BloodPuddleSpawn.label>
@@ -43,21 +57,21 @@
     <AE_IncidentDef_BloodPuddleSpawn.letterLabel>发现怪潭</AE_IncidentDef_BloodPuddleSpawn.letterLabel>
     <!-- EN: Your colonist noticed some small ground vibration. It seems like a pool of liquid seeping up from beneath the ground. -->
     <AE_IncidentDef_BloodPuddleSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一汪水潭。</AE_IncidentDef_BloodPuddleSpawn.letterText>
-
+    
     <!-- EN: strange lake -->
     <AE_IncidentDef_BloodLakeSpawn.label>怪湖</AE_IncidentDef_BloodLakeSpawn.label>
     <!-- EN: Found strange lake -->
     <AE_IncidentDef_BloodLakeSpawn.letterLabel>发现怪湖</AE_IncidentDef_BloodLakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some strong ground vibration. It seems like a giant pool of liquid seeping up from beneath the ground. -->
     <AE_IncidentDef_BloodLakeSpawn.letterText>你的殖民者注意到轻微的地震。似乎某处从地下渗出了某些液体形成了一片小湖。</AE_IncidentDef_BloodLakeSpawn.letterText>
-
+    
     <!-- EN: yellow notepad -->
     <AE_IncidentDef_StudyNotepadSpawn.label>黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.label>
     <!-- EN: Found yellow notepad -->
     <AE_IncidentDef_StudyNotepadSpawn.letterLabel>发现黄色笔记本</AE_IncidentDef_StudyNotepadSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a notepad, its yellow pages filled with handwritten notes. -->
     <AE_IncidentDef_StudyNotepadSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个黄色的笔记本，上面写满了手写笔记。</AE_IncidentDef_StudyNotepadSpawn.letterText>
-
+    
     <!-- EN: ancient scripture -->
     <AE_IncidentDef_ProviderScriptureSpawn.label>远古经书</AE_IncidentDef_ProviderScriptureSpawn.label>
     <!-- EN: Found ancient scripture -->
@@ -71,6 +85,8 @@
     <AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>发现红色长袜</AE_IncidentDef_ChristmasStockingsSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a red stockings, featuring white details and a snowflake symbol. It appear to be filled with something. -->
     <AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个红色的长袜，表面有白色的纹路和雪花装饰。似乎里面填满了东西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
+    <!-- EN: red stockings -->
+    <AE_IncidentDef_CreepJoinerJoin_IceMan.label>红色长袜</AE_IncidentDef_CreepJoinerJoin_IceMan.label>
 
     <!-- EN: speedometer -->
 	<AE_IncidentDef_SpeedometerSpawn.label>速度计</AE_IncidentDef_SpeedometerSpawn.label>
@@ -78,6 +94,20 @@
 	<AE_IncidentDef_SpeedometerSpawn.letterLabel>发现速度计</AE_IncidentDef_SpeedometerSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark circular gauge with faded numbers and a thin red needle. -->
 	<AE_IncidentDef_SpeedometerSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个深色的圆形仪器，上面有褪色的数字和一根细红色指针。</AE_IncidentDef_SpeedometerSpawn.letterText>
+
+    <!-- EN: ancient server -->
+    <AE_IncidentDef_EntityDatabaseSpawn.label>远古服务器</AE_IncidentDef_EntityDatabaseSpawn.label>
+    <!-- EN: Found ancient server -->
+	<AE_IncidentDef_EntityDatabaseSpawn.letterLabel>发现远古服务器</AE_IncidentDef_EntityDatabaseSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ancient server composed of three connected sections. The data it holds, however, remains unknown. -->
+	<AE_IncidentDef_EntityDatabaseSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由三部分连接组成的远古服务器，其包含的数据仍然未知。</AE_IncidentDef_EntityDatabaseSpawn.letterText>
+
+    <!-- EN: big cake -->
+	<AE_IncidentDef_BirthdayCakeSpawn.label>大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.label>
+    <!-- EN: Found big cake -->
+	<AE_IncidentDef_BirthdayCakeSpawn.letterLabel>发现大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.letterLabel>
+    <!-- EN: Your colonist noticed some object appeared nearby. At close inspection it seems like a round big cake on a red plate. It looks appetizing. -->
+	<AE_IncidentDef_BirthdayCakeSpawn.letterText>你的殖民者发现附近出现了某个物体。仔细一看，这似乎是一个红色盘子里的圆形大蛋糕。看起来很好吃。</AE_IncidentDef_BirthdayCakeSpawn.letterText>
 
     <!--#endregion-->
 
@@ -126,26 +156,12 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some kind of clay figure -->
     <AE_IncidentDef_ReplicatorSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由某种粘土制成的人偶。</AE_IncidentDef_ReplicatorSpawn.letterText>
 
-    <!-- EN: big pie -->
-    <AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
-    <!-- EN: Found big pie -->
-    <AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
-    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
-    <AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
-
     <!-- EN: Strange pebble -->
     <AE_IncidentDef_PebbleSpawn.label>奇异卵石</AE_IncidentDef_PebbleSpawn.label>
     <!-- EN: Found strange pebble -->
     <AE_IncidentDef_PebbleSpawn.letterLabel>发现奇异卵石</AE_IncidentDef_PebbleSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection the item seems to be some strange pebble -->
     <AE_IncidentDef_PebbleSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一种奇怪的卵石。</AE_IncidentDef_PebbleSpawn.letterText>
-
-    <!-- EN: ancient server -->
-    <AE_IncidentDef_EntityDatabaseSpawn.label>远古服务器</AE_IncidentDef_EntityDatabaseSpawn.label>
-    <!-- EN: Found ancient server -->
-	<AE_IncidentDef_EntityDatabaseSpawn.letterLabel>发现远古服务器</AE_IncidentDef_EntityDatabaseSpawn.letterLabel>
-    <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ancient server composed of three connected sections. The data it holds, however, remains unknown. -->
-	<AE_IncidentDef_EntityDatabaseSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由三部分连接组成的远古服务器，其包含的数据仍然未知。</AE_IncidentDef_EntityDatabaseSpawn.letterText>
-
+    
     <!--#endregion-->
 </LanguageData>

@@ -11,5 +11,8 @@
     <!-- EN: applying TargetA to TargetB. -->
     <AE_ApplyUsableTo.reportString>將TargetA用在TargetB上。</AE_ApplyUsableTo.reportString>
 
+    <!-- EN: taking gift. -->
+	<AE_InteractChristmasStockings.reportString>正在拿禮物。</AE_InteractChristmasStockings.reportString>
+
     <!--#endregion-->
 </LanguageData>

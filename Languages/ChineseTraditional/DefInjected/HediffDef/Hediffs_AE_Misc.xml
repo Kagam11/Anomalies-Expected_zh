@@ -74,6 +74,9 @@
     <AE_IceThinBody.description>這種薄冰結構可增強攻擊偏轉。它能減少正面和背面受到的傷害，但會增加來自側面的傷害。</AE_IceThinBody.description>
     <!-- EN: a deflective ice -->
     <AE_IceThinBody.labelNoun>偏轉冰片</AE_IceThinBody.labelNoun>
+    
+	<Hediff_AESnowMelting.label>таяние</Hediff_AESnowMelting.label>
+	<Hediff_AESnowMelting.description>Тело существа медлено тает.</Hediff_AESnowMelting.description>
 
     <!-- EN: speedometer acceleration -->
 	<Hediff_AEAcceleration.label>速時</Hediff_AEAcceleration.label>
@@ -89,6 +92,11 @@
 	<Hediff_AEChronoDestabilization.label>時序失穩</Hediff_AEChronoDestabilization.label>
     <!-- EN: The Speedometer's constant influence destabilizes biological systems. This manifests as some cells speeding up dramatically, while others sluggishly decelerate. Extended exposure is lethal. The body recovers its normal function after the Speedometer is no longer affecting it. -->
 	<Hediff_AEChronoDestabilization.description>速度計的持續影響會破壞生物系統的穩定性。表現爲一些細胞急劇加速，而另一些細胞則緩慢減速。長時間影響會最終致命。當速度計不再影響人體後，就會恢復正常。</Hediff_AEChronoDestabilization.description>
+
+    <!-- EN: chrono coma -->
+	<Hediff_AEChronoComa.label>時間昏迷</Hediff_AEChronoComa.label>
+    <!-- EN: This person forcefully separated Speedometer from their body. Severing the link this way has put them in a coma. -->
+	<Hediff_AEChronoComa.description>此人被強制卸下了速度計，導致了昏迷。</Hediff_AEChronoComa.description>
 
     <!--#endregion-->
 </LanguageData>

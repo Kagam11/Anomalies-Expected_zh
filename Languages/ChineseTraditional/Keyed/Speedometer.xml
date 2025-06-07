@@ -17,4 +17,11 @@
 	<AnomaliesExpected.Speedometer.TakeOff.Label>取下</AnomaliesExpected.Speedometer.TakeOff.Label>
     <!-- EN: Take off {0} from yourself -->
 	<AnomaliesExpected.Speedometer.TakeOff.Desc>將{0}從身體中取下</AnomaliesExpected.Speedometer.TakeOff.Desc>
+    <!-- EN: Forcefully remove {0}?\nWill cause chrono coma for {1}. -->
+	<AnomaliesExpected.Speedometer.TakeOffEarly>要強制移除{0}嗎？\n這將使{1}陷入昏迷。</AnomaliesExpected.Speedometer.TakeOffEarly>
+    <!-- EN: Forcefully remove -->
+	<AnomaliesExpected.Speedometer.TakeOffEarly.Label>強制移除</AnomaliesExpected.Speedometer.TakeOffEarly.Label>
+    <!-- EN: Forcefully remove {0} before it connection with body can be severed. Can be safely take off in {1}. -->
+	<AnomaliesExpected.Speedometer.TakeOffEarly.Desc>在切斷{0}與對象身體的連接之前強行取下。可在{1}後安全取下。</AnomaliesExpected.Speedometer.TakeOffEarly.Desc>
+
 </LanguageData>

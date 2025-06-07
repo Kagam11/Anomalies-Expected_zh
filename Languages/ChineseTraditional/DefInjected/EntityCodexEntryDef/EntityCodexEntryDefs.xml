@@ -54,6 +54,9 @@
     <!-- EN: ancient server -->
     <AE_EntityCodexEntry_EntityDatabase.label>遠古服務器</AE_EntityCodexEntry_EntityDatabase.label>
 
+    <!-- EN: big cake -->
+    <AE_EntityCodexEntry_BirthdayCake.label>大蛋糕</AE_EntityCodexEntry_BirthdayCake.label>
+
 
     <!--#endregion-->
 

@@ -50,5 +50,30 @@
     <!-- EN: Disappointment washed over them as they pulled out the lump of coal, a sense of shame momentarily clouding their mood. -->
     <Thought_AEChristmasCoal.stages.got_lump_of_coal.description>得到煤塊，失望之情油然而生，瞬間被一種羞愧感籠罩。</Thought_AEChristmasCoal.stages.got_lump_of_coal.description>
 
+    <!-- EN: I'm the speed -->
+	<Thought_AEAcceleration.stages.0.label>我就是速度</Thought_AEAcceleration.stages.0.label>
+    <!-- EN: Everything slowed down. But I'm actually faster than anyone around me. -->
+	<Thought_AEAcceleration.stages.0.description>周圍的一切都變慢了，當然這是因爲我比周圍事物都快。</Thought_AEAcceleration.stages.0.description>
+    <!-- EN: Dragging words -->
+	<Thought_AEAcceleration.stages.1.label>說不出話</Thought_AEAcceleration.stages.1.label>
+    <!-- EN: Everyone's words are just... dragging. It's so hard to actually talk with them. -->
+	<Thought_AEAcceleration.stages.1.description>每個人說話都很...拖沓。要和他們說話真的太難了。</Thought_AEAcceleration.stages.1.description>
+    <!-- EN: Pastimes now tedious -->
+	<Thought_AEAcceleration.stages.2.label>乏味的消遣</Thought_AEAcceleration.stages.2.label>
+    <!-- EN: Those things I loved doing to relax? Now they just drag on and on... It's hard to enjoy them like this. -->
+	<Thought_AEAcceleration.stages.2.description>曾經我用來消遣的事情現在變得非常慢...讓我很難再享受這些活動。</Thought_AEAcceleration.stages.2.description>
+    <!-- EN: Fast, but yet slow -->
+	<Thought_AEAcceleration.stages.3.label>快中有慢</Thought_AEAcceleration.stages.3.label>
+    <!-- EN: I can do everything really fast. The downside? Realizing just how slow everything else is, and knowing I have to adjust and wait for it. -->
+	<Thought_AEAcceleration.stages.3.description>我現在做什麼都很快，但缺點是同時意識到其他事情都很慢，需要調整和等待。</Thought_AEAcceleration.stages.3.description>
+    <!-- EN: Frustrating conversations -->
+	<Thought_AEAcceleration.stages.4.label>無法交流</Thought_AEAcceleration.stages.4.label>
+    <!-- EN: Everything just drags on so slowly. It's almost physically painful. And when I try to talk to people, they don't understand a word, and I can't wait to decipher what they're trying to tell me either. -->
+	<Thought_AEAcceleration.stages.4.description>一切都拖得那麼慢。這幾乎是一種肉體上的痛苦。當我試着與人交談時，他們一句也聽不懂，我也等不及去解讀他們想告訴我什麼。</Thought_AEAcceleration.stages.4.description>
+    <!-- EN: The lonely frozen world -->
+	<Thought_AEAcceleration.stages.5.label>孤獨的世界</Thought_AEAcceleration.stages.5.label>
+    <!-- EN: It feels like time itself has stopped for everyone but me. And then this wave of loneliness just washes over me. -->
+	<Thought_AEAcceleration.stages.5.description>感覺就像除了我之外，其他人的時間都停止了。孤獨淹沒了我。</Thought_AEAcceleration.stages.5.description>
+
     <!--#endregion-->
 </LanguageData>
