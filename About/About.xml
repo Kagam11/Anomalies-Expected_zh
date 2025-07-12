@@ -3,9 +3,10 @@
 	<name>Anomalies Expected_zh</name>
 	<author>Kagami</author>
 	<packageId>Kagami.AnomaliesExpected.zh</packageId>
-    <modVersion>2.0.2.1</modVersion>
+    <modVersion>2.0.2.2</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
+        <li>1.6</li>
 	</supportedVersions>
 	<description>
     个人汉化，繁体使用opencc转换，如有错漏烦请指出。
