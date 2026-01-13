@@ -2,10 +2,10 @@
 <LanguageData>
 
     <!-- EN: connect with entity database -->
-	<AE_ConnectEntityDatabase.label>连接实体数据库</AE_ConnectEntityDatabase.label>
+    <AE_ConnectEntityDatabase.label>连接实体数据库</AE_ConnectEntityDatabase.label>
     <!-- EN: Psychically commune with the void through connection with Entity Database, attracting previously studied entities again. There’s a chance that the invoker will fall into a coma for several hours. -->
-	<AE_ConnectEntityDatabase.description>通过数据库与虚空进行心灵交流，吸引一个可以之前调查过的实体。发起者可能会昏迷数小时。</AE_ConnectEntityDatabase.description>
+    <AE_ConnectEntityDatabase.description>与虚空进行心灵交流，吸引一个之前调查过的实体。发起者可能会昏迷数小时。</AE_ConnectEntityDatabase.description>
     <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
-	<AE_ConnectEntityDatabase.outcomeDescription>当前仪式质量下，发起者有{0}的可能性陷入暗黑心灵冲击。</AE_ConnectEntityDatabase.outcomeDescription>
+    <AE_ConnectEntityDatabase.outcomeDescription>以当前仪式质量，发起者有{0}的几率陷入暗黑心灵冲击状态。</AE_ConnectEntityDatabase.outcomeDescription>
   
 </LanguageData>

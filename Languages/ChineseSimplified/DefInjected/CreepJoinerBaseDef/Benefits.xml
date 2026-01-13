@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: summon snow man -->
+    <AESummonSnowMan.label>生成雪人</AESummonSnowMan.label>
+    <!-- EN: {PAWN_nameDef} is able to partially control snow. {PAWN_pronoun} can create snow from moisture in surrounding air and animate it. -->
+    <AESummonSnowMan.letterExtra>{PAWN_nameDef}拥有部分控制雪的能力。{PAWN_pronoun}能够将周围空气中的水分转化为雪并赋予其生命。</AESummonSnowMan.letterExtra>
+    
+    <!-- EN: grind body -->
+    <AEGrindBody.label>绞磨躯体</AEGrindBody.label>
+    <!-- EN: {PAWN_nameDef} appear to possess the ability to butcher any body in front of them with anomalous efficiency. -->
+    <AEGrindBody.letterExtra>{PAWN_nameDef}拥有以异常高效的方式剁碎任何面前尸体的能力。</AEGrindBody.letterExtra>
+
+</LanguageData>

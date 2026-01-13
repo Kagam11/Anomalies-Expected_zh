@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!-- EN: {0} emitted a psychic pulse of strength {1} -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Active>{0}激发了强度为{1}的灵能脉冲</AnomaliesExpected.EntityDatabaseAnomaly.Active>
+    <!-- EN: {0} emitted a psychic pulse of strength {1} -->
+    <AnomaliesExpected.EntityDatabaseAnomaly.Active>{0}激发了强度为{1}的灵能脉冲</AnomaliesExpected.EntityDatabaseAnomaly.Active>
     <!-- EN: Selected entity: {0} -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Selected>选定实体：{0}</AnomaliesExpected.EntityDatabaseAnomaly.Selected>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Selected>选定实体：{0}</AnomaliesExpected.EntityDatabaseAnomaly.Selected>
     <!-- EN: Access Database -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>访问数据库</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>访问数据库</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Label>
     <!-- EN: Open database to select entity as a target for ritual. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>开启数据库，选定一个实体作为仪式的目标</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>
-	
+    <AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>开启数据库，选定一个实体作为仪式的目标</AnomaliesExpected.EntityDatabaseAnomaly.Dialog.Desc>
+    
     <!-- EN: \n{0} entity will be provoked. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>\n将引来{0}。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>\n将引来{0}。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.OutputDesc>
     <!-- EN: Missing Entity Database for ritual. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>仪式缺少需要的数据库。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>仪式缺少需要的数据库。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.MissingEntityDatabase>
     <!-- EN: Entity not selected in Entity Database. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>实体未在数据库中选中。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>实体未在数据库中选中。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.EntityNotSelected>
     <!-- EN: Entity already was provoked. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>实体已被吸引。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>
-	
+    <AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>实体已被吸引。</AnomaliesExpected.EntityDatabaseAnomaly.Ritual.AlreadyProvoked>
+    
     <!-- EN: All known entities: available {0}/{1} -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Desc>已知实体：{0}/{1}可用</AnomaliesExpected.EntityDatabaseAnomaly.Desc>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Desc>已知实体：{0}/{1}可用</AnomaliesExpected.EntityDatabaseAnomaly.Desc>
     <!-- EN: Available now. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>现在可用。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>现在可用。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Now>
     <!-- EN: Was provoked too recently. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>召唤过于频繁。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>
+    <AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>召唤过于频繁。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Recently>
     <!-- EN: Prevented by something. -->
-	<AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>被某物阻止。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>
-	
+    <AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>被某物阻止。</AnomaliesExpected.EntityDatabaseAnomaly.Available.Else>
+    
 </LanguageData>

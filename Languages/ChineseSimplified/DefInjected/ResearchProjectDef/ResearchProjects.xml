@@ -199,9 +199,9 @@
     <AENanoInfusedIceCrystal.description>分析冰晶如何控制纳米霜粒。</AENanoInfusedIceCrystal.description>
 
     <!-- EN: connect with entity database -->
-	<AEConnectEntityDatabase.label>数据库连接</AEConnectEntityDatabase.label>
+    <AEConnectEntityDatabase.label>数据库连接</AEConnectEntityDatabase.label>
     <!-- EN: Examining data from entity database and learn connect with entity database ritual. -->
-	<AEConnectEntityDatabase.description>检查实体数据库中的数据，学习与实体数据库仪式的连接。</AEConnectEntityDatabase.description>
+    <AEConnectEntityDatabase.description>检查实体数据库中的数据，学习与实体数据库仪式的连接。</AEConnectEntityDatabase.description>
 
 
     <!--#endregion-->

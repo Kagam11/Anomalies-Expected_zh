@@ -4,8 +4,8 @@
     <!-- EN: draw snow army -->
     <AE_SummonSnowArmy.label>召喚冰雪軍團</AE_SummonSnowArmy.label>
     <!-- EN: Create a psychic pulse which will draw a distant group of Snow Army towards your local area. They attack almost anyone that they see immediately. You can capture them for study or extract ice crystals from their corpses. -->
-    <AE_SummonSnowArmy.description>製造一個精神脈衝，將遠處的冰雪軍團吸引到你所在的區域。他們幾乎會立即攻擊他們看到的任何人。您可以捕捉它們進行研究，或從它們的屍體中提取冰晶。</AE_SummonSnowArmy.description>
+    <AE_SummonSnowArmy.description>發射心靈脈衝，將遠處的冰雪軍團吸引到你所在的區域。他們幾乎會立即攻擊他們看到的任何人。您可以捕捉它們進行研究，或從它們的屍體中提取冰晶。</AE_SummonSnowArmy.description>
     <!-- EN: Create a psychic pulse which will draw a distant group of Snow Army towards your local area. -->
-    <AE_SummonSnowArmy.outcomeDescription>製造一個精神脈衝，將遠處的冰雪軍團吸引到你所在的區域。</AE_SummonSnowArmy.outcomeDescription>
+    <AE_SummonSnowArmy.outcomeDescription>發射心靈脈衝，將遠處的冰雪軍團吸引到你所在的區域。</AE_SummonSnowArmy.outcomeDescription>
 
 </LanguageData>

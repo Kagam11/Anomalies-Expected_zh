@@ -6,7 +6,7 @@
     <!-- EN: A highly unstable ice crystal that explodes, releasing nitrogen, if enough targets are nearby. -->
     <AE_IceCrystalDestabilized.description>一種極不穩定的冰晶，如果附近有足夠多的目標，它就會爆炸，釋放出氮氣。</AE_IceCrystalDestabilized.description>
     <!-- EN: a destabilized ice crystal -->
-    <AE_IceCrystalDestabilized.labelNoun>以惡搞失穩冰晶</AE_IceCrystalDestabilized.labelNoun>
+    <AE_IceCrystalDestabilized.labelNoun>一個失穩冰晶</AE_IceCrystalDestabilized.labelNoun>
 
     <!-- EN: snow block compressor -->
     <AE_SnowBlockCompressor.label>雪塊壓縮機</AE_SnowBlockCompressor.label>

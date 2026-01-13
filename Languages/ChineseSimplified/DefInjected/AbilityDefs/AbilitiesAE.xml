@@ -1,58 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+    <!-- EN: grind body -->
+    <AEGrindBody.label>绞磨躯体</AEGrindBody.label>
+    <!-- EN: Grind off the skin and flesh of corpse bones. This produces a way bigger amount of butcher products than should be logically possible. -->
+    <AEGrindBody.description>将尸体分解为肉和皮。这样产出的产品数量比理论能获得的量多得多。</AEGrindBody.description>
+
     <!-- EN: acid spew -->
-	<AEAcidSpew.label>酸液喷吐</AEAcidSpew.label>
+    <AEAcidSpew.label>酸液喷吐</AEAcidSpew.label>
     <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
-	<AEAcidSpew.description>从颈部腺体向上通过口腔向目标区域喷射一种粘性酸性物质。酸液会粘住目标并将其烧伤。</AEAcidSpew.description>
+    <AEAcidSpew.description>从颈部腺体向上通过口腔向目标区域喷射一种粘性酸性物质。酸液会粘住目标并将其烧伤。</AEAcidSpew.description>
 
     <!-- EN: acid spit -->
-	<AEAcidSpit.label>酸液喷射</AEAcidSpit.label>
+    <AEAcidSpit.label>酸液喷射</AEAcidSpit.label>
     <!-- EN: Spit a sticky acid substance from acid cavity in the sternum up through the mouth to strike a distant target. The acid will stick to targets and burn them. -->
-	<AEAcidSpit.description>从胸骨的血肉酸腔中通过口腔吐出粘性酸液，攻击远处的目标。酸液会粘住目标并将其烧毁。</AEAcidSpit.description>
+    <AEAcidSpit.description>从胸骨的血肉酸腔中通过口腔吐出粘性酸液，攻击远处的目标。酸液会粘住目标并将其烧毁。</AEAcidSpit.description>
 
     <!-- EN: psychic flash -->
-	<AEPsychicFlash.label>灵能电眼</AEPsychicFlash.label>
+    <AEPsychicFlash.label>灵能电眼</AEPsychicFlash.label>
     <!-- EN: A concentrated burst of psychic energy, fired from the eyes and striking targets in front of them. -->
-	<AEPsychicFlash.description>集中爆发灵能，从眼睛中发射出来，攻击前方的目标。</AEPsychicFlash.description>
+    <AEPsychicFlash.description>集中爆发灵能，从眼睛中发射出来，攻击前方的目标。</AEPsychicFlash.description>
 
     <!-- EN: spawn Fingerspike -->
-	<AESpawnKidneyFleshbeast.label>召唤单爪兽</AESpawnKidneyFleshbeast.label>
+    <AESpawnKidneyFleshbeast.label>生成单爪兽</AESpawnKidneyFleshbeast.label>
     <!-- EN: Grow fleshmass from kidney and mutate it into a Fingerspike. This fleshbeast is afflicted with by destabilization mutation, granting it enhanced physical capabilities but a shortened lifespan. -->
-	<AESpawnKidneyFleshbeast.description>从肾脏中长出肉块，并将其变异成单爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnKidneyFleshbeast.description>
+    <AESpawnKidneyFleshbeast.description>从肾脏中长出肉块，并将其变异成单爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnKidneyFleshbeast.description>
 
     <!-- EN: spawn Toughspike -->
-	<AESpawnBodyMutationFleshbeast.label>召唤双爪兽</AESpawnBodyMutationFleshbeast.label>
+    <AESpawnBodyMutationFleshbeast.label>生成双爪兽</AESpawnBodyMutationFleshbeast.label>
     <!-- EN: Grow fleshmass from whole body and mutate it into a Toughspike. This fleshbeast is afflicted with by destabilization mutation, granting it enhanced physical capabilities but a shortened lifespan. -->
-	<AESpawnBodyMutationFleshbeast.description>从全身长出肉块并将其变异成双爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnBodyMutationFleshbeast.description>
+    <AESpawnBodyMutationFleshbeast.description>从全身长出肉块并将其变异成双爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnBodyMutationFleshbeast.description>
 
     <!-- EN: command: move to -->
-	<AEFleshbeastCommandMove.label>指令：移动</AEFleshbeastCommandMove.label>
+    <AEFleshbeastCommandMove.label>指令：移动</AEFleshbeastCommandMove.label>
     <!-- EN: Send a psychic command to surrounding fleshbeasts to move in a specific direction. -->
-	<AEFleshbeastCommandMove.description>向周围的血肉兽发出指令，让它们向特定方向移动。</AEFleshbeastCommandMove.description>
+    <AEFleshbeastCommandMove.description>向周围的血肉兽发出指令，让它们向特定方向移动。</AEFleshbeastCommandMove.description>
 
     <!-- EN: command: call -->
-	<AEFleshbeastCommandGather.label>指令：召唤</AEFleshbeastCommandGather.label>
+    <AEFleshbeastCommandGather.label>指令：召唤</AEFleshbeastCommandGather.label>
     <!-- EN: Send a psychic command to fleshbeasts in specific area to move to the caster. -->
-	<AEFleshbeastCommandGather.description>向特定区域内的血肉兽发出指令，让它们向施法者移动。</AEFleshbeastCommandGather.description>
+    <AEFleshbeastCommandGather.description>向特定区域内的血肉兽发出指令，让它们向施法者移动。</AEFleshbeastCommandGather.description>
 
     <!-- EN: metabolic recycling -->
-	<AEFleshmassStomach.label>代谢回收</AEFleshmassStomach.label>
+    <AEFleshmassStomach.label>代谢回收</AEFleshmassStomach.label>
     <!-- EN: Break down and reabsorb nutrients from its own tissue. -->
-	<AEFleshmassStomach.description>从自身的组织中回收营养</AEFleshmassStomach.description>
-	
+    <AEFleshmassStomach.description>从自身的组织中回收营养</AEFleshmassStomach.description>
+    
     <!-- EN: ice crystal destabilization -->
-	<AEIceCrystalDestabilization.label>冰晶失稳</AEIceCrystalDestabilization.label>
+    <AEIceCrystalDestabilization.label>冰晶失稳</AEIceCrystalDestabilization.label>
     <!-- EN: Increase ice crystal destabilization process to critical level, which will cause an explosion. -->
-	<AEIceCrystalDestabilization.description>将冰晶不稳定度提高到临界水平，从而引发爆炸。</AEIceCrystalDestabilization.description>
+    <AEIceCrystalDestabilization.description>将冰晶不稳定度提高到临界水平，从而引发爆炸。</AEIceCrystalDestabilization.description>
 
     <!-- EN: throw snow block -->
-	<AEThrowSnowBlock.label>投掷雪块</AEThrowSnowBlock.label>
+    <AEThrowSnowBlock.label>投掷雪块</AEThrowSnowBlock.label>
     <!-- EN: Throw a giant snow block at a long distance target. Will explode with nitrogen after landing. -->
-	<AEThrowSnowBlock.description>向远距离目标投掷一个巨大的雪块。落地后会产生液氮爆炸。</AEThrowSnowBlock.description>
-	
+    <AEThrowSnowBlock.description>向远距离目标投掷一个巨大的雪块。落地后会产生液氮爆炸。</AEThrowSnowBlock.description>
+    
     <!-- EN: spawn Snow Man -->
-	<AESpawnSnowMan.label>召唤雪人</AESpawnSnowMan.label>
+    <AESpawnSnowMan.label>生成雪人</AESpawnSnowMan.label>
     <!-- EN: Creates snow from moisture in surrounding air and combines it into a living snowman. -->
-	<AESpawnSnowMan.description>利用周围空气中的水分造雪，并将其组合成一个雪人。</AESpawnSnowMan.description>
+    <AESpawnSnowMan.description>将周围空气中的水分转化为雪，并将其组合成一个雪人。</AESpawnSnowMan.description>
 
 </LanguageData>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!-- EN: frostbitten stranger -->
-	<AE_CreepJoiner_IceMan.label>霜傷陌客</AE_CreepJoiner_IceMan.label>
+    <AE_CreepJoiner_IceMan.label>霜傷陌客</AE_CreepJoiner_IceMan.label>
     <!-- EN: A shivering figure is approaching the colony. -->
-	<AE_CreepJoiner_IceMan.letterLabel>一個瑟瑟發抖的身影正向殖民地靠近。</AE_CreepJoiner_IceMan.letterLabel>
+    <AE_CreepJoiner_IceMan.letterLabel>一個瑟瑟發抖的身影正在接近殖民地。</AE_CreepJoiner_IceMan.letterLabel>
     <!-- EN: The stranger stares at you with cold eyes and speaks in a shivering voice. Traces of frostbite are visible on exposed areas of the body. {PAWN_pronoun} claims to have escaped from a harsh heavy snow and begs to join your colony to warm up and recover. -->
-	<AE_CreepJoiner_IceMan.letterPrompt>這個陌生人用冰冷的眼神盯着你，說話的聲音也在顫抖。身體裸露部位有明顯的凍傷痕跡。{PAWN_pronoun}聲稱自己是從嚴酷的大雪中逃出來的，並懇求加入你們的殖民地取暖和恢復體力。</AE_CreepJoiner_IceMan.letterPrompt>
+    <AE_CreepJoiner_IceMan.letterPrompt>這個陌生人眼神冰冷地打量着你，開口發出嘶啞的聲音。身體裸露部位有明顯的凍傷痕跡。{PAWN_pronoun}說自己是從嚴酷的大雪中逃出來的，並乞求加入你的殖民地取暖和恢復體力。</AE_CreepJoiner_IceMan.letterPrompt>
 
 </LanguageData>

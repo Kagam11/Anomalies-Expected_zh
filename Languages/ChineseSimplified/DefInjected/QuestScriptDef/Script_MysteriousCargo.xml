@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<AE_MysteriousCargoMeatGrinder.questContentRules.rulesStrings>
+    <AE_MysteriousCargoMeatGrinder.questContentRules.rulesStrings>
         <!-- EN: Mysterious cargo -->
-		<li>deliveredLetterLabel->神秘货物</li>
+        <li>deliveredLetterLabel->神秘货物</li>
         <!-- EN: The mysterious cargo has been delivered. At close inspection it seems like an industrial-looking metal box as tall as a table. Several small doors interrupt the smooth surface on its sides, while a big hole with hidden inside blades sits atop it. A lone button rests next to the hole, hinting at some unknown function. -->
-		<li>deliveredLetterText->神秘货物已经送达。里面是一个形同一张桌子般高度的金属箱体，外观类似工业制品。光滑的表面两侧有几扇小门，顶部有一个大洞，里面藏着刀片。孔旁边有一个按钮，暗示着一些未知的功能。</li>
-	</AE_MysteriousCargoMeatGrinder.questContentRules.rulesStrings>
-	<AE_MysteriousCargoMeatGrinder.questDescriptionRules.rulesStrings>
-		<li>questDescription(askerIsNull==true)->一个匿名的人工智能向你提了一个古怪的请求。他希望你能够接受一些不明货物。当你询问能多细节时，他却避而不谈。\n\n如果你接受了请求，货物会通过运输舱送达。</li>
-		<li>questDescription(asker_factionLeader==true)->来自[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向你提了一个古怪的请求。[asker_possessive]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-		<li>questDescription(asker_royalInCurrentFaction==true)->来自[asker_faction_name]的[asker_nameFull]，[asker_royalTitleInCurrentFaction], 向你提了一个古怪的请求。[asker_pronoun]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-	</AE_MysteriousCargoMeatGrinder.questDescriptionRules.rulesStrings>
-	<AE_MysteriousCargoMeatGrinder.questNameRules.rulesStrings>
-		<li>questName->神秘货物</li>
-	</AE_MysteriousCargoMeatGrinder.questNameRules.rulesStrings>
+        <li>deliveredLetterText->神秘货物已经送达。里面是一个形同一张桌子般高度的金属箱体，外观类似工业制品。光滑的表面两侧有几扇小门，顶部有一个大洞，里面藏着刀片。孔旁边有一个按钮，暗示着一些未知的功能。</li>
+    </AE_MysteriousCargoMeatGrinder.questContentRules.rulesStrings>
+    <AE_MysteriousCargoMeatGrinder.questDescriptionRules.rulesStrings>
+        <li>questDescription(askerIsNull==true)->一个匿名的人工智能向你提了一个古怪的请求。他希望你能够接受一些不明货物。当你询问能多细节时，他却避而不谈。\n\n如果你接受了请求，货物会通过运输舱送达。</li>
+        <li>questDescription(asker_factionLeader==true)->来自[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向你提了一个古怪的请求。[asker_possessive]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
+        <li>questDescription(asker_royalInCurrentFaction==true)->来自[asker_faction_name]的[asker_nameFull]，[asker_royalTitleInCurrentFaction], 向你提了一个古怪的请求。[asker_pronoun]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
+    </AE_MysteriousCargoMeatGrinder.questDescriptionRules.rulesStrings>
+    <AE_MysteriousCargoMeatGrinder.questNameRules.rulesStrings>
+        <li>questName->神秘货物</li>
+    </AE_MysteriousCargoMeatGrinder.questNameRules.rulesStrings>
 
-	<AE_MysteriousCargoBakingPies.questContentRules.rulesStrings>
-		<li>deliveredLetterLabel->神秘货物</li>
+    <AE_MysteriousCargoBakingPies.questContentRules.rulesStrings>
+        <li>deliveredLetterLabel->神秘货物</li>
         <!-- EN: The mysterious cargo has been delivered. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
-		<li>deliveredLetterText->神秘货物已经送达。里面是一个装在盘子上的巨大圆形派。看起来令人开胃。.</li>
-	</AE_MysteriousCargoBakingPies.questContentRules.rulesStrings>
-	<AE_MysteriousCargoBakingPies.questDescriptionRules.rulesStrings>
-		<li>questDescription(askerIsNull==true)->一个匿名的人工智能向你提了一个古怪的请求。他希望你能够接受一些不明货物。当你询问能多细节时，他却避而不谈。\n\n如果你接受了请求，货物会通过运输舱送达。</li>
-		<li>questDescription(asker_factionLeader==true)->来自[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向你提了一个古怪的请求。[asker_possessive]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-		<li>questDescription(asker_royalInCurrentFaction==true)->来自[asker_faction_name]的[asker_nameFull]，[asker_royalTitleInCurrentFaction], 向你提了一个古怪的请求。[asker_pronoun]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-	</AE_MysteriousCargoBakingPies.questDescriptionRules.rulesStrings>
-	<AE_MysteriousCargoBakingPies.questNameRules.rulesStrings>
-		<li>questName->神秘货物</li>
-	</AE_MysteriousCargoBakingPies.questNameRules.rulesStrings>
+        <li>deliveredLetterText->神秘货物已经送达。里面是一个装在盘子上的巨大圆形派。看起来令人开胃。.</li>
+    </AE_MysteriousCargoBakingPies.questContentRules.rulesStrings>
+    <AE_MysteriousCargoBakingPies.questDescriptionRules.rulesStrings>
+        <li>questDescription(askerIsNull==true)->一个匿名的人工智能向你提了一个古怪的请求。他希望你能够接受一些不明货物。当你询问能多细节时，他却避而不谈。\n\n如果你接受了请求，货物会通过运输舱送达。</li>
+        <li>questDescription(asker_factionLeader==true)->来自[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向你提了一个古怪的请求。[asker_possessive]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
+        <li>questDescription(asker_royalInCurrentFaction==true)->来自[asker_faction_name]的[asker_nameFull]，[asker_royalTitleInCurrentFaction], 向你提了一个古怪的请求。[asker_pronoun]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
+    </AE_MysteriousCargoBakingPies.questDescriptionRules.rulesStrings>
+    <AE_MysteriousCargoBakingPies.questNameRules.rulesStrings>
+        <li>questName->神秘货物</li>
+    </AE_MysteriousCargoBakingPies.questNameRules.rulesStrings>
 
-	<AE_MysteriousCargoBeamTarget.questContentRules.rulesStrings>
-		<li>deliveredLetterLabel->神秘货物</li>
+    <AE_MysteriousCargoBeamTarget.questContentRules.rulesStrings>
+        <li>deliveredLetterLabel->神秘货物</li>
         <!-- EN: The mysterious cargo has been delivered. At close inspection it seems like a small device with pneumatic retractable stops. On its body there are indicators with lights, an antenna and a small button. It looks like military grade. -->
-		<li>deliveredLetterText->神秘货物已经送达。里面是一个带有气动缩回固定装置的小型设备，机身上有指示器、天线、灯和一个小型按钮，看上去是军用级的。</li>
-	</AE_MysteriousCargoBeamTarget.questContentRules.rulesStrings>
-	<AE_MysteriousCargoBeamTarget.questDescriptionRules.rulesStrings>
-		<li>questDescription(askerIsNull==true)->一个匿名的人工智能向你提了一个古怪的请求。他希望你能够接受一些不明货物。当你询问能多细节时，他却避而不谈。\n\n如果你接受了请求，货物会通过运输舱送达。</li>
-		<li>questDescription(asker_factionLeader==true)->来自[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]向你提了一个古怪的请求。[asker_possessive]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-		<li>questDescription(asker_royalInCurrentFaction==true)->来自[asker_faction_name]的[asker_nameFull]，[asker_royalTitleInCurrentFaction], 向你提了一个古怪的请求。[asker_pronoun]希望你能接受一些不明货物。当你询问能多细节时，他却避而不谈。你能听出他的话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱货物把货物送达。</li>
-	</AE_MysteriousCargoBeamTarget.questDescriptionRules.rulesStrings>
-	<AE_MysteriousCargoBeamTarget.questNameRules.rulesStrings>
-		<li>questName->神秘货物</li>
-	</AE_MysteriousCargoBeamTarget.questNameRules.rulesStrings>
+        <li>deliveredLetterText->神秘货物已经交付了。里面是一个带有气动缩回固定装置的小型设备，机身上有指示器、天线、灯和一个小型按钮，看上去是军用级的。</li>
+    </AE_MysteriousCargoBeamTarget.questContentRules.rulesStrings>
+    <AE_MysteriousCargoBeamTarget.questDescriptionRules.rulesStrings>
+        <li>questDescription(askerIsNull==true)->一位匿名的人工智能向你提出了一个古怪的请求。它希望你能够接受一些神秘的货物。但对关于货物的疑问避而不谈。\n\n如果你接受了这一请求，它就会用运输舱将神秘的货物运送到你这里。</li>
+        <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle]来自[asker_faction_name]的[asker_nameFull]向你提了一个古怪的请求。[asker_pronoun]希望你能够接受一些不明货物。当你询问更多细节时，[asker_pronoun]却避而不谈。你能听出[asker_possessive]话语中透露出绝望。\n\n如果你接受了请求，[asker_nameFull]将通过运输舱把货物送达。</li>
+        <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull]，[asker_faction_name]的一位[asker_royalTitleInCurrentFaction]，向你提出了一个古怪的请求。[asker_pronoun]要求你接受一批神秘的货物。当你询问更多细节时，[asker_pronoun]却支支吾吾，避而不谈。你能从[asker_possessive]话语中听出绝望。\n\n如果你接受了请求，[asker_nameFull]将会用运输舱把货物送达。</li>
+    </AE_MysteriousCargoBeamTarget.questDescriptionRules.rulesStrings>
+    <AE_MysteriousCargoBeamTarget.questNameRules.rulesStrings>
+        <li>questName->神秘货物</li>
+    </AE_MysteriousCargoBeamTarget.questNameRules.rulesStrings>
   
 </LanguageData>

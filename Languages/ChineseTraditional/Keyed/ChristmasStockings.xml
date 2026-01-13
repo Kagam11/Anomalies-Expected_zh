@@ -8,15 +8,19 @@
     <!-- EN: Available gifts {0}/{1} -->
     <AnomaliesExpected.ChristmasStockings.GiftsLeft>還有{0}/{1}個禮物</AnomaliesExpected.ChristmasStockings.GiftsLeft>
 
-    <!-- EN: Go under the tree -->
-    <AnomaliesExpected.ChristmasStockings.Enter>去樹下</AnomaliesExpected.ChristmasStockings.Enter>
+    <!-- EN: Go under the {0} -->
+    <AnomaliesExpected.ChristmasStockings.Enter>去{0}下</AnomaliesExpected.ChristmasStockings.Enter>
+    <!-- EN: Going under the {0} -->
+    <AnomaliesExpected.ChristmasStockings.Entering>正在去{0}下</AnomaliesExpected.ChristmasStockings.Entering>
+    <!-- EN: Exit through under the {0} -->
+    <AnomaliesExpected.ChristmasStockings.Exit>通過{0}離開</AnomaliesExpected.ChristmasStockings.Exit>
     <!-- EN: New Year is here. {0} can be interacted again. -->
     <AnomaliesExpected.ChristmasStockings.NewYear>新年到了，可以再次進入{0}。</AnomaliesExpected.ChristmasStockings.NewYear>
     <!-- EN: Require some cleaning from snow -->
     <AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>需要清理積雪</AnomaliesExpected.ChristmasStockings.Reason.CantEnterA>
     <!-- EN: Passage is not available till next New Year -->
     <AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>到明年之前都不能進入</AnomaliesExpected.ChristmasStockings.Reason.CantEnterB>
-
+    
     <!-- EN: Time till next New Year: {0} -->
     <AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>到下一年還有：{0}</AnomaliesExpected.ChristmasStockings.Tree.TimeTillNewYear>
 

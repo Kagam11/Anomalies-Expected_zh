@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Anomalies Expected_zh</name>
-	<author>Kagami</author>
-	<packageId>Kagami.AnomaliesExpected.zh</packageId>
-    <modVersion>2.0.2.2</modVersion>
-	<supportedVersions>
-		<li>1.5</li>
+    <name>Anomalies Expected_zh</name>
+    <author>Kagami</author>
+    <packageId>Kagami.AnomaliesExpected.zh</packageId>
+    <modVersion>2.0.3.0</modVersion>
+    <supportedVersions>
+        <li>1.5</li>
         <li>1.6</li>
-	</supportedVersions>
-	<description>
+    </supportedVersions>
+    <description>
     个人汉化，繁体使用opencc转换，如有错漏烦请指出。
     
     为异常DLC添加更多实体，没有异常DLC也能游玩部分内容。
 
     也支持[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3251944598] Anomalies Expected Addon [/url]
     </description>
-	<loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.Anomaly</li>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.Anomaly</li>
         <li>MrHydralisk.AnomaliesExpected</li>
         <li>Fallen.AnomaliesExpectedAddon</li>
-	</loadAfter>
+    </loadAfter>
 </ModMetaData>

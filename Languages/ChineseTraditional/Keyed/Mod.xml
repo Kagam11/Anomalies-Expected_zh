@@ -18,12 +18,17 @@
     <AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>當發信器脫離收容時收到信件消息而非普通提示</AnomaliesExpected.Settings.BeamTarget.BeamTargetLetter>
 
     <!-- EN: Set multiplier for amount of threat points for fleshbeast generation from nests to {0} -->
-    <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>將巢穴生成血肉獸的威脅點數係數設置爲 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
+    <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>將血湖巢穴生成血肉獸的威脅點數係數設置爲 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestMult>
+    <!-- EN: Set fleshbeast repopulation percentage from nests to {0}. When there is no colonist in Lake sub map, amount of fleshbeasts will grow back to original. -->
+    <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestOffmapMult>將血湖巢穴生成血肉獸的再生率設置爲 {0}。當血湖地圖中沒有殖民者時，血肉獸的數量將恢復到初始水平。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestOffmapMult>
 
     <!-- EN: Set multiplier for time between fleshbeast generation from nests to {0} -->
     <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>將血肉獸生成時間間隔的乘數爲 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>
     <!-- EN: Set maximum size for Lake sub map generation to {0}x{0} (by default will copy size of colony map)\n(Size affect amount of loot, enemies and required resources from PC) -->
     <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>將湖中地圖的大小設置爲 {0}x{0} (默認情況下爲殖民地地圖大小)\n(大小會影響戰利品數量、敵人數量和電腦資源要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
+
+    <!-- EN: Set Void Provaction ritual Cooldown to {0} hours (by default 120h). [Take effect on a game launch] -->
+    <AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>將虛空擾動的冷卻時間設置爲 {0} 小時（默認120小時）。[需要重啓遊戲生效]</AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>
 
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>嘗試解鎖 Anomalies Expected 的研究項目</AnomaliesExpected.Settings.ResearchTab.Unlock>

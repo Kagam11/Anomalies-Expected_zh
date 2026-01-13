@@ -31,6 +31,8 @@
     <AE_IncidentDef_MeatGrinderSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个形同一张桌子般高度的金属箱体，外观类似工业制品。光滑的表面两侧有几扇小门，顶部有一个大洞，里面藏着刀片。孔旁边有一个按钮，暗示着一些未知的功能。</AE_IncidentDef_MeatGrinderSpawn.letterText>
     <!-- EN: industrial metal box -->
     <AE_IncidentDef_MeatGrinderMysteriousCargo.label>工业金属箱</AE_IncidentDef_MeatGrinderMysteriousCargo.label>
+    <AE_IncidentDef_CreepJoinerJoin_Grinder.label>жуткий странник измельчитель</AE_IncidentDef_CreepJoinerJoin_Grinder.label>'grinder creepjoiner join'
+
 
     <!-- EN: big pie -->
     <AE_IncidentDef_BakingPiesSpawn.label>巨大的派</AE_IncidentDef_BakingPiesSpawn.label>
@@ -38,7 +40,7 @@
     <AE_IncidentDef_BakingPiesSpawn.letterLabel>发现巨大的派</AE_IncidentDef_BakingPiesSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a round big pie on a plate. It looks appetizing. -->
     <AE_IncidentDef_BakingPiesSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个装在盘子上的巨大圆形派。看起来令人开胃。</AE_IncidentDef_BakingPiesSpawn.letterText>
-	<!-- EN: big pie -->
+    <!-- EN: big pie -->
     <AE_IncidentDef_BakingPiesMysteriousCargo.label>巨大的派</AE_IncidentDef_BakingPiesMysteriousCargo.label>
 
     <!-- EN: transmitter -->
@@ -86,28 +88,28 @@
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a red stockings, featuring white details and a snowflake symbol. It appear to be filled with something. -->
     <AE_IncidentDef_ChristmasStockingsSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个红色的长袜，表面有白色的纹路和雪花装饰。似乎里面填满了东西。</AE_IncidentDef_ChristmasStockingsSpawn.letterText>
     <!-- EN: red stockings -->
-    <AE_IncidentDef_CreepJoinerJoin_IceMan.label>红色长袜</AE_IncidentDef_CreepJoinerJoin_IceMan.label>
+    <AE_IncidentDef_CreepJoinerJoin_IceMan.label>霜伤陌客加入</AE_IncidentDef_CreepJoinerJoin_IceMan.label>
 
     <!-- EN: speedometer -->
-	<AE_IncidentDef_SpeedometerSpawn.label>速度计</AE_IncidentDef_SpeedometerSpawn.label>
+    <AE_IncidentDef_SpeedometerSpawn.label>速度计</AE_IncidentDef_SpeedometerSpawn.label>
     <!-- EN: Found speedometer -->
-	<AE_IncidentDef_SpeedometerSpawn.letterLabel>发现速度计</AE_IncidentDef_SpeedometerSpawn.letterLabel>
+    <AE_IncidentDef_SpeedometerSpawn.letterLabel>发现速度计</AE_IncidentDef_SpeedometerSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark circular gauge with faded numbers and a thin red needle. -->
-	<AE_IncidentDef_SpeedometerSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个深色的圆形仪器，上面有褪色的数字和一根细红色指针。</AE_IncidentDef_SpeedometerSpawn.letterText>
+    <AE_IncidentDef_SpeedometerSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个深色的圆形仪器，上面有褪色的数字和一根细红色指针。</AE_IncidentDef_SpeedometerSpawn.letterText>
 
     <!-- EN: ancient server -->
     <AE_IncidentDef_EntityDatabaseSpawn.label>远古服务器</AE_IncidentDef_EntityDatabaseSpawn.label>
     <!-- EN: Found ancient server -->
-	<AE_IncidentDef_EntityDatabaseSpawn.letterLabel>发现远古服务器</AE_IncidentDef_EntityDatabaseSpawn.letterLabel>
+    <AE_IncidentDef_EntityDatabaseSpawn.letterLabel>发现远古服务器</AE_IncidentDef_EntityDatabaseSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like an ancient server composed of three connected sections. The data it holds, however, remains unknown. -->
-	<AE_IncidentDef_EntityDatabaseSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由三部分连接组成的远古服务器，其包含的数据仍然未知。</AE_IncidentDef_EntityDatabaseSpawn.letterText>
+    <AE_IncidentDef_EntityDatabaseSpawn.letterText>你的殖民者注意到附近有物体从天而降。仔细一看，这似乎是一个由三部分连接组成的远古服务器，其包含的数据仍然未知。</AE_IncidentDef_EntityDatabaseSpawn.letterText>
 
     <!-- EN: big cake -->
-	<AE_IncidentDef_BirthdayCakeSpawn.label>大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.label>
+    <AE_IncidentDef_BirthdayCakeSpawn.label>大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.label>
     <!-- EN: Found big cake -->
-	<AE_IncidentDef_BirthdayCakeSpawn.letterLabel>发现大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.letterLabel>
+    <AE_IncidentDef_BirthdayCakeSpawn.letterLabel>发现大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object appeared nearby. At close inspection it seems like a round big cake on a red plate. It looks appetizing. -->
-	<AE_IncidentDef_BirthdayCakeSpawn.letterText>你的殖民者发现附近出现了某个物体。仔细一看，这似乎是一个红色盘子里的圆形大蛋糕。看起来很好吃。</AE_IncidentDef_BirthdayCakeSpawn.letterText>
+    <AE_IncidentDef_BirthdayCakeSpawn.letterText>你的殖民者发现附近出现了某个物体。仔细一看，这似乎是一个红色盘子里的圆形大蛋糕。看起来很好吃。</AE_IncidentDef_BirthdayCakeSpawn.letterText>
 
     <!--#endregion-->
 

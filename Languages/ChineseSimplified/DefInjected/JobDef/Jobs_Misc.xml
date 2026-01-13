@@ -12,7 +12,7 @@
     <AE_ApplyUsableTo.reportString>将TargetA用在TargetB上。</AE_ApplyUsableTo.reportString>
 
     <!-- EN: taking gift. -->
-	<AE_InteractChristmasStockings.reportString>正在拿礼物。</AE_InteractChristmasStockings.reportString>
+    <AE_InteractChristmasStockings.reportString>正在拿礼物。</AE_InteractChristmasStockings.reportString>
 
     <!--#endregion-->
 </LanguageData>

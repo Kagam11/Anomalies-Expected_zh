@@ -10,7 +10,7 @@
     <!-- EN: Blood-like liquid concentration in the air rapidly increasing. -->
     <AE_BloodFog.startMessage>空气中血样液体浓度迅速增加。</AE_BloodFog.startMessage>''
 
-        <!-- EN: temperature shifting -->
+    <!-- EN: temperature shifting -->
     <AE_TemperatureDrop.label>温度骤变</AE_TemperatureDrop.label>
     <!-- EN: Temperature is rapidly shifting. -->
     <AE_TemperatureDrop.description>温度正急剧变化。</AE_TemperatureDrop.description>

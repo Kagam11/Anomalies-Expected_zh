@@ -2,11 +2,11 @@
 <LanguageData>
 
     <!-- EN: incubate fleshmass cyst -->
-    <MakeAEFleshmassCyst.label>培養血肉囊腫</MakeAEFleshmassCyst.label>
+    <MakeAEFleshmassCyst.label>培育血肉囊腫</MakeAEFleshmassCyst.label>
     <!-- EN: Infuse a human corpse with blood-like liquid to incubate flashmass cyst in it. The cyst will devour all available flesh within the corpse. -->
     <MakeAEFleshmassCyst.description>爲一具人類屍體注入血樣液體，以孵化血肉囊腫。囊腫會吞噬屍體內所有可用的血肉。</MakeAEFleshmassCyst.description>
     <!-- EN: Incubating fleshmass cyst. -->
-    <MakeAEFleshmassCyst.jobString>正在培養血肉囊腫。</MakeAEFleshmassCyst.jobString>
+    <MakeAEFleshmassCyst.jobString>正在培育血肉囊腫。</MakeAEFleshmassCyst.jobString>
 
     <!-- EN: incubate fleshmass tumor -->
     <MakeAEFleshmassTumor.label>孵化血肉腫瘤</MakeAEFleshmassTumor.label>
@@ -16,28 +16,28 @@
     <MakeAEFleshmassTumor.jobString>正在孵化血肉腫瘤。</MakeAEFleshmassTumor.jobString>
 
     <!-- EN: incubate fleshmass stomach -->
-    <IncubateAEFleshmassStomach.label>培養血肉胃</IncubateAEFleshmassStomach.label>
+    <IncubateAEFleshmassStomach.label>培育血肉胃</IncubateAEFleshmassStomach.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass stomach. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassStomach.description>血肉囊腫將被植入對象體內用以培養血肉胃。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassStomach.description>
     <!-- EN: Incubating fleshmass stomach. -->
-    <IncubateAEFleshmassStomach.jobString>正在培養血肉胃。</IncubateAEFleshmassStomach.jobString>
+    <IncubateAEFleshmassStomach.jobString>正在培育血肉胃。</IncubateAEFleshmassStomach.jobString>
 
     <!-- EN: incubate fleshmass lung -->
-    <IncubateAEFleshmassLung.label>培養血肉肺</IncubateAEFleshmassLung.label>
+    <IncubateAEFleshmassLung.label>培育血肉肺</IncubateAEFleshmassLung.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass lung. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassLung.description>血肉囊腫將被植入對象體內用以培養血肉肺。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassLung.description>
     <!-- EN: Incubating fleshmass lung. -->
-    <IncubateAEFleshmassLung.jobString>正在培養血肉肺。</IncubateAEFleshmassLung.jobString>
+    <IncubateAEFleshmassLung.jobString>正在培育血肉肺。</IncubateAEFleshmassLung.jobString>
 
     <!-- EN: incubate fleshmass liver -->
-    <IncubateAEFleshmassLiver.label>培養血肉肝</IncubateAEFleshmassLiver.label>
+    <IncubateAEFleshmassLiver.label>培育血肉肝</IncubateAEFleshmassLiver.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass liver. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassLiver.description>血肉囊腫將被植入對象體內用以培養血肉肝。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassLiver.description>
     <!-- EN: Incubating fleshmass liver. -->
-    <IncubateAEFleshmassLiver.jobString>正在培養血肉肝。</IncubateAEFleshmassLiver.jobString>
+    <IncubateAEFleshmassLiver.jobString>正在培育血肉肝。</IncubateAEFleshmassLiver.jobString>
 
     <!-- EN: incubate fleshmass acid cavity -->
-    <IncubateAEFleshmassAcidCavity.label>培養血肉酸腔</IncubateAEFleshmassAcidCavity.label>
+    <IncubateAEFleshmassAcidCavity.label>培育血肉酸腔</IncubateAEFleshmassAcidCavity.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass acid cavity. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassAcidCavity.description>血肉囊腫將被植入對象體內用以培養血肉酸腔。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassAcidCavity.description>
     <!-- duplicate </jobString>??? -->
@@ -50,11 +50,11 @@
     <RemoveAEFleshmassAcidCavity.jobString>正在移除血肉酸腔。</RemoveAEFleshmassAcidCavity.jobString>
 
     <!-- EN: incubate fleshmass acid gland -->
-    <IncubateAEFleshmassAcidGland.label>培養血肉酸腺</IncubateAEFleshmassAcidGland.label>
+    <IncubateAEFleshmassAcidGland.label>培育血肉酸腺</IncubateAEFleshmassAcidGland.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass acid gland. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassAcidGland.description>血肉囊腫將被植入對象體內用以培養血肉酸腺。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassAcidGland.description>
     <!-- EN: Incubating fleshmass acid gland. -->
-    <IncubateAEFleshmassAcidGland.jobString>正在培養血肉酸腺</IncubateAEFleshmassAcidGland.jobString>
+    <IncubateAEFleshmassAcidGland.jobString>正在培育血肉酸腺</IncubateAEFleshmassAcidGland.jobString>
 
     <!-- EN: remove fleshmass acid gland -->
     <RemoveAEFleshmassAcidGland.label>移除血肉酸腺</RemoveAEFleshmassAcidGland.label>
@@ -64,59 +64,59 @@
     <RemoveAEFleshmassAcidGland.jobString>正在移除血肉酸腺</RemoveAEFleshmassAcidGland.jobString>
 
     <!-- EN: incubate fleshmass ear -->
-    <IncubateAEFleshmassEar.label>培養血肉耳</IncubateAEFleshmassEar.label>
+    <IncubateAEFleshmassEar.label>培育血肉耳</IncubateAEFleshmassEar.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass ear. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassEar.description>血肉囊腫將被植入對象體內用以培養血肉耳。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassEar.description>
     <!-- EN: Incubating fleshmass ear. -->
-    <IncubateAEFleshmassEar.jobString>正在培養血肉耳。</IncubateAEFleshmassEar.jobString>
+    <IncubateAEFleshmassEar.jobString>正在培育血肉耳。</IncubateAEFleshmassEar.jobString>
 
     <!-- EN: incubate fleshmass nose -->
-    <IncubateAEFleshmassNose.label>培養血肉鼻</IncubateAEFleshmassNose.label>
+    <IncubateAEFleshmassNose.label>培育血肉鼻</IncubateAEFleshmassNose.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass nose. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassNose.description>血肉囊腫將被植入對象體內用以培養血肉鼻。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassNose.description>
     <!-- EN: Incubating fleshmass nose. -->
-    <IncubateAEFleshmassNose.jobString>正在培養血肉鼻。</IncubateAEFleshmassNose.jobString>
+    <IncubateAEFleshmassNose.jobString>正在培育血肉鼻。</IncubateAEFleshmassNose.jobString>
 
     <!-- EN: incubate fleshmass eye -->
-    <IncubateAEFleshmassEye.label>培養血肉眼</IncubateAEFleshmassEye.label>
+    <IncubateAEFleshmassEye.label>培育血肉眼</IncubateAEFleshmassEye.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass eye. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassEye.description>血肉囊腫將被植入對象體內用以培養血肉眼。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassEye.description>
     <!-- EN: Incubating fleshmass eye. -->
-    <IncubateAEFleshmassEye.jobString>正在培養血肉眼。</IncubateAEFleshmassEye.jobString>
+    <IncubateAEFleshmassEye.jobString>正在培育血肉眼。</IncubateAEFleshmassEye.jobString>
 
     <!-- EN: incubate fleshmass kidney -->
-    <IncubateAEFleshmassKidney.label>培養血肉腎</IncubateAEFleshmassKidney.label>
+    <IncubateAEFleshmassKidney.label>培育血肉腎</IncubateAEFleshmassKidney.label>
     <!-- EN: A fleshmass cyst will be implanted into the subject's body to incubate a fleshmass kidney. This is a painful process that will take one day for cyst to assimilate within host's body. -->
     <IncubateAEFleshmassKidney.description>血肉囊腫將被植入對象體內用以培養血肉腎。這是一個痛苦的過程，需要一天時間等待囊腫在宿主體內同化。</IncubateAEFleshmassKidney.description>
     <!-- EN: Incubating fleshmass kidney. -->
-    <IncubateAEFleshmassKidney.jobString>正在培養血肉腎。</IncubateAEFleshmassKidney.jobString>
+    <IncubateAEFleshmassKidney.jobString>正在培育血肉腎。</IncubateAEFleshmassKidney.jobString>
 
     <!-- EN: incubate fleshmass heart -->
-    <IncubateAEFleshmassHeart.label>培養血肉心</IncubateAEFleshmassHeart.label>
+    <IncubateAEFleshmassHeart.label>培育血肉心</IncubateAEFleshmassHeart.label>
     <!-- EN: A fleshmass tumor will be implanted into the subject's body to incubate a fleshmass heart. This is a painful process that will take two days for tumor to assimilate within host's body. -->
     <IncubateAEFleshmassHeart.description>血肉腫瘤將被植入對象體內用以培養血肉心。這是一個痛苦的過程，需要兩天時間等待腫瘤在宿主體內同化。</IncubateAEFleshmassHeart.description>
     <!-- EN: Incubating fleshmass heart. -->
-    <IncubateAEFleshmassHeart.jobString>正在培養血肉心。</IncubateAEFleshmassHeart.jobString>
+    <IncubateAEFleshmassHeart.jobString>正在培育血肉心。</IncubateAEFleshmassHeart.jobString>
 
     <!-- EN: incubate fleshmass brain tumor -->
-    <IncubateAEFleshmassBrainTumor.label>培養血肉腦瘤</IncubateAEFleshmassBrainTumor.label>
+    <IncubateAEFleshmassBrainTumor.label>培育血肉腦瘤</IncubateAEFleshmassBrainTumor.label>
     <!-- EN: A fleshmass tumor will be implanted into the subject's body to incubate a fleshmass brain tumor. This is a painful process that will take two days for tumor to assimilate within host's body. -->
     <IncubateAEFleshmassBrainTumor.description>血肉腫瘤將被植入對象體內用以培養血肉腦瘤。這是一個痛苦的過程，需要兩天時間等待腫瘤在宿主體內同化。\n\n最多可植入5次。</IncubateAEFleshmassBrainTumor.description>
     <!-- EN: Incubating fleshmass brain tumor. -->
-    <IncubateAEFleshmassBrainTumor.jobString>正在培養血肉腦瘤</IncubateAEFleshmassBrainTumor.jobString>
+    <IncubateAEFleshmassBrainTumor.jobString>正在培育血肉腦瘤</IncubateAEFleshmassBrainTumor.jobString>
 
     <!-- EN: incubate fleshmass body mutation -->
-    <IncubateAEFleshmassBodyMutation.label>培養血肉軀體突變</IncubateAEFleshmassBodyMutation.label>
+    <IncubateAEFleshmassBodyMutation.label>培育血肉軀體突變</IncubateAEFleshmassBodyMutation.label>
     <!-- EN: A fleshmass tumor will be implanted into the subject's body to mutate the host's entire body and replacing some tissue with fleshmass. This is a painful process that will take two days for tumor to assimilate within host's body.\n\nIt effect depends on amount of fleshmass mutations in the host's body up to 15. -->
     <IncubateAEFleshmassBodyMutation.description>血肉腫瘤將被植入對象體內，使宿主全身發生變異並將部分組織用血肉塊取代。這是一個痛苦的過程，需要兩天時間等待腫瘤在宿主體內同化。\n\n效果取決於軀體突變次數，最多可以突變5次。</IncubateAEFleshmassBodyMutation.description>
     <!-- EN: Incubating fleshmass body mutation. -->
-    <IncubateAEFleshmassBodyMutation.jobString>正在培養血肉軀體突變</IncubateAEFleshmassBodyMutation.jobString>
+    <IncubateAEFleshmassBodyMutation.jobString>正在培育血肉軀體突變</IncubateAEFleshmassBodyMutation.jobString>
 
     <!-- EN: incubate fleshmass organogenesis core -->
-    <IncubateAEFleshmassOrganogenesisCore.label>培養血肉器官再生核心</IncubateAEFleshmassOrganogenesisCore.label>
+    <IncubateAEFleshmassOrganogenesisCore.label>培育血肉器官再生核心</IncubateAEFleshmassOrganogenesisCore.label>
     <!-- EN: A fleshmass tumor will be implanted into the subject's body to seamlessly integrate with fleshmass organs, allowing them to regrow even after full destruction. It will take five days for fleshmass cells, left within the host's body, to regenerate into a new organ.\n\nAffects:\n- Fleshmass stomach;\n- Fleshmass lung;\n- Fleshmass liver;\n- Fleshmass nose;\n- Fleshmass eye;\n- Fleshmass ear;\n- Fleshmass kidney;\n- Fleshmass heart. -->
     <IncubateAEFleshmassOrganogenesisCore.description>血肉腫瘤將被植入對象體內，與血肉塊器官無縫結合，即使在完全破壞後也能再生。需要五天時間等待腫瘤在宿主體內同化。\n\n影響：\n- 血肉胃；\n- 血肉肺；\n- 血肉肝；\n- 血肉鼻；\n- 血肉眼\n- 血肉耳；\n- 血肉腎；\n- 血肉心。</IncubateAEFleshmassOrganogenesisCore.description>
     <!-- EN: Incubating fleshmass organogenesis core. -->
-    <IncubateAEFleshmassOrganogenesisCore.jobString>正在培養血肉器官再生核心</IncubateAEFleshmassOrganogenesisCore.jobString>
+    <IncubateAEFleshmassOrganogenesisCore.jobString>正在培育血肉器官再生核心</IncubateAEFleshmassOrganogenesisCore.jobString>
 
 </LanguageData>

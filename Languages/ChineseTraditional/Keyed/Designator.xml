@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: Must designate capturable entities. -->
+    <AnomaliesExpected.Designator.MessageMustDesignateCapturable>必須指定可捕獲的實體。</AnomaliesExpected.Designator.MessageMustDesignateCapturable>
+    <!-- EN: Capture entity. It must be restrained on a holding platform. Once restrained, it can be studied. -->
+    <AnomaliesExpected.Designator.CaptureEntity.Desc>必須將實體限制在固定平臺上。一旦被限制，就可以進行研究。</AnomaliesExpected.Designator.CaptureEntity.Desc>
+    
+</LanguageData>

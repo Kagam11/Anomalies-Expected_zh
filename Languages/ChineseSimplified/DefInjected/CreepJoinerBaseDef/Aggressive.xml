@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: chilling call -->
+    <AE_AggressiveIncident_SnowArmyAssault.label>深寒召唤</AE_AggressiveIncident_SnowArmyAssault.label>
+    <!-- EN: {PAWN_nameDef} has let out a psychic pulse which will draw something from the distance towards your local area. You can feel that temperature starting to drop.\n\nThey are coming... -->
+    <AE_AggressiveIncident_SnowArmyAssault.letterDesc>{PAWN_nameDef}发出的灵能脉冲正将远处的什么东西引向这里。你感觉到温度开始下降。\n\n有什么东西要来了...</AE_AggressiveIncident_SnowArmyAssault.letterDesc>
+    <!-- EN: {PAWN_nameDef}'s chilling call -->
+    <AE_AggressiveIncident_SnowArmyAssault.letterLabel>{PAWN_nameDef}的深寒召唤</AE_AggressiveIncident_SnowArmyAssault.letterLabel>
+    
+</LanguageData>

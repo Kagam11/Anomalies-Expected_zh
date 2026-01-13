@@ -76,29 +76,29 @@
     <AE_IceThinBody.labelNoun>偏轉冰片</AE_IceThinBody.labelNoun>
     
     <!-- EN: melting -->
-	<Hediff_AESnowMelting.label>融化</Hediff_AESnowMelting.label>
+    <Hediff_AESnowMelting.label>融化</Hediff_AESnowMelting.label>
     <!-- EN: The creature's body gradually melts away. -->
-	<Hediff_AESnowMelting.description>這個生物的身體正在逐漸融化。</Hediff_AESnowMelting.description>
+    <Hediff_AESnowMelting.description>這個生物的身體正在逐漸融化。</Hediff_AESnowMelting.description>
 
     <!-- EN: speedometer acceleration -->
-	<Hediff_AEAcceleration.label>速時</Hediff_AEAcceleration.label>
+    <Hediff_AEAcceleration.label>速時</Hediff_AEAcceleration.label>
     <!-- EN: The implanted Speedometer accelerates all processes within the host body. -->
-	<Hediff_AEAcceleration.description>植入的速度計加速了宿主體內的所有活動。</Hediff_AEAcceleration.description>
+    <Hediff_AEAcceleration.description>植入的速度計加速了宿主體內的所有活動。</Hediff_AEAcceleration.description>
 
     <!-- EN: speedometer deceleration -->
-	<Hediff_AEDeceleration.label>緩時</Hediff_AEDeceleration.label>
+    <Hediff_AEDeceleration.label>緩時</Hediff_AEDeceleration.label>
     <!-- EN: Under the Speedometer's influence, the body's processes are decelerating. -->
-	<Hediff_AEDeceleration.description>在速度計的影響下，身體的各項活動都在減速。</Hediff_AEDeceleration.description>
+    <Hediff_AEDeceleration.description>在速度計的影響下，身體的各項活動都在減速。</Hediff_AEDeceleration.description>
 
     <!-- EN: chrono destabilization -->
-	<Hediff_AEChronoDestabilization.label>時序失穩</Hediff_AEChronoDestabilization.label>
+    <Hediff_AEChronoDestabilization.label>時序失穩</Hediff_AEChronoDestabilization.label>
     <!-- EN: The Speedometer's constant influence destabilizes biological systems. This manifests as some cells speeding up dramatically, while others sluggishly decelerate. Extended exposure is lethal. The body recovers its normal function after the Speedometer is no longer affecting it. -->
-	<Hediff_AEChronoDestabilization.description>速度計的持續影響會破壞生物系統的穩定性。表現爲一些細胞急劇加速，而另一些細胞則緩慢減速。長時間影響會最終致命。當速度計不再影響人體後，就會恢復正常。</Hediff_AEChronoDestabilization.description>
+    <Hediff_AEChronoDestabilization.description>速度計的持續影響會破壞生物系統的穩定性。表現爲一些細胞急劇加速，而另一些細胞則緩慢減速。長時間影響會最終致命。當速度計不再影響人體後，就會恢復正常。</Hediff_AEChronoDestabilization.description>
 
     <!-- EN: chrono coma -->
-	<Hediff_AEChronoComa.label>時間昏迷</Hediff_AEChronoComa.label>
+    <Hediff_AEChronoComa.label>時間昏迷</Hediff_AEChronoComa.label>
     <!-- EN: This person forcefully separated Speedometer from their body. Severing the link this way has put them in a coma. -->
-	<Hediff_AEChronoComa.description>此人被強制卸下了速度計，導致了昏迷。</Hediff_AEChronoComa.description>
+    <Hediff_AEChronoComa.description>此人被強制卸下了速度計，導致了昏迷。</Hediff_AEChronoComa.description>
 
     <!--#endregion-->
 </LanguageData>
