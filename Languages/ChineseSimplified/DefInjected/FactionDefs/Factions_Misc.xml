@@ -12,4 +12,7 @@
     <!-- EN: snow army -->
     <AE_SnowArmy.pawnsPlural>冰雪军团</AE_SnowArmy.pawnsPlural>
 
+    <!-- EN: {0} from {1} are attacking your {2}. -->
+	<AE_SnowArmy.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</AE_SnowArmy.messageDefendersAttacking>
+
 </LanguageData>

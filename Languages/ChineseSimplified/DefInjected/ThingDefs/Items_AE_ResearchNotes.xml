@@ -303,5 +303,15 @@
     <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>
     <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>
 
+    <!-- EN: research note #CW01 -->
+    <AE_ResearchNotesCWA.label>研究记录 #CW01</AE_ResearchNotesCWA.label>
+	<AE_ResearchNotesCWA.description>与异常相关的研究笔记。研究它们有助于开启新的异常研究。</AE_ResearchNotesCWA.description>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究记录</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>И通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析实体数据库研究记录：解锁{RESEARCH}</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>
+	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>
 
 </LanguageData>

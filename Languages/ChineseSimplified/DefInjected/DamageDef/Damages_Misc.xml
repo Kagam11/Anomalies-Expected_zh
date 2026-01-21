@@ -32,4 +32,9 @@
     <!-- EN: {0} become too fragile from freezing. -->
     <AEFreezingFragileStab.deathMessage>{0}冻得太脆了。</AEFreezingFragileStab.deathMessage>
 
+    <!-- EN: rapid aging -->
+    <AEAging.label>快速衰老</AEAging.label>
+    <!-- EN: {0} has succumbed to rapid aging. -->
+	<AEAging.deathMessage>{0}死于快速衰老。</AEAging.deathMessage>
+
 </LanguageData>

@@ -49,13 +49,18 @@
     <AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>冰雪军团</AE_EntityCodexEntry_SnowArmy.modExtensions.0.groupName>
 
     <!-- EN: speedometer -->
-    <AE_EntityCodexEntry_Speedometer.label>速度计</AE_EntityCodexEntry_Speedometer.label>
+    <AE_EntityCodexEntry_Speedometer.label>测速仪</AE_EntityCodexEntry_Speedometer.label>
 
     <!-- EN: ancient server -->
     <AE_EntityCodexEntry_EntityDatabase.label>远古服务器</AE_EntityCodexEntry_EntityDatabase.label>
 
     <!-- EN: big cake -->
     <AE_EntityCodexEntry_BirthdayCake.label>大蛋糕</AE_EntityCodexEntry_BirthdayCake.label>
+
+    <!-- EN: clockwork obelisk -->
+	<AE_EntityCodexEntry_Obelisk_Clockwork.label>发条方尖碑</AE_EntityCodexEntry_Obelisk_Clockwork.label>
+    <!-- EN: Clock runs empty -->
+	<AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>时间流空</AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>
 
 
     <!--#endregion-->

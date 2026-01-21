@@ -17,5 +17,8 @@
     <!-- EN: [not found] -->
     <AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
 
+    <!-- EN: aging zone -->
+	<AEAgingZone.label>老化区域</AEAgingZone.label>
+
     <!--#endregion-->
 </LanguageData>

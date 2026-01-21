@@ -83,22 +83,22 @@
     <!-- EN: speedometer acceleration -->
     <Hediff_AEAcceleration.label>速时</Hediff_AEAcceleration.label>
     <!-- EN: The implanted Speedometer accelerates all processes within the host body. -->
-    <Hediff_AEAcceleration.description>植入的速度计加速了宿主体内的所有活动。</Hediff_AEAcceleration.description>
+    <Hediff_AEAcceleration.description>植入的测速仪加速了宿主体内的所有活动。</Hediff_AEAcceleration.description>
 
     <!-- EN: speedometer deceleration -->
     <Hediff_AEDeceleration.label>缓时</Hediff_AEDeceleration.label>
     <!-- EN: Under the Speedometer's influence, the body's processes are decelerating. -->
-    <Hediff_AEDeceleration.description>在速度计的影响下，身体的各项活动都在减速。</Hediff_AEDeceleration.description>
+    <Hediff_AEDeceleration.description>在测速仪的影响下，身体的各项活动都在减速。</Hediff_AEDeceleration.description>
 
     <!-- EN: chrono destabilization -->
     <Hediff_AEChronoDestabilization.label>时序失稳</Hediff_AEChronoDestabilization.label>
     <!-- EN: The Speedometer's constant influence destabilizes biological systems. This manifests as some cells speeding up dramatically, while others sluggishly decelerate. Extended exposure is lethal. The body recovers its normal function after the Speedometer is no longer affecting it. -->
-    <Hediff_AEChronoDestabilization.description>速度计的持续影响会破坏生物系统的稳定性。表现为一些细胞急剧加速，而另一些细胞则缓慢减速。长时间影响会最终致命。当速度计不再影响人体后，就会恢复正常。</Hediff_AEChronoDestabilization.description>
+    <Hediff_AEChronoDestabilization.description>测速仪的持续影响会破坏生物系统的稳定性。表现为一些细胞急剧加速，而另一些细胞则缓慢减速。长时间影响会最终致命。当测速仪不再影响人体后，就会恢复正常。</Hediff_AEChronoDestabilization.description>
 
     <!-- EN: chrono coma -->
     <Hediff_AEChronoComa.label>时间昏迷</Hediff_AEChronoComa.label>
     <!-- EN: This person forcefully separated Speedometer from their body. Severing the link this way has put them in a coma. -->
-    <Hediff_AEChronoComa.description>此人被强制卸下了速度计，导致了昏迷。</Hediff_AEChronoComa.description>
+    <Hediff_AEChronoComa.description>此人被强制卸下了测速仪，导致了昏迷。</Hediff_AEChronoComa.description>
 
     <!--#endregion-->
 </LanguageData>

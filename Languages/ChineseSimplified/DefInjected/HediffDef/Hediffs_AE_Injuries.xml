@@ -26,4 +26,13 @@
     <!-- EN: [not found] -->
     <AEFreezingFragile.labelNounPretty>{0}/{1}</AEFreezingFragile.labelNounPretty>
 
+    <!-- EN: rapid aging -->
+    <AEAging.label>快速衰老</AEAging.label>
+    <!-- EN: Abnormal cellular acceleration caused by chrono exposure. This condition forces the body to undergo decades of biological decay within moments. As telomeres rapidly deplete, the skin loses elasticity and organs begin to fail from advanced senility, often resulting in systemic collapse. -->
+	<AEAging.description>异常的细胞加速，由时间暴露引起。这种状况迫使身体在瞬间经历数十年的生物衰退。随着端粒的快速消耗，皮肤失去弹性，器官因高级老化而开始衰竭，常导致系统性崩溃。</AEAging.description>
+    <!-- EN: Disintegrated to rapid aging -->
+	<AEAging.injuryProps.destroyedLabel>因快速衰老而解体</AEAging.injuryProps.destroyedLabel>
+    <!-- EN: {0} in the {1} -->
+	<AEAging.labelNounPretty>{1}中的{0}</AEAging.labelNounPretty>
+
 </LanguageData>
