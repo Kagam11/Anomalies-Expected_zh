@@ -9,8 +9,8 @@
     <AEFreezing.comps.HediffComp_GetsPermanent.permanentLabel>完全凍結</AEFreezing.comps.HediffComp_GetsPermanent.permanentLabel>
     <!-- EN: Lost to freezing through -->
     <AEFreezing.injuryProps.destroyedLabel>因完全凍結而失去</AEFreezing.injuryProps.destroyedLabel>
-    <!-- EN: [not found] -->
-    <AEFreezing.labelNounPretty>{0}/{1}</AEFreezing.labelNounPretty>
+    <!-- EN: [OG] -->
+    <AEFreezing.labelNounPretty>{1}中的{0}</AEFreezing.labelNounPretty>
 
     <!-- EN: nitrogen freezing -->
     <AENitrogenFreezing.label>液氮凍結</AENitrogenFreezing.label>
@@ -23,7 +23,16 @@
     <AEFreezingFragile.description>暴露在極端低溫下，更容易受到傷害。</AEFreezingFragile.description>
     <!-- EN: Freezing fragile -->
     <AEFreezingFragile.labelNoun>凍結脆弱</AEFreezingFragile.labelNoun>
-    <!-- EN: [not found] -->
-    <AEFreezingFragile.labelNounPretty>{0}/{1}</AEFreezingFragile.labelNounPretty>
+    <!-- EN: [OG] -->
+    <AEFreezingFragile.labelNounPretty>{1}中的{0}</AEFreezingFragile.labelNounPretty>
+
+    <!-- EN: rapid aging -->
+    <AEAging.label>快速衰老</AEAging.label>
+    <!-- EN: Abnormal cellular acceleration caused by chrono exposure. This condition forces the body to undergo decades of biological decay within moments. As telomeres rapidly deplete, the skin loses elasticity and organs begin to fail from advanced senility, often resulting in systemic collapse. -->
+    <AEAging.description>異常的細胞加速，由時間暴露引起。這種狀況迫使身體在瞬間經歷數十年的生物衰退。隨着端粒的快速消耗，皮膚失去彈性，器官因高級老化而開始衰竭，常導致系統性崩潰。</AEAging.description>
+    <!-- EN: Disintegrated to rapid aging -->
+    <AEAging.injuryProps.destroyedLabel>因快速衰老而解體</AEAging.injuryProps.destroyedLabel>
+    <!-- EN: {0} in the {1} -->
+    <AEAging.labelNounPretty>{1}中的{0}</AEAging.labelNounPretty>
 
 </LanguageData>

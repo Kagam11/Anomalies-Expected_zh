@@ -5,11 +5,14 @@
     <AE_SnowArmy.label>冰雪軍團實體</AE_SnowArmy.label>
     <!-- EN: Snow army -->
     <AE_SnowArmy.fixedName>冰雪軍團</AE_SnowArmy.fixedName>
-    <!-- EN: [not found] -->
+    <!-- EN: [OG] -->
     <AE_SnowArmy.leaderTitle>領袖</AE_SnowArmy.leaderTitle>
     <!-- EN: snow soldier -->
     <AE_SnowArmy.pawnSingular>冰雪士兵</AE_SnowArmy.pawnSingular>
     <!-- EN: snow army -->
     <AE_SnowArmy.pawnsPlural>冰雪軍團</AE_SnowArmy.pawnsPlural>
+
+    <!-- EN: {0} from {1} are attacking your {2}. -->
+    <AE_SnowArmy.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</AE_SnowArmy.messageDefendersAttacking>
 
 </LanguageData>

@@ -203,6 +203,11 @@
     <!-- EN: Examining data from entity database and learn connect with entity database ritual. -->
     <AEConnectEntityDatabase.description>檢查實體數據庫中的數據，學習與實體數據庫儀式的連接。</AEConnectEntityDatabase.description>
 
+    <!-- EN: analyze chrono-emissions -->
+    <AEAnalyzeClockworkEmission.label>分析時間發送</AEAnalyzeClockworkEmission.label>
+    <!-- EN: Examining clockwork obelisk's data to construct a decoy speedometer. -->
+    <AEAnalyzeClockworkEmission.description>檢查發條方尖碑的數據，以構建一個誘餌測速儀。</AEAnalyzeClockworkEmission.description>
+
 
     <!--#endregion-->
 

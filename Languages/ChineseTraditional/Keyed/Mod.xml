@@ -25,11 +25,19 @@
     <!-- EN: Set multiplier for time between fleshbeast generation from nests to {0} -->
     <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>將血肉獸生成時間間隔的乘數爲 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>
     <!-- EN: Set maximum size for Lake sub map generation to {0}x{0} (by default will copy size of colony map)\n(Size affect amount of loot, enemies and required resources from PC) -->
-    <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>將湖中地圖的大小設置爲 {0}x{0} (默認情況下爲殖民地地圖大小)\n(大小會影響戰利品數量、敵人數量和電腦資源要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
+    <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>將血湖中地圖的大小設置爲 {0}x{0} (默認情況下爲殖民地地圖大小)\n(大小會影響戰利品數量、敵人數量和電腦配置要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
 
     <!-- EN: Set Void Provaction ritual Cooldown to {0} hours (by default 120h). [Take effect on a game launch] -->
     <AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>將虛空擾動的冷卻時間設置爲 {0} 小時（默認120小時）。[需要重啓遊戲生效]</AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>
 
+    <!-- EN: Notify of second hand of Clockwork obelisk. -->
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>通知發條方尖碑的秒針事件</AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>
+    <!-- EN: Notify of minute hand of Clockwork obelisk. -->
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>通知發條方尖碑的分針事件</AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>
+    <!-- EN: Notify of hour hand of Clockwork obelisk. -->
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandHour>通知發條方尖碑的時針事件</AnomaliesExpected.Settings.ObeliskClockwork.HandHour>
+    <!-- EN: Notify of day hand of Clockwork obelisk. -->
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandDay>通知發條方尖碑的日針事件</AnomaliesExpected.Settings.ObeliskClockwork.HandDay>
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>嘗試解鎖 Anomalies Expected 的研究項目</AnomaliesExpected.Settings.ResearchTab.Unlock>
 

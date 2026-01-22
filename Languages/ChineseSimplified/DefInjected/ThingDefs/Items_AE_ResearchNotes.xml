@@ -13,9 +13,9 @@
     <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Neural Collective Processing Unit research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析集体神经处理单元研究记录：解锁{RESEARCH}</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesABA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #AHB01 -->
@@ -30,9 +30,9 @@
     <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Emergency Cellular Restoration Unit research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析紧急细胞修复单元研究记录：解锁{RESEARCH}</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesAHBA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #FF01 -->
@@ -48,11 +48,11 @@
     <!-- EN: The Forbidden Fruit of Knowledge research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析知识禁果研究记录：解锁{RESEARCH}</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesFFA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #MG01 -->
@@ -68,11 +68,11 @@
     <!-- EN: Symphony of Eternal Slaughter research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析永恒屠戮交响曲研究记录：解锁{RESEARCH}</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesMGA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #BP01 -->
@@ -88,11 +88,11 @@
     <!-- EN: Self-Baking Pies research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析巨大的派研究记录：解锁{RESEARCH}</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBPA.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #BT01 -->
     <AE_ResearchNotesBTA.label>研究记录 #BT01</AE_ResearchNotesBTA.label>
@@ -106,9 +106,9 @@
     <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Transmitter research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析发信器研究记录：解锁{RESEARCH}</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBTA.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #BT02 -->
     <AE_ResearchNotesBTB.label>研究记录 #BT02</AE_ResearchNotesBTB.label>
@@ -122,9 +122,9 @@
     <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Orbital Beam Training Target research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析轨道光束演习标靶研究记录：解锁{RESEARCH}</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBTB.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #BL01 -->
@@ -140,11 +140,11 @@
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究设施中的研究记录：解锁{RESEARCH}</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBLA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #BL02 -->
@@ -160,11 +160,11 @@
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究设施中的研究记录：解锁{RESEARCH}</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBLB.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #BL03 -->
@@ -180,11 +180,11 @@
     <!-- EN: Blood Lake facility's research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析血湖研究设施中的研究记录：解锁{RESEARCH}</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesBLC.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #PS01 -->
@@ -200,11 +200,11 @@
     <!-- EN: The One Who Provides research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析供养我等之人的研究记录：解锁{RESEARCH}</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
     <!-- EN: Choose who should analyze this -->
-    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.guiLabelString>
     <!-- EN: Can be analyzed by a colonist. -->
-    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.inspectString>
     <!-- EN: Analyze research note -->
-    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesPSA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #SA01 -->
@@ -219,9 +219,9 @@
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-01 research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析大气降温器研究记录：解锁{RESEARCH}</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesSAA.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #SA02 -->
@@ -236,9 +236,9 @@
     <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-02 research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析冰雪军团SA-02研究记录：解锁{RESEARCH}</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesSAB.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #SA03 -->
@@ -253,9 +253,9 @@
     <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-03 research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析冰雪军团SA-03研究记录：解锁{RESEARCH}</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesSAC.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #SA04 -->
@@ -270,9 +270,9 @@
     <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-04 research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析冰雪军团SA-04研究记录：解锁{RESEARCH}</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.inspectString>'Can be analyzed by a colonist.'
-    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.inspectString>'Can be analyzed by a colonist.'
+    <AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesSAD.comps.CompAnalyzableUnlockResearch.jobString>
 
 
     <!-- EN: research note #SA05 -->
@@ -287,9 +287,9 @@
     <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Snow Army SA-05 research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析冰雪军团SA-05研究记录：解锁{RESEARCH}</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesSAE.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #ED01 -->
     <AE_ResearchNotesEDA.label>研究记录 #ED01</AE_ResearchNotesEDA.label>
@@ -299,19 +299,19 @@
     <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.completedLetter>通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.completedLetter>
     <!-- EN: Entity Database research note studied: {RESEARCH} unlocked -->
     <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析实体数据库研究记录：解锁{RESEARCH}</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>
-    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesEDA.comps.CompAnalyzableUnlockResearch.jobString>
 
     <!-- EN: research note #CW01 -->
     <AE_ResearchNotesCWA.label>研究记录 #CW01</AE_ResearchNotesCWA.label>
-	<AE_ResearchNotesCWA.description>与异常相关的研究笔记。研究它们有助于开启新的异常研究。</AE_ResearchNotesCWA.description>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究记录</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>И通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析实体数据库研究记录：解锁{RESEARCH}</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>可以被殖民者分析。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>
-	<AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>进行分析</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>
+    <AE_ResearchNotesCWA.description>与异常相关的研究笔记。研究它们有助于开启新的异常研究。</AE_ResearchNotesCWA.description>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>分析研究记录</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateDescString>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.activateLabelString>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>И通过分析研究记录，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetter>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>已分析实体数据库研究记录：解锁{RESEARCH}</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>选择分析者</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.guiLabelString>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>可由一名殖民者进行分析。</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.inspectString>
+    <AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>分析研究记录</AE_ResearchNotesCWA.comps.CompAnalyzableUnlockResearch.jobString>
 
 </LanguageData>

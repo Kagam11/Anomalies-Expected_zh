@@ -2,33 +2,33 @@
 <LanguageData>
 
     <!-- EN: giant fleshmass spitter -->
-    <AE_FleshmassSpitterGiant.label>巨型血肉噴吐者</AE_FleshmassSpitterGiant.label>
+    <AE_FleshmassSpitterGiant.label>巨型血肉噴吐器</AE_FleshmassSpitterGiant.label>
     <!-- EN: A giant defensive fleshmass organ that can spit acid very long distances. The acid is a natural byproduct of toxins filtered from the surrounding biomass. -->
-    <AE_FleshmassSpitterGiant.description>一種巨大的防禦性血肉器官，能將酸液吐出很遠的距離。這種酸是從周圍生物質中過濾出毒素的副產品。</AE_FleshmassSpitterGiant.description>
-    <!-- EN: [not found] -->
-    <AE_FleshmassSpitterGiant.verbs.Verb_Shoot.label>巨型血肉噴吐</AE_FleshmassSpitterGiant.verbs.Verb_Shoot.label>
+    <AE_FleshmassSpitterGiant.description>可超遠距離噴吐酸性涎液的巨型防禦性血肉塊器官。這種酸性涎液是從周圍生物質中過濾出的天然有毒副產物。</AE_FleshmassSpitterGiant.description>
+    <!-- EN: [giant acid spit] -->
+    <AE_FleshmassSpitterGiant.verbs.Verb_Shoot.label>巨型血肉噴吐器</AE_FleshmassSpitterGiant.verbs.Verb_Shoot.label>
     <!-- EN: giant acid spit -->
-    <AE_Bullet_Shell_AcidSpitGiant.label>巨型酸液噴射</AE_Bullet_Shell_AcidSpitGiant.label>
+    <AE_Bullet_Shell_AcidSpitGiant.label>巨型酸性涎液</AE_Bullet_Shell_AcidSpitGiant.label>
 
-    <!-- EN: [not found] -->
-    <AE_FleshmassSpitterMedium.label>血肉噴吐者</AE_FleshmassSpitterMedium.label>
-    <!-- EN: [not found] -->
-    <AE_FleshmassSpitterMedium.description>一種防禦性血肉器官，能將酸液吐出很遠的距離。這種酸是從周圍生物質中過濾出毒素的副產品。</AE_FleshmassSpitterMedium.description>
-    <!-- EN: [not found] -->
-    <AE_FleshmassSpitterMedium.verbs.Verb_Shoot.label>血肉噴吐</AE_FleshmassSpitterMedium.verbs.Verb_Shoot.label>
-    <AE_Bullet_Shell_AcidSpitMedium.label>酸液噴射</AE_Bullet_Shell_AcidSpitMedium.label>
+    <!-- EN: [OG] -->
+    <AE_FleshmassSpitterMedium.label>中型血肉噴吐器</AE_FleshmassSpitterMedium.label>
+    <!-- EN: [OG] -->
+    <AE_FleshmassSpitterMedium.description>可遠距離噴吐酸性涎液的防禦性血肉塊器官。這種酸性涎液是從周圍生物質中過濾出的天然有毒副產物。</AE_FleshmassSpitterMedium.description>
+    <!-- EN: [OG] -->
+    <AE_FleshmassSpitterMedium.verbs.Verb_Shoot.label>中型血肉噴吐器</AE_FleshmassSpitterMedium.verbs.Verb_Shoot.label>
+    <AE_Bullet_Shell_AcidSpitMedium.label>中型酸性涎液</AE_Bullet_Shell_AcidSpitMedium.label>
 
     <!-- EN: small fleshmass spitter -->
-    <AE_FleshmassSpitterSmall.label>小型血肉噴吐者</AE_FleshmassSpitterSmall.label>
+    <AE_FleshmassSpitterSmall.label>小型血肉噴吐器</AE_FleshmassSpitterSmall.label>
     <!-- EN: A defensive fleshmass organ that can spit acid short distances. The acid is a natural byproduct of toxins filtered from the surrounding biomass. -->
-    <AE_FleshmassSpitterSmall.description>一種小型防禦性血肉器官，能將酸液吐出很遠的距離。這種酸是從周圍生物質中過濾出毒素的副產品。</AE_FleshmassSpitterSmall.description>
-    <!-- EN: [not found] -->
-    <AE_FleshmassSpitterSmall.verbs.Verb_Shoot.label>小型血肉噴吐</AE_FleshmassSpitterSmall.verbs.Verb_Shoot.label>
+    <AE_FleshmassSpitterSmall.description>可近距離噴吐酸性涎液的小型防禦性血肉塊器官。這種酸性涎液是從周圍生物質中過濾出的天然有毒副產物。</AE_FleshmassSpitterSmall.description>
+    <!-- EN: [OG] -->
+    <AE_FleshmassSpitterSmall.verbs.Verb_Shoot.label>小型血肉噴吐器</AE_FleshmassSpitterSmall.verbs.Verb_Shoot.label>
     <!-- EN: small acid spit -->
-    <AE_Bullet_Shell_AcidSpitSmall.label>小型酸液噴射</AE_Bullet_Shell_AcidSpitSmall.label>
+    <AE_Bullet_Shell_AcidSpitSmall.label>小型酸性涎液</AE_Bullet_Shell_AcidSpitSmall.label>
 
     <!-- EN: acid spit -->
-    <AE_Bullet_Shell_AcidSpitAbility.label>酸液噴射</AE_Bullet_Shell_AcidSpitAbility.label>
+    <AE_Bullet_Shell_AcidSpitAbility.label>酸性涎液</AE_Bullet_Shell_AcidSpitAbility.label>
 
     <!-- EN: underground fleshmass nest -->
     <AE_BloodLakeUndergroundNest.label>地下血肉巢穴</AE_BloodLakeUndergroundNest.label>

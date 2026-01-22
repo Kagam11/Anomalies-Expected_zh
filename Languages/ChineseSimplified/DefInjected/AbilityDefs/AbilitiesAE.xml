@@ -21,9 +21,9 @@
     <AEPsychicFlash.description>集中爆发灵能，从眼睛中发射出来，攻击前方的目标。</AEPsychicFlash.description>
 
     <!-- EN: spawn Fingerspike -->
-    <AESpawnKidneyFleshbeast.label>生成单爪兽</AESpawnKidneyFleshbeast.label>
+    <AESpawnKidneyFleshbeast.label>生成独爪兽</AESpawnKidneyFleshbeast.label>
     <!-- EN: Grow fleshmass from kidney and mutate it into a Fingerspike. This fleshbeast is afflicted with by destabilization mutation, granting it enhanced physical capabilities but a shortened lifespan. -->
-    <AESpawnKidneyFleshbeast.description>从肾脏中长出肉块，并将其变异成单爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnKidneyFleshbeast.description>
+    <AESpawnKidneyFleshbeast.description>从肾脏中长出肉块，并将其变异成独爪兽。这样产生的血肉兽受到不稳定变异的影响，身体机能增强，但寿命缩短。</AESpawnKidneyFleshbeast.description>
 
     <!-- EN: spawn Toughspike -->
     <AESpawnBodyMutationFleshbeast.label>生成双爪兽</AESpawnBodyMutationFleshbeast.label>

@@ -109,7 +109,7 @@
     <!-- EN: fleshmass kidney -->
     <AE_FleshmassKidney.label>血肉肾</AE_FleshmassKidney.label>
     <!-- EN: A cancerous mass of semi-sentient flesh. Will grow fleshmass that can be mutated into Fingerspike afflicted with by destabilization mutation.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
-    <AE_FleshmassKidney.description>一团癌变的半智慧肉体。可以长出肉块并使用不稳定突变将其变成单爪兽。\n\n这个器官有自己的神经结构，将其移除可能招致危险。</AE_FleshmassKidney.description>
+    <AE_FleshmassKidney.description>一团癌变的半智慧肉体。可以长出肉块并使用不稳定突变将其变成独爪兽。\n\n这个器官有自己的神经结构，将其移除可能招致危险。</AE_FleshmassKidney.description>
     <!-- EN: Fleshmass operation -->
     <AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>血肉手术</AE_FleshmassKidney.comps.HediffComp_FleshbeastEmerge.letterLabel>
     <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass kidney has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->

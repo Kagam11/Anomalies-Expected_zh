@@ -6,4 +6,7 @@
     <!-- EN: freezing stab -->
     <AEFreezingStab.label>凍結刺傷</AEFreezingStab.label>
 
+    <!-- EN: chrono distortion -->
+    <AEChronoDistortion.label>時間失調</AEChronoDistortion.label>
+
 </LanguageData>

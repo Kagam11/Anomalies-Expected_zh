@@ -4,6 +4,6 @@
     <!-- EN: blood-like liquid -->
     <AE_BloodLiquid.label>血樣液體</AE_BloodLiquid.label>
     <!-- EN: An exotic blood-like substance which can change it own density. Can be extracted from related anomalies. If it filtered well enough it can be used as any blood substitute. -->
-    <AE_BloodLiquid.description>一種類似血液的奇異物質，能改變自身濃度。可從相關異常點中提取。如果過濾得足夠好，它可以用作血液替代品。</AE_BloodLiquid.description>
+    <AE_BloodLiquid.description>一種類似血液的奇異物質，能改變自身濃度。可從相關異常中提取。如果過濾得足夠好，它可以用作血液替代品。</AE_BloodLiquid.description>
 
 </LanguageData>

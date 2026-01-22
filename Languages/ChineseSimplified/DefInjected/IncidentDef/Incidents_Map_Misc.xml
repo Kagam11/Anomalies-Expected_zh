@@ -110,13 +110,13 @@
     <AE_IncidentDef_BirthdayCakeSpawn.letterLabel>发现大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object appeared nearby. At close inspection it seems like a round big cake on a red plate. It looks appetizing. -->
     <AE_IncidentDef_BirthdayCakeSpawn.letterText>你的殖民者发现附近出现了某个物体。仔细一看，这似乎是一个红色盘子里的圆形大蛋糕。看起来很好吃。</AE_IncidentDef_BirthdayCakeSpawn.letterText>
-	
+    
     <!-- EN: clockwork obelisk -->
     <AE_IncidentDef_ObeliskClockworkSpawn.label>发条方尖碑</AE_IncidentDef_ObeliskClockworkSpawn.label>
     <!-- EN: Clockwork obelisk -->
-	<AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>发条方尖碑</AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>
+    <AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>发条方尖碑</AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>
     <!-- EN: Your colonist with speedometer noticed some object appeared nearby. At close inspection it seems like an obelisk with clockwork mechanism. However it was always there, so you not sure why they so surprised seeing it. -->
-	<AE_IncidentDef_ObeliskClockworkSpawn.letterText>你带着测速仪的殖民者注意到附近出现了某个物体。仔细一看，这似乎是一个带有发条机制的方尖碑。然而它一直都在那里，所以你不确定他们为什么看到它会如此惊讶。</AE_IncidentDef_ObeliskClockworkSpawn.letterText>
+    <AE_IncidentDef_ObeliskClockworkSpawn.letterText>你带着测速仪的殖民者注意到附近出现了某个物体。仔细一看，这似乎是一个带有发条机制的方尖碑。然而它一直都在那里，所以你不确定他们为什么看到它会如此惊讶。</AE_IncidentDef_ObeliskClockworkSpawn.letterText>
 
     <!--#endregion-->
 

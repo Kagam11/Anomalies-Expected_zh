@@ -56,9 +56,9 @@
     <!-- EN: A mechanism in a shape of metronome, which uses dark archotechnology to bind to a pawn, affecting it in some way -->
     <AE_BioresonatorA.description>一個節拍器外形的儀器，使用暗黑超凡科技與一個小人綁定，並對其造成影響。</AE_BioresonatorA.description>
     <!-- EN: Bind to {0} -->
-    <AE_BioresonatorA.ingestible.ingestCommandString>綁定至 {0}</AE_BioresonatorA.ingestible.ingestCommandString>
+    <AE_BioresonatorA.ingestible.ingestCommandString>綁定至{0}</AE_BioresonatorA.ingestible.ingestCommandString>
     <!-- EN: Binding bioresonator to {0}. -->
-    <AE_BioresonatorA.ingestible.ingestReportString>正在綁定至 {0}。</AE_BioresonatorA.ingestible.ingestReportString>
+    <AE_BioresonatorA.ingestible.ingestReportString>正在綁定至{0}。</AE_BioresonatorA.ingestible.ingestReportString>
 
 
     <!-- EN: The key -->
@@ -66,9 +66,9 @@
     <!-- EN: A strange object resembling a key. You can feel sinister energy coming from within -->
     <AE_Key.description>一個類似鑰匙的奇怪物體。內部散發出一種邪惡能量</AE_Key.description>
     <!-- EN: Bind to {0} -->
-    <AE_Key.ingestible.ingestCommandString>綁定至 {0}</AE_Key.ingestible.ingestCommandString>
+    <AE_Key.ingestible.ingestCommandString>綁定至{0}</AE_Key.ingestible.ingestCommandString>
     <!-- EN: Binding to {0}. -->
-    <AE_Key.ingestible.ingestReportString>正在綁定至 {0}。</AE_Key.ingestible.ingestReportString>
+    <AE_Key.ingestible.ingestReportString>正在綁定至{0}。</AE_Key.ingestible.ingestReportString>
 
     <!-- EN: The key -->
     <AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>洞啓之鑰</AE_Key.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
@@ -129,9 +129,9 @@
     <!-- EN: A strange pebble with metallic properties. It seems to be moving a little bit -->
     <AE_Pebble.description>一塊具有金屬特性的奇怪鵝卵石。它似乎在一點點移動。</AE_Pebble.description>
     <!-- EN: Examine {0} -->
-    <AE_Pebble.ingestible.ingestCommandString>分析 {0}</AE_Pebble.ingestible.ingestCommandString>
+    <AE_Pebble.ingestible.ingestCommandString>分析{0}</AE_Pebble.ingestible.ingestCommandString>
     <!-- EN: Examining {0}. -->
-    <AE_Pebble.ingestible.ingestReportString>正在分析 {0}。</AE_Pebble.ingestible.ingestReportString>
+    <AE_Pebble.ingestible.ingestReportString>正在分析{0}。</AE_Pebble.ingestible.ingestReportString>
 
     <!-- EN: Strange pebble -->
     <AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>奇異卵石</AE_Pebble.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
@@ -153,7 +153,7 @@
     <!-- EN: Connect -->
     <AE_ArchoConnector.ingestible.ingestCommandString>連接</AE_ArchoConnector.ingestible.ingestCommandString>
     <!-- EN: Using {0}. -->
-    <AE_ArchoConnector.ingestible.ingestReportString>正在使用 {0}。</AE_ArchoConnector.ingestible.ingestReportString>
+    <AE_ArchoConnector.ingestible.ingestReportString>正在使用{0}。</AE_ArchoConnector.ingestible.ingestReportString>
 
     <!--#endregion-->
 </LanguageData>

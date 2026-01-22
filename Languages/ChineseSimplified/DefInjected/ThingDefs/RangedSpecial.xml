@@ -12,13 +12,13 @@
     <AEOrbitalBeamTargeter.description>一个针对能源收集卫星网络的瞄准单元，根据对异常发信器的理解而制造。一旦瞄准目标，它就会指挥古代卫星开始向下发射一束细长的电磁能量柱。只需瞄准敌人，随后能量柱将使小范围内变成一个上千度的高温炼狱。这将持续到卫星检测到非法的目标定位，关闭与自身的连接，并在使用3次后永久停用靶向器。</AEOrbitalBeamTargeter.description>
     <!-- EN: charge -->
     <AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>充能</AEOrbitalBeamTargeter.comps.CompApparelReloadable.chargeNoun>
+    <!-- EN: [OG] -->
+    <AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>冷却中</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
     <!-- EN: [not found] -->
-    <AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>重载</AEOrbitalBeamTargeter.comps.CompApparelReloadable.cooldownGerund>
-    <!-- EN: [not found] -->
-    <AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>轨道光束精确靶向器</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
+    <AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>精确光束</AEOrbitalBeamTargeter.verbs.Verb_AEPowerBeam.label>
 
     <!-- EN: aging zone -->
-	<AEAgingZone.label>老化区域</AEAgingZone.label>
+    <AEAgingZone.label>老化区域</AEAgingZone.label>
 
     <!--#endregion-->
 </LanguageData>

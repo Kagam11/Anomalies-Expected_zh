@@ -8,8 +8,8 @@
     <!--EN:anomaly drop pod-->
     <AE_ActiveDropPodAnomaly.label>异常运输仓坠落</AE_ActiveDropPodAnomaly.label>
 
-    <!-- EN: [not found] -->
-    <MinifiedThingAE.label>物体</MinifiedThingAE.label>
+    <!-- EN: [OG] -->
+    <MinifiedThingAE.label>卸载的物品</MinifiedThingAE.label>
 
     <!--#endregion-->
 </LanguageData>

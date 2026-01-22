@@ -25,19 +25,19 @@
     <!-- EN: Set multiplier for time between fleshbeast generation from nests to {0} -->
     <AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>将血肉兽生成时间间隔的乘数为 {0}。</AnomaliesExpected.Settings.BloodLake.UndergroundFleshmassNestFrequencyMult>
     <!-- EN: Set maximum size for Lake sub map generation to {0}x{0} (by default will copy size of colony map)\n(Size affect amount of loot, enemies and required resources from PC) -->
-    <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>将湖中地图的大小设置为 {0}x{0} (默认情况下为殖民地地图大小)\n(大小会影响战利品数量、敌人数量和电脑资源要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
+    <AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>将血湖中地图的大小设置为 {0}x{0} (默认情况下为殖民地地图大小)\n(大小会影响战利品数量、敌人数量和电脑配置要求)</AnomaliesExpected.Settings.BloodLake.BloodLakeSubMapMaxSize>
 
     <!-- EN: Set Void Provaction ritual Cooldown to {0} hours (by default 120h). [Take effect on a game launch] -->
     <AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>将虚空扰动的冷却时间设置为 {0} 小时（默认120小时）。[需要重启游戏生效]</AnomaliesExpected.Settings.Patch.VoidProvactionCooldown>
 
     <!-- EN: Notify of second hand of Clockwork obelisk. -->
-	<AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>通知发条方尖碑的秒针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>通知发条方尖碑的秒针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandSecond>
     <!-- EN: Notify of minute hand of Clockwork obelisk. -->
-	<AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>通知发条方尖碑的分针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>通知发条方尖碑的分针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandMinute>
     <!-- EN: Notify of hour hand of Clockwork obelisk. -->
-	<AnomaliesExpected.Settings.ObeliskClockwork.HandHour>通知发条方尖碑的时针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandHour>
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandHour>通知发条方尖碑的时针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandHour>
     <!-- EN: Notify of day hand of Clockwork obelisk. -->
-	<AnomaliesExpected.Settings.ObeliskClockwork.HandDay>通知发条方尖碑的日针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandDay>
+    <AnomaliesExpected.Settings.ObeliskClockwork.HandDay>通知发条方尖碑的日针事件</AnomaliesExpected.Settings.ObeliskClockwork.HandDay>
     <!-- EN: Try Unlock Anomalies Expected Research Tab -->
     <AnomaliesExpected.Settings.ResearchTab.Unlock>尝试解锁 Anomalies Expected 的研究项目</AnomaliesExpected.Settings.ResearchTab.Unlock>
 

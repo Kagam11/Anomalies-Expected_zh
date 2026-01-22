@@ -12,7 +12,7 @@
     <!-- EN: Take a bite -->
     <AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activateLabelString>咬一口</AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activateLabelString>
     <!-- EN: biting {0}: {1}s -->
-    <AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingString>正在食用 {0}: {1}秒</AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingString>
+    <AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingString>正在食用{0}：{1}秒</AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingString>
     <!-- EN: biting {0} -->
     <AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingStringPending>正在食用 {0}</AE_ForbiddenFruit.comps.Comp_ForbiddenFruit.activatingStringPending>
     <!-- EN: Choose who should bite this. -->
@@ -65,11 +65,11 @@
     <!-- EN: Consume -->
     <AE_BakingPies.comps.Comp_BakingPies.activateLabelString>食用</AE_BakingPies.comps.Comp_BakingPies.activateLabelString>
     <!-- EN: consuming {0}: {1}s -->
-    <AE_BakingPies.comps.Comp_BakingPies.activatingString>正在食用 {0}：{1} 秒</AE_BakingPies.comps.Comp_BakingPies.activatingString>
+    <AE_BakingPies.comps.Comp_BakingPies.activatingString>正在食用{0}：{1}秒</AE_BakingPies.comps.Comp_BakingPies.activatingString>
     <!-- EN: consuming {0} -->
     <AE_BakingPies.comps.Comp_BakingPies.activatingStringPending>正在食用 {0}</AE_BakingPies.comps.Comp_BakingPies.activatingStringPending>
     <!-- EN: Choose who should consume this. -->
-    <AE_BakingPies.comps.Comp_BakingPies.guiLabelString>选择谁要来食用这个</AE_BakingPies.comps.Comp_BakingPies.guiLabelString>
+    <AE_BakingPies.comps.Comp_BakingPies.guiLabelString>选择食用者</AE_BakingPies.comps.Comp_BakingPies.guiLabelString>
     <!-- EN: consume -->
     <AE_BakingPies.comps.Comp_BakingPies.jobString>食用</AE_BakingPies.comps.Comp_BakingPies.jobString>
 
@@ -137,11 +137,11 @@
     <!-- EN: Touch -->
     <AE_DogTag.comps.Comp_DogTag.activateLabelString>触摸</AE_DogTag.comps.Comp_DogTag.activateLabelString>
     <!-- EN: touching {0}: {1}s -->
-    <AE_DogTag.comps.Comp_DogTag.activatingString>正在触摸{0}：{1}s</AE_DogTag.comps.Comp_DogTag.activatingString>
+    <AE_DogTag.comps.Comp_DogTag.activatingString>正在触摸{0}：{1}秒</AE_DogTag.comps.Comp_DogTag.activatingString>
     <!-- EN: touching {0} -->
     <AE_DogTag.comps.Comp_DogTag.activatingStringPending>正在触摸{0}</AE_DogTag.comps.Comp_DogTag.activatingStringPending>
     <!-- EN: Choose who should touch this. -->
-    <AE_DogTag.comps.Comp_DogTag.guiLabelString>选择谁应该触摸这个。</AE_DogTag.comps.Comp_DogTag.guiLabelString>
+    <AE_DogTag.comps.Comp_DogTag.guiLabelString>选择触摸者</AE_DogTag.comps.Comp_DogTag.guiLabelString>
     <!-- EN: touch -->
     <AE_DogTag.comps.Comp_DogTag.jobString>触摸</AE_DogTag.comps.Comp_DogTag.jobString>
 
@@ -156,11 +156,11 @@
     <!-- EN: Examine -->
     <AE_StudyNotepad.comps.Comp_StudyNotepad.activateLabelString>检查</AE_StudyNotepad.comps.Comp_StudyNotepad.activateLabelString>
     <!-- EN: examining {0}: {1}s -->
-    <AE_StudyNotepad.comps.Comp_StudyNotepad.activatingString>正在检查{0}：{1}s</AE_StudyNotepad.comps.Comp_StudyNotepad.activatingString>
+    <AE_StudyNotepad.comps.Comp_StudyNotepad.activatingString>正在检查{0}：{1}秒</AE_StudyNotepad.comps.Comp_StudyNotepad.activatingString>
     <!-- EN: examining {0} -->
     <AE_StudyNotepad.comps.Comp_StudyNotepad.activatingStringPending>正在检查{0}</AE_StudyNotepad.comps.Comp_StudyNotepad.activatingStringPending>
     <!-- EN: Choose who should examine this. -->
-    <AE_StudyNotepad.comps.Comp_StudyNotepad.guiLabelString>选择谁应该来检查这个。</AE_StudyNotepad.comps.Comp_StudyNotepad.guiLabelString>
+    <AE_StudyNotepad.comps.Comp_StudyNotepad.guiLabelString>选择检查者</AE_StudyNotepad.comps.Comp_StudyNotepad.guiLabelString>
     <!-- EN: examine -->
     <AE_StudyNotepad.comps.Comp_StudyNotepad.jobString>检查</AE_StudyNotepad.comps.Comp_StudyNotepad.jobString>
     <!-- EN: restoring -->
@@ -237,11 +237,11 @@
     <!-- EN: Take gift -->
     <AE_ChristmasStockings.comps.Comp_ChristmasStockings.activateLabelString>拿礼物</AE_ChristmasStockings.comps.Comp_ChristmasStockings.activateLabelString>
     <!-- EN: taking gift {0}: {1}s -->
-    <AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingString>正在从{0}拿礼物：{1}s</AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingString>
+    <AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingString>正在拿礼物{0}：{1}秒</AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingString>
     <!-- EN: taking gift {0} -->
     <AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingStringPending>正在拿礼物{0}</AE_ChristmasStockings.comps.Comp_ChristmasStockings.activatingStringPending>
     <!-- EN: Choose who should take from this. -->
-    <AE_ChristmasStockings.comps.Comp_ChristmasStockings.guiLabelString>选择谁应该从里拿东西</AE_ChristmasStockings.comps.Comp_ChristmasStockings.guiLabelString>
+    <AE_ChristmasStockings.comps.Comp_ChristmasStockings.guiLabelString>选择拿礼物者</AE_ChristmasStockings.comps.Comp_ChristmasStockings.guiLabelString>
     <!-- EN: taking gift -->
     <AE_ChristmasStockings.comps.Comp_ChristmasStockings.jobString>拿礼物</AE_ChristmasStockings.comps.Comp_ChristmasStockings.jobString>
     <!-- EN: preparing -->
@@ -281,11 +281,11 @@
     <!-- EN: Retrieve last gift -->
     <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activateLabelString>取出最终礼物</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activateLabelString>
     <!-- EN: retrieving last gift from {0}: {1}s -->
-    <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingString>正在从{0}取出最终礼物：{1}s</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingString>
+    <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingString>正在取出最终礼物{0}：{1}秒</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingString>
     <!-- EN: retrieving last gift from {0} -->
     <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>正在取出最终礼物{0}</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.activatingStringPending>
     <!-- EN: Choose who should retrieve from this. -->
-    <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.guiLabelString>选择谁应该取出这个。</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
+    <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.guiLabelString>选择取出者</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.guiLabelString>
     <!-- EN: retrieve last gift -->
     <AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.jobString>取出最终礼物</AE_ChristmasStockings.comps.Comp_CanDestroyedAfterStudy.jobString>
 
@@ -299,15 +299,15 @@
     <!-- EN: Implant -->
     <AE_Speedometer.comps.Comp_Speedometer.activateLabelString>植入</AE_Speedometer.comps.Comp_Speedometer.activateLabelString>
     <!-- EN: implanting {0}: {1}s -->
-    <AE_Speedometer.comps.Comp_Speedometer.activatingString>正在植入{0}：{1}s</AE_Speedometer.comps.Comp_Speedometer.activatingString>
+    <AE_Speedometer.comps.Comp_Speedometer.activatingString>正在植入{0}：{1}秒</AE_Speedometer.comps.Comp_Speedometer.activatingString>
     <!-- EN: implanting {0} -->
     <AE_Speedometer.comps.Comp_Speedometer.activatingStringPending>正在植入{0}</AE_Speedometer.comps.Comp_Speedometer.activatingStringPending>
     <!-- EN: Choose who should implant this. -->
-    <AE_Speedometer.comps.Comp_Speedometer.guiLabelString>选择谁应该植入这个</AE_Speedometer.comps.Comp_Speedometer.guiLabelString>
+    <AE_Speedometer.comps.Comp_Speedometer.guiLabelString>选择植入者</AE_Speedometer.comps.Comp_Speedometer.guiLabelString>
     <!-- EN: implant -->
     <AE_Speedometer.comps.Comp_Speedometer.jobString>植入</AE_Speedometer.comps.Comp_Speedometer.jobString>
     <!-- EN: readjusting -->
-    <AE_Speedometer.comps.Comp_Speedometer.onCooldownString>正在重调中</AE_Speedometer.comps.Comp_Speedometer.onCooldownString>
+    <AE_Speedometer.comps.Comp_Speedometer.onCooldownString>重调中</AE_Speedometer.comps.Comp_Speedometer.onCooldownString>
     <!-- EN: Speedometer is ready to use again. -->
     <AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>测速仪已经可以再次使用。</AE_Speedometer.comps.Comp_Speedometer.messageCooldownEnded>
 
@@ -401,11 +401,11 @@
     <!-- EN: Celebrate Birthday -->
     <AE_BirthdayCake.comps.Comp_BirthdayCake.activateLabelString>庆祝生日</AE_BirthdayCake.comps.Comp_BirthdayCake.activateLabelString>
     <!-- EN: celebrating birthday with {0}: {1}s -->
-    <AE_BirthdayCake.comps.Comp_BirthdayCake.activatingString>正在与{0}庆祝生日：{1}s</AE_BirthdayCake.comps.Comp_BirthdayCake.activatingString>
+    <AE_BirthdayCake.comps.Comp_BirthdayCake.activatingString>正在与{0}庆祝生日：{1}秒</AE_BirthdayCake.comps.Comp_BirthdayCake.activatingString>
     <!-- EN: celebrating birthday with {0} -->
     <AE_BirthdayCake.comps.Comp_BirthdayCake.activatingStringPending>正在与{0}庆祝生日</AE_BirthdayCake.comps.Comp_BirthdayCake.activatingStringPending>
     <!-- EN: Choose who should eat this. -->
-    <AE_BirthdayCake.comps.Comp_BirthdayCake.guiLabelString>选择谁应该来吃这个。</AE_BirthdayCake.comps.Comp_BirthdayCake.guiLabelString>
+    <AE_BirthdayCake.comps.Comp_BirthdayCake.guiLabelString>选择使用者</AE_BirthdayCake.comps.Comp_BirthdayCake.guiLabelString>
     <!-- EN: celebrate birthday -->
     <AE_BirthdayCake.comps.Comp_BirthdayCake.jobString>庆祝生日</AE_BirthdayCake.comps.Comp_BirthdayCake.jobString>
     <!-- EN: Can celebrate birthday again. -->
@@ -443,42 +443,42 @@
         EN: Birthday Chronological Influence\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nConsumption of the anomalous big cake, following a simulated birthday celebration, resulted in a spontaneous shift in the Subject's perceived and measured biological age to align with the current date as their birthday. Preliminary observations suggest the cake induces age modification based on proximity to the Subject's next or previous chronological birthday. This anomaly presents a potential for controlled age manipulation within the facility.\n\nObservations:\nSubject was instructed to pick up the plate and proceed with normal birthday celebration. Note should be made that Subject's birthday date is different from date of experiment.\nAs previously observed, the inscription on the cake's frosting changed to "Happy Birthday, {PAWN_nameDef}".\nSubject then proceeded to extinguish the spontaneously appeared lit candles and fully consume the entirety of the cake.\nPost-consumption, {PAWN_nameDef} expressed surprise, articulating a strong conviction that the current date was indeed their birthday, despite prior knowledge to the contrary.\n\nOutcome:\nSubsequent biological age analysis of the Subject revealed a measurable physiological alteration, indicating a shift in their age metrics to correspond precisely with the current date being their birth anniversary.\n\nDiscussion:\nThe Subject's post-experiment conviction regarding their birthday's date, despite contradictory official documentation, directly correlates with the observed physiological age alteration. We hypothesize that the full consumption of the big cake, following a simulated birthday celebration, induces a recalibration of the Subject's biological age to align with the current date as their birth date.\nPreliminary evidence suggests that if the Subject's chronological age was closer to their next birthday, their biological age increased to match. Conversely, if their chronological age was closer to their previous birthday, their biological age decreased. This implies a unique age-normalization mechanism relative to the current date.\n\nRecommendations:\nControlled birthday celebration protocols, specifically utilizing the big cake, should be meticulously investigated as a potential means for precise, controlled age manipulation within the facility.
     -->
     <AE_BirthdayCake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.0.text>生日庆祝造成时间影响\n\n对象：{PAWN_nameDef}\n\n摘要：\n在一次模拟的生日庆祝活动时，指示对象食用大蛋糕。结果其认知和测量的生理年龄发生了自发变化，导致其生日与当前日期一致。初步观察结果表明，蛋糕导致年龄变化的依据是对象与下一个或上一个生日的距离。这种异常现象揭示了操纵人员年龄的可能性。\n\n现象：\n实验人员指示受试者拿起盘子，像往常一样庆祝生日。需要注意的是，对象的出生日期与实验日期不同。\n与之前的实验一致，蛋糕表面的文字变为“生日快乐，{PAWN_nameDef}”。\n对象随后吹灭了出现的蜡烛，食用了整个蛋糕。\n食用后，{PAWN_nameDef}表示惊讶，明确表示当前的日期确实是他的生日，尽管与之前所登记的日期不同。\n\n结果：\n随后对对象生理年龄的分析表明，对象的生理年龄发生了明显的变化，其变化程度与当前的出生日期完全吻合。\n\n讨论：\n记录的信息相矛盾，但对象在实验后对自己生日的认知与所观察到的生理年龄变化直接相关。我们假设，在模拟的生日庆祝活动后，对象使用蛋糕导致其生理年龄发生变化，并使其生日变为当前日期。\n初步证据表明，如果对象更接近他的下一个生日，他的生理年龄就会相应增加。相反，如果对象更接近他的前一个生日，他的年龄就会下降。\n\n建议：\n应仔细检查生日庆祝流程，将大蛋糕作为在殖民地中准确地操纵年龄的一种潜在手段。</AE_BirthdayCake.comps.CompAEStudyUnlocks.studyNotesManualUnlockable.0.text>
-	
+    
     <!-- EN: decoy speedometer -->
     <AE_DecoySpeedometer.label>诱饵测速仪</AE_DecoySpeedometer.label>
     <!-- EN: A dark circular device infused with shard that imitates the speedometer's chrono-effect frequency. -->
-	<AE_DecoySpeedometer.description>这是一个深色的圆形装置，内含碎片，模仿了测速仪的时间频率。</AE_DecoySpeedometer.description>
-	
+    <AE_DecoySpeedometer.description>这是一个深色的圆形装置，内含碎片，模仿了测速仪的时间频率。</AE_DecoySpeedometer.description>
+    
 
     <!-- EN: clockwork parts -->
-	<AE_ClockworkParts.label>发条部件</AE_ClockworkParts.label>
+    <AE_ClockworkParts.label>发条部件</AE_ClockworkParts.label>
     <!-- EN: Fragments of a colossal mechanism that seem to pulse with a faint, rhythmic vibration. Despite being separated, these jagged shards exert a subtle pull toward one another, as if mourning the loss of their greater whole. -->
-	<AE_ClockworkParts.description>巨大装置的碎片似乎在微弱而有节奏地振动。尽管已经分离，但这些参差不齐的碎片仍在微妙地相互拉扯，仿佛在为更大整体的消逝而哀悼。</AE_ClockworkParts.description>
-	
+    <AE_ClockworkParts.description>巨大装置的碎片似乎在微弱而有节奏地振动。尽管已经分离，但这些参差不齐的碎片仍在微妙地相互拉扯，仿佛在为更大整体的消逝而哀悼。</AE_ClockworkParts.description>
+    
     <!-- EN: Will attempt to manipulate the parts to determine their function. -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateDescString>尝试操纵部件以确定其功能。</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateDescString>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateDescString>尝试操纵部件以确定其功能。</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateDescString>
     <!-- EN: Analyze parts -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateLabelString>分析部件</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateLabelString>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateLabelString>分析部件</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activateLabelString>
     <!-- EN: analyzing {0}: {1}s -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingString>正在分析{0}：{1}秒</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingString>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingString>正在分析{0}：{1}秒</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingString>
     <!-- EN: analyzing {0} -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingStringPending>分析{0}</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingStringPending>
-	<!-- EN: Choose who should analyze this. -->
-    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.guiLabelString>选择谁应该分析这个。</AE_ClockworkParts.comps.Comp_TransformAfterStudy.guiLabelString>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingStringPending>分析{0}</AE_ClockworkParts.comps.Comp_TransformAfterStudy.activatingStringPending>
+    <!-- EN: Choose who should analyze this. -->
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.guiLabelString>选择分析者</AE_ClockworkParts.comps.Comp_TransformAfterStudy.guiLabelString>
     <!-- EN: analyze parts -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.jobString>分析部件</AE_ClockworkParts.comps.Comp_TransformAfterStudy.jobString>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.jobString>分析部件</AE_ClockworkParts.comps.Comp_TransformAfterStudy.jobString>
     <!-- EN: - -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.messageCooldownEnded>-</AE_ClockworkParts.comps.Comp_TransformAfterStudy.messageCooldownEnded>
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.messageCooldownEnded>-</AE_ClockworkParts.comps.Comp_TransformAfterStudy.messageCooldownEnded>
     <!-- EN: - -->
-	<AE_ClockworkParts.comps.Comp_TransformAfterStudy.onCooldownString>-</AE_ClockworkParts.comps.Comp_TransformAfterStudy.onCooldownString>
-	
+    <AE_ClockworkParts.comps.Comp_TransformAfterStudy.onCooldownString>-</AE_ClockworkParts.comps.Comp_TransformAfterStudy.onCooldownString>
+    
     <!-- EN: #1/1 Clockwork parts study report -->
-	<AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/1 发条部件研究报告</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.label>
+    <AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.label>#1/1 发条部件研究报告</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.label>
     <!-- EN: Fragments of a colossal mechanism that seem to pulse with a faint, rhythmic vibration. Despite being separated, these jagged shards exert a subtle pull toward one another, as if mourning the loss of their greater whole.\n\nClassified as Class-0 (Safe) anomaly. -->
-	<AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>巨大装置的碎片似乎在微弱而有节奏地振动。尽管已经分离，但这些参差不齐的碎片仍在微妙地相互拉扯，仿佛在为更大整体的消逝而哀悼。\n\n分类为 0 级（安全）异常。</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
+    <AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>巨大装置的碎片似乎在微弱而有节奏地振动。尽管已经分离，但这些参差不齐的碎片仍在微妙地相互拉扯，仿佛在为更大整体的消逝而哀悼。\n\n分类为 0 级（安全）异常。</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyDesc>
     <!-- EN: clockwork parts -->
-	<AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>发条部件</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
-	<!--
+    <AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>发条部件</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.AnomalyLabel>
+    <!--
         EN: Clockwork Echoes\n\nSubject: {PAWN_nameDef}\n\nAbstract:\nThese anomalous fragment exhibit a passive, mutual attraction and resist physical separation. Despite their unknown origin, they evoke a distinct sense of familiarity. Currently classified as Safe, the parts are pending structural analysis and reassembly to determine their intended function.\n\nObservations:\nUpon initial examination, {PAWN_nameDef} attempted to physically separate the components.\nThese efforts proved futile, as the parts exhibited a persistent tendency to remain in close proximity.\n\nOutcome:\nClockwork parts did not exhibit any overt hostile behavior during the observation and manipulation process.\n\nDiscussion:\nWhile the origin of these fragments remains unknown, they evoke a distinct sense of familiarity. Parts appear to possess an intrinsic attraction to one another, resisting separation. This behavior suggests a high probability that the parts are intended to be integrated into a singular mechanism.\nGiven the current lack of active hostile behavior, clockwork parts has been classified as Class-0 (Safe) anomaly.\n\nRecommendations:\nA comprehensive analysis of the components should be conducted, followed by attempts to reposition and reassemble them into their original configuration.
     -->
     <AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.text>发条回响\n\n对象：{PAWN_nameDef}\n\n摘要：\n这些异常碎片表现出一种被动的、相互的吸引力，并抗拒物理分离。尽管它们来历不明，但却唤起了一种独特的熟悉感。目前，这些部件被分类为安全，正等待结构分析和重新组装，以确定其预期功能。\n\n现象：\n经初步检查，{PAWN_nameDef} 试图物理分离组件。\n上述实验最终宣告失败，因为这些部件始终表现出紧靠在一起的倾向。\n\n结果：\n在观察和操作过程中，发条部件没有表现出任何明显的敌对行为。\n\n讨论：\n虽然这些碎片的来源尚不清楚，但它们唤起了一种独特的熟悉感。部件之间似乎有一种内在的吸引力，抵制分离。这种行为表明，这些部件很有可能可以被整合到一个单一的装置中。\n考虑到部件展示出的被动性及未表现出敌对行为，发条部件已被分类为 0 级（安全）异常。\n\n建议：\n应对各部件进行全面分析，然后尝试将其重新定位和重新组装为原始装置。</AE_ClockworkParts.comps.CompAEStudyUnlocks.studyNotes.0.text>

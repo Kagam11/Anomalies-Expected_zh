@@ -58,9 +58,9 @@
     <AE_EntityCodexEntry_BirthdayCake.label>大蛋糕</AE_EntityCodexEntry_BirthdayCake.label>
 
     <!-- EN: clockwork obelisk -->
-	<AE_EntityCodexEntry_Obelisk_Clockwork.label>发条方尖碑</AE_EntityCodexEntry_Obelisk_Clockwork.label>
+    <AE_EntityCodexEntry_Obelisk_Clockwork.label>发条方尖碑</AE_EntityCodexEntry_Obelisk_Clockwork.label>
     <!-- EN: Clock runs empty -->
-	<AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>时间流空</AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>
+    <AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>时间流空</AE_EntityCodexEntry_Obelisk_Clockwork.modExtensions.0.groupName>
 
 
     <!--#endregion-->

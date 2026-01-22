@@ -34,7 +34,7 @@
     <AE_SnowMan.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>關於冰雪軍團的理論 1/5\n\n對象：\n雪人SA-01。\n\n起源假說：\n據推測，SA-01是“冰雪軍團”機械部隊的殘餘，可能是由一個已經滅絕的文明創造的。雖然認爲該種族已經滅絕，但他們的創造物（如SA-01）還在繼續運作。霜粒納米技術的先進性表明，他們對材料科學和能量操縱有着精深的理解，這進一步支持了所提出關於技術先進文明的假設。\n\n環境適應能力：\nSA-01依靠降溫技術，特別是使用霜粒來保持低溫，而且其成分中沒有金屬。這有力地表明，這些機器的創造者生活在嚴寒的氣候中，並且自然資源有限。這種稀缺性很可能促使他們在技術開發中最大限度地利用冰雪等常備材料。SA-01能夠在附近生成和操縱雪，這意味着他們對納米尺度的低溫動力學和材料轉化有着深刻的理解。無金屬部件的設計也是一種有意的選擇，目的是利用非金屬材料在寒冷環境中的獨特性能。\n\n生產與優勢：\nSA-01的設計似乎在節省資源方面進行了優化。由於所需的霜粒數量相對較少，以及該文明可隨意獲得的雪，因此可以經濟地生產SA-01的組件。這種模塊化和易於生產的特點很可能有助於冰雪軍團的快速部署和補充。SA-01的結構中沒有金屬部件，因此在對付EMP武器時具有潛在優勢。這類武器通常依靠電磁脈衝或能量衝擊進行攻擊，在對付非金屬目標時很可能因沒有導電通路供能量通過n或非金屬部件沒有短路問題而效果不佳。這一特性可能使SA-01成爲冰雪軍團的主力部隊，使它們有可能抵擋使傳統金屬機械體失效的攻擊。此外，SA-01的低溫攻擊在對付依賴熱能技術的對手時可能特別有效，因爲極度寒冷會破壞或癱瘓這類系統。</AE_SnowMan.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>
 
     <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-    <AE_SnowMan.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}生成。</AE_SnowMan.comps.CompInspectStringEmergence.inspectString>
+    <AE_SnowMan.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}突變而來。</AE_SnowMan.comps.CompInspectStringEmergence.inspectString>
     <!-- EN: head -->
     <AE_SnowMan.tools.head.label>頭</AE_SnowMan.tools.head.label>
     <!-- EN: left stick arm -->
@@ -82,7 +82,7 @@
     <AE_SnowGolem.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>關於冰雪軍團的理論 3/5\n\n對象：\n冰雪魔像SA-03“冰箱”。\n\n生產與優勢：\nSA-03的設計表明它是一種多用途作戰平臺，可在冰雪軍團中發揮火力支援、情報協調和攻城等作用。主要能力包括：\n- 高處戰場觀察：其相當大的體積提供了一個制高點，增強了對戰場形勢的感知能力。\n- 先進目標捕獲和分析：由五傳感器組成的光學陣列和複雜的算法超越了SA-02的目標評估能力。\n- 超強抗擊打：SA-03對敵人的攻擊具有很強的抵禦能力。\n- 低溫進攻：範圍液氮擴散可有效突破防線，支持正面攻擊。\n- 遠程轟炸：發射大型雪彈的能力可迫使敵人撤離作戰位置，使其更容易被擊潰。\n- 反入侵能力：滅火和控制溫度的能力提供了重要的反入侵能力。\n這些特點使SA-03在任何戰鬥中都作爲高優先級目標和寶貴資產。\n一小隊SA-03就可以通過操縱區域溫度和遠程攻擊電網等關鍵基礎設施，在對手毫無準備的情況下取得勝利。SA-03在戰場上的存在始終對敵對勢力構成重大威脅。\n\n可能的和平用途：\n據推測，SA-03的功能實際是在和平用途的基礎上進行改造以用於軍事用途的：\n- 建築：產生和操縱大雪塊的能力可用於快速建造結構，液氮可作爲粘合劑SA-03的尺寸和多肢體設計有助於在各種地形上高效、穩定地建造建築。\n- 地形改造：SA-03的區域溫度控制能力可能被用來將新的領土改造成寒冷的冰雪環境。這可能意味着創造SA-03的文明內部對寒冷氣候存在生理適應或文化偏好。\n\n備註：\n關於將SA-03標爲“冰箱”：絕對不行。在任何情況下都不能將食物放入壓縮機內冷卻。我們已經發生過兩起人員在試圖取回食物時，“冰箱”決定壓縮新的雪塊，導致人員出現手和胳膊受傷的事故。當我確定這個對象的負責人時，我們將進行非常嚴肅的討論。</AE_SnowGolem.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>
 
     <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-    <AE_SnowGolem.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}組成</AE_SnowGolem.comps.CompInspectStringEmergence.inspectString>
+    <AE_SnowGolem.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}突變而來。</AE_SnowGolem.comps.CompInspectStringEmergence.inspectString>
     <!-- EN: head -->
     <AE_SnowGolem.tools.head.label>頭</AE_SnowGolem.tools.head.label>
     <!-- EN: left front snow block arm -->
@@ -136,7 +136,7 @@
     <AE_SnowSpider.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>關於冰雪軍團的理論 2/5\n\n對象：\n冰雪蜘蛛SA-02。\n\n生產與優勢：\nSA-02的設計理念似乎是優先考慮大規模生產和蜂羣戰術，側重於人羣控制和干擾。其作用包括：\n- 破壞防禦工事：低溫爆炸引爆裝置可通過低溫粘合和EMP干擾有效破壞防禦結構。\n- 削弱前線士兵：液氮擴散將嚴重影響前線士兵的機動性和戰鬥力。\n- 小型蜂羣戰術：SA-02外形小巧，便於採用蜂羣戰術，通過數量優勢壓垮敵人的防禦。\n- 潛入破壞：SA-02具有潛入敵方重要建築並使其癱瘓的能力，因此在執行破壞任務時非常有效。\nSA-02的智能顯然沒有SA-01那麼複雜。然而，它的目標評估算法部分相比之下要複雜得多。這種先進的算法很可能是防止過早自毀的關鍵調整，確保SA-02的使用具有戰略意義，而不是浪費資源。如果沒有這種算法，SA-02會在第一個目標上自毀，即使目標幾乎沒有戰略價值。\n\n可能的和平用途：\n據推測，SA-02自毀裝置中使用的失穩冰晶可以作爲一種高密度的儲能裝置。這種能源有可能爲各種機械和基礎設施提供動力。\n在和平時期，SA-02可能作爲這種能源電池的運輸裝置。SA-02的堅固結構和內部存儲容量使其適合在其創造者的居住區或設施中分配能源。</AE_SnowSpider.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>
 
     <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-    <AE_SnowSpider.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}組成</AE_SnowSpider.comps.CompInspectStringEmergence.inspectString>
+    <AE_SnowSpider.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}突變而來。</AE_SnowSpider.comps.CompInspectStringEmergence.inspectString>
     <!-- EN: head -->
     <AE_SnowSpider.tools.head.label>頭</AE_SnowSpider.tools.head.label>
     <!-- EN: left front snow leg -->
@@ -184,7 +184,7 @@
     <AE_IceMantis.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>關於冰雪軍團的理論 4/5\n\n對象：\n冰刃螳螂SA-04。\n\n生產與優勢：\nSA-04的創造似乎沒有經過刻意設計，而是無意重新組合的結果。據推測，被摧毀的SA-05個體的碎片重新組合到一起，組成了一個功能正常的霜粒網絡。\n這一重組過程由至少一個碎片的存活冰核驅動。該冰核會引導收集附近的碎片（無論它們是否來自同一個SA-05個體）以試圖重建原始結構。\n雖然重新組裝後的SA-04缺乏中央智能控制，但霜粒網絡保留了其核心程序。如果有任務指令，SA-04會嘗試執行。在沒有特定任務的情況下，SA-04會表現出跟隨其他冰雪軍團友軍部隊的傾向。\n\n機械體聯繫：\n對霜粒網絡及其相關瞄準算法的深入分析表明，冰雪軍團與之前遇到的機械體派系之間存在相容的可能性。兩個組織的瞄準算法似乎都將對方排除在敵對目標之外。\n不過，冰雪軍團的首要任務仍然是消滅有機生命和相關技術基礎設施。因此，雖然可以避免與機械體直接衝突，但冰雪軍團仍然會積極清除任何領土上的生物體和相關機械。</AE_IceMantis.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>
 
     <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-    <AE_IceMantis.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}組成</AE_IceMantis.comps.CompInspectStringEmergence.inspectString>
+    <AE_IceMantis.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}突變而來。</AE_IceMantis.comps.CompInspectStringEmergence.inspectString>
     <!-- EN: left blade -->
     <AE_IceMantis.tools.left_blade.label>左刃</AE_IceMantis.tools.left_blade.label>
     <!-- EN: blade -->
@@ -232,7 +232,7 @@
     <AE_IceMan.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>關於冰雪軍團的理論 5/5\n\n對象：\n冰人SA-05。\n\n生產與優勢：\n據推測，SA-05的原型是植入了冰核的有機士兵。在戰鬥中，一旦受傷，植入體就會激活，引發霜粒引導的細胞冷凍和局部再生。這些霜粒還能生成冰層，破壞敵方的電子系統。雖然植入體設計上只用於輔助戰鬥，但觀察到的結果表明，其作用程度超出了最初的設計參數。\n一旦受到致命傷，霜粒就會啓動全面的保存程序，將宿主的身體包裹在厚厚的冰層中。宿主在這個過程中可能一直保持清醒。不過即使在失去知覺的情況下，霜粒也能與宿主的腦組織建立神經接口，使冰凍士兵繼續執行任務。任務完成後，出於生命保障，這些冰凍士兵將被送往醫療設施進行受控解凍和治療。然而，任務持續時間過長或缺乏適當的醫療設施都可能導致SA-05的形成。\nSA-05代表的對象是長期冷凍保存的士兵，他們甚至無法進行常規復活。霜粒表現出持久的保存動力，繼續維持宿主的身體並執行任務目標。\n\n戰術理論與情報：\nSA-05展示了一種戰術理論，其特點是遠程交戰並解除動力防禦系統和力場。這表明其情報框架能夠進行戰略規劃並適應戰場條件。SA-05似乎優先考慮使敵人的防禦技術失效，然後再進行直接戰鬥。</AE_IceMan.comps.CompAEStudyUnlocks.studyNotesPawnUnlockable.3.text>
 
     <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-    <AE_IceMan.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}組成</AE_IceMan.comps.CompInspectStringEmergence.inspectString>
+    <AE_IceMan.comps.CompInspectStringEmergence.inspectString>由{SOURCEPAWN_labelShort}突變而來。</AE_IceMan.comps.CompInspectStringEmergence.inspectString>
     <!-- EN: head -->
     <AE_IceMan.tools.head.label>頭</AE_IceMan.tools.head.label>
     <!-- EN: left ice shard arm -->

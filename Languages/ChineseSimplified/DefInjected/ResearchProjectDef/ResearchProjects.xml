@@ -206,7 +206,7 @@
     <!-- EN: analyze chrono-emissions -->
     <AEAnalyzeClockworkEmission.label>分析时间发送</AEAnalyzeClockworkEmission.label>
     <!-- EN: Examining clockwork obelisk's data to construct a decoy speedometer. -->
-	<AEAnalyzeClockworkEmission.description>检查发条方尖碑的数据，以构建一个诱饵测速仪。</AEAnalyzeClockworkEmission.description>
+    <AEAnalyzeClockworkEmission.description>检查发条方尖碑的数据，以构建一个诱饵测速仪。</AEAnalyzeClockworkEmission.description>
 
 
     <!--#endregion-->

@@ -91,9 +91,9 @@
     <AE_IncidentDef_CreepJoinerJoin_IceMan.label>霜傷陌客加入</AE_IncidentDef_CreepJoinerJoin_IceMan.label>
 
     <!-- EN: speedometer -->
-    <AE_IncidentDef_SpeedometerSpawn.label>速度計</AE_IncidentDef_SpeedometerSpawn.label>
+    <AE_IncidentDef_SpeedometerSpawn.label>測速儀</AE_IncidentDef_SpeedometerSpawn.label>
     <!-- EN: Found speedometer -->
-    <AE_IncidentDef_SpeedometerSpawn.letterLabel>發現速度計</AE_IncidentDef_SpeedometerSpawn.letterLabel>
+    <AE_IncidentDef_SpeedometerSpawn.letterLabel>發現測速儀</AE_IncidentDef_SpeedometerSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object falling from the sky nearby. At close inspection it seems like a dark circular gauge with faded numbers and a thin red needle. -->
     <AE_IncidentDef_SpeedometerSpawn.letterText>你的殖民者注意到附近有物體從天而降。仔細一看，這似乎是一個深色的圓形儀器，上面有褪色的數字和一根細紅色指針。</AE_IncidentDef_SpeedometerSpawn.letterText>
 
@@ -110,6 +110,13 @@
     <AE_IncidentDef_BirthdayCakeSpawn.letterLabel>發現大蛋糕</AE_IncidentDef_BirthdayCakeSpawn.letterLabel>
     <!-- EN: Your colonist noticed some object appeared nearby. At close inspection it seems like a round big cake on a red plate. It looks appetizing. -->
     <AE_IncidentDef_BirthdayCakeSpawn.letterText>你的殖民者發現附近出現了某個物體。仔細一看，這似乎是一個紅色盤子裏的圓形大蛋糕。看起來很好吃。</AE_IncidentDef_BirthdayCakeSpawn.letterText>
+    
+    <!-- EN: clockwork obelisk -->
+    <AE_IncidentDef_ObeliskClockworkSpawn.label>發條方尖碑</AE_IncidentDef_ObeliskClockworkSpawn.label>
+    <!-- EN: Clockwork obelisk -->
+    <AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>發條方尖碑</AE_IncidentDef_ObeliskClockworkSpawn.letterLabel>
+    <!-- EN: Your colonist with speedometer noticed some object appeared nearby. At close inspection it seems like an obelisk with clockwork mechanism. However it was always there, so you not sure why they so surprised seeing it. -->
+    <AE_IncidentDef_ObeliskClockworkSpawn.letterText>你帶着測速儀的殖民者注意到附近出現了某個物體。仔細一看，這似乎是一個帶有發條機制的方尖碑。然而它一直都在那裏，所以你不確定他們爲什麼看到它會如此驚訝。</AE_IncidentDef_ObeliskClockworkSpawn.letterText>
 
     <!--#endregion-->
 

@@ -12,14 +12,14 @@
     <!-- EN: grinder stomach -->
     <AEGrinderStomach.label>絞磨胃</AEGrinderStomach.label>
     <!-- EN: An installed anomalous artificial stomach, which replicate Meat Grinder structure. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-    <AEGrinderStomach.description>一個異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎，形成營養源。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderStomach.description>
+    <AEGrinderStomach.description>一個已安裝的異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎，形成營養源。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷。它在各方面的表現都優於生物原本的胃。</AEGrinderStomach.description>
     <!-- EN: a grinder stomach -->
     <AEGrinderStomach.labelNoun>一個絞磨胃</AEGrinderStomach.labelNoun>
 
     <!-- EN: grinder jaw -->
     <AEGrinderJaw.label>絞磨下頜</AEGrinderJaw.label>
     <!-- EN: An installed anomalous artificial jaw, which replicate Meat Grinder structure. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-    <AEGrinderJaw.description>一個異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，下顎還能增強使用者的聲音，使其更加舒緩。這種有機金屬具有自愈功能，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderJaw.description>
+    <AEGrinderJaw.description>一個已安裝的異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，下顎還能增強使用者的聲音，使其更加舒緩。這種有機金屬具有自愈功能，能自行修復損傷。它在各方面的表現都優於生物原本的下頜。</AEGrinderJaw.description>
     <!-- EN: a grinder jaw -->
     <AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>絞磨下頜</AEGrinderJaw.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>
     <!-- EN: a grinder jaw -->
@@ -28,7 +28,7 @@
     <!-- EN: [not found] -->
     <AEGrinderStomachHidden.label>絞磨胃</AEGrinderStomachHidden.label>
     <!-- EN: An installed anomalous artificial stomach. Internal blades grind up any foreign organic objects to create a nutrient source. A person with this has almost no chance of getting food poisoning, and is immune to some stomach diseases. To sustain itself, it will drain more nutrients from the host. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-    <AEGrinderStomachHidden.description>一個異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎，形成營養源。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderStomachHidden.description>
+    <AEGrinderStomachHidden.description>一個已安裝的異常人造胃，復刻了絞肉機的結構。內部的刀片能將任何外來有機物磨碎，形成營養源。擁有它的人幾乎不會食物中毒，對某些胃病也有免疫力。爲了維持自身的生存，它會從宿主身上吸取更多的營養。這種有機金屬具有自愈能力，能自行修復損傷。它在各方面的表現都優於生物原本的胃。</AEGrinderStomachHidden.description>
     <!-- EN: Found some sort of artificial implant that replacing subject stomach. -->
     <AEGrinderStomachHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>發現某種替代對象胃部的人工植入物。</AEGrinderStomachHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
     <AEGrinderStomachHidden.labelNoun>一個絞磨胃</AEGrinderStomachHidden.labelNoun>
@@ -36,7 +36,7 @@
     <!-- EN: [not found] -->
     <AEGrinderJawHidden.label>絞磨下頜</AEGrinderJawHidden.label>
     <!-- EN: An installed anomalous artificial jaw. Spinning razor-sharp blades within, pulverizing any food source into a digestible slurry, allowing for significantly faster consumption. Its immense power even enables it to bite off limbs of living opponents. The intense vibrations cause pain to the host. Paradoxically, the jaw also enhances the user's voice, making it more soothing. This organic metal possesses self-healing properties, repairing damage on its own. It drastically surpasses its biological counterpart in several aspects. -->
-    <AEGrinderJawHidden.description>一個異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，下顎還能增強使用者的聲音，使其更加舒緩。這種有機金屬具有自愈功能，能自行修復損傷。它在多個方面大大超越了生物體。</AEGrinderJawHidden.description>
+    <AEGrinderJawHidden.description>一個已安裝的異常人造下顎，復刻了絞肉機的結構。內部具有鋒利的旋轉刀片，可將任何食物粉碎成易消化的漿液，從而大大加快進食速度。它的巨大威力甚至能咬斷活人的四肢。強烈的震動會使宿主感到疼痛。矛盾的是，下顎還能增強使用者的聲音，使其更加舒緩。這種有機金屬具有自愈功能，能自行修復損傷。它在各方面的表現都優於生物原本的下頜。</AEGrinderJawHidden.description>
     <AEGrinderJawHidden.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>絞磨下頜</AEGrinderJawHidden.comps.HediffComp_VerbGiver.tools.grinder_jaw.label>
     <AEGrinderJawHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>發現某種替代對象下頜的人工植入物。</AEGrinderJawHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
     <AEGrinderJawHidden.labelNoun>一個絞磨下頜</AEGrinderJawHidden.labelNoun>
@@ -44,21 +44,21 @@
     <!-- EN: thermal-reflective skin gland -->
     <AEThermalReflectiveSkinImplant.label>熱反射皮腺</AEThermalReflectiveSkinImplant.label>
     <!-- EN: An installed anomalous thermal-reflective skin gland, which replicate the reflective surface structure of a Transmitter. The skin's cellular structure is altered to reflect both light and thermal radiation, offering exceptional protection against burns and heat-based attacks. The altered surface beautifully diffracts light, creating a captivating interplay of colors and a radiant glow that enhances the user's attractiveness in a unique and striking manner. However, this transformation also makes the skin more fragile and susceptible to physical damage. -->
-    <AEThermalReflectiveSkinImplant.description>一個異常熱反射皮膚腺體，模仿了發信器的表面反射結構。皮膚的細胞結構發生了改變，可以同時反射光和熱輻射，爲灼傷和熱能攻擊提供特殊保護。改變後的皮膚表面會產生美麗的光衍射，創造出迷人的色彩交織和光芒四射的效果，以獨特而引人注目的方式增強使用者的吸引力。然而，這種變化也使皮膚變得更加脆弱，容易受到物理損傷。</AEThermalReflectiveSkinImplant.description>
+    <AEThermalReflectiveSkinImplant.description>一個已安裝的異常熱反射皮膚腺體，模仿了發信器的表面反射結構。皮膚的細胞結構發生了改變，可以同時反射光和熱輻射，爲灼傷和熱能攻擊提供特殊保護。改變後的皮膚表面會產生美麗的光衍射，創造出迷人的色彩交織和光芒四射的效果，以獨特而引人注目的方式增強使用者的吸引力。然而，這種變化也使皮膚變得更加脆弱，容易受到物理損傷。</AEThermalReflectiveSkinImplant.description>
     <!-- EN: a thermal-reflective skin gland -->
     <AEThermalReflectiveSkinImplant.labelNoun>一個熱反射皮腺</AEThermalReflectiveSkinImplant.labelNoun>
 
     <!-- EN: snow core implant -->
     <AESnowCoreImplant.label>冰雪核心植入物</AESnowCoreImplant.label>
     <!-- EN: An installed anomalous implant, replicating the Snow Army's snow core, enabling the host to survive in lower temperatures. Nano-scale frostites induce cellular crystallization upon injury, accelerating regeneration in lower temperatures. However, this crystallization makes the cells vulnerable to high temperatures, destabilizing their structure. The host body also lowers the temperature of the surrounding air.\n\nRecieved damage x2, when on fire.\nMax effect at -100 degrees, including regeneration of missing parts. -->
-    <AESnowCoreImplant.description>一個異常植入物，複製了冰雪軍團的冰雪核心，使宿主能夠在較低溫度下生存。納米級的霜粒在受傷後會誘導細胞結晶，從而加速低溫下的再生。不過，這種結晶會使細胞在高溫下變得脆弱，破壞細胞結構的穩定性。宿主本身還會降低周圍空氣的溫度。\n\n着火時受到雙倍傷害。\n-100℃時達到最大效率，還能修復缺失的肢體。</AESnowCoreImplant.description>
+    <AESnowCoreImplant.description>一個已安裝的異常植入物，複製了冰雪軍團的冰雪核心，使宿主能夠在較低溫度下生存。納米級的霜粒在受傷後會誘導細胞結晶，從而加速低溫下的再生。不過，這種結晶會使細胞在高溫下變得脆弱，破壞細胞結構的穩定性。宿主本身還會降低周圍空氣的溫度。\n\n着火時受到雙倍傷害。\n-100℃時達到最大效率，還能修復缺失的肢體。</AESnowCoreImplant.description>
     <!-- EN: a snow core implant -->
     <AESnowCoreImplant.labelNoun>一個冰雪核心植入物</AESnowCoreImplant.labelNoun>
 
     <!-- EN: [not found] -->
     <AESnowCoreImplantHidden.label>冰雪核心植入物</AESnowCoreImplantHidden.label>
     <!-- EN: An installed frozen implant, enabling the host to survive in lower temperatures. Something induce cellular crystallization upon injury, accelerating regeneration in lower temperatures. However, this crystallization makes the cells vulnerable to high temperatures, destabilizing their structure. The host body also lowers the temperature of the surrounding air.\n\nRecieved damage x2, when on fire.\nMax effect at -100 degrees.\nStart regenerating missing parts after -50 degrees. -->
-    <AESnowCoreImplantHidden.description>一個異常植入物，複製了冰雪軍團的冰雪核心，使宿主能夠在較低溫度下生存。納米級的霜粒在受傷後會誘導細胞結晶，從而加速低溫下的再生。不過，這種結晶會使細胞在高溫下變得脆弱，破壞細胞結構的穩定性。宿主本身還會降低周圍空氣的溫度。\n\n着火時受到雙倍傷害。\n-100℃時達到最大效率，還能修復缺失的肢體。\n-50℃後開始修復缺失的肢體。</AESnowCoreImplantHidden.description>
+    <AESnowCoreImplantHidden.description>一個已安裝的異常植入物，複製了冰雪軍團的冰雪核心，使宿主能夠在較低溫度下生存。納米級的霜粒在受傷後會誘導細胞結晶，從而加速低溫下的再生。不過，這種結晶會使細胞在高溫下變得脆弱，破壞細胞結構的穩定性。宿主本身還會降低周圍空氣的溫度。\n\n着火時受到雙倍傷害。\n-100℃時達到最大效率，還能修復缺失的肢體。\n-50℃後開始修復缺失的肢體。</AESnowCoreImplantHidden.description>
     <AESnowCoreImplantHidden.labelNoun>一個冰雪核心植入物</AESnowCoreImplantHidden.labelNoun>
     <!-- EN: Found some sort of snow core implant within subject torso. -->
     <AESnowCoreImplantHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>在體內發現某種冰雪核心植入物。</AESnowCoreImplantHidden.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
